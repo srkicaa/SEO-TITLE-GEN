@@ -1,0 +1,65 @@
+# SEO Title Generator Configuration
+
+api_keys:
+  openai: ""  # Will be loaded from environment variable OPENAI_API_KEY
+  claude: ""  # Will be loaded from environment variable ANTHROPIC_API_KEY
+
+settings:
+  default_model: "gpt-5"
+  titles_per_request: 5
+  max_concurrent_requests: 3
+  cache_duration_hours: 24
+  
+generation:
+  target_title_length: 55
+  min_title_length: 30
+  max_title_length: 70
+  include_emotional_words: true
+  prioritize_early_keywords: true
+
+scraping:
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  timeout: 10
+  max_retries: 3
+  delay_between_requests: 1
+  respect_robots_txt: true
+
+database:
+  path: "database.db"
+  backup_interval_hours: 24
+  max_backup_files: 7
+
+ui:
+  theme: "light"
+  show_advanced_metrics: true
+  auto_save_progress: true
+  enable_tooltips: true
+
+export:
+  default_format: "csv"
+  include_metadata: true
+  timestamp_format: "%Y-%m-%d_%H-%M-%S"
+
+logging:
+  level: "INFO"
+  file: "seo_generator.log"
+  max_file_size_mb: 10
+  backup_count: 5
+
+performance:
+  enable_caching: true
+  cache_max_size: 1000
+  async_processing: true
+  batch_size: 10
+
+quality:
+  min_seo_score: 60
+  min_style_match: 70
+  require_keyword_presence: true
+  check_duplicate_titles: true
+
+learning:
+  auto_learn_from_feedback: true
+  pattern_confidence_threshold: 0.7
+  min_samples_for_learning: 5
+  weight_recent_data: true
