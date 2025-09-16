@@ -15,6 +15,7 @@ from database import DatabaseManager
 from scraper import WebsiteAnalyzer
 from ai_handler import AIHandler
 from patterns import PatternLearner
+from competitive_analyzer import CompetitiveAnalyzer
 from utils import validate_url, clean_domain, export_to_csv
 
 # Initialize session state
@@ -76,9 +77,10 @@ def main():
         st.session_state.config['settings']['titles_per_request'] = titles_count
     
     # Main tabs
-    tab1, tab2, tab3, tab4, tab5 = st.tabs([
+    tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
         "🎯 Single Generation", 
         "📊 Bulk Processing", 
+        "🔍 Competitive Analysis",
         "📈 Analytics & History", 
         "🧠 Learning Center",
         "⚙️ Advanced Settings"
@@ -91,12 +93,15 @@ def main():
         bulk_processing_tab(openai_key, claude_key)
     
     with tab3:
-        analytics_tab()
+        competitive_analysis_tab()
     
     with tab4:
+        analytics_tab()
+    
+    with tab5:
         learning_tab()
         
-    with tab5:
+    with tab6:
         settings_tab()
 
 def single_generation_tab(openai_key: str, claude_key: str):
@@ -269,6 +274,9 @@ def generate_single_titles(target_website: str, target_anchor: str, source_websi
                 )
                 
                 st.info("💾 Results saved to database for future learning")
+                
+                # Store generated titles in session state for competitive analysis
+                st.session_state.generated_titles = titles
             
             else:
                 st.error("Failed to generate titles. Please check your API keys and try again.")
@@ -437,6 +445,215 @@ def bulk_processing_tab(openai_key: str, claude_key: str):
         - **target_anchor**: Required - Main keyword/phrase  
         - **source_website**: Optional - Your website for context
         """)
+
+def competitive_analysis_tab():
+    st.header("🔍 Competitive Analysis")
+    st.markdown("*Analyze competitor titles and discover opportunities for better positioning*")
+    
+    col1, col2 = st.columns([2, 1])
+    
+    with col1:
+        # Input form for competitive analysis
+        with st.form("competitive_analysis_form"):
+            target_domain = st.text_input(
+                "Target Domain *", 
+                placeholder="example.com",
+                help="Domain where you want to place content (without https://)"
+            )
+            
+            keyword_phrase = st.text_input(
+                "Keyword/Phrase *", 
+                placeholder="your target keyword",
+                help="The keyword you want to analyze competition for"
+            )
+            
+            col_results, col_analysis = st.columns(2)
+            with col_results:
+                max_results = st.number_input("Max competitor titles", 5, 20, 10)
+            
+            with col_analysis:
+                include_generated = st.checkbox("Compare with generated titles", False)
+            
+            analyze_button = st.form_submit_button("🔍 Analyze Competition", type="primary")
+        
+        if analyze_button:
+            if not target_domain or not keyword_phrase:
+                st.error("Please fill in both target domain and keyword phrase")
+                return
+            
+            # Clean domain input
+            domain = target_domain.replace('https://', '').replace('http://', '').split('/')[0]
+            
+            with st.spinner("Analyzing competitor titles..."):
+                try:
+                    # Initialize competitive analyzer
+                    competitive_analyzer = CompetitiveAnalyzer()
+                    
+                    # Perform competitive analysis
+                    analysis = competitive_analyzer.analyze_competitors(
+                        domain, keyword_phrase, max_results
+                    )
+                    
+                    if analysis['competitor_count'] > 0:
+                        st.success(f"✅ Found {analysis['competitor_count']} competitor titles")
+                        
+                        # Display competitor titles
+                        st.subheader("📋 Competitor Titles")
+                        competitor_data = []
+                        for title in analysis['titles']:
+                            competitor_data.append({
+                                'Title': title.title,
+                                'Length': title.length,
+                                'Keyword Position': title.keyword_position,
+                                'Directness Score': f"{title.directness_score:.2f}",
+                                'Format': title.format_type,
+                                'Tone': title.emotional_tone
+                            })
+                        
+                        df_competitors = pd.DataFrame(competitor_data)
+                        st.dataframe(df_competitors, use_container_width=True)
+                        
+                        # Analysis sections
+                        col_patterns, col_directness = st.columns(2)
+                        
+                        with col_patterns:
+                            st.subheader("📊 Format Analysis")
+                            format_analysis = analysis.get('format_analysis', {})
+                            if format_analysis:
+                                format_dist = format_analysis.get('format_distribution', {})
+                                if format_dist:
+                                    fig_formats = px.bar(
+                                        x=list(format_dist.keys()),
+                                        y=list(format_dist.values()),
+                                        title="Title Format Distribution"
+                                    )
+                                    st.plotly_chart(fig_formats, use_container_width=True)
+                                
+                                st.metric("Most Common Format", 
+                                         format_analysis.get('most_common_format', 'N/A'))
+                                st.metric("Format Diversity", 
+                                         format_analysis.get('format_diversity', 0))
+                        
+                        with col_directness:
+                            st.subheader("🎯 Directness Analysis")
+                            directness_analysis = analysis.get('directness_analysis', {})
+                            if directness_analysis:
+                                st.metric("Average Directness", 
+                                         f"{directness_analysis.get('avg_directness', 0):.2f}")
+                                st.metric("Max Directness", 
+                                         f"{directness_analysis.get('max_directness', 0):.2f}")
+                                st.metric("Recommended Level", 
+                                         directness_analysis.get('recommended_directness', 'N/A'))
+                                
+                                # Directness distribution
+                                dist = directness_analysis.get('directness_distribution', {})
+                                if dist:
+                                    fig_directness = px.pie(
+                                        values=list(dist.values()),
+                                        names=list(dist.keys()),
+                                        title="Directness Distribution"
+                                    )
+                                    st.plotly_chart(fig_directness, use_container_width=True)
+                        
+                        # Length analysis
+                        st.subheader("📏 Length Analysis")
+                        length_analysis = analysis.get('length_analysis', {})
+                        if length_analysis:
+                            col_len1, col_len2, col_len3 = st.columns(3)
+                            with col_len1:
+                                st.metric("Average Length", 
+                                         f"{length_analysis.get('avg_length', 0):.0f} chars")
+                            with col_len2:
+                                st.metric("Min Length", 
+                                         f"{length_analysis.get('min_length', 0)} chars")
+                            with col_len3:
+                                st.metric("Max Length", 
+                                         f"{length_analysis.get('max_length', 0)} chars")
+                        
+                        # Recommendations
+                        st.subheader("💡 Recommendations")
+                        recommendations = analysis.get('recommendations', [])
+                        for i, rec in enumerate(recommendations):
+                            st.write(f"{i+1}. {rec}")
+                        
+                        # Store analysis in session state for potential comparison
+                        st.session_state.last_competitive_analysis = analysis
+                        
+                        # Compare with generated titles if requested
+                        if include_generated and 'generated_titles' in st.session_state:
+                            st.subheader("⚔️ Generated vs Competitors")
+                            comparison = competitive_analyzer.compare_with_generated(
+                                analysis, st.session_state.generated_titles
+                            )
+                            
+                            # Display comparison results
+                            if 'title_comparisons' in comparison:
+                                for comp in comparison['title_comparisons']:
+                                    with st.expander(f"Analysis: {comp['title'][:50]}..."):
+                                        analysis_data = comp['analysis']
+                                        
+                                        col_comp1, col_comp2 = st.columns(2)
+                                        with col_comp1:
+                                            st.metric("Directness vs Competitors", 
+                                                     analysis_data.get('directness_vs_competitors', 'N/A'))
+                                            st.metric("Length vs Competitors", 
+                                                     analysis_data.get('length_vs_competitors', 'N/A'))
+                                        
+                                        with col_comp2:
+                                            st.metric("Format Popularity", 
+                                                     analysis_data.get('format_popularity', 'N/A'))
+                                            st.metric("Emotional Tone", 
+                                                     analysis_data.get('emotional_tone', 'N/A'))
+                                        
+                                        advantages = analysis_data.get('competitive_advantage', [])
+                                        if advantages:
+                                            st.write("**Competitive Advantages:**")
+                                            for adv in advantages:
+                                                st.write(f"• {adv}")
+                            
+                            # Comparison recommendations
+                            comp_recommendations = comparison.get('recommendations', [])
+                            if comp_recommendations:
+                                st.subheader("🎯 Comparison Recommendations")
+                                for i, rec in enumerate(comp_recommendations):
+                                    st.write(f"{i+1}. {rec}")
+                    
+                    else:
+                        st.warning("No competitor titles found. Try a different domain or keyword.")
+                        
+                except Exception as e:
+                    st.error(f"Competitive analysis failed: {str(e)}")
+    
+    with col2:
+        st.info("""
+        **Competitive Analysis Features:**
+        
+        🔍 **Title Discovery**: Find existing titles on target sites
+        
+        📊 **Pattern Analysis**: Understand format preferences
+        
+        🎯 **Directness Assessment**: See how direct competitors are with keywords
+        
+        📏 **Length Optimization**: Discover optimal title lengths
+        
+        💡 **Strategic Insights**: Get actionable recommendations
+        
+        ⚔️ **Direct Comparison**: Compare your generated titles with competitors
+        
+        **Pro Tips:**
+        - Use exact domain (no www or https)
+        - Try broad keywords for more results
+        - Enable comparison after generating titles
+        - Look for format opportunities
+        """)
+        
+        # Quick stats if analysis exists
+        if hasattr(st.session_state, 'last_competitive_analysis'):
+            analysis = st.session_state.last_competitive_analysis
+            st.subheader("📈 Last Analysis")
+            st.metric("Competitor Count", analysis.get('competitor_count', 0))
+            st.metric("Analyzed Keyword", analysis.get('keyword', 'N/A'))
+            st.metric("Target Domain", analysis.get('target_domain', 'N/A'))
 
 def process_bulk_orders(df: pd.DataFrame, model: str, titles_count: int, 
                        concurrent_limit: int, openai_key: str, claude_key: str):
