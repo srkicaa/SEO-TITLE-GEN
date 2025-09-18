@@ -1,0 +1,61 @@
+# Environment variables
+.env
+.env.local
+
+# Database
+database.db
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Config with secrets
+config.yaml
+
+# Claude IDE files
+.claude/
+
+# Replit files (no longer needed)
+.replit
+replit.md
+pyproject.toml
+uv.lock
+
+# Test and backup files
+*_backup.py
+test_*.py
+
+# Documentation drafts (keep main README)
+*_LOG.md
+*_REPORT.md
+*_MESSAGE.md
+*_FIX.md
+*_WORKFLOW.md
+attached_assets/
+
+# Sample data (for security)
+sample_bulk_data.csv
+
+# Temporary files
+*.tmp
+*.temp
