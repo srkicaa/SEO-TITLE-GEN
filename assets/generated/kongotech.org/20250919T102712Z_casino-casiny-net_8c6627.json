@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-19T10:27:12Z",
+  "model": "gpt-5-mini",
+  "order": {
+    "domain": "kongotech.org",
+    "anchor_keyword": "casino-casiny.net",
+    "anchor_country": "Australia",
+    "target_url": "https://casino-casiny.net",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How Australian Players Are Shifting to Live Dealer and Social Casino Experiences",
+      "rationale": "Australia has seen growing demand for live-dealer and social gaming as mobile penetration and streaming habits rise. This piece can link to https://casino-casiny.net to illustrate current live-game lineups and streaming integrations for readers exploring these formats."
+    },
+    {
+      "title": "Navigating Responsible Play: What Australian Gamblers Should Know in 2025",
+      "rationale": "With increased regulator focus and new responsible-gambling measures in Australia, practical guidance is timely. Linking to https://casino-casiny.net can provide examples of account tools, deposit limits, and help resources that illustrate industry best practice."
+    },
+    {
+      "title": "The Mobile Shift: Top Game Types Australians Are Playing on Phones Right Now",
+      "rationale": "Mobile-first play continues to reshape game design and user experience in Australia. This article can reference https://casino-casiny.net to show current mobile game selections and UX approaches that resonate with Australian audiences."
+    },
+    {
+      "title": "Payments and Payouts Down Under: Faster Ways Australians Are Funding and Withdrawing",
+      "rationale": "Payment rails and payout expectations are evolving in Australia, with demand for faster, safer options. Linking to https://casino-casiny.net can demonstrate practical examples of payment methods, withdrawal speeds, and verification flows relevant to local readers."
+    },
+    {
+      "title": "Trends Shaping Online Casino Games in Australia: from Skill-Based Titles to Live Tournaments",
+      "rationale": "Developers are experimenting with skill-based mechanics, tournaments, and social features that appeal to Aussie players. The article can use https://casino-casiny.net as a case example of how tournament formats and game mixes are being presented to the Australian market."
+    }
+  ],
+  "titles_context": [
+    "Mancingduit Casino Review: Your Ultimate Guide To Big Wins",
+    "Tvtoto Casino Review: Your Ultimate Guide To Winning Big",
+    "Unlock Big Wins With Danatoto: Your Guide To Online Casino ...",
+    "Withdrawal At J88 Casino: Fast, Secure, And Hassle-Free ...",
+    "Togelup Casino: Your Gateway To Big Wins And Endless Fun",
+    "Pulitoto Casino Review: Everything You Need To Know ...",
+    "Top Online Bingo Sites: Where To Play And Earn Rewards",
+    "Yoktogel Casino Review: Everything You Need To Know ...",
+    "The Premier Destination For Online Togel And Casino Games",
+    "Wdbos Casino Review: Why It's Gaining Popularity Among ...",
+    "Fiatogel Review: The Ultimate Online Casino For Togel ...",
+    "Casino Tables At Viva88 Casino: A Premium Live Gaming Experience",
+    "Tvtoto Casino Vs Other Online Casinos: Which One Wins?",
+    "Angkatogel: The Future Of Online Casino Gaming - Kongo Tech",
+    "Top 7 Joker123 Slot Games You Must Try Today - Kongo Tech",
+    "How Online Casinos Are Becoming Social Spaces - Kongo Tech",
+    "Linetogel Casino Review: Why It's The Go-To Platform For ...",
+    "Jonitogel - The Ultimate Casino Betting Plateform - Kongo Tech",
+    "Fiatogel Casino Review: Why Players Are Flocking To This ...",
+    "Mancingduit Casino Review: Is This The Ultimate Platform For ...",
+    "Togelup Casino Review: Why Players Are Flocking To This ...",
+    "Tvtoto Casino Review: Why It's Gaining Massive Popularity In ...",
+    "SKY88 Casino Withdrawal: A Complete Guide To Fast And ...",
+    "Pulitoto Casino Review: Why This Platform Is Gaining Massive ...",
+    "The Best Megaways Gacor77 Games For Massive Winning ..."
+  ],
+  "prompt_text": "Craft 5 timely, on-brand article titles for kongotech.org.\nAnchor keyword (keep out of the headline itself): casino-casiny.net.\nOperating region or audience to acknowledge: Australia.\nTarget URL to justify via supporting copy: https://casino-casiny.net.\nSearch context keyword: casino.\nReference titles (tone guide):\n- Mancingduit Casino Review: Your Ultimate Guide To Big Wins\n- Tvtoto Casino Review: Your Ultimate Guide To Winning Big\n- Unlock Big Wins With Danatoto: Your Guide To Online Casino ...\n- Withdrawal At J88 Casino: Fast, Secure, And Hassle-Free ...\n- Togelup Casino: Your Gateway To Big Wins And Endless Fun\n- Pulitoto Casino Review: Everything You Need To Know ...\n- Top Online Bingo Sites: Where To Play And Earn Rewards\n- Yoktogel Casino Review: Everything You Need To Know ...\n- The Premier Destination For Online Togel And Casino Games\n- Wdbos Casino Review: Why It's Gaining Popularity Among ...\n- Fiatogel Review: The Ultimate Online Casino For Togel ...\n- Casino Tables At Viva88 Casino: A Premium Live Gaming Experience\n- Tvtoto Casino Vs Other Online Casinos: Which One Wins?\n- Angkatogel: The Future Of Online Casino Gaming - Kongo Tech\n- Top 7 Joker123 Slot Games You Must Try Today - Kongo Tech\n- How Online Casinos Are Becoming Social Spaces - Kongo Tech\n- Linetogel Casino Review: Why It's The Go-To Platform For ...\n- Jonitogel - The Ultimate Casino Betting Plateform - Kongo Tech\n- Fiatogel Casino Review: Why Players Are Flocking To This ...\n- Mancingduit Casino Review: Is This The Ultimate Platform For ...\n- Togelup Casino Review: Why Players Are Flocking To This ...\n- Tvtoto Casino Review: Why It's Gaining Massive Popularity In ...\n- SKY88 Casino Withdrawal: A Complete Guide To Fast And ...\n- Pulitoto Casino Review: Why This Platform Is Gaining Massive ...\n- The Best Megaways Gacor77 Games For Massive Winning ...\n\nGuidance:\n- If notable news, launches, regulatory moves, or data releases touch this niche, hook the headline to that development.\n- When there is no fresh headline, lean on enduring macro trends or forward-looking questions practitioners are asking.\n- Make the rationale cite the specific event, trend, or why it matters now\u2014especially for audiences in Australia.\n- Keep titles brand-free and avoid review/promo phrasing (no 'review', 'bonus', 'promo code').\n- Use  when provided, but never invent unsupported facts.\n\nReturn strictly {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items and no other keys.",
+  "usage": {
+    "prompt_tokens": 1026,
+    "completion_tokens": 612
+  },
+  "cost_usd": 0.02862
+}

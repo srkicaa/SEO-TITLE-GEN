@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-19T10:07:44Z",
+  "model": "gpt-5-mini",
+  "order": {
+    "domain": "smithfieldtimes.com",
+    "anchor_keyword": "Vegasstars casino",
+    "anchor_country": "Australia",
+    "target_url": "https://vega-stars.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How to Choose Online Gaming Sites That Meet Australian Safety and Licensing Standards",
+      "rationale": "Smithfield Times readers in Australia seek practical consumer guidance; this explainer can link to vega-stars.com as an example resource. The rationale copy can naturally reference Vegasstars casino when describing how commercial sites present licence and safety information, without making the title brand-focused."
+    },
+    {
+      "title": "Low-Stakes Games for Casual Players: Options That Won\u2019t Break the Household Budget",
+      "rationale": "A local lifestyle angle for Smithfield Times \u2014 budgeting-friendly entertainment for readers \u2014 makes a contextual link to vega-stars.com useful for examples of low-stakes game libraries. The body can mention Vegasstars casino as an example of sites that highlight micro-bet tables and penny-friendly slots."
+    },
+    {
+      "title": "What to Look for in Payout Rates and Game Fairness When Playing Online from Australia",
+      "rationale": "Consumer-protection style piece fits the publication\u2019s remit and allows an editorial link to vega-stars.com for explanations of RTP and auditing. In supporting copy, citing Vegasstars casino as one site that publishes payout and provider details helps readers compare transparency across platforms."
+    },
+    {
+      "title": "Emerging Trends in Live Dealer and Mobile Table Games for Aussie Players",
+      "rationale": "Technology-and-entertainment readers on Smithfield Times will appreciate a forward-looking trend story; vega-stars.com can be linked as a source summarising recent launches and mobile optimisation. The article body can reference Vegasstars casino when noting examples of live-dealer offerings and app-friendly interfaces relevant to local players."
+    },
+    {
+      "title": "Practical Tips to Protect Your Privacy and Finances When Using Online Gaming Platforms in Australia",
+      "rationale": "A consumer-safety guide aligns with local readership concerns and permits a helpful link to vega-stars.com for step-by-step advice on account security and deposit controls. The supporting text can mention Vegasstars casino as an example of site features that support safer play (e.g., verification practices, self-exclusion options)."
+    }
+  ],
+  "titles_context": [
+    "Best Online Blackjack Sites (2025's Top List for Real ...",
+    "How to Select an Online Casino Based on Game Variety ...",
+    "6 Online Casino Games You Can Play With Just $1 (And ...",
+    "The House Always Wins or How Casino Payout Rates ...",
+    "What's Working for Online Casinos? The Trends Powering ...",
+    "High-Stakes Playbook to Maximize Your Winnings with ...",
+    "CasinoRIX Compare Online Casino Software Providers",
+    "Top 3 Most Original Live Casino Roulette",
+    "The Expert Source for the Best Online Casinos Real Money ...",
+    "New Free Slots Casino Games: Latest Additions and ...",
+    "Cricket Powerplays Based on Casino Bet Guides",
+    "What to pay attention to when choosing an online casino?",
+    "Boyd Gaming and Pamunkey Tribe Launch Temporary ...",
+    "Beyond the Mainstream: Niche Casino Games",
+    "The Top 7 Online Casino Games with the Highest RTP",
+    "Why Seven Casino Is One of the Best Choices for UK ...",
+    "The Art of Picking the Perfect Online Casino Game",
+    "Benefits of Playing Ricky Casino",
+    "6 Common Casino Scams to Avoid Online",
+    "Top Casino Games for Low-Rollers: How to Play Smart ...",
+    "How To Get A VIP Status In An Online Casino?",
+    "What Makes Czech Online Casinos Without Identity ...",
+    "Where to Play Baccarat in the USA",
+    "4 non-obvious criteria when choosing a reliable casino",
+    "How to Keep Your Online Gambling Activity Private"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://vega-stars.com/ that feel at home on smithfieldtimes.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Vegasstars casino\n\nAnchor operates in: Australia\n\nReference titles:\n- Best Online Blackjack Sites (2025's Top List for Real ...\n- How to Select an Online Casino Based on Game Variety ...\n- 6 Online Casino Games You Can Play With Just $1 (And ...\n- The House Always Wins or How Casino Payout Rates ...\n- What's Working for Online Casinos? The Trends Powering ...\n- High-Stakes Playbook to Maximize Your Winnings with ...\n- CasinoRIX Compare Online Casino Software Providers\n- Top 3 Most Original Live Casino Roulette\n- The Expert Source for the Best Online Casinos Real Money ...\n- New Free Slots Casino Games: Latest Additions and ...\n- Cricket Powerplays Based on Casino Bet Guides\n- What to pay attention to when choosing an online casino?\n- Boyd Gaming and Pamunkey Tribe Launch Temporary ...\n- Beyond the Mainstream: Niche Casino Games\n- The Top 7 Online Casino Games with the Highest RTP\n- Why Seven Casino Is One of the Best Choices for UK ...\n- The Art of Picking the Perfect Online Casino Game\n- Benefits of Playing Ricky Casino\n- 6 Common Casino Scams to Avoid Online\n- Top Casino Games for Low-Rollers: How to Play Smart ...\n- How To Get A VIP Status In An Online Casino?\n- What Makes Czech Online Casinos Without Identity ...\n- Where to Play Baccarat in the USA\n- 4 non-obvious criteria when choosing a reliable casino\n- How to Keep Your Online Gambling Activity Private\n\nGuidance:\n1. Combine your own knowledge of smithfieldtimes.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to smithfieldtimes.com while naturally justifying a link to https://vega-stars.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Vegasstars casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Australia where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 975,
+    "completion_tokens": 599
+  },
+  "cost_usd": 0.02772
+}

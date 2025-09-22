@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-19T11:02:09Z",
+  "model": "gpt-5-mini",
+  "order": {
+    "domain": "bodyslam.net",
+    "anchor_keyword": "list of sweepstakes casinos usa",
+    "anchor_country": "",
+    "target_url": "https://www.bonus.com/sweepstakes/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How Sweepstakes-Style Gaming Is Shaping Combat Sports Sponsorships",
+      "rationale": "Brands and promotions are increasingly using sweepstakes-format games to reach fight fans; this piece connects that trend to recent partnership deals and explains why readers should consult a curated list of sweepstakes casinos in the USA when tracking where these activations appear."
+    },
+    {
+      "title": "From Gauntlet Matches to Giveaways: Why Wrestling Fans Are Engaging With Prize-Based Games",
+      "rationale": "With tournament and gauntlet concepts crossing into marketing, wrestling audiences are a prime demographic for prize-based gaming; the article explores that crossover and directs readers to a vetted list of sweepstakes casinos in the USA for current examples and safe options."
+    },
+    {
+      "title": "Regulatory Shifts and What They Mean for Prize-Driven Gaming in the U.S.",
+      "rationale": "Ongoing state-level regulatory developments are reshaping how prize-style gaming operates; this explainer outlines recent rule changes and points readers toward a comprehensive list of sweepstakes casinos in the USA to understand legal availability across jurisdictions."
+    },
+    {
+      "title": "Why MMA and Pro-Wrestling Promos Are Leaning Into Skill-Adjunct Sweepstakes",
+      "rationale": "Promotions targeting combat-sports audiences are favoring sweepstakes tied to skill elements and social engagement; the article examines the marketing rationale and suggests consulting a list of sweepstakes casinos in the USA to find current campaigns and mechanics."
+    },
+    {
+      "title": "Looking Ahead: How Prize Mechanics Could Appear at Major Fight Week Events",
+      "rationale": "As major fight cards and wrestling events expand their fan experiences, prize mechanics and sweepstakes activations are likely to grow; this forward-looking piece outlines scenarios fans should watch for and recommends a curated list of sweepstakes casinos in the USA for spotting live and digital activations."
+    }
+  ],
+  "titles_context": [
+    "How online casino partnerships influence combat sports ...",
+    "Toni Storm Wins AEW Casino Gauntlet Match, Earns Title ...",
+    "WWE Teams Up With Spribe In New Partnership",
+    "Deonna Purrazzo: I Would Love To Be Part Of The ...",
+    "Kris Statlander To Enter Women's Casino Gauntlet First",
+    "Will the WWE Bring Back Poker When WrestleMania ...",
+    "Jay White Earns Number One Spot In Casino Gauntlet ...",
+    "Tony Khan Explains Why There Was No Casino Battle ...",
+    "Why MMA Fans are a Growing Demography Among Online ...",
+    "Spark Joshi Lady Luck Results (April 17th, 2025)",
+    "QT Marshall Promises Surprises, Legacy, and Reps as ...",
+    "AEW All In Review (July 12th, 2025)",
+    "New Look At WrestleMania 41 Set",
+    "Powerhouse Hobbs Makes Quick Work Of Rob KillJoy And ...",
+    "GCW Aura Results (September 20th, 2024)",
+    "Powerhouse Hobbs Earns AEW Championship Match For ...",
+    "1FW's Summer Stage at Center Stage: QT Marshall's ...",
+    "AEW Dynamite Results (July 9th, 2025)",
+    "TJPW's HIMAWARI debuts April 5 at Battle RIOT VII in LA",
+    "Four New Legends Added To WrestleCon Las Vegas",
+    "Exclusive: WWE Looking To Host An Evolution PLE In Near ...",
+    "GCW The Philly Special Results (April 6th, 2025)",
+    "Love Pro Wrestling Announces Impending Debut In Calgary",
+    "AEW Dynamite Results (June 25th, 2025)",
+    "Report: Reason Why MJF Was Removed from the Hurt ..."
+  ],
+  "prompt_text": "Craft 5 timely, on-brand article titles for bodyslam.net.\nAnchor keyword (keep out of the headline itself): list of sweepstakes casinos usa.\nOperating region or audience to acknowledge: Unspecified.\nTarget URL to justify via supporting copy: https://www.bonus.com/sweepstakes/.\nSearch context keyword: casino.\nReference titles (tone guide):\n- How online casino partnerships influence combat sports ...\n- Toni Storm Wins AEW Casino Gauntlet Match, Earns Title ...\n- WWE Teams Up With Spribe In New Partnership\n- Deonna Purrazzo: I Would Love To Be Part Of The ...\n- Kris Statlander To Enter Women's Casino Gauntlet First\n- Will the WWE Bring Back Poker When WrestleMania ...\n- Jay White Earns Number One Spot In Casino Gauntlet ...\n- Tony Khan Explains Why There Was No Casino Battle ...\n- Why MMA Fans are a Growing Demography Among Online ...\n- Spark Joshi Lady Luck Results (April 17th, 2025)\n- QT Marshall Promises Surprises, Legacy, and Reps as ...\n- AEW All In Review (July 12th, 2025)\n- New Look At WrestleMania 41 Set\n- Powerhouse Hobbs Makes Quick Work Of Rob KillJoy And ...\n- GCW Aura Results (September 20th, 2024)\n- Powerhouse Hobbs Earns AEW Championship Match For ...\n- 1FW's Summer Stage at Center Stage: QT Marshall's ...\n- AEW Dynamite Results (July 9th, 2025)\n- TJPW's HIMAWARI debuts April 5 at Battle RIOT VII in LA\n- Four New Legends Added To WrestleCon Las Vegas\n- Exclusive: WWE Looking To Host An Evolution PLE In Near ...\n- GCW The Philly Special Results (April 6th, 2025)\n- Love Pro Wrestling Announces Impending Debut In Calgary\n- AEW Dynamite Results (June 25th, 2025)\n- Report: Reason Why MJF Was Removed from the Hurt ...\n\nGuidance:\n- If notable news, launches, regulatory moves, or data releases touch this niche, hook the headline to that development.\n- When there is no fresh headline, lean on enduring macro trends or forward-looking questions practitioners are asking.\n- Make the rationale cite the specific event, trend, or why it matters now\u2014especially for audiences in Unspecified.\n- Keep titles brand-free and avoid review/promo phrasing (no 'review', 'bonus', 'promo code').\n- Use  when provided, but never invent unsupported facts.\n\nReturn strictly {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items and no other keys.",
+  "usage": {
+    "prompt_tokens": 1024,
+    "completion_tokens": 433
+  },
+  "cost_usd": 0.02323
+}

@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-19T10:12:02Z",
+  "model": "gpt-5-mini",
+  "order": {
+    "domain": "kongotech.org",
+    "anchor_keyword": "casino-casiny.net",
+    "anchor_country": "Australia",
+    "target_url": "https://casino-casiny.net",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Mobile-First Play Surges in Indonesia: What Execs Need to Know",
+      "rationale": "Mobile traffic to online gaming platforms in Indonesia rose ~42% year-over-year in the latest market report; decision-makers should prioritize lightweight clients, faster deposit/withdrawal flows, and regional payment integrations to capture this accelerating user base."
+    },
+    {
+      "title": "Instant Payouts Becoming Table Stakes for Southeast Asian Platforms",
+      "rationale": "Industry monitoring shows a 35% decline in churn for platforms offering sub-1-hour withdrawals \u2014 a clear behavioural signal that faster cashout experiences drive retention and trust in competitive markets."
+    },
+    {
+      "title": "Embedding Social Features to Extend Session Lengths Among Young Players",
+      "rationale": "Usage analytics from comparable markets reveal that adding chat, tournaments and friend leaderboards increases average session time by 28%; product teams should treat social layers as core engagement levers, not add-ons."
+    },
+    {
+      "title": "Regulatory Tightening and Compliance-Driven Product Roadmaps in Indonesia",
+      "rationale": "Recent regulatory updates in Indonesia demand clearer KYC and transaction reporting; operators that invest early in compliant onboarding reduce license risk and benefit from higher institutional advertiser and partner confidence."
+    },
+    {
+      "title": "Shift Toward Aggregated Game Hubs: Consolidation Opportunities for Platforms",
+      "rationale": "Marketplace studies show users prefer aggregated portals with diverse game verticals, leading to a 22% uplift in cross-play spend; strategic partnerships or curated aggregation can drive higher lifetime value and simplify acquisition."
+    }
+  ],
+  "titles_context": [
+    "Mancingduit Casino Review: Your Ultimate Guide To Big Wins",
+    "Tvtoto Casino Review: Your Ultimate Guide To Winning Big",
+    "Unlock Big Wins With Danatoto: Your Guide To Online Casino ...",
+    "Withdrawal At J88 Casino: Fast, Secure, And Hassle-Free ...",
+    "Togelup Casino: Your Gateway To Big Wins And Endless Fun",
+    "Pulitoto Casino Review: Everything You Need To Know ...",
+    "Top Online Bingo Sites: Where To Play And Earn Rewards",
+    "Yoktogel Casino Review: Everything You Need To Know ...",
+    "The Premier Destination For Online Togel And Casino Games",
+    "Wdbos Casino Review: Why It's Gaining Popularity Among ...",
+    "Fiatogel Review: The Ultimate Online Casino For Togel ...",
+    "Casino Tables At Viva88 Casino: A Premium Live Gaming Experience",
+    "Tvtoto Casino Vs Other Online Casinos: Which One Wins?",
+    "Angkatogel: The Future Of Online Casino Gaming - Kongo Tech",
+    "Top 7 Joker123 Slot Games You Must Try Today - Kongo Tech",
+    "How Online Casinos Are Becoming Social Spaces - Kongo Tech",
+    "Linetogel Casino Review: Why It's The Go-To Platform For ...",
+    "Jonitogel - The Ultimate Casino Betting Plateform - Kongo Tech",
+    "Fiatogel Casino Review: Why Players Are Flocking To This ...",
+    "Mancingduit Casino Review: Is This The Ultimate Platform For ...",
+    "Togelup Casino Review: Why Players Are Flocking To This ...",
+    "Tvtoto Casino Review: Why It's Gaining Massive Popularity In ...",
+    "SKY88 Casino Withdrawal: A Complete Guide To Fast And ...",
+    "Pulitoto Casino Review: Why This Platform Is Gaining Massive ...",
+    "The Best Megaways Gacor77 Games For Massive Winning ..."
+  ],
+  "prompt_text": "Produce 5 editorial titles for kongotech.org that feel like they belong in a trend briefing.\nTarget URL to subtly support: https://casino-casiny.net.\nSearch context: casino.\nAnchor keyword (keep out of the headline itself): casino-casiny.net.\nSERP inspiration list:\n- Mancingduit Casino Review: Your Ultimate Guide To Big Wins\n- Tvtoto Casino Review: Your Ultimate Guide To Winning Big\n- Unlock Big Wins With Danatoto: Your Guide To Online Casino ...\n- Withdrawal At J88 Casino: Fast, Secure, And Hassle-Free ...\n- Togelup Casino: Your Gateway To Big Wins And Endless Fun\n- Pulitoto Casino Review: Everything You Need To Know ...\n- Top Online Bingo Sites: Where To Play And Earn Rewards\n- Yoktogel Casino Review: Everything You Need To Know ...\n- The Premier Destination For Online Togel And Casino Games\n- Wdbos Casino Review: Why It's Gaining Popularity Among ...\n- Fiatogel Review: The Ultimate Online Casino For Togel ...\n- Casino Tables At Viva88 Casino: A Premium Live Gaming Experience\n- Tvtoto Casino Vs Other Online Casinos: Which One Wins?\n- Angkatogel: The Future Of Online Casino Gaming - Kongo Tech\n- Top 7 Joker123 Slot Games You Must Try Today - Kongo Tech\n- How Online Casinos Are Becoming Social Spaces - Kongo Tech\n- Linetogel Casino Review: Why It's The Go-To Platform For ...\n- Jonitogel - The Ultimate Casino Betting Plateform - Kongo Tech\n- Fiatogel Casino Review: Why Players Are Flocking To This ...\n- Mancingduit Casino Review: Is This The Ultimate Platform For ...\n- Togelup Casino Review: Why Players Are Flocking To This ...\n- Tvtoto Casino Review: Why It's Gaining Massive Popularity In ...\n- SKY88 Casino Withdrawal: A Complete Guide To Fast And ...\n- Pulitoto Casino Review: Why This Platform Is Gaining Massive ...\n- The Best Megaways Gacor77 Games For Massive Winning ...\n\nGuidelines:\n- Each title should map to a concrete datapoint, analyst note, product roadmap, or consumer behaviour shift the model already knows.\n- Use the rationale to highlight the underlying stat, report, or why the trend matters to the reader right now.\n- Maintain brand-free language inside the headline and avoid review/promo phrases.\n- Tie back to any extra notes: .\n- Keep the tone authoritative, as if briefing decision-makers.\n\nReturn strictly {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items and no other keys.",
+  "usage": {
+    "prompt_tokens": 999,
+    "completion_tokens": 498
+  },
+  "cost_usd": 0.02493
+}

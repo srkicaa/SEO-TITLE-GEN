@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-19T11:01:44Z",
+  "model": "gpt-5-mini",
+  "order": {
+    "domain": "salonprivemag.com",
+    "anchor_keyword": "bonus.com",
+    "anchor_country": "",
+    "target_url": "https://www.bonus.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How Live Dealer Streams Are Shaping the Next Era of Online Play",
+      "rationale": "Live dealer games continue to be a major growth area as operators invest in high-production streams and real-time interaction; this matters for readers tracking immersive trends. Link to https://www.bonus.com/ (anchor: bonus.com) to point readers toward a centralized resource that aggregates live-game offerings and technical comparisons."
+    },
+    {
+      "title": "The Tech Behind Modern Slots: from Rngs to AR Enhancements",
+      "rationale": "Advances in RNG certification, graphics engines and experimental AR features are redefining slot design and player expectations. This evergreen technology angle is timely for a style-savvy audience curious about gaming innovation; use https://www.bonus.com/ (anchor: bonus.com) as a practical reference for current platform capabilities and game listings."
+    },
+    {
+      "title": "Responsible Play and Compliance: What New Regulations Mean for Players",
+      "rationale": "Regulatory shifts in multiple jurisdictions and increased emphasis on player protection make responsible-play coverage essential. Linking to https://www.bonus.com/ (anchor: bonus.com) helps readers find updated compliance summaries and safer-play tools aggregated across markets."
+    },
+    {
+      "title": "Casino Culture Meets Luxury: How Upscale Design Is Influencing Online Interfaces",
+      "rationale": "As luxury hospitality aesthetics cross over into digital gaming, UI/UX and premium content strategies are becoming important editorial beats. Directing readers to https://www.bonus.com/ (anchor: bonus.com) provides examples of platforms experimenting with premium layouts and curated game lobbies."
+    },
+    {
+      "title": "Mobile-First Gaming: Trends Driving the Shift from Desktop to Phones",
+      "rationale": "The continued migration to mobile, app innovations and microtransaction models remain central to how people engage with casino content. Linking to https://www.bonus.com/ (anchor: bonus.com) offers readers a way to compare mobile offerings, app availability and platform-specific features."
+    }
+  ],
+  "titles_context": [
+    "Playing For Luck or Strategies: What To Choose for Stable ...",
+    "2025 Casino Sites for Aussie Players",
+    "How Online Casino Websites Recreate Live Casino Games",
+    "Luxury Casinos Around the World",
+    "Explained: Slots, Roulette, Blackjack And More",
+    "The Evolution of Casino Games",
+    "How to Choose the Best Casino Without Licence?",
+    "How Has Technology Changed The Way We Play Casino ...",
+    "The Safety of Legal US Casino Apps: How They Track ...",
+    "The 15 Best Casinos In Florida",
+    "How Are Live Dealer Games Different from 'Regular' ...",
+    "The Technology Improving the Slot Gaming Experience",
+    "What To Expect From a Croupier During Live Casino Games",
+    "Web Casinos in 2023: The Main Pros",
+    "8 Things To Consider When Choosing An Online Casino",
+    "How To Organise A Casino-Themed Night",
+    "Best-Paying Online Casinos in USA",
+    "Which Are the Most Stylish Casino Games?",
+    "Casino Etiquette Reimagined - Playing Gracefully Online ...",
+    "Luck Isn't Enough! Master the Art of Preparation for Online ...",
+    "Top 10 Casinos With The Smallest Minimum Deposit",
+    "How Online Casinos Replicate the Live Experience",
+    "Gambling Goes Mobile: The Rise of Casino Apps and ...",
+    "From Canvas to Casino: Exploring the Artistic ...",
+    "Online Gambling In Canada vs. The US: How Does It ..."
+  ],
+  "prompt_text": "Craft 5 timely, on-brand article titles for salonprivemag.com.\nAnchor keyword (keep out of the headline itself): bonus.com.\nOperating region or audience to acknowledge: Unspecified.\nTarget URL to justify via supporting copy: https://www.bonus.com/.\nSearch context keyword: casino.\nReference titles (tone guide):\n- Playing For Luck or Strategies: What To Choose for Stable ...\n- 2025 Casino Sites for Aussie Players\n- How Online Casino Websites Recreate Live Casino Games\n- Luxury Casinos Around the World\n- Explained: Slots, Roulette, Blackjack And More\n- The Evolution of Casino Games\n- How to Choose the Best Casino Without Licence?\n- How Has Technology Changed The Way We Play Casino ...\n- The Safety of Legal US Casino Apps: How They Track ...\n- The 15 Best Casinos In Florida\n- How Are Live Dealer Games Different from 'Regular' ...\n- The Technology Improving the Slot Gaming Experience\n- What To Expect From a Croupier During Live Casino Games\n- Web Casinos in 2023: The Main Pros\n- 8 Things To Consider When Choosing An Online Casino\n- How To Organise A Casino-Themed Night\n- Best-Paying Online Casinos in USA\n- Which Are the Most Stylish Casino Games?\n- Casino Etiquette Reimagined - Playing Gracefully Online ...\n- Luck Isn't Enough! Master the Art of Preparation for Online ...\n- Top 10 Casinos With The Smallest Minimum Deposit\n- How Online Casinos Replicate the Live Experience\n- Gambling Goes Mobile: The Rise of Casino Apps and ...\n- From Canvas to Casino: Exploring the Artistic ...\n- Online Gambling In Canada vs. The US: How Does It ...\n\nGuidance:\n- If notable news, launches, regulatory moves, or data releases touch this niche, hook the headline to that development.\n- When there is no fresh headline, lean on enduring macro trends or forward-looking questions practitioners are asking.\n- Make the rationale cite the specific event, trend, or why it matters now\u2014especially for audiences in Unspecified.\n- Keep titles brand-free and avoid review/promo phrasing (no 'review', 'bonus', 'promo code').\n- Use  when provided, but never invent unsupported facts.\n\nReturn strictly {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items and no other keys.",
+  "usage": {
+    "prompt_tokens": 858,
+    "completion_tokens": 649
+  },
+  "cost_usd": 0.02805
+}

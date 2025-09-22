@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-19T10:08:15Z",
+  "model": "gpt-5-mini",
+  "order": {
+    "domain": "roger.com",
+    "anchor_keyword": "Casiny casino",
+    "anchor_country": "Australia",
+    "target_url": "https://casinycasino.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How Live Dealer Games Are Changing the Online Casino Experience in Australia",
+      "rationale": "This piece would naturally link to Casiny casino as an example platform offering a broad live dealer lobby relevant to Australian players, supporting Roger.com's coverage of live dealer trends and player-facing features."
+    },
+    {
+      "title": "Bankroll-Smart Game Choices for Casual Aussie Players",
+      "rationale": "Roger.com readers looking for practical play strategies could be shown game examples and RTP breakdowns hosted on Casiny casino, making the link a useful resource for trying suggested low-variance options."
+    },
+    {
+      "title": "Payment and Withdrawal Options Australians Should Expect from Modern Casino Sites",
+      "rationale": "An article comparing local-friendly banking methods can cite Casiny casino when illustrating fast AUD deposits and accepted payment types, helping readers find sites with suitable transaction flows."
+    },
+    {
+      "title": "Which Table Games Give the Best Long-Term Edge for New Players",
+      "rationale": "This tactical guide can link to live play lobbies and practice modes on Casiny casino as places where readers can try the recommended table variants and practise strategies mentioned in the piece."
+    },
+    {
+      "title": "What Regulators and Licence Types Mean for Australian Online Players",
+      "rationale": "A regulatory explainer for Roger.com can point to Casiny casino to demonstrate how operator compliance and licence disclosures appear on a typical site, helping readers verify legitimacy and consumer protections."
+    }
+  ],
+  "titles_context": [
+    "Roger.com: Claim Big Bonuses For Casino, Slots, Live ...",
+    "MostBet USA: Top Casino Games And Sports Betting Options",
+    "Live Dealer Casino Games & Game Shows In 2025",
+    "Luna Casino Review: Redeem 100% + 50 Free Spins Now",
+    "Bally Bet Sports & Casino: 30 Free No Wagering Spins In ...",
+    "Casino Blog Articles: All About Casino And Online Casinos",
+    "Full Guide To Casino Sign-Up Bonuses & How To Use Them",
+    "Crash Course On The Best Casino Games",
+    "What To Look For From A Sweepstake Casino",
+    "The Best Casino Games You've Probably Never Played",
+    "Play Golden Pig Slot Online | Bonuses For New Players At ...",
+    "Why Do Casinos Use Chips Instead of Cash? - Roger.com",
+    "Kassu Casino",
+    "How State Casino Laws Affect Gambling Tourism In The USA",
+    "How To Choose The Best Casino Software Providers In 2024",
+    "Dream Vegas Casino Guide 2025 + Promos And Bonuses",
+    "The Online Casino: Get A Huge 200% Deposit Match + 20 ...",
+    "Top Tips for Anyone Interested in Playing at the Casino",
+    "Play 1000x Busta Casino Game Online",
+    "Ace Of Spades Slot: Play The Play'n Go 3 Reel Slot Online",
+    "7slots Online Casino: High Return To Player And Good Odds",
+    "Online Casinos in Europe: Future Trends & Impacts to Watch",
+    "Online Casino Operators Blog",
+    "Your Guide to Casino Kings: Bonuses, Withdrawals & More",
+    "Different Types Of Online Casino Offers And How They Differ"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://casinycasino.com/ that feel at home on roger.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Casiny casino\n\nAnchor operates in: Australia\n\nReference titles:\n- Roger.com: Claim Big Bonuses For Casino, Slots, Live ...\n- MostBet USA: Top Casino Games And Sports Betting Options\n- Live Dealer Casino Games & Game Shows In 2025\n- Luna Casino Review: Redeem 100% + 50 Free Spins Now\n- Bally Bet Sports & Casino: 30 Free No Wagering Spins In ...\n- Casino Blog Articles: All About Casino And Online Casinos\n- Full Guide To Casino Sign-Up Bonuses & How To Use Them\n- Crash Course On The Best Casino Games\n- What To Look For From A Sweepstake Casino\n- The Best Casino Games You've Probably Never Played\n- Play Golden Pig Slot Online | Bonuses For New Players At ...\n- Why Do Casinos Use Chips Instead of Cash? - Roger.com\n- Kassu Casino\n- How State Casino Laws Affect Gambling Tourism In The USA\n- How To Choose The Best Casino Software Providers In 2024\n- Dream Vegas Casino Guide 2025 + Promos And Bonuses\n- The Online Casino: Get A Huge 200% Deposit Match + 20 ...\n- Top Tips for Anyone Interested in Playing at the Casino\n- Play 1000x Busta Casino Game Online\n- Ace Of Spades Slot: Play The Play'n Go 3 Reel Slot Online\n- 7slots Online Casino: High Return To Player And Good Odds\n- Online Casinos in Europe: Future Trends & Impacts to Watch\n- Online Casino Operators Blog\n- Your Guide to Casino Kings: Bonuses, Withdrawals & More\n- Different Types Of Online Casino Offers And How They Differ\n\nGuidance:\n1. Combine your own knowledge of roger.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to roger.com while naturally justifying a link to https://casinycasino.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Casiny casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Australia where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1034,
+    "completion_tokens": 599
+  },
+  "cost_usd": 0.02831
+}

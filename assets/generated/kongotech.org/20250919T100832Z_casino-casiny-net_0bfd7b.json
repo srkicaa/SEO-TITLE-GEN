@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-19T10:08:32Z",
+  "model": "gpt-5-mini",
+  "order": {
+    "domain": "kongotech.org",
+    "anchor_keyword": "casino-casiny.net",
+    "anchor_country": "Australia",
+    "target_url": "https://casino-casiny.net",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How Mobile-First Casino Platforms Are Changing Gameplay in Australia",
+      "rationale": "KongoTech often covers mobile-first gaming trends; this piece can link to casino-casiny.net as an example of a mobile-optimised platform for Australian players, supporting a deeper look at UI, load times, and device compatibility."
+    },
+    {
+      "title": "Payment and Withdrawal Flows Every Australian Player Should Understand",
+      "rationale": "A practical KongoTech guide on payments pairs naturally with a link to casino-casiny.net to illustrate real-world withdrawal timelines, verification steps, and AU-friendly deposit methods without promoting the operator."
+    },
+    {
+      "title": "Design Patterns That Make Live Table Interfaces Feel More Social",
+      "rationale": "KongoTech\u2019s audience appreciates UX rundowns; referencing casino-casiny.net in the article provides a concrete case study of live table layout, chat moderation, and social features relevant to Australian users."
+    },
+    {
+      "title": "Responsible Play: Tools and Settings That Protect Players Online",
+      "rationale": "An editorial on safer gaming tools can link to casino-casiny.net to show examples of self-exclusion options, deposit limits, and identity checks, framed informatively for an Australian readership."
+    },
+    {
+      "title": "Slot Mechanics Decoded: What Makes Modern Reels More Engaging",
+      "rationale": "A technical deep-dive into RNG, volatility, and bonus mechanics fits KongoTech\u2019s style; citing casino-casiny.net as an implementation example helps readers see these mechanics in action without promotional language."
+    }
+  ],
+  "titles_context": [
+    "Mancingduit Casino Review: Your Ultimate Guide To Big Wins",
+    "Tvtoto Casino Review: Your Ultimate Guide To Winning Big",
+    "Unlock Big Wins With Danatoto: Your Guide To Online Casino ...",
+    "Withdrawal At J88 Casino: Fast, Secure, And Hassle-Free ...",
+    "Togelup Casino: Your Gateway To Big Wins And Endless Fun",
+    "Pulitoto Casino Review: Everything You Need To Know ...",
+    "Top Online Bingo Sites: Where To Play And Earn Rewards",
+    "Yoktogel Casino Review: Everything You Need To Know ...",
+    "The Premier Destination For Online Togel And Casino Games",
+    "Wdbos Casino Review: Why It's Gaining Popularity Among ...",
+    "Fiatogel Review: The Ultimate Online Casino For Togel ...",
+    "Casino Tables At Viva88 Casino: A Premium Live Gaming Experience",
+    "Tvtoto Casino Vs Other Online Casinos: Which One Wins?",
+    "Angkatogel: The Future Of Online Casino Gaming - Kongo Tech",
+    "Top 7 Joker123 Slot Games You Must Try Today - Kongo Tech",
+    "How Online Casinos Are Becoming Social Spaces - Kongo Tech",
+    "Linetogel Casino Review: Why It's The Go-To Platform For ...",
+    "Jonitogel - The Ultimate Casino Betting Plateform - Kongo Tech",
+    "Fiatogel Casino Review: Why Players Are Flocking To This ...",
+    "Mancingduit Casino Review: Is This The Ultimate Platform For ...",
+    "Togelup Casino Review: Why Players Are Flocking To This ...",
+    "Tvtoto Casino Review: Why It's Gaining Massive Popularity In ...",
+    "SKY88 Casino Withdrawal: A Complete Guide To Fast And ...",
+    "Pulitoto Casino Review: Why This Platform Is Gaining Massive ...",
+    "The Best Megaways Gacor77 Games For Massive Winning ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://casino-casiny.net that feel at home on kongotech.org.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): casino-casiny.net\n\nAnchor operates in: Australia\n\nReference titles:\n- Mancingduit Casino Review: Your Ultimate Guide To Big Wins\n- Tvtoto Casino Review: Your Ultimate Guide To Winning Big\n- Unlock Big Wins With Danatoto: Your Guide To Online Casino ...\n- Withdrawal At J88 Casino: Fast, Secure, And Hassle-Free ...\n- Togelup Casino: Your Gateway To Big Wins And Endless Fun\n- Pulitoto Casino Review: Everything You Need To Know ...\n- Top Online Bingo Sites: Where To Play And Earn Rewards\n- Yoktogel Casino Review: Everything You Need To Know ...\n- The Premier Destination For Online Togel And Casino Games\n- Wdbos Casino Review: Why It's Gaining Popularity Among ...\n- Fiatogel Review: The Ultimate Online Casino For Togel ...\n- Casino Tables At Viva88 Casino: A Premium Live Gaming Experience\n- Tvtoto Casino Vs Other Online Casinos: Which One Wins?\n- Angkatogel: The Future Of Online Casino Gaming - Kongo Tech\n- Top 7 Joker123 Slot Games You Must Try Today - Kongo Tech\n- How Online Casinos Are Becoming Social Spaces - Kongo Tech\n- Linetogel Casino Review: Why It's The Go-To Platform For ...\n- Jonitogel - The Ultimate Casino Betting Plateform - Kongo Tech\n- Fiatogel Casino Review: Why Players Are Flocking To This ...\n- Mancingduit Casino Review: Is This The Ultimate Platform For ...\n- Togelup Casino Review: Why Players Are Flocking To This ...\n- Tvtoto Casino Review: Why It's Gaining Massive Popularity In ...\n- SKY88 Casino Withdrawal: A Complete Guide To Fast And ...\n- Pulitoto Casino Review: Why This Platform Is Gaining Massive ...\n- The Best Megaways Gacor77 Games For Massive Winning ...\n\nGuidance:\n1. Combine your own knowledge of kongotech.org's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to kongotech.org while naturally justifying a link to https://casino-casiny.net.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude casino-casiny.net and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Australia where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1113,
+    "completion_tokens": 433
+  },
+  "cost_usd": 0.02412
+}

@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-19T11:16:21Z",
+  "model": "gpt-5-mini",
+  "order": {
+    "domain": "f1chronicle.com",
+    "anchor_keyword": "list of sweepstake casinos",
+    "anchor_country": "",
+    "target_url": "https://www.bonus.com/sweepstakes/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How Motorsport Sponsorships Are Evolving With Fan Engagement Programs",
+      "rationale": "Recent shifts toward experiential and digital fan engagement make this a timely piece; linking to a comprehensive sweepstakes resource (https://www.bonus.com/sweepstakes/) gives readers a practical example of consumer-facing promotions and a curated list of sweepstakes options to compare alongside motorsport initiatives."
+    },
+    {
+      "title": "The Growing Role of Sweepstakes and Giveaways Around Major Race Weekends",
+      "rationale": "With major events like Las Vegas and Monaco continuing to expand hospitality and entertainment offerings, an article examining sweepstakes activity around race weekends is relevant; the target URL provides a centralized catalogue of sweepstake opportunities to illustrate how promotions are structured and where fans can participate."
+    },
+    {
+      "title": "Regulatory and Reputational Risks for Teams Partnering With Gambling-Adjacent Promotions",
+      "rationale": "As jurisdictions tighten rules on gambling marketing, teams and series must weigh regulatory and reputational issues\u2014this analysis benefits from linking to a sweepstakes index (https://www.bonus.com/sweepstakes/) to show the variety of promotional formats under scrutiny and help readers understand what consumer-facing sweepstakes look like."
+    },
+    {
+      "title": "Fan Acquisition Strategies: from Exclusive Experiences to Prize Draws",
+      "rationale": "Clubs and race promoters increasingly use prize draws to capture new audiences; connecting readers to a practical sweepstakes directory (https://www.bonus.com/sweepstakes/) helps demonstrate real-world mechanics and the types of sweepstakes campaigns that drive sign-ups and engagement."
+    },
+    {
+      "title": "How Race Hosts Leverage Sweepstakes to Boost Tourism and Hospitality Spend",
+      "rationale": "Host cities and promoters often incorporate sweepstakes into destination marketing around grand prix weekends\u2014this article can cite broader tourism trends and link to the sweepstakes resource (https://www.bonus.com/sweepstakes/) as an example of how prize-driven promotions are packaged for travelers and fans."
+    }
+  ],
+  "titles_context": [
+    "The Role of Casino Sponsorships in F1 Races",
+    "Analysis Of The Financial Impact Of Sponsors In Formula 1",
+    "What Is The Most Beautiful F1 Track? | F1 Explained",
+    "Top Formula 1 Cars in Casino Heists",
+    "What Is The Route Of The F1 Race In Vegas?",
+    "How Many F1 Races Are In The US?",
+    "Who Are The Gambling Sponsors In F1? | F1 News",
+    "What Is The Most Expensive F1 Race To Attend?",
+    "The Benefits of Hosting An F1 Grand Prix In Las Vegas",
+    "Six Intriguing Facts About Motorsport Sponsorships",
+    "How Long Is A Lap In Monaco?",
+    "Circuit de Monaco | F1 Tracks",
+    "How Many Laps In F1 Las Vegas?",
+    "Formula 1 News Articles | Page 57 of 69",
+    "Formula 1 To Race In Monaco Until 2031",
+    "Monuments Of Speed: The Most Storied Circuits In ...",
+    "Las Vegas Grand Prix",
+    "Why Is The Las Vegas GP So Late At Night?",
+    "The Enduring Magic of Monte Carlo: Why the Monaco ...",
+    "What F1 Tracks Can You Drive On? | F1 Explained",
+    "Formula One: The Art of Strategic Team Management",
+    "How Much Does Monaco Pay To Host F1? | F1 Explained",
+    "Slot Machines Inspired By Formula 1",
+    "Is F1 In Las Vegas In 2024? | F1 Explained",
+    "Top Formula 1 Partners | F1 News"
+  ],
+  "prompt_text": "Craft 5 timely, on-brand article titles for f1chronicle.com.\nAnchor keyword (keep out of the headline itself): list of sweepstake casinos.\nOperating region or audience to acknowledge: Unspecified.\nTarget URL to justify via supporting copy: https://www.bonus.com/sweepstakes/.\nSearch context keyword: casino.\nReference titles (tone guide):\n- The Role of Casino Sponsorships in F1 Races\n- Analysis Of The Financial Impact Of Sponsors In Formula 1\n- What Is The Most Beautiful F1 Track? | F1 Explained\n- Top Formula 1 Cars in Casino Heists\n- What Is The Route Of The F1 Race In Vegas?\n- How Many F1 Races Are In The US?\n- Who Are The Gambling Sponsors In F1? | F1 News\n- What Is The Most Expensive F1 Race To Attend?\n- The Benefits of Hosting An F1 Grand Prix In Las Vegas\n- Six Intriguing Facts About Motorsport Sponsorships\n- How Long Is A Lap In Monaco?\n- Circuit de Monaco | F1 Tracks\n- How Many Laps In F1 Las Vegas?\n- Formula 1 News Articles | Page 57 of 69\n- Formula 1 To Race In Monaco Until 2031\n- Monuments Of Speed: The Most Storied Circuits In ...\n- Las Vegas Grand Prix\n- Why Is The Las Vegas GP So Late At Night?\n- The Enduring Magic of Monte Carlo: Why the Monaco ...\n- What F1 Tracks Can You Drive On? | F1 Explained\n- Formula One: The Art of Strategic Team Management\n- How Much Does Monaco Pay To Host F1? | F1 Explained\n- Slot Machines Inspired By Formula 1\n- Is F1 In Las Vegas In 2024? | F1 Explained\n- Top Formula 1 Partners | F1 News\n\nGuidance:\n- If notable news, launches, regulatory moves, or data releases touch this niche, hook the headline to that development. Also consider the https://www.bonus.com/sweepstakes/ and browse news from that niche to add! \n- When there is no fresh headline, lean on enduring macro trends or forward-looking questions practitioners are asking.\n- Make the rationale cite the specific event, trend, or why it matters now\u2014especially for audiences in Unspecified.\n- Keep titles brand-free and avoid review/promo phrasing (no 'review', 'bonus', 'promo code').\n- Use  when provided, but never invent unsupported facts.\n\nReturn strictly {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items and no other keys.",
+  "usage": {
+    "prompt_tokens": 962,
+    "completion_tokens": 454
+  },
+  "cost_usd": 0.02324
+}

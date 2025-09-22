@@ -1,0 +1,62 @@
+{
+  "created_at": "2025-09-19T10:07:33Z",
+  "model": "gpt-5-mini",
+  "order": {
+    "domain": "boringmagazine.com",
+    "anchor_keyword": "vega-stars.com",
+    "anchor_country": "Australia",
+    "target_url": "https://vega-stars.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How Australian Players Can Spot Legitimate Online Gaming Platforms",
+      "rationale": "This piece offers practical signals of legitimacy for Australian readers and can link to vega-stars.com as an example destination with clear licensing and fair-play info; the site helps illustrate points about verification, payment options, and support responsiveness."
+    },
+    {
+      "title": "The Quiet Rise of Skill-Based Casino Formats in Everyday Entertainment",
+      "rationale": "An informative angle on skill-first gaming that fits Boringmagazine\u2019s catalog; link to vega-stars.com can be used to demonstrate current game mixes and tournament structures available to Australian audiences without sounding promotional."
+    },
+    {
+      "title": "Where Odds Meet UX: Designing Smoother Experiences for Casual Gamblers",
+      "rationale": "Discusses user experience and accessibility in online gambling products. A natural internal link to vega-stars.com can show real-world examples of interface choices, account flows, and mobile responsiveness relevant to readers in Australia."
+    },
+    {
+      "title": "Multiplayer Casino-Style Games That Work for Group Game Nights",
+      "rationale": "A feature on social gaming formats that resemble casino mechanics but for casual groups; vega-stars.com can be referenced to illustrate lobby setups, multiplayer modes, and scheduling tools that make such sessions easy to run."
+    },
+    {
+      "title": "Navigating Responsible Play Tools Built Into Modern Gaming Sites",
+      "rationale": "Focuses on player protection features (limits, time-outs, self-exclusion) and regulation compliance. Linking to vega-stars.com provides a concrete example of how operators implement these tools for Australian users and what to look for when assessing safety features."
+    }
+  ],
+  "titles_context": [
+    "Why Online Gaming Platforms Are Outpacing Their Land- ...",
+    "Online Games 2025 \u2013 Top No Deposit & Welcome Offers",
+    "Top 5 Gameland Games You Should Try In 2025.",
+    "How To Know An Official Online Casino In The Philippines",
+    "The Best And Most Popular Online Games In Canada",
+    "Exploring the Thrill of High-Stakes Game: Strategy and Etiquette",
+    "Top Australian Games That Won't Make You Wait For Your ...",
+    "Exploring The World Of Indie Games Hidden Gems You ...",
+    "Review Archives - Boringmagazine.com",
+    "A Comprehensive Review Of The Online Entertainment ...",
+    "Exploring Non GamStop Games In The UK",
+    "Exploring The Best Multiplayer Games For Endless Fun",
+    "The Boring Magazine - Latest News For Tech & Entertainment ...",
+    "Review Archives - Page 7 Of 10 - Boringmagazine.com",
+    "Games Archives - Boringmagazine.com",
+    "AI In Personalized Marketing | Boost Engagement & Sales",
+    "We Tried The Most Boring Digital Pastimes\u2014and ...",
+    "Top Smoke Eater Technologies For Restaurants, Cigar ...",
+    "Blog Archives - Boringmagazine.com",
+    "Comparison Of Sabatoto With Other Popular Togel Sites In ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://vega-stars.com/ that feel at home on boringmagazine.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): vega-stars.com\n\nAnchor operates in: Australia\n\nReference titles:\n- Why Online Gaming Platforms Are Outpacing Their Land- ...\n- Online Games 2025 \u2013 Top No Deposit & Welcome Offers\n- Top 5 Gameland Games You Should Try In 2025.\n- How To Know An Official Online Casino In The Philippines\n- The Best And Most Popular Online Games In Canada\n- Exploring the Thrill of High-Stakes Game: Strategy and Etiquette\n- Top Australian Games That Won't Make You Wait For Your ...\n- Exploring The World Of Indie Games Hidden Gems You ...\n- Review Archives - Boringmagazine.com\n- A Comprehensive Review Of The Online Entertainment ...\n- Exploring Non GamStop Games In The UK\n- Exploring The Best Multiplayer Games For Endless Fun\n- The Boring Magazine - Latest News For Tech & Entertainment ...\n- Review Archives - Page 7 Of 10 - Boringmagazine.com\n- Games Archives - Boringmagazine.com\n- AI In Personalized Marketing | Boost Engagement & Sales\n- We Tried The Most Boring Digital Pastimes\u2014and ...\n- Top Smoke Eater Technologies For Restaurants, Cigar ...\n- Blog Archives - Boringmagazine.com\n- Comparison Of Sabatoto With Other Popular Togel Sites In ...\n\nGuidance:\n1. Combine your own knowledge of boringmagazine.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to boringmagazine.com while naturally justifying a link to https://vega-stars.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude vega-stars.com and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Australia where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 884,
+    "completion_tokens": 452
+  },
+  "cost_usd": 0.0224
+}

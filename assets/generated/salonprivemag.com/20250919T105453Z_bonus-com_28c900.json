@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-19T10:54:53Z",
+  "model": "gpt-5-mini",
+  "order": {
+    "domain": "salonprivemag.com",
+    "anchor_keyword": "bonus.com",
+    "anchor_country": "",
+    "target_url": "https://www.bonus.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How Live Dealer Technology Is Shaping Luxury Table Play",
+      "rationale": "Live-streamed tables and real-time RNG integrations continue to close the gap between physical and online play; this piece hooks into the ongoing tech-driven convergence and explains what premium players should expect next. Suitable moment to link to bonus.com for background on live-game offerings and aggregator data."
+    },
+    {
+      "title": "The Future of Slot Design: from Mechanical Roots to Narrative-First Games",
+      "rationale": "Design studios are shifting from pure math-driven slots to narrative and cinematic experiences\u2014an enduring trend that impacts player engagement and studio strategy. Use bonus.com as a contextual resource for recent game launches and format comparisons."
+    },
+    {
+      "title": "Navigating Safety and Regulation in Global Online Gaming",
+      "rationale": "With regulators in multiple jurisdictions updating compliance and verification rules, readers need a clear primer on safe-play measures and how sites demonstrate trustworthiness. This article can link to bonus.com for up-to-date summaries of licensing and safety cues across markets."
+    },
+    {
+      "title": "How to Host a Stylish Casino-Themed Night: Ambience, Etiquette and Games",
+      "rationale": "Social gatherings with a casino theme remain popular as hybrid entertaining returns; readers want practical styling and etiquette advice rather than promotional copy. Link to bonus.com for practical checklists of game types and equipment options to include."
+    },
+    {
+      "title": "Mobile First: How Apps and UX Are Redefining at-Home Casino Experiences",
+      "rationale": "Mobile UX, fast payment rails and AR demos are changing how people access casino content at home\u2014an evergreen trend accelerated by smartphone adoption and payment innovations. Reference bonus.com for aggregated app comparisons and UX trend examples."
+    }
+  ],
+  "titles_context": [
+    "Playing For Luck or Strategies: What To Choose for Stable ...",
+    "2025 Casino Sites for Aussie Players",
+    "How Online Casino Websites Recreate Live Casino Games",
+    "Luxury Casinos Around the World",
+    "Explained: Slots, Roulette, Blackjack And More",
+    "The Evolution of Casino Games",
+    "How to Choose the Best Casino Without Licence?",
+    "How Has Technology Changed The Way We Play Casino ...",
+    "The Safety of Legal US Casino Apps: How They Track ...",
+    "The 15 Best Casinos In Florida",
+    "How Are Live Dealer Games Different from 'Regular' ...",
+    "The Technology Improving the Slot Gaming Experience",
+    "What To Expect From a Croupier During Live Casino Games",
+    "Web Casinos in 2023: The Main Pros",
+    "8 Things To Consider When Choosing An Online Casino",
+    "How To Organise A Casino-Themed Night",
+    "Best-Paying Online Casinos in USA",
+    "Which Are the Most Stylish Casino Games?",
+    "Casino Etiquette Reimagined - Playing Gracefully Online ...",
+    "Luck Isn't Enough! Master the Art of Preparation for Online ...",
+    "Top 10 Casinos With The Smallest Minimum Deposit",
+    "How Online Casinos Replicate the Live Experience",
+    "Gambling Goes Mobile: The Rise of Casino Apps and ...",
+    "From Canvas to Casino: Exploring the Artistic ...",
+    "Online Gambling In Canada vs. The US: How Does It ..."
+  ],
+  "prompt_text": "Craft 5 timely, on-brand article titles for salonprivemag.com.\nAnchor keyword (keep out of the headline itself): bonus.com.\nOperating region or audience to acknowledge: Unspecified.\nTarget URL to justify via supporting copy: https://www.bonus.com/.\nSearch context keyword: casino.\nReference titles (tone guide):\n- Playing For Luck or Strategies: What To Choose for Stable ...\n- 2025 Casino Sites for Aussie Players\n- How Online Casino Websites Recreate Live Casino Games\n- Luxury Casinos Around the World\n- Explained: Slots, Roulette, Blackjack And More\n- The Evolution of Casino Games\n- How to Choose the Best Casino Without Licence?\n- How Has Technology Changed The Way We Play Casino ...\n- The Safety of Legal US Casino Apps: How They Track ...\n- The 15 Best Casinos In Florida\n- How Are Live Dealer Games Different from 'Regular' ...\n- The Technology Improving the Slot Gaming Experience\n- What To Expect From a Croupier During Live Casino Games\n- Web Casinos in 2023: The Main Pros\n- 8 Things To Consider When Choosing An Online Casino\n- How To Organise A Casino-Themed Night\n- Best-Paying Online Casinos in USA\n- Which Are the Most Stylish Casino Games?\n- Casino Etiquette Reimagined - Playing Gracefully Online ...\n- Luck Isn't Enough! Master the Art of Preparation for Online ...\n- Top 10 Casinos With The Smallest Minimum Deposit\n- How Online Casinos Replicate the Live Experience\n- Gambling Goes Mobile: The Rise of Casino Apps and ...\n- From Canvas to Casino: Exploring the Artistic ...\n- Online Gambling In Canada vs. The US: How Does It ...\n\nGuidance:\n- If notable news, launches, regulatory moves, or data releases touch this niche, hook the headline to that development.\n- When there is no fresh headline, lean on enduring macro trends or forward-looking questions practitioners are asking.\n- Make the rationale cite the specific event, trend, or why it matters now\u2014especially for audiences in Unspecified.\n- Keep titles brand-free and avoid review/promo phrasing (no 'review', 'bonus', 'promo code').\n- Use  when provided, but never invent unsupported facts.\n\nReturn strictly {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items and no other keys.",
+  "usage": {
+    "prompt_tokens": 858,
+    "completion_tokens": 599
+  },
+  "cost_usd": 0.02655
+}

@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-19T11:05:23Z",
+  "model": "gpt-5-mini",
+  "order": {
+    "domain": "salonprivemag.com",
+    "anchor_keyword": "bonus.com",
+    "anchor_country": "",
+    "target_url": "https://www.bonus.com/",
+    "serp_keyword": "Australia",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "2025 Guide for Australian Players: How Online Games Are Adapting to Local Rules",
+      "rationale": "With ongoing regulatory scrutiny and evolving state-by-state frameworks in Australia, readers need a clear picture of how online gambling platforms are changing their offerings and compliance practices. This title positions the article as timely for Australians planning play in 2025 and beyond and can link to authoritative resources (such as the target URL) for up-to-date industry data and player guidance."
+    },
+    {
+      "title": "How Live Dealer Tech Is Bringing the Casino Floor to Australian Living Rooms",
+      "rationale": "Advances in streaming, low-latency infrastructure and immersive UI have accelerated demand for live-dealer experiences among Australian audiences. This evergreen-but-urgent angle explains why the trend matters now and can point readers to further reading and tools on sites like the target URL for technical and player-focused context."
+    },
+    {
+      "title": "Mobile-First Gambling: What Australian Players Should Expect from Apps and Sites",
+      "rationale": "Mobile usage continues to dominate how Australians access entertainment, making mobile optimisation and app safety top-of-mind. Framing the story around user experience, security and responsible-play features makes it relevant, with the target URL offering supplementary resources and industry overviews readers can consult."
+    },
+    {
+      "title": "Modern Etiquette for Playing Online: a Practical Guide for Australian Players",
+      "rationale": "As multiplayer and live-streamed gambling experiences grow, etiquette and conduct online have become topics of interest for Australian users wanting a better social experience. This timely guide addresses netiquette, privacy and fair play and can direct readers to comprehensive industry references such as the target URL for further learning."
+    },
+    {
+      "title": "Design, Sound and Spin: How Game Makers Are Elevating the Australian Player Experience",
+      "rationale": "Creative and technical innovations\u2014visual design, audio engineering and RNG transparency\u2014are reshaping player expectations in Australia. This forward-looking piece explores those trends and why they matter to Australian audiences, with the target URL provided as a resource for deeper dives into market trends and game mechanics."
+    }
+  ],
+  "titles_context": [
+    "Playing For Luck or Strategies: What To Choose for Stable ...",
+    "2025 Casino Sites for Aussie Players",
+    "How Online Casino Websites Recreate Live Casino Games",
+    "Luxury Casinos Around the World",
+    "Explained: Slots, Roulette, Blackjack And More",
+    "The Evolution of Casino Games",
+    "How to Choose the Best Casino Without Licence?",
+    "How Has Technology Changed The Way We Play Casino ...",
+    "The Safety of Legal US Casino Apps: How They Track ...",
+    "The 15 Best Casinos In Florida",
+    "How Are Live Dealer Games Different from 'Regular' ...",
+    "The Technology Improving the Slot Gaming Experience",
+    "What To Expect From a Croupier During Live Casino Games",
+    "Web Casinos in 2023: The Main Pros",
+    "8 Things To Consider When Choosing An Online Casino",
+    "How To Organise A Casino-Themed Night",
+    "Best-Paying Online Casinos in USA",
+    "Which Are the Most Stylish Casino Games?",
+    "Casino Etiquette Reimagined - Playing Gracefully Online ...",
+    "Luck Isn't Enough! Master the Art of Preparation for Online ...",
+    "Top 10 Casinos With The Smallest Minimum Deposit",
+    "How Online Casinos Replicate the Live Experience",
+    "Gambling Goes Mobile: The Rise of Casino Apps and ...",
+    "From Canvas to Casino: Exploring the Artistic ...",
+    "Online Gambling In Canada vs. The US: How Does It ..."
+  ],
+  "prompt_text": "Craft 5 timely, on-brand article titles for salonprivemag.com.\nAnchor keyword (keep out of the headline itself): bonus.com.\nOperating region or audience to acknowledge: Unspecified.\nTarget URL to justify via supporting copy: https://www.bonus.com/.\nSearch context keyword: Australia.\nReference titles (tone guide):\n- Playing For Luck or Strategies: What To Choose for Stable ...\n- 2025 Casino Sites for Aussie Players\n- How Online Casino Websites Recreate Live Casino Games\n- Luxury Casinos Around the World\n- Explained: Slots, Roulette, Blackjack And More\n- The Evolution of Casino Games\n- How to Choose the Best Casino Without Licence?\n- How Has Technology Changed The Way We Play Casino ...\n- The Safety of Legal US Casino Apps: How They Track ...\n- The 15 Best Casinos In Florida\n- How Are Live Dealer Games Different from 'Regular' ...\n- The Technology Improving the Slot Gaming Experience\n- What To Expect From a Croupier During Live Casino Games\n- Web Casinos in 2023: The Main Pros\n- 8 Things To Consider When Choosing An Online Casino\n- How To Organise A Casino-Themed Night\n- Best-Paying Online Casinos in USA\n- Which Are the Most Stylish Casino Games?\n- Casino Etiquette Reimagined - Playing Gracefully Online ...\n- Luck Isn't Enough! Master the Art of Preparation for Online ...\n- Top 10 Casinos With The Smallest Minimum Deposit\n- How Online Casinos Replicate the Live Experience\n- Gambling Goes Mobile: The Rise of Casino Apps and ...\n- From Canvas to Casino: Exploring the Artistic ...\n- Online Gambling In Canada vs. The US: How Does It ...\n\nGuidance:\n- If notable news, launches, regulatory moves, or data releases touch this niche, hook the headline to that development.\n- When there is no fresh headline, lean on enduring macro trends or forward-looking questions practitioners are asking.\n- Make the rationale cite the specific event, trend, or why it matters now\u2014especially for audiences in Unspecified.\n- Keep titles brand-free and avoid review/promo phrasing (no 'review', 'bonus', 'promo code').\n- Use  when provided, but never invent unsupported facts.\n\nReturn strictly {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items and no other keys.",
+  "usage": {
+    "prompt_tokens": 858,
+    "completion_tokens": 674
+  },
+  "cost_usd": 0.0288
+}

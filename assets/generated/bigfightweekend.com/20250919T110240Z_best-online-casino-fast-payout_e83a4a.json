@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-19T11:02:40Z",
+  "model": "gpt-5-mini",
+  "order": {
+    "domain": "bigfightweekend.com",
+    "anchor_keyword": "best online casino fast payout",
+    "anchor_country": "",
+    "target_url": "https://www.bonus.com/online-casinos/fastest-payout/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How Fight Week Betting Habits Are Shifting Toward Instant Withdrawals",
+      "rationale": "With fans staking more on big cards and expecting rapid access to winnings, linking to a resource that tracks the fastest withdrawal options helps readers navigate where to move cash after a late-night payoff. The target URL offers timely data on withdrawal speeds that complements this trend-focused guide."
+    },
+    {
+      "title": "Boxers Who Bet: Inside the Growing Intersection of Fighters and Gambling Culture",
+      "rationale": "Profiles of fighters and their off-ring interests often prompt readers to explore where to play and withdraw safely. Pointing to a page that compares withdrawal speed and policy details gives practical context for readers curious about the logistics behind gambling choices."
+    },
+    {
+      "title": "Big-Card Cashouts: Managing Winnings When Multiple Fights Land in One Weekend",
+      "rationale": "When bettors win across several fights in a single weekend they want clear options for getting funds quickly. A link to a resource summarizing sites with the quickest payout processing is useful editorial support for a piece on bankroll management during major fight events."
+    },
+    {
+      "title": "From Ringside to Wallet: How Payment Speed Shapes Modern Fight-Watching Rituals",
+      "rationale": "As streaming, in-play betting, and social cashouts reshape viewing habits, readers benefit from guidance on platforms that process withdrawals rapidly. The target URL compiles comparative payout timing information that strengthens articles about evolving fan behavior."
+    },
+    {
+      "title": "Regulatory Moves and Payment Tech: What Faster Withdrawals Mean for Fight Fans",
+      "rationale": "Regulatory changes and new payment rails are accelerating how quickly players can access funds. Linking to a resource that lists services with the quickest withdrawal turnaround provides concrete examples readers can consult amid industry shifts."
+    }
+  ],
+  "titles_context": [
+    "How Boxers Look to Increase Legacies Through Online ...",
+    "How Combat Sports Fans Are Finding New Ways To ...",
+    "Oscar Collazo vs Jayson Vayson: stream, odds, fight card ...",
+    "Richard Torrez Jr vs Guido Vianello: How to Stream, ...",
+    "Las Vegas Boxing: Revisting Iconic Fights",
+    "How Did the Eight-Count Rule Change Boxing Forever?",
+    "Vergil Ortiz Jr. vs. Serhii Bohachuk: How to Stream, Betting ...",
+    "Cache Creek Casino Hosts Another ShoBox Card on April 7",
+    "Caleb Plant vs. Armando Res\u00e9ndiz: Quotes and ...",
+    "Boxing Schedule: Five Must-Watch Fights This Summer 2025",
+    "Five Boxers Who Love to Gamble",
+    "Boxing History: Four Lesser-Known Fights, Three That ...",
+    "How Streaming Platforms Are Changing Boxing",
+    "Boxing Sponsorships and Endorsements",
+    "Richard Torrez Jr. vs. Guido Vianello",
+    "Roy Jones Jr Teases Shock Return Naming Opponent",
+    "Carl Froch Questions Deontay Wilder June 27 Return",
+    "Osleys Iglesias vs. Vladimir Shishkin: Live Results Update",
+    "Beterbiev vs Bivol 2: George Groves Predicts Feb. 22 Main ...",
+    "Ex-World Champion Slams Jake Paul With 3 Harsh Truths",
+    "Hamzah Sheeraz vs Carlos Adames: George Groves ...",
+    "Thad Buntsma vs. Cody Kelly 2: Full Card Preview",
+    "Two 154 Knockout Artists Set to Collide on Golden Boy ...",
+    "How to Stream, Odds and Fight Card for Broner vs. Cobbs",
+    "Roy Jones Jr Delivers Honest Take on Jake Paul's Ability"
+  ],
+  "prompt_text": "Craft 5 timely, on-brand article titles for bigfightweekend.com.\nAnchor keyword (keep out of the headline itself): best online casino fast payout.\nOperating region or audience to acknowledge: Unspecified.\nTarget URL to justify via supporting copy: https://www.bonus.com/online-casinos/fastest-payout/.\nSearch context keyword: casino.\nReference titles (tone guide):\n- How Boxers Look to Increase Legacies Through Online ...\n- How Combat Sports Fans Are Finding New Ways To ...\n- Oscar Collazo vs Jayson Vayson: stream, odds, fight card ...\n- Richard Torrez Jr vs Guido Vianello: How to Stream, ...\n- Las Vegas Boxing: Revisting Iconic Fights\n- How Did the Eight-Count Rule Change Boxing Forever?\n- Vergil Ortiz Jr. vs. Serhii Bohachuk: How to Stream, Betting ...\n- Cache Creek Casino Hosts Another ShoBox Card on April 7\n- Caleb Plant vs. Armando Res\u00e9ndiz: Quotes and ...\n- Boxing Schedule: Five Must-Watch Fights This Summer 2025\n- Five Boxers Who Love to Gamble\n- Boxing History: Four Lesser-Known Fights, Three That ...\n- How Streaming Platforms Are Changing Boxing\n- Boxing Sponsorships and Endorsements\n- Richard Torrez Jr. vs. Guido Vianello\n- Roy Jones Jr Teases Shock Return Naming Opponent\n- Carl Froch Questions Deontay Wilder June 27 Return\n- Osleys Iglesias vs. Vladimir Shishkin: Live Results Update\n- Beterbiev vs Bivol 2: George Groves Predicts Feb. 22 Main ...\n- Ex-World Champion Slams Jake Paul With 3 Harsh Truths\n- Hamzah Sheeraz vs Carlos Adames: George Groves ...\n- Thad Buntsma vs. Cody Kelly 2: Full Card Preview\n- Two 154 Knockout Artists Set to Collide on Golden Boy ...\n- How to Stream, Odds and Fight Card for Broner vs. Cobbs\n- Roy Jones Jr Delivers Honest Take on Jake Paul's Ability\n\nGuidance:\n- If notable news, launches, regulatory moves, or data releases touch this niche, hook the headline to that development.\n- When there is no fresh headline, lean on enduring macro trends or forward-looking questions practitioners are asking.\n- Make the rationale cite the specific event, trend, or why it matters now\u2014especially for audiences in Unspecified.\n- Keep titles brand-free and avoid review/promo phrasing (no 'review', 'bonus', 'promo code').\n- Use  when provided, but never invent unsupported facts.\n\nReturn strictly {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items and no other keys.",
+  "usage": {
+    "prompt_tokens": 1036,
+    "completion_tokens": 721
+  },
+  "cost_usd": 0.03199
+}
