@@ -1,0 +1,46 @@
+{
+  "created_at": "2025-09-22T11:13:47Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "australiabasket.com",
+    "anchor_keyword": "crypto slots casino",
+    "anchor_country": "",
+    "target_url": "https://www.razed.com/casino/slots/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "From Heat Checks to Hot Streaks: Understanding Variance Through the Lens of Slots",
+      "rationale": "Connects basketball streaks and shot selection to slots variance and RTP, giving australiabasket.com readers a familiar framework; a link to a detailed slots resource helps explain mechanics and risk profiles."
+    },
+    {
+      "title": "Pace, Possessions, and Bankroll: a Sports Fan\u2019s Guide to Managing Small\u2011stakes Play",
+      "rationale": "Uses basketball pace/efficiency concepts to discuss budgeting and session management for recreational games; the linked slots page supports readers with practical examples of volatility and game types."
+    },
+    {
+      "title": "Off\u2011court Habits of Aussie Hoops Fans: Digital Games Filling the Gaps Between Tip\u2011offs",
+      "rationale": "Localized for Australian basketball audiences (NBL/WNBL context) by exploring common downtime activities; linking to a slots explainer offers safe\u2011play pointers and theme/feature breakdowns."
+    },
+    {
+      "title": "What Basketball Analytics Teach About RTP, Volatility, and Picking the Right Slot Themes",
+      "rationale": "Bridges hoop analytics with game selection fundamentals so data\u2011minded fans can evaluate entertainment options; the destination page deepens understanding of features, paylines, and variance."
+    },
+    {
+      "title": "Tech Trends in Australian Sport Fandom: Where Crypto and Rng\u2011powered Games Fit in",
+      "rationale": "Places emerging digital play and crypto\u2011adjacent tech in an Aussie sports context without brand talk; a link to a comprehensive slots hub illustrates how RNG works and what responsible play looks like."
+    }
+  ],
+  "titles_context": [
+    "Exploring the Role of Sponsors - Australian Basketball",
+    "Australian Basketball News, Scores, Stats, Analysis, Standings",
+    "Australian Basketball News, Scores, Stats, Analysis, Standings",
+    "Australian Basketball News, Scores, Stats, Analysis, Standings"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.razed.com/casino/slots/ that feel at home on australiabasket.com.\n\nReference SERP keyword: casino crypto\nAnchor keyword (use only if natural): crypto slots casino\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Exploring the Role of Sponsors - Australian Basketball\n- Australian Basketball News, Scores, Stats, Analysis, Standings\n- Australian Basketball News, Scores, Stats, Analysis, Standings\n- Australian Basketball News, Scores, Stats, Analysis, Standings\n\nGuidance:\n1. Combine your own knowledge of australiabasket.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to australiabasket.com while naturally justifying a link to https://www.razed.com/casino/slots/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude crypto slots casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 513,
+    "completion_tokens": 1217
+  },
+  "cost_usd": 0.08328
+}

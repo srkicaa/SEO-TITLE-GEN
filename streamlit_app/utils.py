@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import csv
 import hashlib
+import inspect
 import io
 import json
 import logging
@@ -36,7 +37,7 @@ SAMPLES_DIR = ASSETS_DIR / "samples"
 GENERATED_DIR = ASSETS_DIR / "generated"
 LOG_DIR = ASSETS_DIR / "logs"
 LOG_PATH = LOG_DIR / "app.log"
-DEFAULT_SERP_RESULT_LIMIT = 35
+DEFAULT_SERP_RESULT_LIMIT = 50
 DATAFORSEO_FETCH_LIMIT = 100
 
 HEADER_ALIASES: Dict[str, Iterable[str]] = {
@@ -89,6 +90,261 @@ _HEURISTIC_RULES: List[Tuple[Tuple[str, ...], str]] = [
 DOMAIN_PATTERN = re.compile(r"^[a-z0-9.-]+\.[a-z]{2,}$")
 
 
+def _get_attr(source: Any, name: str) -> Any:
+    if isinstance(source, dict):
+        return source.get(name)
+    return getattr(source, name, None)
+
+
+def create_openai_client(*, api_key: Optional[str] = None) -> Any:
+    """Return an OpenAI client while working around old httpx proxies args."""
+
+    if OpenAI is None:
+        raise RuntimeError("openai package is required but is not installed")
+
+    client_kwargs: Dict[str, Any] = {}
+    if api_key:
+        client_kwargs["api_key"] = api_key
+
+    try:
+        http_client = None
+        import httpx  # type: ignore
+
+        if "http_client" in inspect.signature(OpenAI.__init__).parameters:
+            try:
+                http_client = httpx.Client()
+            except TypeError:
+                class _PatchedHttpxClient(httpx.Client):
+                    def __init__(self, *args: Any, **kwargs: Any) -> None:
+                        kwargs.pop("proxies", None)
+                        super().__init__(*args, **kwargs)
+
+                http_client = _PatchedHttpxClient()
+
+        if http_client is not None:
+            client_kwargs["http_client"] = http_client
+    except Exception:  # pragma: no cover - guard against missing httpx
+        LOGGER.debug("Unable to initialize custom http client for OpenAI", exc_info=True)
+
+    return OpenAI(**client_kwargs)
+
+
+def _schema_hint(text_config: Optional[Dict[str, Any]]) -> str:
+    if not text_config:
+        return "Respond with valid JSON."
+    format_block = text_config.get("format") if isinstance(text_config, dict) else None
+    if isinstance(format_block, dict) and format_block.get("type") == "json_schema":
+        schema = format_block.get("schema")
+        try:
+            schema_snippet = json.dumps(schema, indent=2)
+        except TypeError:
+            schema_snippet = str(schema)
+        return (
+            "Respond with valid JSON matching this schema strictly:\n"
+            f"{schema_snippet}"
+        )
+    return "Respond with valid JSON that matches the requested schema."
+
+
+def invoke_openai_response(
+    client: Any,
+    *,
+    model: str,
+    system_prompt: str,
+    user_prompt: str,
+    max_output_tokens: int,
+    text_config: Optional[Dict[str, Any]] = None,
+    reasoning: Optional[Dict[str, Any]] = None,
+    temperature: Optional[float] = None,
+) -> Any:
+    """Call OpenAI responses API, falling back to chat.completions when unavailable."""
+
+    responses_client = getattr(client, "responses", None)
+    responses_create = getattr(responses_client, "create", None) if responses_client else None
+
+    if callable(responses_create):
+        payload: Dict[str, Any] = {
+            "model": model,
+            "input": [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt},
+            ],
+            "max_output_tokens": max_output_tokens,
+        }
+        if text_config is not None:
+            payload["text"] = text_config
+        if reasoning is not None:
+            payload["reasoning"] = reasoning
+        if (
+            temperature is not None
+            and model not in MODELS_WITHOUT_TEMPERATURE
+        ):
+            try:
+                if "temperature" in inspect.signature(responses_create).parameters:
+                    payload["temperature"] = temperature
+            except (TypeError, ValueError):
+                pass
+        return responses_create(**payload)
+
+    chat_client = getattr(client, "chat", None)
+    completions = getattr(chat_client, "completions", None) if chat_client else None
+    completions_create = getattr(completions, "create", None) if completions else None
+
+    if callable(completions_create):
+        schema_instruction = _schema_hint(text_config)
+        augmented_user_prompt = f"{user_prompt}\n\n{schema_instruction}" if user_prompt else schema_instruction
+        messages = [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": augmented_user_prompt},
+        ]
+
+        response_format_payload: Optional[Dict[str, Any]] = None
+        if isinstance(text_config, dict):
+            format_block = text_config.get("format")
+            if (
+                isinstance(format_block, dict)
+                and format_block.get("type") == "json_schema"
+                and isinstance(format_block.get("schema"), dict)
+            ):
+                response_format_payload = {
+                    "type": "json_schema",
+                    "json_schema": {
+                        "name": format_block.get("name", "structured_response"),
+                        "schema": format_block["schema"],
+                        "strict": True,
+                    },
+                }
+
+        base_payload: Dict[str, Any] = {
+            "model": model,
+            "messages": messages,
+        }
+        if (
+            temperature is not None
+            and model not in MODELS_WITHOUT_TEMPERATURE
+        ):
+            base_payload["temperature"] = max(min(temperature, 2.0), 0.0)
+        response_format_supported = True
+        if response_format_payload is not None:
+            base_payload["response_format"] = response_format_payload
+
+        last_error: Optional[Exception] = None
+        for token_field in ("max_completion_tokens", "max_tokens"):
+            payload = dict(base_payload)
+            payload[token_field] = max_output_tokens
+            try:
+                if reasoning is not None:
+                    payload["reasoning"] = reasoning
+                return completions_create(**payload)
+            except TypeError as exc:
+                lower_error = str(exc).lower()
+                if f"unexpected keyword argument '{token_field}'" in lower_error:
+                    last_error = exc
+                    continue
+                if "reasoning" in lower_error and "unexpected" in lower_error:
+                    payload.pop("reasoning", None)
+                    try:
+                        return completions_create(**payload)
+                    except Exception as exc_inner:
+                        last_error = exc_inner
+                        continue
+                if response_format_supported and "response_format" in lower_error and "unexpected" in lower_error:
+                    response_format_supported = False
+                    base_payload.pop("response_format", None)
+                    payload.pop("response_format", None)
+                    try:
+                        if reasoning is not None and "reasoning" not in lower_error:
+                            payload["reasoning"] = reasoning
+                        return completions_create(**payload)
+                    except Exception as exc_inner:
+                        last_error = exc_inner
+                        continue
+                raise
+            except Exception as exc:  # pragma: no cover - fallback for API errors
+                message = str(exc).lower()
+                normalized_field = token_field.replace("_", "")
+                if "unsupported parameter" in message and normalized_field in message.replace("_", ""):
+                    last_error = exc
+                    continue
+                raise
+
+        if last_error is not None:
+            raise last_error
+        raise RuntimeError("Unable to invoke chat.completions with available token parameters")
+
+    raise RuntimeError(
+        "OpenAI client does not provide responses or chat.completions endpoints; upgrade the openai package."
+    )
+
+
+def extract_finish_reason(response: Any) -> Optional[str]:
+    output_items = _get_attr(response, "output")
+    if isinstance(output_items, list) and output_items:
+        first = output_items[0]
+        finish_reason = _get_attr(first, "finish_reason")
+        if finish_reason:
+            return str(finish_reason)
+
+    choices = _get_attr(response, "choices")
+    if isinstance(choices, list) and choices:
+        first = choices[0]
+        finish_reason = _get_attr(first, "finish_reason")
+        if finish_reason:
+            return str(finish_reason)
+
+    return None
+
+
+def extract_primary_message_text(response: Any) -> Optional[str]:
+    choices = _get_attr(response, "choices")
+    if isinstance(choices, list) and choices:
+        first = choices[0]
+        message = _get_attr(first, "message")
+        if message is not None:
+            parsed_payload = _get_attr(message, "parsed")
+            if parsed_payload:
+                if isinstance(parsed_payload, str):
+                    return parsed_payload.strip()
+                try:
+                    return json.dumps(parsed_payload)
+                except TypeError:
+                    pass
+            content = _get_attr(message, "content")
+            if isinstance(content, str):
+                return content.strip()
+            if isinstance(content, list):
+                collected: List[str] = []
+                for block in content:
+                    text_value = _get_attr(block, "text")
+                    if isinstance(text_value, str):
+                        collected.append(text_value)
+                if collected:
+                    return "".join(collected).strip()
+
+    output_items = _get_attr(response, "output")
+    if isinstance(output_items, list) and output_items:
+        first = output_items[0]
+        parsed_payload = _get_attr(first, "parsed")
+        if parsed_payload:
+            if isinstance(parsed_payload, str):
+                return parsed_payload.strip()
+            try:
+                return json.dumps(parsed_payload)
+            except TypeError:
+                pass
+        content = _get_attr(first, "content")
+        if isinstance(content, list):
+            collected = []
+            for block in content:
+                text_value = _get_attr(block, "text")
+                if isinstance(text_value, str):
+                    collected.append(text_value)
+            if collected:
+                return "".join(collected).strip()
+
+    return None
+
+
 @dataclass
 class OrderInput:
     """Represents a single link building order."""
@@ -125,7 +381,7 @@ class FetchSettings:
     depth: int = 100
     poll_interval: float = 2.0
     max_attempts: int = 90
-    live: bool = True
+    live: bool = False
     use_site_operator: bool = True
     default_serp_keyword: str = ""
     tag: Optional[str] = None
@@ -235,7 +491,15 @@ def normalize_structured_value(value: Any) -> Optional[Any]:
         placeholder = stripped.strip('"')
         if placeholder in {"title_array", "order_batch"}:
             return None
-        return stripped
+        if _looks_like_json_fragment(stripped):
+            return stripped
+        brace_positions = [pos for pos in (stripped.find("{"), stripped.find("[")) if pos != -1]
+        if brace_positions:
+            start = min(brace_positions)
+            candidate = stripped[start:].strip()
+            if _looks_like_json_fragment(candidate):
+                return candidate
+        return None
     if isinstance(value, dict):
         if not value:
             return None
@@ -260,24 +524,68 @@ def normalize_structured_value(value: Any) -> Optional[Any]:
         for candidate in value.values():
             nested = normalize_structured_value(candidate)
             if nested is not None:
+                if isinstance(nested, str) and not _looks_like_json_fragment(nested):
+                    continue
                 return nested
         return None
     if isinstance(value, list):
         if not value:
             return None
         if all(isinstance(item, dict) for item in value):
-            return value
+            for item in value:
+                nested = normalize_structured_value(item)
+                if nested is not None:
+                    if isinstance(nested, str) and not _looks_like_json_fragment(nested):
+                        continue
+                    return nested
+            if _looks_like_order_collection(value) or _looks_like_titles_collection(value):
+                return value
+            return None
         if all(isinstance(item, str) for item in value):
             for item in value:
                 nested = normalize_structured_value(item)
                 if nested is not None:
+                    if isinstance(nested, str) and not _looks_like_json_fragment(nested):
+                        continue
                     return nested
         for item in value:
             nested = normalize_structured_value(item)
             if nested is not None:
+                if isinstance(nested, str) and not _looks_like_json_fragment(nested):
+                    continue
                 return nested
         return None
     return None
+
+
+def _looks_like_order_collection(value: Sequence[Any]) -> bool:
+    required = {"domain", "anchor_keyword", "target_url"}
+    for item in value:
+        if not isinstance(item, dict):
+            return False
+        keys = {str(key).lower() for key in item.keys()}
+        if not required.issubset(keys):
+            return False
+    return True
+
+
+def _looks_like_titles_collection(value: Sequence[Any]) -> bool:
+    candidate_keys = {"title", "url", "snippet"}
+    matches = 0
+    for item in value:
+        if not isinstance(item, dict):
+            return False
+        keys = {str(key).lower() for key in item.keys()}
+        if keys & candidate_keys:
+            matches += 1
+    return matches == len(value) and matches > 0
+
+
+def _looks_like_json_fragment(value: str) -> bool:
+    stripped = value.lstrip()
+    if not stripped:
+        return False
+    return stripped[0] in "{["
 
 
 def _find_first_key(payload: Any, keys: set[str]) -> Optional[Any]:
@@ -797,7 +1105,7 @@ def ai_parse_orders(
         load_env()
         if OpenAI is None:
             raise RuntimeError("openai package is required for AI parsing but is not installed")
-        client = OpenAI()
+        client = create_openai_client()
 
     lines = [line for line in text.splitlines() if line.strip()]
     header_hint = ""
@@ -890,8 +1198,14 @@ def ai_parse_orders(
             payload["temperature"] = temperature
 
         LOGGER.debug("AI parse HTTP call (attempt %d, schema=%s)", attempt, use_schema)
-        response_local = client.responses.create(  # type: ignore[attr-defined]
-            **payload
+        response_local = invoke_openai_response(
+            client,
+            model=model,
+            system_prompt=kwargs["input"][0]["content"],
+            user_prompt=kwargs["input"][1]["content"],
+            max_output_tokens=kwargs["max_output_tokens"],
+            text_config=payload["text"],
+            temperature=kwargs.get("temperature"),
         )
 
         structured_local = extract_structured_from_response(response_local)
@@ -990,7 +1304,7 @@ def suggest_serp_keywords_ai(
         load_env()
         if OpenAI is None:
             raise RuntimeError("openai package is required for AI suggestions but is not installed")
-        client = OpenAI()
+        client = create_openai_client()
 
     prompt = (
         "You suggest broad, thematic SERP keywords for SEO research. Each suggestion must be a short phrase "
@@ -1006,12 +1320,11 @@ def suggest_serp_keywords_ai(
         )
     user_content = "\n".join(order_lines)
 
-    response = client.responses.create(  # type: ignore[attr-defined]
+    response = invoke_openai_response(
+        client,
         model=model,
-        input=[
-            {"role": "system", "content": prompt},
-            {"role": "user", "content": user_content},
-        ],
+        system_prompt=prompt,
+        user_prompt=user_content,
         max_output_tokens=max_output_tokens,
     )
 
@@ -1085,6 +1398,13 @@ def extract_response_json(response: Any) -> str:
         for choice in response.choices:  # type: ignore[assignment]
             message = getattr(choice, "message", None)
             if message:
+                parsed_attr = getattr(message, "parsed", None)
+                if parsed_attr:
+                    try:
+                        return json.dumps(parsed_attr)
+                    except TypeError:
+                        if isinstance(parsed_attr, str):
+                            return parsed_attr.strip()
                 content = getattr(message, "content", None)
                 if isinstance(content, str) and content.strip():
                     return content.strip()
@@ -1102,7 +1422,11 @@ def extract_response_json(response: Any) -> str:
                 return content.strip()
             parsed_value = getattr(choice, "parsed", None)
             if parsed_value:
-                return json.dumps(parsed_value)
+                try:
+                    return json.dumps(parsed_value)
+                except TypeError:
+                    if isinstance(parsed_value, str):
+                        return parsed_value.strip()
 
     data_attr = getattr(response, "data", None)
     if data_attr:
@@ -1186,6 +1510,10 @@ def _find_text_in_payload(node: Any) -> str:
     return ""
 
 __all__ = [
+    "create_openai_client",
+    "invoke_openai_response",
+    "extract_finish_reason",
+    "extract_primary_message_text",
     "AI_PARSE_MODEL",
     "DEFAULT_SERP_RESULT_LIMIT",
     "FetchSettings",

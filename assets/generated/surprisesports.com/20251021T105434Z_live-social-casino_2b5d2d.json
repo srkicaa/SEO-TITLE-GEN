@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:54:34Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "surprisesports.com",
+    "anchor_keyword": "live social casino",
+    "anchor_country": "",
+    "target_url": "https://www.bonus.com/social-casinos/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Social Casino Basics for Sports Fans: Gameplay Loops, Coin Economies, and Fair Play",
+      "rationale": "Introduces core mechanics in a sports-centric voice. Naturally links to an authoritative overview of social casinos for definitions, formats, and how they work."
+    },
+    {
+      "title": "Sports-Themed Slots and Free-to-Play Tables: Why They Resonate With Fans",
+      "rationale": "Explores crossover appeal between sports audiences and casual gaming. A link to a comprehensive social casino guide supports context on game types and user experience."
+    },
+    {
+      "title": "From Odds to Spins: What Sportsbook Habits Do\u2014and Don\u2019t\u2014Carry Over to Social Gaming",
+      "rationale": "Bridges betting mindsets with RNG-driven social titles, fitting Surprise Sports readers. The link can clarify distinctions between real-money wagering and social casino play."
+    },
+    {
+      "title": "Mobile-First Social Gaming: Limits, Time Management, and Staying Within Local Rules",
+      "rationale": "Focuses on safe play habits and compliance-minded tips. A social casino explainer can supply jurisdictional context and platform-level features relevant to responsible use."
+    },
+    {
+      "title": "Leagues, Leaderboards, and Tournaments: the Community Side of Social Casino Play",
+      "rationale": "Highlights competitive structures familiar to sports fans. A link to a social casino hub provides deeper detail on formats, progression, and reward systems without brand specifics."
+    }
+  ],
+  "titles_context": [
+    "FairCasinos Review - The Best Online Casino Guide",
+    "How Casino Licensing Works and Why It Matters for Players ...",
+    "Sports Slots: Why Are They So Popular at the Best Casino Online ...",
+    "1win Nepal: Trusted gaming platform with exclusive features",
+    "Modern Online Slots: Trends and Case Studies",
+    "The Most Innovative Slots From Relax Gaming",
+    "Ripper Casino Honest Review 2025: Is It Worth Your Time?",
+    "The Most Popular Slot Games You Can Play in 2023",
+    "Top Casino Games You Can Play at Wolf Winner in 2025",
+    "Casino Online CZ Review for Czech Players - Surprise Sports",
+    "How Odds Differ Between Sportsbooks and Online Casino ...",
+    "Lucky Tiger Casino App for Players in Australia - Surprise Sports",
+    "The role of 1win in the Philippines online casino industry and ...",
+    "A Beginner's Guide to Understanding FanDuel Casino ...",
+    "Best Online Casino Reviews for Slots, Poker, and Live Games",
+    "Choosing the Right CPA Network - Surprise Sports",
+    "How Online Casinos Are Capitalizing on NBA Popularity",
+    "Sweet Bonanza App - Always Have a Slot at Your Fingertips ...",
+    "Viggo Slots: New Gaming Platforms Revolutionizing Online ...",
+    "High RTP Games at Vox Casino: truth or marketing trick?",
+    "Chasing the Big Win: Popular Progressive Jackpot Slots on ...",
+    "How Payper Payment Methods Are Changing the Online ...",
+    "Best Casinos to Play Crazy Time in Bangladesh and How to ...",
+    "Inside Chicken Road: How the Game Works and Why It's a Hit",
+    "Where Gaming Meets Mobility: The Glory Casino App Reviewed"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.bonus.com/social-casinos/ that feel at home on surprisesports.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): live social casino\n\nAnchor operates in: Unspecified\n\nReference titles:\n- FairCasinos Review - The Best Online Casino Guide\n- How Casino Licensing Works and Why It Matters for Players ...\n- Sports Slots: Why Are They So Popular at the Best Casino Online ...\n- 1win Nepal: Trusted gaming platform with exclusive features\n- Modern Online Slots: Trends and Case Studies\n- The Most Innovative Slots From Relax Gaming\n- Ripper Casino Honest Review 2025: Is It Worth Your Time?\n- The Most Popular Slot Games You Can Play in 2023\n- Top Casino Games You Can Play at Wolf Winner in 2025\n- Casino Online CZ Review for Czech Players - Surprise Sports\n- How Odds Differ Between Sportsbooks and Online Casino ...\n- Lucky Tiger Casino App for Players in Australia - Surprise Sports\n- The role of 1win in the Philippines online casino industry and ...\n- A Beginner's Guide to Understanding FanDuel Casino ...\n- Best Online Casino Reviews for Slots, Poker, and Live Games\n- Choosing the Right CPA Network - Surprise Sports\n- How Online Casinos Are Capitalizing on NBA Popularity\n- Sweet Bonanza App - Always Have a Slot at Your Fingertips ...\n- Viggo Slots: New Gaming Platforms Revolutionizing Online ...\n- High RTP Games at Vox Casino: truth or marketing trick?\n- Chasing the Big Win: Popular Progressive Jackpot Slots on ...\n- How Payper Payment Methods Are Changing the Online ...\n- Best Casinos to Play Crazy Time in Bangladesh and How to ...\n- Inside Chicken Road: How the Game Works and Why It's a Hit\n- Where Gaming Meets Mobility: The Glory Casino App Reviewed\n\nGuidance:\n1. Combine your own knowledge of surprisesports.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to surprisesports.com while naturally justifying a link to https://www.bonus.com/social-casinos/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude live social casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1040,
+    "completion_tokens": 724
+  },
+  "cost_usd": 0.06424
+}

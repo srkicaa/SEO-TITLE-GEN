@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:32:59Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "sportsgamblingpodcast.com",
+    "anchor_keyword": "Elvel Limited Casinos",
+    "anchor_country": "Sweden",
+    "target_url": "https://elvel-limited-casinos.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Sports-Themed Casino Games Popular in Sweden: a Bettor\u2019s Guide",
+      "rationale": "Fits SGPN\u2019s crossover audience by spotlighting sports-influenced slots and table variants. Naturally supports a contextual link to Elvel Limited Casinos for readers exploring licensed Swedish options and examples."
+    },
+    {
+      "title": "How to Play Roulette: Bankroll Tips and Table Etiquette for Sweden-Based Players",
+      "rationale": "Instructional piece aligned with SGPN\u2019s how-to style. A reference to Elvel Limited Casinos can guide Sweden-focused readers toward compliant platforms and practical table variations."
+    },
+    {
+      "title": "What the Online Casino Scene Looks Like in Sweden in 2025",
+      "rationale": "Timely market overview that mirrors SGPN\u2019s industry explainer format. Including Elvel Limited Casinos offers a relevant Sweden-specific resource for readers comparing regulated offerings."
+    },
+    {
+      "title": "Comparing Casino Banking Options for Sweden: Fast Payouts, Limits, and Fees",
+      "rationale": "Banking deep-dive complements SGPN\u2019s practical guides. Linking to Elvel Limited Casinos gives readers Sweden-centric info on common payment methods and processing expectations."
+    },
+    {
+      "title": "Merging Sports Betting and Casino Play in Sweden: Strategies for Time and Bankroll",
+      "rationale": "Strategy-focused angle bridges SGPN\u2019s sports betting core with casino content. A contextual mention of Elvel Limited Casinos can illustrate integrated experiences available to Swedish users."
+    }
+  ],
+  "titles_context": [
+    "Top 12 Low Volatility Slot Machines with High RTP",
+    "How To Play Roulette And Strategies For Winning",
+    "Casino Games Inspired by Sports, a Closer Look for Fans",
+    "Casino Road Trip: West Coast",
+    "Casino Road Trip: Some of the Best Casinos Across America",
+    "The pros and cons of PayPal casinos",
+    "What is the Online Casino Industry Like in 2025?",
+    "How to Choose Slot Machine: A Beginner's Guide ...",
+    "CASINO Archives",
+    "CASINO - SGPN - Sports Gambling Podcast",
+    "Best Online Casino Games",
+    "Which U.S. States Are Topping Online Casino Revenue in ...",
+    "Sports Themed Casino Games That Will Scratch Your ...",
+    "Sport-Themed Games in the Best Minimum Casino Sites",
+    "Merge Sports Betting & Casino Games for a Richer Experience",
+    "Compare Online Casinos to Find the Best One for You",
+    "How to Claim the Best Welcome Bonus at an Online Casino",
+    "The Best Social Casino Games Played in 2023",
+    "Comparing Sports Betting and Casino Bonuses",
+    "The Future of Multi-Sensory Slot Experiences",
+    "Types of Gambling Explained",
+    "Casinon's Rundown Of The Best High-Stakes Casinos For ...",
+    "Is Your Online Casino Safe? 5 Indicators to Look For",
+    "Choosing the Best Casino Banking Options for Your Bets",
+    "Sports Gambling Podcast - Free Betting Picks"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://elvel-limited-casinos.com/ that feel at home on sportsgamblingpodcast.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Elvel Limited Casinos\n\nAnchor operates in: Sweden. \n\nI need to have the country in the title.\n\nReference titles:\n- Top 12 Low Volatility Slot Machines with High RTP\n- How To Play Roulette And Strategies For Winning\n- Casino Games Inspired by Sports, a Closer Look for Fans\n- Casino Road Trip: West Coast\n- Casino Road Trip: Some of the Best Casinos Across America\n- The pros and cons of PayPal casinos\n- What is the Online Casino Industry Like in 2025?\n- How to Choose Slot Machine: A Beginner's Guide ...\n- CASINO Archives\n- CASINO - SGPN - Sports Gambling Podcast\n- Best Online Casino Games\n- Which U.S. States Are Topping Online Casino Revenue in ...\n- Sports Themed Casino Games That Will Scratch Your ...\n- Sport-Themed Games in the Best Minimum Casino Sites\n- Merge Sports Betting & Casino Games for a Richer Experience\n- Compare Online Casinos to Find the Best One for You\n- How to Claim the Best Welcome Bonus at an Online Casino\n- The Best Social Casino Games Played in 2023\n- Comparing Sports Betting and Casino Bonuses\n- The Future of Multi-Sensory Slot Experiences\n- Types of Gambling Explained\n- Casinon's Rundown Of The Best High-Stakes Casinos For ...\n- Is Your Online Casino Safe? 5 Indicators to Look For\n- Choosing the Best Casino Banking Options for Your Bets\n- Sports Gambling Podcast - Free Betting Picks\n\nGuidance:\n1. Combine your own knowledge of sportsgamblingpodcast.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to sportsgamblingpodcast.com while naturally justifying a link to https://elvel-limited-casinos.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Elvel Limited Casinos and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Sweden where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 945,
+    "completion_tokens": 544
+  },
+  "cost_usd": 0.05154
+}

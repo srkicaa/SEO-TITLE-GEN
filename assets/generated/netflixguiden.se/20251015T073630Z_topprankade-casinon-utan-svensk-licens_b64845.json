@@ -1,0 +1,52 @@
+{
+  "created_at": "2025-10-15T07:36:30Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "netflixguiden.se",
+    "anchor_keyword": "Topprankade casinon utan svensk licens",
+    "anchor_country": "Sweden",
+    "target_url": "https://www.umamicart.com/sv/casino/utan-bankid/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Casinotema P\u00e5 Netflix I Sverige: Filmer Som F\u00e5ngar Spelets Nerv 2025",
+      "rationale": "Passar netflixguiden.se:s lista- och tipsformat. L\u00e4nken kan ge l\u00e4saren kontext om hur spel fungerar i Sverige, skillnaden mellan BankID och alternativ inloggning samt vad \u201cutan BankID\u201d inneb\u00e4r i praktiken."
+    },
+    {
+      "title": "Casino (1995) P\u00e5 Netflix I Sverige | S\u00e5 Realistisk \u00e4R Spelmilj\u00f6n",
+      "rationale": "Titeln knyter an till ett v\u00e4lk\u00e4nt verk i katalogen. En l\u00e4nk kan f\u00f6rklara hur verkliga spelmilj\u00f6er och svensk inloggning/identifiering skiljer sig fr\u00e5n filmens skildring, inklusive vad som menas med spel utan BankID."
+    },
+    {
+      "title": "Casino App vs. Klassiska Casinofilmer P\u00e5 Netflix: Vad Skiljer I Sverige?",
+      "rationale": "Refererar till tidigare artikelstil p\u00e5 sajten. L\u00e4nken kan ge neutral bakgrund om identifiering, licenser och hur spel utan BankID fungerar j\u00e4mf\u00f6rt med svenska standarder, f\u00f6r l\u00e4sare som vill f\u00f6rst\u00e5 kontexten."
+    },
+    {
+      "title": "Hur Fungerar Slumptal P\u00e5 Filmens Spelbord J\u00e4mf\u00f6rt Med Riktiga Spelautomater?",
+      "rationale": "Bygger p\u00e5 intresse f\u00f6r RNG som redan f\u00f6rekommer p\u00e5 sajten. L\u00e4nken kan komplettera med saklig info om verifiering, s\u00e4kerhet och hur spel utan BankID f\u00f6rh\u00e5ller sig till svensk regelmilj\u00f6."
+    },
+    {
+      "title": "Nio Saker Att G\u00f6ra Under En Snabb Paus Fr\u00e5n Netflix \u2013 Speltema Och Fakta F\u00f6r Nyfikna",
+      "rationale": "Speglas mot befintligt paus-inneh\u00e5ll. L\u00e4nken kan fungera som ett informativt inslag f\u00f6r den som vill l\u00e4sa p\u00e5 om identifiering och vad spel utan BankID inneb\u00e4r, utan att uppmuntra till spelande."
+    }
+  ],
+  "titles_context": [
+    "Casino Royale (2006) p\u00e5 Netflix i Sverige | Tips och Info",
+    "B\u00e4sta filmerna med casinotema att titta p\u00e5 2025",
+    "Casino app vs. klassiska casinofilmer p\u00e5 Netflix",
+    "Casino (1995) p\u00e5 Netflix i Sverige | Tips och Info",
+    "Hur fungerar slumptalsgeneratorn i casino spelautomater",
+    "The Adventures of Priscilla, Queen of the Desert (1994)",
+    "Walking Tall (2004) p\u00e5 Netflix i Sverige | Tips och Info",
+    "La Baie des Anges (1963) p\u00e5 Netflix i Sverige | Tips och Info",
+    "Echelon Conspiracy (2009) p\u00e5 Netflix i Sverige | Tips och Info",
+    "Nio saker du kan g\u00f6ra under en snabb paus fr\u00e5n Netflix"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.umamicart.com/sv/casino/utan-bankid/ that feel at home on netflixguiden.se.\n\nReference SERP keyword: casinon\nAnchor keyword (use only if natural): Topprankade casinon utan svensk licens\n\nAnchor operates in: Sweden\n\nReference titles:\n- Casino Royale (2006) p\u00e5 Netflix i Sverige | Tips och Info\n- B\u00e4sta filmerna med casinotema att titta p\u00e5 2025\n- Casino app vs. klassiska casinofilmer p\u00e5 Netflix\n- Casino (1995) p\u00e5 Netflix i Sverige | Tips och Info\n- Hur fungerar slumptalsgeneratorn i casino spelautomater\n- The Adventures of Priscilla, Queen of the Desert (1994)\n- Walking Tall (2004) p\u00e5 Netflix i Sverige | Tips och Info\n- La Baie des Anges (1963) p\u00e5 Netflix i Sverige | Tips och Info\n- Echelon Conspiracy (2009) p\u00e5 Netflix i Sverige | Tips och Info\n- Nio saker du kan g\u00f6ra under en snabb paus fr\u00e5n Netflix\n\nGuidance:\n1. Combine your own knowledge of netflixguiden.se's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to netflixguiden.se while naturally justifying a link to https://www.umamicart.com/sv/casino/utan-bankid/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Topprankade casinon utan svensk licens and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Sweden where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 749,
+    "completion_tokens": 1302
+  },
+  "cost_usd": 0.0931
+}

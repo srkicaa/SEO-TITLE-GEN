@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-22T13:38:43Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "sportsfanfare.com",
+    "anchor_keyword": "500-casino.net",
+    "anchor_country": "",
+    "target_url": "https://500-casino.net",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Game-Day Bankroll Plays: Casino Strategies Sports Fans Can Use in 2025",
+      "rationale": "Fits Sports Fanfare\u2019s sports-first tone by framing bankroll tactics like game plans; link to 500-casino.net as a neutral resource for deeper how-to guides on limits, staking, and session planning."
+    },
+    {
+      "title": "Sports-Themed Casino Games That Fit Halftime and Timeout Windows",
+      "rationale": "Bridges sports breaks with quick-play titles; a contextual link to 500-casino.net can point readers to examples and mechanics of short-session games without naming brands."
+    },
+    {
+      "title": "Live Casino Pace, Flow, and Table Etiquette for Fans Used to Live Sports",
+      "rationale": "Parallels in-arena tempo with live-dealer rhythms; 500-casino.net can serve as the reference hub for explaining table procedures, roles, and typical round times."
+    },
+    {
+      "title": "Mobile Casino Routines for on-the-Go Supporters: Quick Sessions and Safer Limits",
+      "rationale": "Targets readers traveling to games or watching on the move; link to 500-casino.net for platform-agnostic tips on mobile play, limit-setting, and session timers."
+    },
+    {
+      "title": "Variance Like a Box Score: RNG vs Live Dealer Casino Outcomes Explained",
+      "rationale": "Translates results and streaks into stat-minded terms; 500-casino.net can provide background pages on RTP, volatility, and fairness testing for readers wanting the technical details."
+    }
+  ],
+  "titles_context": [
+    "10 Finest Web based casinos and Gambling Internet sites 2025",
+    "ten Greatest Real money Casinos on the internet for Us ...",
+    "Best Online Slots : Gamble Best Slots For fun - Sports Fanfare",
+    "ten Greatest Online casinos Rated from the Betting ...",
+    "Top 10 On-line casino Real cash Websites in america to own ...",
+    "The best Real time Specialist Online casinos - Sports Fanfare",
+    "Top 10 Gambling Casinos Us to try out for real Profit 2025",
+    "10 Best A real income Online casino Sites United states inside ...",
+    "Greatest Online casinos: Play and you will Earn at the best ...",
+    "Greatest Casino games to try out and you will Victory A real ...",
+    "Best Online slots games for real Currency: ten Better Local ...",
+    "ten Finest Real cash Casinos on the internet to own United ...",
+    "Better Casinos on the internet: Play and you can Earn at best ...",
+    "Top 10 Casino Gaming Sites for real Money in the us 2025",
+    "Top 10 Betting Casinos Us playing the real deal Money in 2025",
+    "10 Best A real income Casinos on the internet to possess Us ...",
+    "Better Online casino games Online you to definitely Pay A real ...",
+    "Best 100 Casinos on casino Very Vegas the internet for 2025",
+    "Top 10 Web based casinos to try out A real income Video ...",
+    "Top ten Top Internet casino Web sites to have a secure ...",
+    "10 Best Live Casinos to try out the real deal Currency On line ...",
+    "10 Better Real cash Online casinos to have United states of ...",
+    "10 Greatest Web based casinos in america 2025",
+    "Better slot machine jurassic giants United states Casinos to ...",
+    "Online gambling Virginia: casino Luxury casino Finest Va ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://500-casino.net that feel at home on sportsfanfare.com.\n\nReference SERP keyword: casino \nAnchor keyword (use only if natural): 500-casino.net\n\nAnchor operates in: Unspecified\n\nReference titles:\n- 10 Finest Web based casinos and Gambling Internet sites 2025\n- ten Greatest Real money Casinos on the internet for Us ...\n- Best Online Slots : Gamble Best Slots For fun - Sports Fanfare\n- ten Greatest Online casinos Rated from the Betting ...\n- Top 10 On-line casino Real cash Websites in america to own ...\n- The best Real time Specialist Online casinos - Sports Fanfare\n- Top 10 Gambling Casinos Us to try out for real Profit 2025\n- 10 Best A real income Online casino Sites United states inside ...\n- Greatest Online casinos: Play and you will Earn at the best ...\n- Greatest Casino games to try out and you will Victory A real ...\n- Best Online slots games for real Currency: ten Better Local ...\n- ten Finest Real cash Casinos on the internet to own United ...\n- Better Casinos on the internet: Play and you can Earn at best ...\n- Top 10 Casino Gaming Sites for real Money in the us 2025\n- Top 10 Betting Casinos Us playing the real deal Money in 2025\n- 10 Best A real income Casinos on the internet to possess Us ...\n- Better Online casino games Online you to definitely Pay A real ...\n- Best 100 Casinos on casino Very Vegas the internet for 2025\n- Top 10 Web based casinos to try out A real income Video ...\n- Top ten Top Internet casino Web sites to have a secure ...\n- 10 Best Live Casinos to try out the real deal Currency On line ...\n- 10 Better Real cash Online casinos to have United states of ...\n- 10 Greatest Web based casinos in america 2025\n- Better slot machine jurassic giants United states Casinos to ...\n- Online gambling Virginia: casino Luxury casino Finest Va ...\n\nGuidance:\n1. Combine your own knowledge of sportsfanfare.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to sportsfanfare.com while naturally justifying a link to https://500-casino.net.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude 500-casino.net and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1110,
+    "completion_tokens": 1194
+  },
+  "cost_usd": 0.09384
+}

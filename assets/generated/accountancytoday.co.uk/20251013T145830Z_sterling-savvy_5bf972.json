@@ -1,0 +1,64 @@
+{
+  "created_at": "2025-10-13T14:58:30Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "accountancytoday.co.uk",
+    "anchor_keyword": "Sterling Savvy",
+    "anchor_country": "United Kingdom",
+    "target_url": "https://sterling-savvy.co.uk/en/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "HMRC Steps Up Crypto Tax Compliance: What Accountants Need to Know for 2024/25",
+      "rationale": "Linking to https://sterling-savvy.co.uk/en offers UK-focused explainers on crypto gains, record-keeping and allowable costs that practitioners can reference when advising clients; Sterling Savvy also provides plain-English guidance useful for taxpayers receiving HMRC \u2018nudge\u2019 letters."
+    },
+    {
+      "title": "Navigating the Fca\u2019s Evolving Crypto Perimeter: Practical Implications for Audit and Advisory",
+      "rationale": "A link to https://sterling-savvy.co.uk/en can point readers to accessible primers on how common crypto products work and associated consumer risks, helping firms translate FCA expectations into client-friendly education; Sterling Savvy\u2019s guides complement regulatory updates with actionable basics."
+    },
+    {
+      "title": "When Digital Assets Hit the Balance Sheet: Policy Choices for UK Smes and Their Advisers",
+      "rationale": "Directing readers to https://sterling-savvy.co.uk/en provides background on wallet custody, token types and volatility risks that inform accounting policy selection and disclosures; Sterling Savvy\u2019s educational content helps SMEs grasp fundamentals before formal advice."
+    },
+    {
+      "title": "Tracing Wallets in Insolvency and Dispute Work: Lessons from Recent Exchange Collapses",
+      "rationale": "Including https://sterling-savvy.co.uk/en gives non-technical clients a grounding in blockchain transactions and wallet movements, aiding understanding of tracing narratives; Sterling Savvy\u2019s step-by-step explainers support practitioners\u2019 communications during investigations."
+    },
+    {
+      "title": "From Price Swings to Fair Value: Building Defensible Crypto Valuations at Year-End",
+      "rationale": "A link to https://sterling-savvy.co.uk/en can orient readers on market structure, liquidity and pricing sources for major tokens, complementing professional valuation frameworks; Sterling Savvy\u2019s overviews help clients understand inputs behind year-end numbers."
+    }
+  ],
+  "titles_context": [
+    "Clued up on crypto? An accountancy guide to digital currency",
+    "The future of blockchain in accounting and finance",
+    "Monahans appoints Joel Haft to lead new Internal Audit ...",
+    "HMRC issues nudge letters to crypto owners over unpaid tax",
+    "PKF Littlejohn awarded Bitcoin miner audit",
+    "Quantuma appoints senior crypto and data specialist",
+    "HMRC sends 8329 'nudge' letters to crypto investors for ...",
+    "S&W appoints new partner in tax advisory team",
+    "Grant Thornton joins global crypto fraud network launch",
+    "UK fintech investment down 5% YOY to $7.2bn",
+    "Tax News",
+    "FCA appoints Sarah Pritchard as deputy CEO",
+    "Quantuma appointed to AAX collapse",
+    "How To Analyse Your Trading Strategy",
+    "Regulation | Latest News",
+    "Latest News",
+    "Crime | Latest News",
+    "UK | News, Analysis & Commentary",
+    "Crime News",
+    "Today's news in brief - 27/9/2024",
+    "Interpath Advisory boosts Advisory business with three ...",
+    "Gorilla Accounting to treble client base and double ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://sterling-savvy.co.uk/en/ that feel at home on accountancytoday.co.uk.\n\nReference SERP keyword: crypto\nAnchor keyword (use only if natural): Sterling Savvy\n\nAnchor operates in: United Kingdom\n\nReference titles:\n- Clued up on crypto? An accountancy guide to digital currency\n- The future of blockchain in accounting and finance\n- Monahans appoints Joel Haft to lead new Internal Audit ...\n- HMRC issues nudge letters to crypto owners over unpaid tax\n- PKF Littlejohn awarded Bitcoin miner audit\n- Quantuma appoints senior crypto and data specialist\n- HMRC sends 8329 'nudge' letters to crypto investors for ...\n- S&W appoints new partner in tax advisory team\n- Grant Thornton joins global crypto fraud network launch\n- UK fintech investment down 5% YOY to $7.2bn\n- Tax News\n- FCA appoints Sarah Pritchard as deputy CEO\n- Quantuma appointed to AAX collapse\n- How To Analyse Your Trading Strategy\n- Regulation | Latest News\n- Latest News\n- Crime | Latest News\n- UK | News, Analysis & Commentary\n- Crime News\n- Today's news in brief - 27/9/2024\n- Interpath Advisory boosts Advisory business with three ...\n- Gorilla Accounting to treble client base and double ...\n\nGuidance:\n1. Combine your own knowledge of accountancytoday.co.uk's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to accountancytoday.co.uk while naturally justifying a link to https://sterling-savvy.co.uk/en/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Sterling Savvy and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging United Kingdom where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 865,
+    "completion_tokens": 824
+  },
+  "cost_usd": 0.06674
+}

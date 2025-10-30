@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-15T07:33:56Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "svenskbyggtidning.se",
+    "anchor_keyword": "Casino utan spelpaus och svensk licens",
+    "anchor_country": "Sweden",
+    "target_url": "https://www.umamicart.com/sv/casino/utan-bankid/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Casinon Som Stadsbyggare: Hur N\u00f6jesarkitektur Formar Offentliga Rum I Sverige",
+      "rationale": "Passar Svensk Byggtidnings fokus p\u00e5 arkitektur och stadsutveckling. I br\u00f6dtext kan man j\u00e4mf\u00f6ra svenska och utl\u00e4ndska spelmilj\u00f6er och naturligt l\u00e4nka via frasen om skillnader mellan licensmodeller (t.ex. casino utan BankID) till m\u00e5l-URL."
+    },
+    {
+      "title": "Digitala Casinons Identitetsfl\u00f6den: Designval N\u00e4r Spel Sker Utan Nationella ID-L\u00f6sningar",
+      "rationale": "Knyter an till digitalisering och anv\u00e4ndarfl\u00f6den som p\u00e5verkar svensk UX/bygg-IT. Br\u00f6dtexten kan f\u00f6rklara vad som menas med spel utan BankID och l\u00e4nka med relevant ankartext om alternativ till svensk licens."
+    },
+    {
+      "title": "Material, Ljus Och Akustik: S\u00e5 Utformas Trygga Och Attraktiva Casinointeri\u00f6rer",
+      "rationale": "Teknisk vinkling om gestaltning som matchar tidningens bygg- och designinneh\u00e5ll. En faktaruta kan belysa skillnader mellan licensierade milj\u00f6er i Sverige och utl\u00e4ndska akt\u00f6rer och d\u00e5 l\u00e4nka till f\u00f6rdjupning om spel utan BankID."
+    },
+    {
+      "title": "Reglering M\u00f6ter Gestaltning: N\u00e4r Svenska Krav P\u00e5verkar Utformningen Av Fysiska Och Digitala Spelmilj\u00f6er",
+      "rationale": "F\u00f6renar myndighetskrav och design\u2014ett \u00e5terkommande tema hos Svensk Byggtidning. I texten kan man j\u00e4mf\u00f6ra regelverk och anv\u00e4ndaridentifiering och med naturlig formulering l\u00e4nka till en guide om casinon utanf\u00f6r svensk licensram."
+    },
+    {
+      "title": "Fr\u00e5n Datacenter Till Entr\u00e9plan: H\u00e5llbarhetsfr\u00e5gor L\u00e4ngs Casinons Hela V\u00e4rdekedja",
+      "rationale": "Tar ett helhetsgrepp om energi, drift och gestaltning\u2014relevant f\u00f6r bygg- och anl\u00e4ggningsl\u00e4sare. I avsnitt om digital infrastruktur kan man n\u00e4mna spel utan BankID och l\u00e4nka med naturlig ankartext f\u00f6r f\u00f6rdjupning."
+    }
+  ],
+  "titles_context": [
+    "casino-3282559_1280",
+    "Casinon med bonus utan ins\u00e4ttning p\u00e5 Sveacasino.se",
+    "v\u00e4rldens \u00e4ldsta casino Archives - svenskbyggtidning",
+    "Nya trender inom QuickCasino online casino",
+    "casino-1144952_1280",
+    "Kryptovalutor och kreditkort: Hur Spelinspektionens regler ...",
+    "\u00c4r Casinon.com det b\u00e4sta alternativet f\u00f6r att hitta betting ...",
+    "Blockchain kan f\u00f6r\u00e4ndra svenska casino f\u00f6r alltid",
+    "Regeringen planerar att st\u00e4nga ner Sveriges enda fysiska ...",
+    "Balansen mellan estetik och funktionalitet i kasinov\u00e4rlden",
+    "Var du kan hitta licensierade och reglerade svenska ...",
+    "\u00c4r utl\u00e4ndska casinon byggda f\u00f6r att f\u00e5 dig att spela mer \u00e4n ...",
+    "spel p\u00e5 casinon Archives",
+    "Framtiden f\u00f6r r\u00e4ttvist spelande: konsten att skapa p\u00e5litliga ...",
+    "Byggs det egentligen nya casinon?",
+    "V\u00e4rldens dyraste casinobyggen",
+    "Stadsutveckling genom casinon \u2013 byggnader som formar ...",
+    "S\u00e5 \u00e4r casinobonusar uppbyggda \u2013 strukturen bakom ...",
+    "Svenska casino byggnader \u00e4r en viktig del av landets ...",
+    "Digitaliseringen inom byggindustrin p\u00e5verkar svenska ...",
+    "Hur popul\u00e4rt \u00e4r poker i Sverige?",
+    "Spelinspektionen stoppar Simba: Ett tydligt exempel p\u00e5 ...",
+    "Casino utan svensk licens: byggd f\u00f6r framg\u00e5ng",
+    "Spelkonton p\u00e5 v\u00e4g att ing\u00e5 i konto- och v\u00e4rdefackssystemet",
+    "En titt p\u00e5 svenska spelmarknaden 2024"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.umamicart.com/sv/casino/utan-bankid/ that feel at home on svenskbyggtidning.se.\n\nReference SERP keyword: casinon\nAnchor keyword (use only if natural): Casino utan spelpaus och svensk licens\n\nAnchor operates in: Sweden\n\nReference titles:\n- casino-3282559_1280\n- Casinon med bonus utan ins\u00e4ttning p\u00e5 Sveacasino.se\n- v\u00e4rldens \u00e4ldsta casino Archives - svenskbyggtidning\n- Nya trender inom QuickCasino online casino\n- casino-1144952_1280\n- Kryptovalutor och kreditkort: Hur Spelinspektionens regler ...\n- \u00c4r Casinon.com det b\u00e4sta alternativet f\u00f6r att hitta betting ...\n- Blockchain kan f\u00f6r\u00e4ndra svenska casino f\u00f6r alltid\n- Regeringen planerar att st\u00e4nga ner Sveriges enda fysiska ...\n- Balansen mellan estetik och funktionalitet i kasinov\u00e4rlden\n- Var du kan hitta licensierade och reglerade svenska ...\n- \u00c4r utl\u00e4ndska casinon byggda f\u00f6r att f\u00e5 dig att spela mer \u00e4n ...\n- spel p\u00e5 casinon Archives\n- Framtiden f\u00f6r r\u00e4ttvist spelande: konsten att skapa p\u00e5litliga ...\n- Byggs det egentligen nya casinon?\n- V\u00e4rldens dyraste casinobyggen\n- Stadsutveckling genom casinon \u2013 byggnader som formar ...\n- S\u00e5 \u00e4r casinobonusar uppbyggda \u2013 strukturen bakom ...\n- Svenska casino byggnader \u00e4r en viktig del av landets ...\n- Digitaliseringen inom byggindustrin p\u00e5verkar svenska ...\n- Hur popul\u00e4rt \u00e4r poker i Sverige?\n- Spelinspektionen stoppar Simba: Ett tydligt exempel p\u00e5 ...\n- Casino utan svensk licens: byggd f\u00f6r framg\u00e5ng\n- Spelkonton p\u00e5 v\u00e4g att ing\u00e5 i konto- och v\u00e4rdefackssystemet\n- En titt p\u00e5 svenska spelmarknaden 2024\n\nGuidance:\n1. Combine your own knowledge of svenskbyggtidning.se's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to svenskbyggtidning.se while naturally justifying a link to https://www.umamicart.com/sv/casino/utan-bankid/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Casino utan spelpaus och svensk licens and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Sweden where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1104,
+    "completion_tokens": 1363
+  },
+  "cost_usd": 0.10386
+}

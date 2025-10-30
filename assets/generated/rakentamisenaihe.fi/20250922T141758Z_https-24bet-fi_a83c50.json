@@ -1,0 +1,47 @@
+{
+  "created_at": "2025-09-22T14:17:58Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "rakentamisenaihe.fi",
+    "anchor_keyword": "https://24bet.fi/",
+    "anchor_country": "",
+    "target_url": "https://24bet.fi/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Viihdehuoneen Rakentaminen Kerrostaloon: \u00e4\u00e4Nieristys, Valaistus Ja Kaapelointi",
+      "rationale": "Rakentamisenaihe.fi:lle tyypillinen tekninen n\u00e4k\u00f6kulma (akustiikka, s\u00e4hk\u00f6t, johdotus). Linkki 24bet.fi:hin tukee taustasis\u00e4lt\u00f6\u00e4 selitt\u00e4m\u00e4ll\u00e4, millainen digiviihde (esim. reaaliaikaiset pelit) hy\u00f6tyy hyv\u00e4st\u00e4 akustiikasta ja kaapeloinnista ilman, ett\u00e4 otsikko mainitsee br\u00e4ndej\u00e4."
+    },
+    {
+      "title": "Kasinoilta Tuttua Tunnelmaa Kotiin: Valaistus, \u00e4\u00e4Nimaailma Ja Pintamateriaalit",
+      "rationale": "Sisustuksen ja rakenteiden yhdist\u00e4minen viihteeseen sopii kohdesivuston tyyliin. 24bet.fi voi taustatekstiss\u00e4 havainnollistaa, millaisia el\u00e4myksellisi\u00e4 elementtej\u00e4 verkon kasinopelit korostavat, mik\u00e4 perustelee valaistuksen ja akustiikan ratkaisuja."
+    },
+    {
+      "title": "Nopeat Yhteydet Ja Siisti S\u00e4hk\u00f6: Kotiverkon Ja -S\u00e4hk\u00f6n Suunnittelu Digiviihteelle",
+      "rationale": "Talotekniikka-aihe (LAN, Wi\u2011Fi, s\u00e4hk\u00f6n kuormitus, pistorasioiden sijoittelu) on ydinalue rakentamisenaihe.fi:ss\u00e4. 24bet.fi tarjoaa viitekehyksen viiveherk\u00e4lle digiviihteelle ja maksuliikenteelle, joka hy\u00f6tyy vakaista yhteyksist\u00e4."
+    },
+    {
+      "title": "Pieness\u00e4 Tilassa Pelataan Isosti: Kalusteratkaisut Ja Akustiikka Pieneen Pelinurkkaan",
+      "rationale": "Tilatehokkuus, s\u00e4ilytys ja akustiikka ovat rakentamis- ja sisustuslukijoille relevantteja. Linkitys 24bet.fi:hin antaa kontekstin pelinurkan k\u00e4ytt\u00f6tarpeista (esim. \u00e4\u00e4nitasot, keskittymisen tarve), ilman br\u00e4ndien tuomista otsikkoon."
+    },
+    {
+      "title": "Vastuullinen Viihde Alkaa Tilasta: N\u00e4kyvyydet, S\u00e4ilytys Ja Taukojen Huomiointi Suunnittelussa",
+      "rationale": "Rakennus- ja sisustuskulma vastuulliseen k\u00e4ytt\u00f6\u00f6n: n\u00e4k\u00f6suojat, ergonomia, taukopaikat. 24bet.fi voi taustoittaa, miten nykyaikainen online-viihde (kuten kasinopelit) edellytt\u00e4\u00e4 harkittua tilasuunnittelua ja turvallista k\u00e4ytt\u00f6ymp\u00e4rist\u00f6\u00e4, s\u00e4ilytt\u00e4en otsikon br\u00e4nditt\u00f6m\u00e4n\u00e4."
+    }
+  ],
+  "titles_context": [
+    "Kasinot ilman rekister\u00f6itymist\u00e4 helpottavat sis\u00e4ll\u00f6n ...",
+    "Suunnittelu ja Viihde Yhdistyv\u00e4t Uudella Tavalla",
+    "Visa-kasinot houkuttelevat nopeilla talletuksilla ja ...",
+    "Tietoturvaa, tehoa ja tilaa \u2013 digitaalinen viihde haastaa ...",
+    "Paljastuuko suurin voittosi silloin, kun meinaat jo lopettaa?"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://24bet.fi/ that feel at home on rakentamisenaihe.fi.\n\nReference SERP keyword: kasino\nAnchor keyword (use only if natural): https://24bet.fi/\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Kasinot ilman rekister\u00f6itymist\u00e4 helpottavat sis\u00e4ll\u00f6n ...\n- Suunnittelu ja Viihde Yhdistyv\u00e4t Uudella Tavalla\n- Visa-kasinot houkuttelevat nopeilla talletuksilla ja ...\n- Tietoturvaa, tehoa ja tilaa \u2013 digitaalinen viihde haastaa ...\n- Paljastuuko suurin voittosi silloin, kun meinaat jo lopettaa?\n\nGuidance:\n1. Combine your own knowledge of rakentamisenaihe.fi's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to rakentamisenaihe.fi while naturally justifying a link to https://24bet.fi/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude https://24bet.fi/ and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 597,
+    "completion_tokens": 1617
+  },
+  "cost_usd": 0.10896
+}

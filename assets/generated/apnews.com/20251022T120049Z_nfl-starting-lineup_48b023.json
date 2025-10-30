@@ -1,0 +1,92 @@
+{
+  "created_at": "2025-10-22T12:00:49Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "apnews.com",
+    "anchor_keyword": "NFL starting lineup",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "States Revisit Online Casino Bills as Tax Revenue Climbs and Concerns Mount",
+      "rationale": "Tracks ongoing legislative pushes seen in multiple states on AP, aligning with coverage of fiscal trade-offs and consumer protections. A Lineups link can ground readers with state-by-state betting resources and responsible gambling context; supporting copy can naturally reference NFL starting lineup data when discussing crossover with sports wagering."
+    },
+    {
+      "title": "Labor Fights, Smoke Bans and Tipping Rules: the New Fronts in U.S. Casino Policy",
+      "rationale": "Reflects AP\u2019s reporting on union drives, smoke-free campaigns and workplace rules across major gambling hubs. Lineups can support with industry explainers and betting market context; brands like MGM and regional operators cited in AP pieces can be referenced in copy while the link offers neutral tools and education for readers."
+    },
+    {
+      "title": "Data Shows Brick-and-Mortar Casinos Rebounding Even as Digital Betting Grows",
+      "rationale": "Fits AP\u2019s economy-and-industry lens on revenue highs and recovery trends. A Lineups link adds authoritative betting insights, consumer guides and market snapshots that help readers understand how online wagering intersects with in-person play; supporting copy can incorporate NFL starting lineup analysis to illustrate sports-betting demand."
+    },
+    {
+      "title": "Why Local Votes on Casinos Are Back on Ballots from the Mid-Atlantic to the South",
+      "rationale": "Echoes AP\u2019s ballot-measure and referendum coverage in places like Virginia and Arkansas without naming operators. Lineups provides accessible overviews of regional betting landscapes and regulatory timelines, offering readers a non-promotional reference point tied to civic debates."
+    },
+    {
+      "title": "Cashless Chips, AI Cameras and Tighter Audits: Tech Is Remaking the Casino Floor",
+      "rationale": "Aligns with AP\u2019s technology-and-regulation beat on surveillance, anti-money laundering and cashless play. A Lineups link can contextualize how data-driven wagering and consumer tools shape behavior across sports and casino products; copy may cite examples like Resorts World or Las Vegas properties while keeping the title brand-free."
+    }
+  ],
+  "titles_context": [
+    "Proposals to build NYC's first casino in Manhattan rejected",
+    "Caesars Palace casino plan loses bid for New York City ...",
+    "Inside the high-stakes battle to win a New York City casino ...",
+    "Internet casinos thrive in 6 states. Why aren't there more?",
+    "Macao's casino boom brings wealth but at a cost, 25 years ...",
+    "A tiny tribe is getting pushback for betting big on a $600M ...",
+    "U.S. casinos won $66.5B in 2023, their best year ever as ...",
+    "Resorts World casino in Las Vegas fined $10.5M in money ...",
+    "Internet casino gambling is the future of US betting ...",
+    "Las Vegas Strip's major casinos are all unionized",
+    "Mississippi House panel approves casino tax increase",
+    "Not only New York casinos threaten Atlantic City. Developer ...",
+    "Thailand's Cabinet withdraws a controversial bill to legalize ...",
+    "Atlantic City's top casino underpaid its online gambling taxes ...",
+    "Casino workers who want smoking ended demonstrate in ...",
+    "2 dead, 5 wounded in Texas border city casino shooting",
+    "Boyd Gaming buys Resorts Digital online gambling operation",
+    "Atlantic City casino earnings fall nearly 14% in 3rd quarter",
+    "New York's casino sweepstakes could put $115M in Donald ...",
+    "Las Vegas says goodbye to the Tropicana with a flashy casino ...",
+    "Casino industry spurs $329 billion in US economic activity ...",
+    "Thailand's Cabinet approves a draft bill to legalize casinos to ...",
+    "Arkansas panel awards Cherokee Nation Entertainment a ...",
+    "Strike by workers at a casino near the Las Vegas Strip enters ...",
+    "Rival union official says Atlantic City casino union boss should ...",
+    "Gaming proponents size up the odds of a northern Virginia ...",
+    "New Mavs owners with casino ties preach patience ... - AP News",
+    "Mohegan tribe to end management of Atlantic City's Resorts ...",
+    "Casino smoking and boosting in-person gambling are among ...",
+    "Nevada regulators fine Laughlin casino record ... - AP News",
+    "Opened amid uncertainty, Atlantic City's 2 newest casinos ...",
+    "Proposal to block casino plans OK'd for Arkansas ballot",
+    "US casinos won $53 billion in 2021, their best year ever",
+    "Quick death for Mississippi bill that sought casino site in ...",
+    "Arkansas Supreme Court rejects challenge to ballot measure ...",
+    "Nevada gaming regulators accuse Resorts World casino of ...",
+    "State Senate committee rejects northern Virginia casino bill",
+    "The Mirage Casino in Las Vegas is closing this summer",
+    "Macao awards casino licenses to MGM, Sands, Wynn, 3 others",
+    "Lawsuit filed over measure approved by Arkansas voters that ...",
+    "Man convicted in scheme to steal $700,000 from Michigan ...",
+    "Four new casinos, video gambling could be on horizon as ...",
+    "Newspaper: Families of Haley, Clyburn got casino shares",
+    "The Tropicana Las Vegas, a mob-era casino and Sin City ...",
+    "Gambling pioneer Steve Norton, who ran first US casino ...",
+    "Bill to allow referendum on northern Virginia casino advances ...",
+    "Casino tech: Even chips have chips at newest Vegas resort",
+    "Woman Files $20M Long-Shot Casino Suit | AP News",
+    "Casino workers with MGM Grand Detroit ratify deal, ending 47 ...",
+    "In-person gamblers lifting US casino market to its best year"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/ that feel at home on apnews.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): NFL starting lineup\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Proposals to build NYC's first casino in Manhattan rejected\n- Caesars Palace casino plan loses bid for New York City ...\n- Inside the high-stakes battle to win a New York City casino ...\n- Internet casinos thrive in 6 states. Why aren't there more?\n- Macao's casino boom brings wealth but at a cost, 25 years ...\n- A tiny tribe is getting pushback for betting big on a $600M ...\n- U.S. casinos won $66.5B in 2023, their best year ever as ...\n- Resorts World casino in Las Vegas fined $10.5M in money ...\n- Internet casino gambling is the future of US betting ...\n- Las Vegas Strip's major casinos are all unionized\n- Mississippi House panel approves casino tax increase\n- Not only New York casinos threaten Atlantic City. Developer ...\n- Thailand's Cabinet withdraws a controversial bill to legalize ...\n- Atlantic City's top casino underpaid its online gambling taxes ...\n- Casino workers who want smoking ended demonstrate in ...\n- 2 dead, 5 wounded in Texas border city casino shooting\n- Boyd Gaming buys Resorts Digital online gambling operation\n- Atlantic City casino earnings fall nearly 14% in 3rd quarter\n- New York's casino sweepstakes could put $115M in Donald ...\n- Las Vegas says goodbye to the Tropicana with a flashy casino ...\n- Casino industry spurs $329 billion in US economic activity ...\n- Thailand's Cabinet approves a draft bill to legalize casinos to ...\n- Arkansas panel awards Cherokee Nation Entertainment a ...\n- Strike by workers at a casino near the Las Vegas Strip enters ...\n- Rival union official says Atlantic City casino union boss should ...\n- Gaming proponents size up the odds of a northern Virginia ...\n- New Mavs owners with casino ties preach patience ... - AP News\n- Mohegan tribe to end management of Atlantic City's Resorts ...\n- Casino smoking and boosting in-person gambling are among ...\n- Nevada regulators fine Laughlin casino record ... - AP News\n- Opened amid uncertainty, Atlantic City's 2 newest casinos ...\n- Proposal to block casino plans OK'd for Arkansas ballot\n- US casinos won $53 billion in 2021, their best year ever\n- Quick death for Mississippi bill that sought casino site in ...\n- Arkansas Supreme Court rejects challenge to ballot measure ...\n- Nevada gaming regulators accuse Resorts World casino of ...\n- State Senate committee rejects northern Virginia casino bill\n- The Mirage Casino in Las Vegas is closing this summer\n- Macao awards casino licenses to MGM, Sands, Wynn, 3 others\n- Lawsuit filed over measure approved by Arkansas voters that ...\n- Man convicted in scheme to steal $700,000 from Michigan ...\n- Four new casinos, video gambling could be on horizon as ...\n- Newspaper: Families of Haley, Clyburn got casino shares\n- The Tropicana Las Vegas, a mob-era casino and Sin City ...\n- Gambling pioneer Steve Norton, who ran first US casino ...\n- Bill to allow referendum on northern Virginia casino advances ...\n- Casino tech: Even chips have chips at newest Vegas resort\n- Woman Files $20M Long-Shot Casino Suit | AP News\n- Casino workers with MGM Grand Detroit ratify deal, ending 47 ...\n- In-person gamblers lifting US casino market to its best year\n\nGuidance:\n1. Combine your own knowledge of apnews.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to apnews.com while naturally justifying a link to https://www.lineups.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude NFL starting lineup and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1714,
+    "completion_tokens": 1176
+  },
+  "cost_usd": 0.10484
+}

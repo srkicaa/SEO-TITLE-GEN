@@ -1,0 +1,64 @@
+{
+  "mode": "live",
+  "task_id": "10131808-4117-0121-0000-ed5b406777d5",
+  "query": "site:accountancytoday.co.uk casino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Big Four News",
+      "url": "https://www.accountancytoday.co.uk/tag/big-four/page/28/",
+      "snippet": "In-depth coverage of the Big Four's latest developments and impact on UK accountancy. News and insights on Deloitte, PwC, EY, and KPMG.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Gerald Edelman advises Click Competitions on sale to ...",
+      "url": "https://www.accountancytoday.co.uk/2025/06/02/gerald-edelman-advises-click-competitions-on-sale-to-winvia-entertainment/",
+      "snippet": "Jun 2, 2025 \u2014 The corporate finance team at Gerald Edelman has advised the shareholders of Click Competitions on its sale to Winvia Entertainment.",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Moore Kingston Smith announces merger with hospitality ...",
+      "url": "https://www.accountancytoday.co.uk/2024/06/07/moore-kingston-smith-announces-merger-with-hospitality-firm-wmt/",
+      "snippet": "Jun 7, 2024 \u2014 Clients include high-street brands, independent restaurants, pub groups, bars, casinos, hotels and fine dining restaurants including some of\u00a0...",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Accounting Firms News",
+      "url": "https://www.accountancytoday.co.uk/category/latest-news/practice/accounting-firms/page/78/?random-post=1",
+      "snippet": "Stay informed with the latest Accounting Firms coverage on Accountancy Today \u2014 expert-led news and insight for accounting professionals.",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Interpath Advisory appoints Bar\u00e9ma Bocoum to executive ...",
+      "url": "https://www.accountancytoday.co.uk/2024/03/20/interpath-advisory-appoints-barema-bocoum-to-executive-committee/",
+      "snippet": "Mar 20, 2024 \u2014 Interpath Advisory has appointed Bar\u00e9ma Bocoum to its group executive committee, as the firm looks to accelerate its international expansion\u00a0...",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "Practice | Latest News",
+      "url": "https://www.accountancytoday.co.uk/category/latest-news/practice/page/113/?amp=1",
+      "snippet": "Stay informed with the latest Practice coverage on Accountancy Today \u2014 expert-led news and insight for accounting professionals. Join our community here.",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "RSM UK strengthens London VAT team with partner ...",
+      "url": "https://www.accountancytoday.co.uk/2022/03/25/rsm-uk-strengthens-london-vat-team-with-partner-appointment/",
+      "snippet": "Mar 25, 2022 \u2014 Audit, tax and consulting firm RSM UK has announced the appointment of Simon Atkins as a partner within its VAT team in London.",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    }
+  ]
+}

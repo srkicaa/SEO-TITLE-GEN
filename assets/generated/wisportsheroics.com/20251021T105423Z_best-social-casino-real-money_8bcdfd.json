@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:54:23Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "wisportsheroics.com",
+    "anchor_keyword": "best social casino real money",
+    "anchor_country": "",
+    "target_url": "https://www.bonus.com/social-casinos/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Green Bay Packers: Why Social Casino Play Is Trending With Wisconsin Fans This Offseason",
+      "rationale": "Fits WSH\u2019s Packers-first cadence; a contextual link can explain what social casinos are, how they work in Wisconsin, and why some fans use them between minicamp and preseason."
+    },
+    {
+      "title": "Milwaukee Brewers: Rainout Plans for Fans \u2014 from Minor League Box Scores to Social Casino Games",
+      "rationale": "A natural spot to link to a primer on social casinos for readers looking for game-like entertainment on postponed days, clarifying mechanics and responsible use."
+    },
+    {
+      "title": "Milwaukee Bucks: Off-Day Entertainment Ideas for Fans That Don\u2019t Touch Traditional Sports Betting",
+      "rationale": "Positions a link to an explainer on social casinos as a non-wager alternative during the NBA grind, outlining play styles and availability for Wisconsin readers."
+    },
+    {
+      "title": "Wisconsin Badgers: What Fans Should Know About Social Casinos Before Bowl Season",
+      "rationale": "Timely college-football angle where a link can detail how social casinos operate, common coin systems, and legal considerations relevant to Wisconsin users."
+    },
+    {
+      "title": "Packers Nation: Social Casino vs. Real-Money Gambling \u2014 What\u2019s the Difference for Wisconsin Fans?",
+      "rationale": "Invites a clarifying link breaking down distinctions, access, and safety tips so readers understand social play without conflating it with traditional betting."
+    }
+  ],
+  "titles_context": [
+    "Casino And Sports Books That Sponsor Teams And Athletes",
+    "How Local Sports Heroes Inspire The Rise Of ...",
+    "Tucker Kraft Expected To Make Huge Leap In 2025 NFL Season ...",
+    "Green Bay Packers: Fans Will Love What Matt LaFleur Just Said ...",
+    "Vegas Win Total Odds Revealed For Brutal 2025 Schedule",
+    "Matthew Golden's Message Before Packers-Bengals Has ...",
+    "Green Bay Packers: Matt LaFleur Takes Notice Of Tucker ...",
+    "Milwaukee Brewers Outfield Will Be Without 2 Key ...",
+    "Milwaukee Brewers: MLB Insider Suggests Recent ...",
+    "Milwaukee Bucks: Andre Jackson's Biggest Room For ...",
+    "Milwaukee Brewers: Jacob Misiorowski's Injury Likely Ruins ...",
+    "3 Green Bay Packers Games That Should Not Be Close ...",
+    "Milwaukee Brewers: 3 Numbers That Show Isaac Collins Is A ...",
+    "Former Milwaukee Brewers Slugger Has Made Seattle ...",
+    "Green Bay Packers: Luke Musgrave's Wife's Excited 5-Word ...",
+    "Former Milwaukee Bucks Forward Not Giving Up On NBA ...",
+    "Packers News: Jayden Reeds Hits The Breaks On Talks ...",
+    "\"Bring Him Back!\" Packers' Jeff Hafley See's Former Player ...",
+    "Green Bay Packers Insider At Upcoming Contract Extension ...",
+    "Former Green Bay Packers Star Released By Pittsburgh ...",
+    "Milwaukee Brewers Top 30 Prospects",
+    "Milwaukee Bucks Youngster Makes Heartwarming Gesture ...",
+    "Trade Pickup To Triple A As Jackson Chourio Returns",
+    "Packers Linked To $66 Million Free Agent Pass Rusher",
+    "Doug Gottlieb In Midst Of Disastrous First Season At UWGB"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.bonus.com/social-casinos/ that feel at home on wisportsheroics.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): best social casino real money\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Casino And Sports Books That Sponsor Teams And Athletes\n- How Local Sports Heroes Inspire The Rise Of ...\n- Tucker Kraft Expected To Make Huge Leap In 2025 NFL Season ...\n- Green Bay Packers: Fans Will Love What Matt LaFleur Just Said ...\n- Vegas Win Total Odds Revealed For Brutal 2025 Schedule\n- Matthew Golden's Message Before Packers-Bengals Has ...\n- Green Bay Packers: Matt LaFleur Takes Notice Of Tucker ...\n- Milwaukee Brewers Outfield Will Be Without 2 Key ...\n- Milwaukee Brewers: MLB Insider Suggests Recent ...\n- Milwaukee Bucks: Andre Jackson's Biggest Room For ...\n- Milwaukee Brewers: Jacob Misiorowski's Injury Likely Ruins ...\n- 3 Green Bay Packers Games That Should Not Be Close ...\n- Milwaukee Brewers: 3 Numbers That Show Isaac Collins Is A ...\n- Former Milwaukee Brewers Slugger Has Made Seattle ...\n- Green Bay Packers: Luke Musgrave's Wife's Excited 5-Word ...\n- Former Milwaukee Bucks Forward Not Giving Up On NBA ...\n- Packers News: Jayden Reeds Hits The Breaks On Talks ...\n- \"Bring Him Back!\" Packers' Jeff Hafley See's Former Player ...\n- Green Bay Packers Insider At Upcoming Contract Extension ...\n- Former Green Bay Packers Star Released By Pittsburgh ...\n- Milwaukee Brewers Top 30 Prospects\n- Milwaukee Bucks Youngster Makes Heartwarming Gesture ...\n- Trade Pickup To Triple A As Jackson Chourio Returns\n- Packers Linked To $66 Million Free Agent Pass Rusher\n- Doug Gottlieb In Midst Of Disastrous First Season At UWGB\n\nGuidance:\n1. Combine your own knowledge of wisportsheroics.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to wisportsheroics.com while naturally justifying a link to https://www.bonus.com/social-casinos/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude best social casino real money and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1054,
+    "completion_tokens": 1121
+  },
+  "cost_usd": 0.08834
+}

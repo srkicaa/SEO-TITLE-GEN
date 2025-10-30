@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-17T08:53:15Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "khelnow.com",
+    "anchor_keyword": "500 casino bonus",
+    "anchor_country": "",
+    "target_url": "https://500.casino/casino/all/all/bonus-buy",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Instant\u2011feature Slots Are Booming: What Sports Fans Should Know",
+      "rationale": "Connects the sports audience to the rise of buy\u2011feature mechanics in slots; the link can point to a curated catalog of instant\u2011feature titles for readers to see real examples."
+    },
+    {
+      "title": "From Free\u2011spin Triggers to Feature Buy\u2011ins: a Quick Primer for Fans Between Matches",
+      "rationale": "Explains common slot mechanics without brand names; the link supports readers with a browsable list of games that offer direct access to features."
+    },
+    {
+      "title": "Matchday Downtime Gaming: Safe Ways to Manage Bankrolls on Quick\u2011hit Slots",
+      "rationale": "Focuses on responsible play for sports readers; the link can illustrate quick\u2011hit titles where features can be accessed instantly, reinforcing practical tips."
+    },
+    {
+      "title": "Why Football Audiences Gravitate to Fast\u2011paced Slots\u2014and How the Mechanics Work",
+      "rationale": "Explores crossover between football fandom and rapid casino formats; the link provides concrete examples of fast, feature\u2011forward games."
+    },
+    {
+      "title": "Mobile\u2011first Casino Play for Sports Fans: Understanding Instant Access to Slot Features",
+      "rationale": "Addresses mobile usage common to sports readers; the link leads to a mobile\u2011friendly lineup of titles with feature buy\u2011ins for further exploration."
+    }
+  ],
+  "titles_context": [
+    "How the gambling industry and online casinos can ...",
+    "How Betting and Casino bonuses work: From free spins to ...",
+    "Why these iGaming brands dominate the online gambling ...",
+    "The Features of a Safe Casino Site",
+    "Best sites like Bovada for Sports Betting, casino games, ...",
+    "The rise of mobile gambling: An overview",
+    "How casinos are changing the sports landscape",
+    "Red Dog Online Craps: Play for real money",
+    "How to Choose the Best Live Casino for Betting",
+    "Essential Games for Every Online Casino: Must-Have Titles ...",
+    "The seven football stars who love casinos",
+    "Sports Betting",
+    "How Many Casinos Are in Las Vegas?",
+    "Best non UK casinos that accept UK players in 2025",
+    "How to make your time at an online casino last longer",
+    "The Dutch online casino laws",
+    "MrBigWins casino sister sites and alternatives for UK players",
+    "Best Payout Bitcoin Slots in 2024",
+    "Top Tips for Winning at Online Slots",
+    "Best Nine Win Casino Sister Sites UK",
+    "Casinos and Football clubs: How partnerships with ...",
+    "Explore Rolletto casino and Betti sister sites for the best ...",
+    "The rise of sports-themed casino games for soccer fans",
+    "Indian gambling and sports betting industry: The latest trends",
+    "Tips for all the sports betting"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://500.casino/casino/all/all/bonus-buy that feel at home on khelnow.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): 500 casino bonus\n\nAnchor operates in: Unspecified\n\nReference titles:\n- How the gambling industry and online casinos can ...\n- How Betting and Casino bonuses work: From free spins to ...\n- Why these iGaming brands dominate the online gambling ...\n- The Features of a Safe Casino Site\n- Best sites like Bovada for Sports Betting, casino games, ...\n- The rise of mobile gambling: An overview\n- How casinos are changing the sports landscape\n- Red Dog Online Craps: Play for real money\n- How to Choose the Best Live Casino for Betting\n- Essential Games for Every Online Casino: Must-Have Titles ...\n- The seven football stars who love casinos\n- Sports Betting\n- How Many Casinos Are in Las Vegas?\n- Best non UK casinos that accept UK players in 2025\n- How to make your time at an online casino last longer\n- The Dutch online casino laws\n- MrBigWins casino sister sites and alternatives for UK players\n- Best Payout Bitcoin Slots in 2024\n- Top Tips for Winning at Online Slots\n- Best Nine Win Casino Sister Sites UK\n- Casinos and Football clubs: How partnerships with ...\n- Explore Rolletto casino and Betti sister sites for the best ...\n- The rise of sports-themed casino games for soccer fans\n- Indian gambling and sports betting industry: The latest trends\n- Tips for all the sports betting\n\nGuidance:\n1. Combine your own knowledge of khelnow.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to khelnow.com while naturally justifying a link to https://500.casino/casino/all/all/bonus-buy.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude 500 casino bonus and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 942,
+    "completion_tokens": 845
+  },
+  "cost_usd": 0.06954
+}

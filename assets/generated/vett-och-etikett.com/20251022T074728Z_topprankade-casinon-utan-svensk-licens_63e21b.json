@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-22T07:47:28Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "vett-och-etikett.com",
+    "anchor_keyword": "Topprankade casinon utan svensk licens",
+    "anchor_country": "",
+    "target_url": "https://fundsnetservices.com/se-sv/casino-utan-svensk-licens/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Spel P\u00e5 Sajter Utan Svensk Licens: Etikett, Risker Och Ansvar \u2013 Vett Och Etikett",
+      "rationale": "Ger naturlig ing\u00e5ng till att f\u00f6rklara skillnader mellan svensk licens och utl\u00e4ndska alternativ (t.ex. konsumentskydd, Spelpaus, ID\u2011kontroller) och kan l\u00e4nka till resurs som nyanserar vad \u201cutan svensk licens\u201d inneb\u00e4r utan att vara s\u00e4ljande."
+    },
+    {
+      "title": "Kl\u00e4dsel Och Uppf\u00f6rande Vid Spelbordet \u2013 Vett Och Etikett",
+      "rationale": "Klassiskt etikett\u00e4mne d\u00e4r en diskret faktaruta kan klarg\u00f6ra att regler och f\u00f6rv\u00e4ntningar kan skilja sig mellan svenska milj\u00f6er och sajter utan svensk licens, med l\u00e4nk f\u00f6r f\u00f6rdjupning."
+    },
+    {
+      "title": "Telefon, Foto Och Diskretion I Spelmilj\u00f6er \u2013 Vett Och Etikett",
+      "rationale": "Ber\u00f6r vanlig etikettfr\u00e5ga p\u00e5 och kring spelbord. L\u00e4nk kan ge bakgrund om hur regler och integritetshantering kan variera p\u00e5 plattformar utanf\u00f6r svensk licens."
+    },
+    {
+      "title": "Dricks P\u00e5 Casino: Vad \u00e4R God Ton? \u2013 Vett Och Etikett",
+      "rationale": "Drickspraxis skiljer sig mellan l\u00e4nder och \u00e4ven i live\u2011spel online. En l\u00e4nk kan f\u00f6rklara hur licens- och jurisdiktionsval p\u00e5verkar rutiner och f\u00f6rv\u00e4ntningar."
+    },
+    {
+      "title": "Artigt S\u00e4tt Att S\u00e4ga Nej Till Spel Och S\u00e4tta Gr\u00e4nser \u2013 Vett Och Etikett",
+      "rationale": "Fokuserar p\u00e5 ansvarsfullt beteende och social fink\u00e4nslighet. L\u00e4nk ger saklig \u00f6versikt \u00f6ver vad som g\u00e4ller utanf\u00f6r svensk licens s\u00e5 att l\u00e4saren kan fatta informerade beslut."
+    }
+  ],
+  "titles_context": [
+    "Uppf\u00f6rande p\u00e5 casino",
+    "Casino vett och etikett",
+    "Vett och etikett p\u00e5 casino",
+    "Telefon p\u00e5 jobbet",
+    "Kan inte dansa",
+    "Bestman, t\u00e4rna och marskalk",
+    "Vid bordet",
+    "Tips f\u00f6r talare",
+    "Barn p\u00e5 br\u00f6llop",
+    "\u00c5terl\u00e4mna presenter",
+    "V\u00e4st - Vett och etikett",
+    "Pruttikett - Vett och etikett",
+    "Ge dricks - Vett och etikett",
+    "Kafferepets vett och etikett",
+    "H\u00e4lsning och presentation - Vett och etikett",
+    "Br\u00f6llopslexikon \u00c5 - Vett och etikett",
+    "Mutor/bestickning - Vett och etikett",
+    "S\u00e5 tackar man - Vett och etikett",
+    "L\u00e5n i vardagen - Vett och etikett",
+    "Allehanda 20 - Vett och etikett",
+    "Brudvals och brudbukett - Vett och etikett",
+    "P\u00e5sk - Vett och etikett",
+    "Kina - Vett och etikett",
+    "Visitkort - Vett och etikett",
+    "Aff\u00e4rsresa - Vett och etikett"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://fundsnetservices.com/se-sv/casino-utan-svensk-licens/ that feel at home on vett-och-etikett.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Topprankade casinon utan svensk licens\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Uppf\u00f6rande p\u00e5 casino\n- Casino vett och etikett\n- Vett och etikett p\u00e5 casino\n- Telefon p\u00e5 jobbet\n- Kan inte dansa\n- Bestman, t\u00e4rna och marskalk\n- Vid bordet\n- Tips f\u00f6r talare\n- Barn p\u00e5 br\u00f6llop\n- \u00c5terl\u00e4mna presenter\n- V\u00e4st - Vett och etikett\n- Pruttikett - Vett och etikett\n- Ge dricks - Vett och etikett\n- Kafferepets vett och etikett\n- H\u00e4lsning och presentation - Vett och etikett\n- Br\u00f6llopslexikon \u00c5 - Vett och etikett\n- Mutor/bestickning - Vett och etikett\n- S\u00e5 tackar man - Vett och etikett\n- L\u00e5n i vardagen - Vett och etikett\n- Allehanda 20 - Vett och etikett\n- Brudvals och brudbukett - Vett och etikett\n- P\u00e5sk - Vett och etikett\n- Kina - Vett och etikett\n- Visitkort - Vett och etikett\n- Aff\u00e4rsresa - Vett och etikett\n\nGuidance:\n1. Combine your own knowledge of vett-och-etikett.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to vett-och-etikett.com while naturally justifying a link to https://fundsnetservices.com/se-sv/casino-utan-svensk-licens/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Topprankade casinon utan svensk licens and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 944,
+    "completion_tokens": 1612
+  },
+  "cost_usd": 0.1156
+}

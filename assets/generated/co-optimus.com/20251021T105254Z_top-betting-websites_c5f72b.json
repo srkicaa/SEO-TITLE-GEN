@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:52:54Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "co-optimus.com",
+    "anchor_keyword": "top betting websites",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/betting-sites/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "From Lobbies to Lines: What Co-Op Gamers Should Know Before Trying Sports Betting",
+      "rationale": "Fits Co-Optimus\u2019 co-op focus by translating party-play habits into first steps with wagering. Naturally supports a contextual link to a guide on top betting websites for fundamentals, odds formats, and platform comparisons (kept region-agnostic for Unspecified)."
+    },
+    {
+      "title": "Party Play, Real Stakes: Cooperative Ways to Approach Odds Without Killing the Fun",
+      "rationale": "Centers on group-friendly etiquette and pacing familiar to co-op squads, then points readers to a neutral resource on top betting websites to evaluate features like live odds, limits, and social tools without naming brands."
+    },
+    {
+      "title": "Matchmaking, Metas, and Markets: a Gamer\u2019s Framework for Understanding Betting Lines",
+      "rationale": "Uses gaming-native concepts (MMR, metas, patch cycles) to explain odds and markets. Links cleanly to a primer on top betting websites for deeper education on lines, pricing, and responsible tools across regions (Unspecified)."
+    },
+    {
+      "title": "Couch Co-Op to Second Screen: How Friends Sync Live Games With Social Wagering",
+      "rationale": "Appeals to Co-Optimus\u2019 social play audience by outlining practical second-screen setups for live events. Justifies a link to top betting websites for legal options, live features, and group-friendly functionality without brand mentions."
+    },
+    {
+      "title": "RNG Lessons from Casino-Style Modes: Bankroll Discipline for Co-Op Squads",
+      "rationale": "Bridges casino-style randomness that gamers know with risk management and team rules of play. Naturally enables a reference to top betting websites for responsible tools, educational pages, and platform filters, keeping the locale Unspecified."
+    }
+  ],
+  "titles_context": [
+    "The best online casinos in America",
+    "A Deep Dive into Modern Casino Games",
+    "What Are the Most Popular Casino Games for US Players?",
+    "How Online Multiplayer and Casino Games Share ...",
+    "The Biggest Casino Game Providers and What Makes ...",
+    "Slot Machines vs. Table Games: Which Offers Better ...",
+    "Top 5 Reliable Platforms with the Best Casino Slot Reviews",
+    "How to make the most of casino bonuses",
+    "Top Strategies for Identifying the Best Online Casino Games",
+    "Top Live Dealer Casino Games to Play with Friends on ...",
+    "6 Tips and Tricks for Success in 777 Casino Games",
+    "Experience the ultimate in social casino gaming with these top ...",
+    "Why Most Casino Games Are Better Played Alone - Co-Optimus",
+    "The Rise of Online Sports Betting and Casino Gaming",
+    "Playstation Titles With Casino Minigames: What Are The Best ...",
+    "How Co-Op Players Can Use Casino-Style Games to ... - Co-Optimus",
+    "Cooperative Online Casino Games: A New Frontier for Co-Op ...",
+    "What Kind of Games Can I Play at a Sweepstakes Casino?",
+    "The Top 5 Most Popular Casino Games for Online Players",
+    "Discover Co-Optimus' Reviews on Casino-Themed Co-Op ...",
+    "Online Slots vs. Video Games: What Gamers Love About This ...",
+    "Do You Play Against Other Humans at an Online Casino?",
+    "Collaborative slot gaming: a new era of shared adventures",
+    "An up-to-date review of Lucky Tiger casino - Co-Optimus",
+    "The best online casino game to play with friends - Co-Optimus"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/betting-sites/ that feel at home on co-optimus.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): top betting websites\n\nAnchor operates in: Unspecified\n\nReference titles:\n- The best online casinos in America\n- A Deep Dive into Modern Casino Games\n- What Are the Most Popular Casino Games for US Players?\n- How Online Multiplayer and Casino Games Share ...\n- The Biggest Casino Game Providers and What Makes ...\n- Slot Machines vs. Table Games: Which Offers Better ...\n- Top 5 Reliable Platforms with the Best Casino Slot Reviews\n- How to make the most of casino bonuses\n- Top Strategies for Identifying the Best Online Casino Games\n- Top Live Dealer Casino Games to Play with Friends on ...\n- 6 Tips and Tricks for Success in 777 Casino Games\n- Experience the ultimate in social casino gaming with these top ...\n- Why Most Casino Games Are Better Played Alone - Co-Optimus\n- The Rise of Online Sports Betting and Casino Gaming\n- Playstation Titles With Casino Minigames: What Are The Best ...\n- How Co-Op Players Can Use Casino-Style Games to ... - Co-Optimus\n- Cooperative Online Casino Games: A New Frontier for Co-Op ...\n- What Kind of Games Can I Play at a Sweepstakes Casino?\n- The Top 5 Most Popular Casino Games for Online Players\n- Discover Co-Optimus' Reviews on Casino-Themed Co-Op ...\n- Online Slots vs. Video Games: What Gamers Love About This ...\n- Do You Play Against Other Humans at an Online Casino?\n- Collaborative slot gaming: a new era of shared adventures\n- An up-to-date review of Lucky Tiger casino - Co-Optimus\n- The best online casino game to play with friends - Co-Optimus\n\nGuidance:\n1. Combine your own knowledge of co-optimus.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to co-optimus.com while naturally justifying a link to https://www.lineups.com/betting-sites/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude top betting websites and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1044,
+    "completion_tokens": 1065
+  },
+  "cost_usd": 0.08478
+}

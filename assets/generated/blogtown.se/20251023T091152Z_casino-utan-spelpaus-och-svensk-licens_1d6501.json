@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-23T09:11:52Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "blogtown.se",
+    "anchor_keyword": "Casino utan spelpaus och svensk licens",
+    "anchor_country": "",
+    "target_url": "https://www.umamicart.com/sv/casino/utan-svensk-licens/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Utan Svensk Licens: S\u00e5 Funkar Verifiering, Skatter Och Spelpaus F\u00f6r Svenskar",
+      "rationale": "Passar BlogTown\u2019s v\u00e4gledande stil och l\u00e5ter oss l\u00e4nka till en f\u00f6rdjupning som f\u00f6rklarar hur spel utanf\u00f6r svensk licens fungerar, inklusive ID\u2011kontroller, skattefr\u00e5gor och relationen till sj\u00e4lvavst\u00e4ngning."
+    },
+    {
+      "title": "Bankid Eller Pass? Identifiering P\u00e5 Utl\u00e4ndska Spelplattformar F\u00f6r Svenska Spelare",
+      "rationale": "Naturlig kontext att l\u00e4nka vidare till en resurs som beskriver verifiering utan BankID, dokumentkrav och vad svenska spelare b\u00f6r t\u00e4nka p\u00e5 utanf\u00f6r svensk licens."
+    },
+    {
+      "title": "S\u00e4kerhetscheck: Betalningsmetoder, KYC Och Dataskydd N\u00e4r Du Spelar Utanf\u00f6r Svensk Licens",
+      "rationale": "Ger en s\u00e4kerhetsvinkel som matchar BlogTown och motiverar l\u00e4nk till en guide om KYC, ins\u00e4ttningar/uttag och integritet p\u00e5 sajter utan svensk licens."
+    },
+    {
+      "title": "Guide: F\u00f6rst\u00e5 Reglerna Och Riskerna Med Att V\u00e4lja Spel Utanf\u00f6r Sverige",
+      "rationale": "Utbildande titel som \u00f6ppnar f\u00f6r l\u00e4nkning till en \u00f6versikt \u00f6ver regelverk, konsumentskydd och praktiska skillnader mellan svenska och utl\u00e4ndska alternativ."
+    },
+    {
+      "title": "Ansvarsfullt Spelande Utan Svensk Licens: Verktyg, Gr\u00e4nser Och Sj\u00e4lvavst\u00e4ngning I Praktiken",
+      "rationale": "Fokuserar p\u00e5 ansvarsfullt spel, d\u00e4r en l\u00e4nk kan f\u00f6rdjupa kring vilka verktyg som finns (eller saknas) utanf\u00f6r svensk licens och hur sj\u00e4lvavst\u00e4ngning hanteras."
+    }
+  ],
+  "titles_context": [
+    "Hur skyddar du dina uppgifter p\u00e5 utl\u00e4ndska casinon?",
+    "Hur kan du veta att ett online casino \u00e4r s\u00e4kert? - BlogTown",
+    "AI-drive spelarprofilering och integritetsproblem inom ...",
+    "BlogTown Avsl\u00f6jar S\u00e4kra Spelmetoder Inom Casino Och ...",
+    "Den Hemliga Historien Om Kortr\u00e4kning P\u00e5 Skandinaviska ...",
+    "Tekniker-arkiv - BlogTown",
+    "Casino utan konto eller med konto - F\u00f6rdelar och nackdelar",
+    "Online casino - ett allt mer popul\u00e4rt tidsf\u00f6rdriv - BlogTown",
+    "Kan du spela online casino med kryptovaluta? - BlogTown",
+    "Vad det Betyder f\u00f6r BankID och Svenskarnas Casinoval",
+    "Framtidens Online Casinon: Trender f\u00f6r 2023 - BlogTown",
+    "S\u00e4tt s\u00e4kerheten f\u00f6rst - Spela tryggt p\u00e5 online casinon - BlogTown",
+    "Rock the Reels \u2013 den b\u00e4sta online slotsen f\u00f6r musikfans i ...",
+    "Spel-arkiv - BlogTown",
+    "De 5 mest popul\u00e4ra spelen inom online slots - BlogTown",
+    "Huset f\u00f6rdel \u2013 vad \u00e4r det? - BlogTown",
+    "Uppt\u00e4ck de nya dimensionerna inom onlinespelande",
+    "Online slots \u00f6kar Tysklands skatteoms\u00e4ttning till \u20ac596,1m i Q3",
+    "BlogTown - Spel- och Tekniknyheter i Sverige",
+    "Sanningen om videopoker - Starten och utvecklingen",
+    "Den Dolda Infrastrukturen Bakom Internationellt Onlinespel",
+    "Hur Online Fritid Formar Modern Livsstil i Sverige - BlogTown",
+    "Den Svenska Spelmarknaden - BlogTown",
+    "Kommer AI att Revolutionera Spelutvecklingen Helt Och H\u00e5llet ...",
+    "Online casino bonusar - hur du utnyttjar din chans - BlogTown"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.umamicart.com/sv/casino/utan-svensk-licens/ that feel at home on blogtown.se.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Casino utan spelpaus och svensk licens\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Hur skyddar du dina uppgifter p\u00e5 utl\u00e4ndska casinon?\n- Hur kan du veta att ett online casino \u00e4r s\u00e4kert? - BlogTown\n- AI-drive spelarprofilering och integritetsproblem inom ...\n- BlogTown Avsl\u00f6jar S\u00e4kra Spelmetoder Inom Casino Och ...\n- Den Hemliga Historien Om Kortr\u00e4kning P\u00e5 Skandinaviska ...\n- Tekniker-arkiv - BlogTown\n- Casino utan konto eller med konto - F\u00f6rdelar och nackdelar\n- Online casino - ett allt mer popul\u00e4rt tidsf\u00f6rdriv - BlogTown\n- Kan du spela online casino med kryptovaluta? - BlogTown\n- Vad det Betyder f\u00f6r BankID och Svenskarnas Casinoval\n- Framtidens Online Casinon: Trender f\u00f6r 2023 - BlogTown\n- S\u00e4tt s\u00e4kerheten f\u00f6rst - Spela tryggt p\u00e5 online casinon - BlogTown\n- Rock the Reels \u2013 den b\u00e4sta online slotsen f\u00f6r musikfans i ...\n- Spel-arkiv - BlogTown\n- De 5 mest popul\u00e4ra spelen inom online slots - BlogTown\n- Huset f\u00f6rdel \u2013 vad \u00e4r det? - BlogTown\n- Uppt\u00e4ck de nya dimensionerna inom onlinespelande\n- Online slots \u00f6kar Tysklands skatteoms\u00e4ttning till \u20ac596,1m i Q3\n- BlogTown - Spel- och Tekniknyheter i Sverige\n- Sanningen om videopoker - Starten och utvecklingen\n- Den Dolda Infrastrukturen Bakom Internationellt Onlinespel\n- Hur Online Fritid Formar Modern Livsstil i Sverige - BlogTown\n- Den Svenska Spelmarknaden - BlogTown\n- Kommer AI att Revolutionera Spelutvecklingen Helt Och H\u00e5llet ...\n- Online casino bonusar - hur du utnyttjar din chans - BlogTown\n\nGuidance:\n1. Combine your own knowledge of blogtown.se's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to blogtown.se while naturally justifying a link to https://www.umamicart.com/sv/casino/utan-svensk-licens/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Casino utan spelpaus och svensk licens and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1219,
+    "completion_tokens": 1015
+  },
+  "cost_usd": 0.08528
+}

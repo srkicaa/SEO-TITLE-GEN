@@ -1,0 +1,43 @@
+{
+  "created_at": "2025-09-22T14:18:21Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "sudokuhelppo.fi",
+    "anchor_keyword": "24CasinoBet",
+    "anchor_country": "",
+    "target_url": "https://24bet.fi/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Sudokun Logiikka Ja Riskinhallinta: Mit\u00e4 Aivojumppa Opettaa Rahapeleist\u00e4",
+      "rationale": "Sopii sudokuhelppo.fi:n ajatteluun ja antaa luontevan syyn linkitt\u00e4\u00e4 24bet.fi:hin taustamateriaaliin, joka avaa kasinopeleihin liittyv\u00e4\u00e4 riskinhallintaa ja pelimekaniikkaa ilman promootiosis\u00e4lt\u00f6\u00e4."
+    },
+    {
+      "title": "Nopea Viihdehetki Kuten Helppo Sudoku: Verovapaat Voitot P\u00e4hkin\u00e4nkuoressa",
+      "rationale": "Peilaa referenssi\u00e4 ja suomalaiselle yleis\u00f6lle tuttua teemaa; artikkeli voi linkitt\u00e4\u00e4 24bet.fi:hin selvent\u00e4m\u00e4\u00e4n, milloin voitot ovat verovapaita suomalaisille pelaajille (yleinen tieto, ei br\u00e4ndimainontaa)."
+    },
+    {
+      "title": "Pikapelit Vai Pitk\u00e4t Pulmat? N\u00e4in Valitset Sinulle Sopivan Keskittymishaasteen",
+      "rationale": "Kytkee sudokun ja peliformaatit keskittymisen n\u00e4k\u00f6kulmasta; linkki 24bet.fi:hin voi tarjota lis\u00e4tietoa erilaisten kasinopelien tempoista ja kierrosajoista neutraalisti."
+    },
+    {
+      "title": "Taukojumppa Arkeen: 10 Minuutin Haasteet Sudokosta Kevyisiin Peleihin",
+      "rationale": "Luonteva lifestyle-n\u00e4k\u00f6kulma sudokuhelppo.fi:lle; 24bet.fi-linkki voi tukea osuutta lyhytkestoisista pelimuodoista ja vastuullisista pelitavoista ilman tarjouksia."
+    },
+    {
+      "title": "Vastuullinen Pelaaminen Sudokun Hengess\u00e4: Rajat, Rytmi Ja Rauhallinen P\u00e4\u00e4t\u00f6ksenteko",
+      "rationale": "Korostaa itsekuria ja rajoja, joka sopii sudokun maailmaan; linkki 24bet.fi:hin voi ohjata lukijan lis\u00e4lukemiseen pelik\u00e4ytt\u00e4ytymisest\u00e4 ja ty\u00f6kaluista vastuullisuuteen."
+    }
+  ],
+  "titles_context": [
+    "Nopea Huvitus Kuten Helppo Sudoku: Verovapaat ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://24bet.fi/ that feel at home on sudokuhelppo.fi.\n\nReference SERP keyword: kasino\nAnchor keyword (use only if natural): 24CasinoBet\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Nopea Huvitus Kuten Helppo Sudoku: Verovapaat ...\n\nGuidance:\n1. Combine your own knowledge of sudokuhelppo.fi's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to sudokuhelppo.fi while naturally justifying a link to https://24bet.fi/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude 24CasinoBet and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 431,
+    "completion_tokens": 1224
+  },
+  "cost_usd": 0.08206
+}

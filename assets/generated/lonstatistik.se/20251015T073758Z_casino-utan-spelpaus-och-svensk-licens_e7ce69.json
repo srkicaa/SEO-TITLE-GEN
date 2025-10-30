@@ -1,0 +1,48 @@
+{
+  "created_at": "2025-10-15T07:37:58Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "lonstatistik.se",
+    "anchor_keyword": "Casino utan spelpaus och svensk licens",
+    "anchor_country": "Sweden",
+    "target_url": "https://www.umamicart.com/sv/casino/utan-bankid/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Sveriges Spelbransch I Siffror: L\u00f6ner, Jobb Och Hur Id\u2011l\u00f6sningar Styr Marknaden",
+      "rationale": "Passar lonstatistik.se genom fokus p\u00e5 l\u00f6ner och arbetsmarknad. En l\u00e4nk till en guide om spel utan BankID f\u00f6rklarar hur olika verifieringsmodeller och licenser p\u00e5verkar efterfr\u00e5gan, roller och ers\u00e4ttningsniv\u00e5er i branschen."
+    },
+    {
+      "title": "Hur P\u00e5verkar Bankid Och Alternativa Verifieringar Svenskarnas Spelutgifter?",
+      "rationale": "Fokuserar p\u00e5 hush\u00e5llsekonomi och konsumtionsm\u00f6nster i Sverige. L\u00e4nken ger kontext om skillnaden mellan spel med och utan BankID, inklusive sj\u00e4lvavst\u00e4ngning och reglering, vilket hj\u00e4lper l\u00e4saren att tolka utgiftsdata."
+    },
+    {
+      "title": "Karri\u00e4rer Inom Igaming: L\u00f6nespann, Kompetenskrav Och Tillv\u00e4xt 2025",
+      "rationale": "Naturligt f\u00f6r en l\u00f6nesajt med karri\u00e4r- och l\u00f6nedata. En f\u00f6rdjupning om plattformar utan BankID kan belysa vilka kompetenser (compliance, betalningar, risk) som efterfr\u00e5gas och hur regleringsskillnader p\u00e5verkar l\u00f6ner."
+    },
+    {
+      "title": "Spelvanor Och Hush\u00e5llsekonomi: Data Som Arbetsgivare Och Fack B\u00f6r K\u00e4nna Till",
+      "rationale": "Knyter an till svensk privatekonomi och arbetsliv. L\u00e4nken bidrar med tydligg\u00f6rande kring hur spel utan BankID fungerar, vilket kan p\u00e5verka bed\u00f6mningar av risk, skulds\u00e4ttning och r\u00e5dgivning."
+    },
+    {
+      "title": "Reglering, Skatter Och Konsumentskydd: Ekonomiska F\u00f6ljder F\u00f6r Spel Och Tech I Sverige",
+      "rationale": "Ber\u00f6r makroekonomi och regelverk i svensk kontext. En l\u00e4nk om spel utan BankID ger praktiska exempel p\u00e5 hur licens och identifiering p\u00e5verkar skattebas, efterlevnad och marknadsdynamik."
+    }
+  ],
+  "titles_context": [
+    "Spelande Som Karri\u00e4r: En V\u00e4g Med H\u00f6ga Inkomster",
+    "Innovativa IT-L\u00f6sningar Som Formar S\u00e4kra ...",
+    "Klarna Planerar B\u00f6rsnotering: Vad Det Inneb\u00e4r F\u00f6r Den ...",
+    "Svensk Ekonomisk Prognos: Vad Kan Vi F\u00f6rv\u00e4nta Oss 2025?",
+    "Hur iGaming Blir En Del av Sveriges Aff\u00e4rslandskap",
+    "Genomsnittsl\u00f6n & Medell\u00f6n Sverige 2025: Statistik ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.umamicart.com/sv/casino/utan-bankid/ that feel at home on lonstatistik.se.\n\nReference SERP keyword: casinon\nAnchor keyword (use only if natural): Casino utan spelpaus och svensk licens\n\nAnchor operates in: Sweden\n\nReference titles:\n- Spelande Som Karri\u00e4r: En V\u00e4g Med H\u00f6ga Inkomster\n- Innovativa IT-L\u00f6sningar Som Formar S\u00e4kra ...\n- Klarna Planerar B\u00f6rsnotering: Vad Det Inneb\u00e4r F\u00f6r Den ...\n- Svensk Ekonomisk Prognos: Vad Kan Vi F\u00f6rv\u00e4nta Oss 2025?\n- Hur iGaming Blir En Del av Sveriges Aff\u00e4rslandskap\n- Genomsnittsl\u00f6n & Medell\u00f6n Sverige 2025: Statistik ...\n\nGuidance:\n1. Combine your own knowledge of lonstatistik.se's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to lonstatistik.se while naturally justifying a link to https://www.umamicart.com/sv/casino/utan-bankid/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Casino utan spelpaus och svensk licens and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Sweden where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 630,
+    "completion_tokens": 1204
+  },
+  "cost_usd": 0.08484
+}

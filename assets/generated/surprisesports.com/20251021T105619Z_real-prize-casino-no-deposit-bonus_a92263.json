@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:56:19Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "surprisesports.com",
+    "anchor_keyword": "real prize casino no deposit bonus",
+    "anchor_country": "",
+    "target_url": "https://www.bonus.com/sweepstakes-casinos/realprize/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Sweepstakes-Style Casino Play: How Coin Economies Convert to Real-World Prizes",
+      "rationale": "Fits Surprise Sports\u2019 educational tone (akin to licensing and slots trend explainers). Links naturally to Bonus.com\u2019s RealPrize resource, which outlines dual-currency systems and prize redemption\u2014ideal background for readers curious about social/sweepstakes formats."
+    },
+    {
+      "title": "Sports Fans\u2019 Guide to Low\u2011risk Casino Formats You Can Try Between Games",
+      "rationale": "Aligns with Surprise Sports\u2019 crossover audience of bettors exploring casual casino play. The RealPrize page on Bonus.com provides a concrete example of free-to-try mechanics, daily rewards, and prize claims; supporting copy can naturally reference the phrase real prize casino no deposit bonus where appropriate."
+    },
+    {
+      "title": "Understanding Eligibility and Compliance for Social\u2011style Casino Gaming (Unspecified Markets)",
+      "rationale": "Matches the site\u2019s compliance-focused pieces (e.g., licensing, regional content). Bonus.com\u2019s RealPrize hub details geography, age requirements, KYC, and sweepstakes legality, giving readers clarity even when their locale is Unspecified."
+    },
+    {
+      "title": "From Spins to Prizes: Redemption Mechanics Explained for Casual Casino Players",
+      "rationale": "Educational, non-promotional angle that mirrors Surprise Sports\u2019 how\u2011it\u2011works articles. The RealPrize guide on Bonus.com illustrates step\u2011by\u2011step prize conversion and withdrawal processes, making it a fitting authority to link."
+    },
+    {
+      "title": "Mobile\u2011first Casino Experiences for On\u2011the\u2011go Bettors",
+      "rationale": "Complements the site\u2019s mobile app and gaming coverage. Bonus.com\u2019s RealPrize content showcases sign\u2011up flow, mobile usability, and play\u2011to\u2011prize pathways, providing a practical example readers can explore."
+    }
+  ],
+  "titles_context": [
+    "FairCasinos Review - The Best Online Casino Guide",
+    "How Casino Licensing Works and Why It Matters for Players ...",
+    "Sports Slots: Why Are They So Popular at the Best Casino Online ...",
+    "Modern Online Slots: Trends and Case Studies",
+    "1win Nepal: Trusted gaming platform with exclusive features",
+    "The Most Innovative Slots From Relax Gaming",
+    "Ripper Casino Honest Review 2025: Is It Worth Your Time?",
+    "The Most Popular Slot Games You Can Play in 2023",
+    "Top Casino Games You Can Play at Wolf Winner in 2025",
+    "Casino Online CZ Review for Czech Players - Surprise Sports",
+    "How Odds Differ Between Sportsbooks and Online Casino ...",
+    "Lucky Tiger Casino App for Players in Australia - Surprise Sports",
+    "The role of 1win in the Philippines online casino industry and ...",
+    "A Beginner's Guide to Understanding FanDuel Casino ...",
+    "Choosing the Right CPA Network - Surprise Sports",
+    "Best Online Casino Reviews for Slots, Poker, and Live Games",
+    "How Online Casinos Are Capitalizing on NBA Popularity",
+    "Sweet Bonanza App - Always Have a Slot at Your Fingertips ...",
+    "Viggo Slots: New Gaming Platforms Revolutionizing Online ...",
+    "High RTP Games at Vox Casino: truth or marketing trick?",
+    "Chasing the Big Win: Popular Progressive Jackpot Slots on ...",
+    "Best Casinos to Play Crazy Time in Bangladesh and How to ...",
+    "How Payper Payment Methods Are Changing the Online ...",
+    "Inside Chicken Road: How the Game Works and Why It's a Hit",
+    "Where Gaming Meets Mobility: The Glory Casino App Reviewed"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.bonus.com/sweepstakes-casinos/realprize/ that feel at home on surprisesports.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): real prize casino no deposit bonus\n\nAnchor operates in: Unspecified\n\nReference titles:\n- FairCasinos Review - The Best Online Casino Guide\n- How Casino Licensing Works and Why It Matters for Players ...\n- Sports Slots: Why Are They So Popular at the Best Casino Online ...\n- Modern Online Slots: Trends and Case Studies\n- 1win Nepal: Trusted gaming platform with exclusive features\n- The Most Innovative Slots From Relax Gaming\n- Ripper Casino Honest Review 2025: Is It Worth Your Time?\n- The Most Popular Slot Games You Can Play in 2023\n- Top Casino Games You Can Play at Wolf Winner in 2025\n- Casino Online CZ Review for Czech Players - Surprise Sports\n- How Odds Differ Between Sportsbooks and Online Casino ...\n- Lucky Tiger Casino App for Players in Australia - Surprise Sports\n- The role of 1win in the Philippines online casino industry and ...\n- A Beginner's Guide to Understanding FanDuel Casino ...\n- Choosing the Right CPA Network - Surprise Sports\n- Best Online Casino Reviews for Slots, Poker, and Live Games\n- How Online Casinos Are Capitalizing on NBA Popularity\n- Sweet Bonanza App - Always Have a Slot at Your Fingertips ...\n- Viggo Slots: New Gaming Platforms Revolutionizing Online ...\n- High RTP Games at Vox Casino: truth or marketing trick?\n- Chasing the Big Win: Popular Progressive Jackpot Slots on ...\n- Best Casinos to Play Crazy Time in Bangladesh and How to ...\n- How Payper Payment Methods Are Changing the Online ...\n- Inside Chicken Road: How the Game Works and Why It's a Hit\n- Where Gaming Meets Mobility: The Glory Casino App Reviewed\n\nGuidance:\n1. Combine your own knowledge of surprisesports.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to surprisesports.com while naturally justifying a link to https://www.bonus.com/sweepstakes-casinos/realprize/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude real prize casino no deposit bonus and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1058,
+    "completion_tokens": 1189
+  },
+  "cost_usd": 0.0925
+}

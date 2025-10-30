@@ -1,0 +1,2 @@
+Posting standard task for query: site:primedope.com casino
+ERROR: Task POST failed: task_status_code=40203 message=The money limit per day has been exceeded: 200.01465 >= 200. You can modify your cost limit in the user panel https://app.dataforseo.com/api-settings

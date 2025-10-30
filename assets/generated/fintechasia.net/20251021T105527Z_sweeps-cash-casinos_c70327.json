@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:55:27Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "fintechasia.net",
+    "anchor_keyword": "sweeps cash casinos",
+    "anchor_country": "",
+    "target_url": "https://www.bonus.com/sweepstakes-casinos/new/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "The Cashless Casino Alternative: How Sweepstakes-Style Platforms Align With Fintech and Regulation",
+      "rationale": "Explores compliant, cashless gaming formats that mirror financial app workflows; a link to the target page provides a current roster of newly launched sweepstakes-style options for readers seeking practical examples and recent entrants."
+    },
+    {
+      "title": "Mapping the Fintech Stack Behind Prize-Based Social Gaming: Wallets, KYC, and Compliant Payouts",
+      "rationale": "Breaks down payments, identity, and payout design in social gaming; the target page can serve as a living list of new platforms using these stacks, supporting references to up-and-coming models without naming operators."
+    },
+    {
+      "title": "Asia-Pacific Outlook: Cash\u2011lite Gaming Models and Their Path to Lawful Engagement",
+      "rationale": "Frames APAC fintech and policy trends around alternative gaming formats; the link offers readers an updated view of newly released sweepstakes platforms abroad, useful for benchmarking models and timing."
+    },
+    {
+      "title": "From Engagement Loops to Real\u2011world Prizes: Monetization Mechanics in Modern Social Casinos",
+      "rationale": "Analyzes revenue and retention mechanics for virtual\u2011credit environments that award prizes; the target page complements this by showcasing fresh market entrants where these mechanics are being tested."
+    },
+    {
+      "title": "Risk, Fraud, and Fairness in Virtual\u2011credit Gaming: Building Trust Without Traditional Deposits",
+      "rationale": "Covers safeguards, RNG transparency, and AML/KYC in deposit\u2011free gaming; the target link adds timely examples of newly launched platforms adopting these controls, giving readers concrete points of comparison."
+    }
+  ],
+  "titles_context": [
+    "Casino Archives - FintechAsia",
+    "Social Casino Fintech Startups - FintechAsia Top Social Casino ...",
+    "Can math help when playing in an online casino? - FintechAsia",
+    "Leading Casino Cities You Should Add to Your Travel Bucket ...",
+    "The Ultimate Crypto Casino Adventure: How to Play Smart ...",
+    "FintechAsia: Home",
+    "Modern Payment Solutions in Online Casinos - FintechAsia",
+    "Unpacking Gambelino Casino: What Makes Them Unique",
+    "Lucky Slots Real Money: Your Guide to Winning Big",
+    "Casino Security Systems: A Complete AI Implementation ...",
+    "Quatrologin \u2014 An Online Casino for True Gambling Lovers",
+    "Popular Real Money Casino Games You Can Play From ...",
+    "KYC and Casino Banking: How Fintech is Enhancing Player ...",
+    "The Role of FinTech in Asia's Growing Casino Market",
+    "Mcwbn.com Casino: Unmatched Gaming Experience ...",
+    "Ideal Online Crypto Slots & Where to Play Safely - FintechAsia",
+    "E-Wallet Casino Malaysia Free Credit - FintechAsia",
+    "Will Blockchain and Crypto Disrupt Traditional Gaming Studios?",
+    "Experience the Thrill: Win Big With Wdhoki Slot Games and ...",
+    "Network Archives - FintechAsia",
+    "Top 7 Live Baccarat Games Malaysians Are Playing Now",
+    "Trending Archives - FintechAsia",
+    "Fashion Archives - FintechAsia",
+    "Myloquith Xylandria, Author at FintechAsia",
+    "Latest Archives - FintechAsia"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.bonus.com/sweepstakes-casinos/new/ that feel at home on fintechasia.net.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): sweeps cash casinos\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Casino Archives - FintechAsia\n- Social Casino Fintech Startups - FintechAsia Top Social Casino ...\n- Can math help when playing in an online casino? - FintechAsia\n- Leading Casino Cities You Should Add to Your Travel Bucket ...\n- The Ultimate Crypto Casino Adventure: How to Play Smart ...\n- FintechAsia: Home\n- Modern Payment Solutions in Online Casinos - FintechAsia\n- Unpacking Gambelino Casino: What Makes Them Unique\n- Lucky Slots Real Money: Your Guide to Winning Big\n- Casino Security Systems: A Complete AI Implementation ...\n- Quatrologin \u2014 An Online Casino for True Gambling Lovers\n- Popular Real Money Casino Games You Can Play From ...\n- KYC and Casino Banking: How Fintech is Enhancing Player ...\n- The Role of FinTech in Asia's Growing Casino Market\n- Mcwbn.com Casino: Unmatched Gaming Experience ...\n- Ideal Online Crypto Slots & Where to Play Safely - FintechAsia\n- E-Wallet Casino Malaysia Free Credit - FintechAsia\n- Will Blockchain and Crypto Disrupt Traditional Gaming Studios?\n- Experience the Thrill: Win Big With Wdhoki Slot Games and ...\n- Network Archives - FintechAsia\n- Top 7 Live Baccarat Games Malaysians Are Playing Now\n- Trending Archives - FintechAsia\n- Fashion Archives - FintechAsia\n- Myloquith Xylandria, Author at FintechAsia\n- Latest Archives - FintechAsia\n\nGuidance:\n1. Combine your own knowledge of fintechasia.net's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to fintechasia.net while naturally justifying a link to https://www.bonus.com/sweepstakes-casinos/new/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude sweeps cash casinos and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1007,
+    "completion_tokens": 957
+  },
+  "cost_usd": 0.07756
+}

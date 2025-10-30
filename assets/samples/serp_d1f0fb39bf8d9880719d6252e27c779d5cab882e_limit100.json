@@ -1,0 +1,40 @@
+{
+  "mode": "live",
+  "task_id": "10151030-4117-0121-0000-0ee6aaa7eb29",
+  "query": "site:golfing.se casinon",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "De b\u00e4sta spelen med golfteman",
+      "url": "https://golfing.se/2024/06/26/de-basta-spelen-med-golfteman",
+      "snippet": "Jun 26, 2024 \u2014 N\u00e4r det g\u00e4ller online baserade slots med golfteman anser vi att Golden Tour fr\u00e5n speltillverkaren Playtech \u00e4r det allra b\u00e4sta. Visserligen\u00a0...",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Mobilspel med golftema",
+      "url": "https://golfing.se/2023/11/16/mobilspel-med-golftema",
+      "snippet": "Fr\u00e5n s\u00e4rskilt dedikerade slots f\u00f6r alla de som spelar p\u00e5 casino online till andra typer av underh\u00e5llande spel. H\u00e4r listar vi n\u00e5gra av de mest popul\u00e4ra\u00a0...",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Per Arne Stahl och G\u00f6ran Fredriksson, Mats Wicklund och Patrik ...",
+      "url": "https://golfing.se/2022/06/17/per-arne-stahl-och-goran-fredriksson-mats-wicklund-och-patrik-lindblad-och-fredrik-king-och-carl-repsgard-vinnare-i-gp-golfen-kval-fre-17-juni-stora-lundby-gk",
+      "snippet": "I A klass vann Per Arne Stahl och G\u00f6ran Fredriksson, p\u00e5 71 slag. De hamnade tre slag f\u00f6re andraplacerade Mats Lembratt, Hills Golf & Sports Club och Magnus\u00a0...",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Glenn Gulld\u00e9n och Lars Gustafsson, Reine Larsson och ...",
+      "url": "https://golfing.se/2022/07/02/glenn-gullden-och-lars-gustafsson-reine-larsson-och-lars-mirenius-och-daniel-brolin-och-henri-tepsa-vann-gp-golfen-final-lor-2-juli-ale-gk",
+      "snippet": "Jul 2, 2022 \u2014 Glenn Gulld\u00e9n och Lars Gustafsson, Reine Larsson och Lars Mirenius och Daniel Brolin och Henri Tepsa vann GP Golfen FINAL L\u00d6R 2 juli Ale GK.",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    }
+  ]
+}

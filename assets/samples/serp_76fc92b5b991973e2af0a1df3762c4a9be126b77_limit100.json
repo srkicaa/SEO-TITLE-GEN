@@ -1,0 +1,48 @@
+{
+  "mode": "live",
+  "task_id": "09221715-4117-0121-0000-6813967e7891",
+  "query": "site:rakentamisenaihe.fi kasino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Kasinot ilman rekister\u00f6itymist\u00e4 helpottavat sis\u00e4ll\u00f6n ...",
+      "url": "https://rakentamisenaihe.fi/kasinot-ilman-rekisteroitymista-helpottavat-sisallon-ymmartamista/",
+      "snippet": "Apr 25, 2025 \u2014 Aloittaminen on yksinkertaista: kasino valitaan, talletus suoritetaan verkkopankkitunnuksilla ja pelaaminen voi alkaa. Monilla sivustoilla\u00a0...",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Suunnittelu ja Viihde Yhdistyv\u00e4t Uudella Tavalla",
+      "url": "https://rakentamisenaihe.fi/innovatiivinen-kasinoarkkitehtuuri-suunnittelu-ja-viihde-yhdistyvat-uudella-tavalla/",
+      "snippet": "Kasinoarkkitehtuuri on kehittynyt huomattavasti viime vuosikymmenin\u00e4, yhdist\u00e4en esteettisyyden ja viihteen ainutlaatuisella tavalla.",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Visa-kasinot houkuttelevat nopeilla talletuksilla ja ...",
+      "url": "https://rakentamisenaihe.fi/visa-kasinot-houkuttelevat-nopeilla-talletuksilla-ja-turvallisuudellaan/",
+      "snippet": "Apr 14, 2025 \u2014 Visa-kasinot ovat viime vuosina vakiinnuttaneet asemansa suomalaisten keskuudessa. Nopeiden talletusten ja luotettavan maksutavan ansiosta\u00a0...",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Tietoturvaa, tehoa ja tilaa \u2013 digitaalinen viihde haastaa ...",
+      "url": "https://rakentamisenaihe.fi/tietoturvaa-tehoa-ja-tilaa-digitaalinen-viihde-haastaa-rakentamisen/",
+      "snippet": "Online-ymp\u00e4rist\u00f6, joka k\u00e4sitt\u00e4\u00e4 muun muassa suoratoistopalvelut, virtuaalipelit ja nettikasinot, edellytt\u00e4\u00e4 jatkuvaa, nopeaa ja h\u00e4iri\u00f6t\u00f6nt\u00e4 dataliikennett\u00e4 sek\u00e4\u00a0...",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Paljastuuko suurin voittosi silloin, kun meinaat jo lopettaa?",
+      "url": "https://rakentamisenaihe.fi/paljastuuko-suurin-voittosi-silloin-kun-meinaat-jo-lopettaa/",
+      "snippet": "Jun 16, 2025 \u2014 Voittomahdollisuudet voivat nousta huomattavasti, jos saat k\u00e4ytt\u00f6\u00f6si 100 % bonuksen 500 \u20ac asti + 200 ilmaiskierrosta \u2013 erityisesti silloin, kun\u00a0...",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    }
+  ]
+}

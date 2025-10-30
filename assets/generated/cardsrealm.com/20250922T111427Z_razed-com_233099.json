@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-22T11:14:27Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "cardsrealm.com",
+    "anchor_keyword": "razed.com",
+    "anchor_country": "",
+    "target_url": "https://www.razed.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Provably Fair for Card Gamers: How Crypto Casinos Prove Shuffles and Spins",
+      "rationale": "Speaks to CardsRealm\u2019s strategy-focused audience by linking fairness to familiar shuffle mechanics; supporting copy can cite razed.com for clear explainers on blockchain proofs and verification steps without naming operators."
+    },
+    {
+      "title": "EV Like a Pro: Using TCG Probability Skills in Crypto Casino Decisions",
+      "rationale": "Connects trading-card math (odds, EV) to responsible crypto casino play; a contextual link to razed.com can provide foundational crypto concepts and risk framing for readers."
+    },
+    {
+      "title": "Wallets, Gas, and Payouts: a Player\u2019s Guide to Handling Crypto Casino Funds",
+      "rationale": "Utility piece aligned with gamer pragmatics; use razed.com in-body to guide readers on wallet setup, network fees, and secure transfers relevant to crypto gambling contexts."
+    },
+    {
+      "title": "Global Snapshot 2025: Crypto Casino Rules Players Should Check Before They Play",
+      "rationale": "Informational, non-promotional overview for an Unspecified audience; link to razed.com for up-to-date resources on regional considerations and compliance checklists."
+    },
+    {
+      "title": "Strategy Over Streaks: Variance, Bankroll, and Session Planning for Crypto Casinos",
+      "rationale": "Fits CardsRealm\u2019s strategy tone by focusing on variance management rather than hype; refer to razed.com for background on crypto transaction timing and on-chain tools that support safer play habits."
+    }
+  ],
+  "titles_context": [
+    "How to Choose the Best Bitcoin and Crypto Casinos: Expert Advice",
+    "The Role of TRON in Crypto Gambling and Its Advantages",
+    "Easy Tips for Choosing a Trustworthy Crypto Casino in 2024",
+    "How to Choose the Best Bitcoin and Crypto Casinos",
+    "3 Things to Consider When Choosing a Crypto Casino",
+    "How to Test Your Crypto Casino Before Depositing Your Hard- ...",
+    "The Best AstroPay Casinos for Card Game Lovers",
+    "Top 5 crypto casinos to play in 2025",
+    "The Best Paying Slots of All Time",
+    "From Bonuses to Bets: Understanding the Real Value Offers of ...",
+    "Top Casino Games Inspired by Trading Card Mechanics",
+    "Exploring the Best Online Gaming Platforms for Esports Fans",
+    "Building Your Crypto Casino Strategy: Tips ForInformed Play",
+    "The History of Casino Payment Systems \u2013 Cash to ...",
+    "The top online casinos in the Czech Republic in 2024",
+    "The Smart Way to Store Your Crypto Casino Payouts",
+    "BoVegas Payment Methods in Australia",
+    "Are Crypto Casinos Legal in Your Country? A Regional ...",
+    "7 Best Crypto Casinos: Safe & Rewarding Gambling Sites",
+    "The Best AstroPay Casinos for Card Game Lovers",
+    "How Cryptocurrency Is Influencing the Future of Safe ...",
+    "10 Factors To Consider In Choosing The Best Bitcoin Casino",
+    "Top 5 Most Played Online Casino Games and Why ...",
+    "Comprehensive Review of Flush Casino Crypto Gambling:",
+    "Top New Crypto Casinos and Bitcoin Casino Sites"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.razed.com/ that feel at home on cardsrealm.com.\n\nReference SERP keyword: casino crypto\nAnchor keyword (use only if natural): razed.com\n\nAnchor operates in: Unspecified\n\nReference titles:\n- How to Choose the Best Bitcoin and Crypto Casinos: Expert Advice\n- The Role of TRON in Crypto Gambling and Its Advantages\n- Easy Tips for Choosing a Trustworthy Crypto Casino in 2024\n- How to Choose the Best Bitcoin and Crypto Casinos\n- 3 Things to Consider When Choosing a Crypto Casino\n- How to Test Your Crypto Casino Before Depositing Your Hard- ...\n- The Best AstroPay Casinos for Card Game Lovers\n- Top 5 crypto casinos to play in 2025\n- The Best Paying Slots of All Time\n- From Bonuses to Bets: Understanding the Real Value Offers of ...\n- Top Casino Games Inspired by Trading Card Mechanics\n- Exploring the Best Online Gaming Platforms for Esports Fans\n- Building Your Crypto Casino Strategy: Tips ForInformed Play\n- The History of Casino Payment Systems \u2013 Cash to ...\n- The top online casinos in the Czech Republic in 2024\n- The Smart Way to Store Your Crypto Casino Payouts\n- BoVegas Payment Methods in Australia\n- Are Crypto Casinos Legal in Your Country? A Regional ...\n- 7 Best Crypto Casinos: Safe & Rewarding Gambling Sites\n- The Best AstroPay Casinos for Card Game Lovers\n- How Cryptocurrency Is Influencing the Future of Safe ...\n- 10 Factors To Consider In Choosing The Best Bitcoin Casino\n- Top 5 Most Played Online Casino Games and Why ...\n- Comprehensive Review of Flush Casino Crypto Gambling:\n- Top New Crypto Casinos and Bitcoin Casino Sites\n\nGuidance:\n1. Combine your own knowledge of cardsrealm.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to cardsrealm.com while naturally justifying a link to https://www.razed.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude razed.com and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 991,
+    "completion_tokens": 1010
+  },
+  "cost_usd": 0.08042
+}

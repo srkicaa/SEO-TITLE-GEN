@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:55:08Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "techshali.com",
+    "anchor_keyword": "new sweepstake casino",
+    "anchor_country": "",
+    "target_url": "https://www.bonus.com/sweepstakes-casinos/new/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Sweepstakes Casinos 101: How Virtual Currency Models Work",
+      "rationale": "Techshali\u2019s audience likes clear explainers. This title introduces the mechanics behind prize-based play, and a link to the target page helps readers discover currently launched options and compare new platforms in one place."
+    },
+    {
+      "title": "Mobile vs Browser Play for Social Casinos: Speed, Security, Battery Life",
+      "rationale": "Matches Techshali\u2019s device-focused guides. The link naturally supports readers who want to try recent, compliant sweepstakes-style platforms after evaluating performance differences."
+    },
+    {
+      "title": "Is It Legal Where You Live? a Guide to Sweepstakes Mechanics and Compliance",
+      "rationale": "Legal and policy primers are common on Techshali. The link provides an updated roster of newly available sweepstakes choices and jurisdiction notes, helping readers find options appropriate to their region (Unspecified)."
+    },
+    {
+      "title": "Safety First: How to Vet Prize-Based Gaming Sites Before You Play",
+      "rationale": "Aligns with Techshali\u2019s safety and privacy content. Linking to the destination gives a curated starting point of newly launched sweepstakes-style sites to evaluate using the checklist outlined in the article."
+    },
+    {
+      "title": "2025 Trends in Sweepstakes Gaming: AI Tools, Anti\u2011fraud, and Fairness",
+      "rationale": "Fits Techshali\u2019s tech-forward trend pieces. The link complements the overview by directing readers to a living list of recent sweepstakes launches where these features can be seen in practice."
+    }
+  ],
+  "titles_context": [
+    "Blockchain and Online Casinos: The Next Generation of ...",
+    "Casino Gaming on Your Phone: Apps vs Browser-Based Play",
+    "Best Casino Online",
+    "iGaming in 2025: AI, Casino Innovation, and Changing ...",
+    "How to Choose the Safest Online Casino Platforms",
+    "Unleash the Fun with Slots Empire Mobile Casino",
+    "5 Proven Casino Marketing Strategies to Boost Player ...",
+    "A Guide to Finding and Using Free Spins at Online Casinos",
+    "Online Casino: How to Become a Professional Dealer",
+    "How are slot machines created for Slotspalace Casino?",
+    "Types Of Online Casino Promotions - Techshali",
+    "Free Credit No Deposit: How to Get Started with Risk-Free ...",
+    "Get the Most from Your Philippine Casino Winnings - Techshali",
+    "Hit the jackpot: A guide to picking the right online casino for ...",
+    "Promo Codes and Bonuses for Plinko at the Casino - Techshali",
+    "The Language of Casino Gambling: Key Terms Every Player ...",
+    "Casino Pin Up - review - Techshali",
+    "What Do You Need to Know to Win at a Casino If You Are a ...",
+    "1Win Login Guide: How to Start Playing Casino Games",
+    "Innovative technologies in casinos: how the gambling sphere ...",
+    "The best casinos to start your gaming adventure - Techshali",
+    "Everything You Need to Know About Online Slots - Techshali",
+    "Unleash the Power of Best Casino Bonuses: Expert Tips and ...",
+    "Winning at Online Casinos: Top Strategies and Useful Tips",
+    "How to Stay Safe While Playing Online Casino Games"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.bonus.com/sweepstakes-casinos/new/ that feel at home on techshali.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): new sweepstake casino\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Blockchain and Online Casinos: The Next Generation of ...\n- Casino Gaming on Your Phone: Apps vs Browser-Based Play\n- Best Casino Online\n- iGaming in 2025: AI, Casino Innovation, and Changing ...\n- How to Choose the Safest Online Casino Platforms\n- Unleash the Fun with Slots Empire Mobile Casino\n- 5 Proven Casino Marketing Strategies to Boost Player ...\n- A Guide to Finding and Using Free Spins at Online Casinos\n- Online Casino: How to Become a Professional Dealer\n- How are slot machines created for Slotspalace Casino?\n- Types Of Online Casino Promotions - Techshali\n- Free Credit No Deposit: How to Get Started with Risk-Free ...\n- Get the Most from Your Philippine Casino Winnings - Techshali\n- Hit the jackpot: A guide to picking the right online casino for ...\n- Promo Codes and Bonuses for Plinko at the Casino - Techshali\n- The Language of Casino Gambling: Key Terms Every Player ...\n- Casino Pin Up - review - Techshali\n- What Do You Need to Know to Win at a Casino If You Are a ...\n- 1Win Login Guide: How to Start Playing Casino Games\n- Innovative technologies in casinos: how the gambling sphere ...\n- The best casinos to start your gaming adventure - Techshali\n- Everything You Need to Know About Online Slots - Techshali\n- Unleash the Power of Best Casino Bonuses: Expert Tips and ...\n- Winning at Online Casinos: Top Strategies and Useful Tips\n- How to Stay Safe While Playing Online Casino Games\n\nGuidance:\n1. Combine your own knowledge of techshali.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to techshali.com while naturally justifying a link to https://www.bonus.com/sweepstakes-casinos/new/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude new sweepstake casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1047,
+    "completion_tokens": 1584
+  },
+  "cost_usd": 0.11598
+}

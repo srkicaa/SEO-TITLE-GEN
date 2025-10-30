@@ -1,0 +1,58 @@
+{
+  "created_at": "2025-10-13T14:59:17Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "savingtool.co.uk",
+    "anchor_keyword": "sterling-savvy.co.uk",
+    "anchor_country": "United Kingdom",
+    "target_url": "https://sterling-savvy.co.uk/en/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Crypto 101 for UK Savers: Risk, Regulation, and Budgeting Before You Buy",
+      "rationale": "Fits Saving Tool\u2019s beginner-friendly finance tone; a link to sterling-savvy.co.uk can deepen readers\u2019 understanding with plain\u2011English explainers on wallets, security, and risk controls relevant to UK consumers."
+    },
+    {
+      "title": "From Pounds to Tokens: Ring\u2011fencing a Crypto Allocation in a UK Household Budget",
+      "rationale": "Aligns with budgeting content; sterling-savvy.co.uk can offer step\u2011by\u2011step methods and spreadsheets for setting caps, automating transfers, and tracking crypto alongside regular bills."
+    },
+    {
+      "title": "Spotting Red Flags: Uk\u2011focused Crypto Scams and Safer Payment Habits",
+      "rationale": "Matches scam\u2011prevention pieces; linking to sterling-savvy.co.uk adds practical checklists on fraud patterns, verification steps, and safer custody practices for UK readers."
+    },
+    {
+      "title": "HMRC and Your Coins: a Practical Guide to UK Crypto Taxes in 2025",
+      "rationale": "Complements tax guidance; sterling-savvy.co.uk can provide accessible summaries of HMRC treatment, record\u2011keeping tips, and examples of capital gains calculations."
+    },
+    {
+      "title": "Volatility\u2011proofing Your Finances: Building an Emergency Fund When You Hold Crypto",
+      "rationale": "Resonates with risk\u2011management advice; a link to sterling-savvy.co.uk can supply budgeting frameworks and buffers that help contain crypto volatility within a wider UK money plan."
+    }
+  ],
+  "titles_context": [
+    "Crypto Gambling Scams: What to Watch for",
+    "News - Saving Tool UK Blog",
+    "Personal Finance Technologies for Money Management in ...",
+    "Best UK Investment Strategies for 2024: A Beginner's Guide",
+    "The Best UK Investments for Long-Term Capital Growth",
+    "Should I Have Gold In My Investment Portfolio in 2024?",
+    "What Are the Best Low-Risk Investments in the UK?",
+    "Planning for Your Future: The Role of Software in Tracking ...",
+    "How to Invest in UK Property Without Being a Landlord",
+    "I've Secured a Pay Rise: What Should I Do?",
+    "The Best UK Investments for Higher Rate Taxpayers",
+    "How to Invest in the Stock Market for Long-Term Growth",
+    "The Cost of a Flutter: Betting and Budgeting",
+    "How Many People Gamble in the UK in 2025?",
+    "Football vs. Horse Racing: What Does the UK Bet on Most?",
+    "NHS Pay Rise 2024/25: What You Need to Know"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://sterling-savvy.co.uk/en/ that feel at home on savingtool.co.uk.\n\nReference SERP keyword: crypto\nAnchor keyword (use only if natural): sterling-savvy.co.uk\n\nAnchor operates in: United Kingdom\n\nReference titles:\n- Crypto Gambling Scams: What to Watch for\n- News - Saving Tool UK Blog\n- Personal Finance Technologies for Money Management in ...\n- Best UK Investment Strategies for 2024: A Beginner's Guide\n- The Best UK Investments for Long-Term Capital Growth\n- Should I Have Gold In My Investment Portfolio in 2024?\n- What Are the Best Low-Risk Investments in the UK?\n- Planning for Your Future: The Role of Software in Tracking ...\n- How to Invest in UK Property Without Being a Landlord\n- I've Secured a Pay Rise: What Should I Do?\n- The Best UK Investments for Higher Rate Taxpayers\n- How to Invest in the Stock Market for Long-Term Growth\n- The Cost of a Flutter: Betting and Budgeting\n- How Many People Gamble in the UK in 2025?\n- Football vs. Horse Racing: What Does the UK Bet on Most?\n- NHS Pay Rise 2024/25: What You Need to Know\n\nGuidance:\n1. Combine your own knowledge of savingtool.co.uk's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to savingtool.co.uk while naturally justifying a link to https://sterling-savvy.co.uk/en/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude sterling-savvy.co.uk and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging United Kingdom where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 808,
+    "completion_tokens": 888
+  },
+  "cost_usd": 0.06944
+}

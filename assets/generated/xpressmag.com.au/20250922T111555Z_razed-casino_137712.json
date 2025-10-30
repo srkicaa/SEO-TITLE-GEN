@@ -1,0 +1,57 @@
+{
+  "created_at": "2025-09-22T11:15:55Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "xpressmag.com.au",
+    "anchor_keyword": "Razed casino",
+    "anchor_country": "",
+    "target_url": "https://razedcryptocasino.com",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Why Aussies Are Turning to Crypto for Online Pokies: Risks, Rewards, and Reality",
+      "rationale": "xpressmag.com.au\u2019s audience engages with lifestyle tech trends. This explainer on the rise of crypto use for pokies in Australia can naturally reference Razed casino as a real-world example of crypto-first play, payment speed, and transparency, giving readers a practical link destination."
+    },
+    {
+      "title": "Casino Crypto 101 for Australian Players: Wallets, Networks, and Fees Explained",
+      "rationale": "A beginner-friendly, locally angled primer suits an Australian culture/tech outlet. Linking to Razed casino illustrates accepted coins, deposit/withdraw flows, and fee considerations, adding utility without brand-forward promotion in the title."
+    },
+    {
+      "title": "Pokies Meet Web3: Understanding Provably Fair Tech and On\u2011chain Transparency",
+      "rationale": "Tech-forward coverage aligns with xpressmag.com.au. A contextual link to Razed casino can show how provably fair systems and verification work in practice, helping readers evaluate trust and fairness in crypto gaming."
+    },
+    {
+      "title": "Bankroll Basics for Crypto Gambling: Volatility, Limits, and Safer Play for Australians",
+      "rationale": "Responsible-play angles fit editorial standards. Citing Razed casino within the copy can demonstrate limit tools, coin options, and volatility tips tied to crypto gameplay, offering readers a relevant resource."
+    },
+    {
+      "title": "The 2025 Outlook for Crypto Gaming in Australia: Regulation, Payments, and Player Trends",
+      "rationale": "A forward-looking trends piece matches lifestyle features. Razed casino can be linked as a case study in emerging payment rails, faster withdrawals, and player behaviors, grounding predictions in a live crypto-gaming environment."
+    }
+  ],
+  "titles_context": [
+    "Top 5 Megaways Slots Every Crypto Casino Player Should ...",
+    "The Future of Syndicate Casino in Crypto Gaming",
+    "Online Gambling Trends That Are Emerging In 2022",
+    "Bet And Play Casino: A Powerhouse in Online Gambling",
+    "What Special Offers Are Available for New Players?",
+    "The Best Online Australian Casino for Fun",
+    "Guide for Aussies on Playing for Money at Online Casinos",
+    "Ricky Casino \u2013 Instant Transactions with Paysafecard",
+    "SkyCrown Casino Online Review",
+    "4 immersive forms of online entertainment for 2025",
+    "Maximize Your Gambling Experience with Wolf Winner ...",
+    "PokieSurf: A Premier Destination for Online Pokies Real ...",
+    "The Most Memorable Online Casinos in Australia",
+    "Safety of money transactions",
+    "Australian Online Pokies Guide \u2013 Top Games, Jackpots & ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://razedcryptocasino.com that feel at home on xpressmag.com.au.\n\nReference SERP keyword: casino crypto\nAnchor keyword (use only if natural): Razed casino\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Top 5 Megaways Slots Every Crypto Casino Player Should ...\n- The Future of Syndicate Casino in Crypto Gaming\n- Online Gambling Trends That Are Emerging In 2022\n- Bet And Play Casino: A Powerhouse in Online Gambling\n- What Special Offers Are Available for New Players?\n- The Best Online Australian Casino for Fun\n- Guide for Aussies on Playing for Money at Online Casinos\n- Ricky Casino \u2013 Instant Transactions with Paysafecard\n- SkyCrown Casino Online Review\n- 4 immersive forms of online entertainment for 2025\n- Maximize Your Gambling Experience with Wolf Winner ...\n- PokieSurf: A Premier Destination for Online Pokies Real ...\n- The Most Memorable Online Casinos in Australia\n- Safety of money transactions\n- Australian Online Pokies Guide \u2013 Top Games, Jackpots & ...\n\nGuidance:\n1. Combine your own knowledge of xpressmag.com.au's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to xpressmag.com.au while naturally justifying a link to https://razedcryptocasino.com.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Razed casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 736,
+    "completion_tokens": 993
+  },
+  "cost_usd": 0.0743
+}

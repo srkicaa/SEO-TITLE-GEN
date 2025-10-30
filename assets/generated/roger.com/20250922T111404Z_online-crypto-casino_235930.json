@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-22T11:14:04Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "roger.com",
+    "anchor_keyword": "online crypto casino",
+    "anchor_country": "",
+    "target_url": "https://www.razed.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Provably Fair for Players: Seeds, Hashes, and Verifiable RNG Made Simple",
+      "rationale": "Fits roger.com\u2019s education tone while linking to Razed\u2019s technical explainer on on\u2011chain randomness and verification so readers can validate game fairness."
+    },
+    {
+      "title": "Secure Wallet Setup for Casino Deposits and Withdrawals",
+      "rationale": "Naturally supports a link to Razed\u2019s step\u2011by\u2011step wallet security guide (keys, seed phrases, hardware options), enhancing player safety content on roger.com."
+    },
+    {
+      "title": "Gas Fees, Finality, and Faster Cashouts: Choosing the Right Network for Play",
+      "rationale": "Justifies linking to Razed\u2019s breakdown of chains and L2s, helping readers understand fees, confirmation times, and how they impact gaming payouts."
+    },
+    {
+      "title": "Stablecoins vs Volatile Coins: Building a Safer Crypto Bankroll",
+      "rationale": "Enables a contextual link to Razed\u2019s primer on stablecoins, peg mechanics, and risks\u2014useful for bankroll management guidance on roger.com."
+    },
+    {
+      "title": "Safety Checklist Before Wagering With Crypto: Custody, Phishing, and Privacy Basics",
+      "rationale": "Links cleanly to Razed\u2019s security best\u2011practices article (self\u2011custody, anti\u2011phishing, mixing/privacy considerations), complementing roger.com\u2019s responsible play resources."
+    }
+  ],
+  "titles_context": [
+    "6 Bitcoin Casino Bonuses That Surprise New Players",
+    "Koning Casino: Crypto Casino Review + Welcome Bonus ...",
+    "Crypto Blog Articles: All Things Crypto And Bitcoin Related",
+    "NIYVI Casino",
+    "Bitcoin.com Casino: Platform Review + Share Of 1 BTC Here",
+    "Online Casino Operators Blog",
+    "BC.GAME - Win Up To 500 USDT (Crypto Casino)",
+    "How AI and Blockchain Are Powering Up iGaming in 2025",
+    "8 of the Best Bitcoin Casinos",
+    "How Safe Are Crypto Casinos? Beginner's Guide",
+    "How To Understand The Workings Of A Crypto Casino In 2024",
+    "The Best Casino Aggregators In 2025",
+    "What To Look For From A Sweepstake Casino",
+    "What Are The Safest iGaming Payment Methods?",
+    "Online Casinos in Europe: Future Trends & Impacts to Watch",
+    "1000x Busta Casino Game : 4TheReel Game With 97% RTP",
+    "50 Free Spins Plus 100% Match Up: NIYVI Crypto Casino ...",
+    "Why Players Are Favouring Less Restrictive Online Casinos",
+    "Crypto Casinos: Are They As Safe As Traditional Online Casinos?",
+    "7slots Online Casino: High Return To Player And Good Odds",
+    "Spinstar Casino",
+    "Cryptocurrency Casinos In Japan: Bitcasino.io's Popularity",
+    "How Crash Games Went From Weird To Wonderful",
+    "5 Of The Top Online Casino Operators Globally In 2024",
+    "Casino Blog Articles: All About Casino And Online Casinos"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.razed.com/ that feel at home on roger.com.\n\nReference SERP keyword: casino crypto\nAnchor keyword (use only if natural): online crypto casino\n\nAnchor operates in: Unspecified\n\nReference titles:\n- 6 Bitcoin Casino Bonuses That Surprise New Players\n- Koning Casino: Crypto Casino Review + Welcome Bonus ...\n- Crypto Blog Articles: All Things Crypto And Bitcoin Related\n- NIYVI Casino\n- Bitcoin.com Casino: Platform Review + Share Of 1 BTC Here\n- Online Casino Operators Blog\n- BC.GAME - Win Up To 500 USDT (Crypto Casino)\n- How AI and Blockchain Are Powering Up iGaming in 2025\n- 8 of the Best Bitcoin Casinos\n- How Safe Are Crypto Casinos? Beginner's Guide\n- How To Understand The Workings Of A Crypto Casino In 2024\n- The Best Casino Aggregators In 2025\n- What To Look For From A Sweepstake Casino\n- What Are The Safest iGaming Payment Methods?\n- Online Casinos in Europe: Future Trends & Impacts to Watch\n- 1000x Busta Casino Game : 4TheReel Game With 97% RTP\n- 50 Free Spins Plus 100% Match Up: NIYVI Crypto Casino ...\n- Why Players Are Favouring Less Restrictive Online Casinos\n- Crypto Casinos: Are They As Safe As Traditional Online Casinos?\n- 7slots Online Casino: High Return To Player And Good Odds\n- Spinstar Casino\n- Cryptocurrency Casinos In Japan: Bitcasino.io's Popularity\n- How Crash Games Went From Weird To Wonderful\n- 5 Of The Top Online Casino Operators Globally In 2024\n- Casino Blog Articles: All About Casino And Online Casinos\n\nGuidance:\n1. Combine your own knowledge of roger.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to roger.com while naturally justifying a link to https://www.razed.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude online crypto casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1025,
+    "completion_tokens": 921
+  },
+  "cost_usd": 0.07576
+}

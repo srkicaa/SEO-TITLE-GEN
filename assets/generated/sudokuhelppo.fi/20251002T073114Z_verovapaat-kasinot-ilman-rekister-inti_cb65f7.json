@@ -1,0 +1,49 @@
+{
+  "created_at": "2025-10-02T07:31:14Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "sudokuhelppo.fi",
+    "anchor_keyword": "verovapaat kasinot ilman rekister\u00f6inti\u00e4",
+    "anchor_country": "",
+    "target_url": "https://verovapaatnettikasinot.net/verovapaat-kasinot/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Sudokun Ja Rahapelien Rajapinta \u2013 Logiikkaa, Satunnaisuutta Ja P\u00e4\u00e4t\u00f6ksentekoa",
+      "rationale": "Sopii sivuston logiikka- ja strategiasis\u00e4lt\u00f6ihin. Linkki voi tarjota lukijalle taustatiedot verovapaista, lisensoiduista vaihtoehdoista ja Suomen verotusk\u00e4yt\u00e4nn\u00f6ist\u00e4, kun kiinnostus siirtyy pulmapelien logiikasta verkon peleihin."
+    },
+    {
+      "title": "Satunnaislukugeneraattorit Selitetty \u2013 Mit\u00e4 Pulmapelifanin Kannattaa Tiet\u00e4\u00e4",
+      "rationale": "Jatkaa aiempaa algoritmeja k\u00e4sittelev\u00e4\u00e4 teemaa. Ulkoinen l\u00e4hde voi havainnollistaa, miten RNG toimii verkkopeleiss\u00e4 sek\u00e4 miss\u00e4 ymp\u00e4rist\u00f6iss\u00e4 pelaaminen on suomalaiselle verovapaata (EU/ETA-lisenssit)."
+    },
+    {
+      "title": "Pelaajan Verotusopas \u2013 Milloin Verkon Pelivoitot Ovat Verovapaita?",
+      "rationale": "Tarjoaa k\u00e4yt\u00e4nn\u00f6llisen kulman suomalaiselle yleis\u00f6lle. Linkki syvent\u00e4\u00e4 aihetta kuvaamalla verovapauden edellytykset (esim. ETA-lisenssi) ja kokoaa ajantasaisen yleiskuvan ilman br\u00e4ndimainintoja."
+    },
+    {
+      "title": "Tauoissa on Tehoa \u2013 Miksi Lyhyet Pelisessiot Tukevat Keskittymist\u00e4",
+      "rationale": "Kiinnittyy sudokun mikrotaukojen hy\u00f6tyihin. Linkki voi taustoittaa, miss\u00e4 ymp\u00e4rist\u00f6iss\u00e4 lyhyet ja sujuvat verkkopelisessiot onnistuvat sek\u00e4 miten verovapaus toimii suomalaisille pelaajille."
+    },
+    {
+      "title": "Vastuullisen Pelaamisen Ty\u00f6kalut \u2013 S\u00e4\u00e4nn\u00f6t, Rutiinit Ja Rajat",
+      "rationale": "Sopii sivuston s\u00e4\u00e4nt\u00f6j\u00e4 ja itsens\u00e4 kehitt\u00e4mist\u00e4 korostavaan linjaan. Linkki voi ohjata tietopakettiin lisensoiduista, verovapaista vaihtoehdoista sek\u00e4 vastuullisen pelaamisen ty\u00f6kaluista (talletusrajat, tunnistautuminen) suomalaisessa kontekstissa."
+    }
+  ],
+  "titles_context": [
+    "Blog - Page 2 of 3 - Sudoku - Sudoku Helppo",
+    "Numerot ja Harrastukset \u2013 Millainen se Sudoku Oikein On",
+    "Kuinka Kehitty\u00e4 Peliss\u00e4 Nopeasti: S\u00e4\u00e4nt\u00f6jen Voima ...",
+    "Logiikan Pelikierros Eli Mit\u00e4 Sudoku ja Strategiapelit Jakavat ...",
+    "admin, Author at Sudoku - Page 2 of 3 - Sudoku Helppo",
+    "Algoritmien Rooli Kolikkopelien Tuloksissa: Virtuaalirullat ...",
+    "Virtuaalimaailmojen Tulevaisuus: Miten Pelaaminen Muokkaa ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://verovapaatnettikasinot.net/verovapaat-kasinot/ that feel at home on sudokuhelppo.fi.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): verovapaat kasinot ilman rekister\u00f6inti\u00e4\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Blog - Page 2 of 3 - Sudoku - Sudoku Helppo\n- Numerot ja Harrastukset \u2013 Millainen se Sudoku Oikein On\n- Kuinka Kehitty\u00e4 Peliss\u00e4 Nopeasti: S\u00e4\u00e4nt\u00f6jen Voima ...\n- Logiikan Pelikierros Eli Mit\u00e4 Sudoku ja Strategiapelit Jakavat ...\n- admin, Author at Sudoku - Page 2 of 3 - Sudoku Helppo\n- Algoritmien Rooli Kolikkopelien Tuloksissa: Virtuaalirullat ...\n- Virtuaalimaailmojen Tulevaisuus: Miten Pelaaminen Muokkaa ...\n\nGuidance:\n1. Combine your own knowledge of sudokuhelppo.fi's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to sudokuhelppo.fi while naturally justifying a link to https://verovapaatnettikasinot.net/verovapaat-kasinot/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude verovapaat kasinot ilman rekister\u00f6inti\u00e4 and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 701,
+    "completion_tokens": 1828
+  },
+  "cost_usd": 0.1237
+}

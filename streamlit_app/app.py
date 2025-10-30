@@ -18,6 +18,9 @@ import streamlit as st
 
 from streamlit_app.db import (
     init_db,
+    get_serp_snapshot,
+    get_latest_serp_snapshot_for_domain,
+    get_all_serp_snapshots_for_domain,
     list_generation_domains,
     list_generation_models,
     query_generation_history,
@@ -164,8 +167,16 @@ def _render_sidebar_controls(template_lookup: Dict[str, PromptTemplate]) -> Dict
     )
     st.session_state["serp_cache_only"] = cache_only
 
-    dfs_mode_options = ["Live (immediate)", "Standard queue"]
-    default_mode_index = 0 if st.session_state.get("dfs_live", True) else 1
+    force_fetch = st.sidebar.checkbox(
+        "Force new DataForSEO fetch",
+        value=st.session_state.get("serp_force_fetch", False),
+        help="When enabled, skip cached history and request fresh SERP data.",
+    )
+    st.session_state["serp_force_fetch"] = force_fetch
+
+    dfs_mode_options = ["Standard queue", "Live (immediate)"]
+    default_live_setting = st.session_state.get("dfs_live", False)
+    default_mode_index = 1 if default_live_setting else 0
     dfs_mode = st.sidebar.radio(
         "DataForSEO mode",
         options=dfs_mode_options,
@@ -220,6 +231,7 @@ def _render_sidebar_controls(template_lookup: Dict[str, PromptTemplate]) -> Dict
         "default_serp_keyword": default_keyword,
         "use_cache": use_cache,
         "cache_only": cache_only,
+        "force_fetch": force_fetch,
         "use_live_endpoint": use_live_endpoint,
         "model_id": model_id,
         "titles_requested": titles_requested,
@@ -240,7 +252,7 @@ def _render_orders_tab(template_lookup: Dict[str, PromptTemplate], sidebar_state
     edited_df = st.data_editor(
         orders_df,
         num_rows="dynamic",
-        width="stretch",
+        use_container_width=True,
         key="orders_editor",
     )
 
@@ -303,7 +315,7 @@ def _render_pasteingress(sidebar_state: Dict[str, Any]) -> None:
         preview = st.session_state.get(PASTE_PREVIEW_KEY, [])
         if preview:
             st.markdown("#### Preview")
-            st.dataframe(pd.DataFrame(preview), width="stretch")
+            st.dataframe(pd.DataFrame(preview), use_container_width=True)
 
             sugg_col1, sugg_col2, sugg_col3 = st.columns(3)
             if sugg_col1.button("Heuristic SERP keywords", key="serp_heuristic_btn"):
@@ -400,7 +412,7 @@ def _format_parse_feedback(errors: List[str], needs_ai: bool) -> str:
 
 
 def _render_serp_tab(sidebar_state: Dict[str, Any]) -> None:
-    st.subheader("Fetch SERP titles")
+    st.subheader("SERP Title Review")
 
     orders = st.session_state.get(ORDERS_KEY, [])
     if not orders:
@@ -418,6 +430,28 @@ def _render_serp_tab(sidebar_state: Dict[str, Any]) -> None:
     )
     st.session_state[SELECTED_ORDER_KEY] = selected_index
 
+    # Identify which domains have no cached snapshots
+    domains_without_cache = []
+    domains_with_cache = []
+    for idx, order in enumerate(orders):
+        domain = order.get("domain", "")
+        if domain:
+            snapshots = get_all_serp_snapshots_for_domain(domain)
+            has_data = any(s["title_count"] > 0 for s in snapshots)
+            if has_data:
+                domains_with_cache.append(idx)
+            else:
+                domains_without_cache.append(idx)
+
+    # Show summary
+    if domains_without_cache:
+        st.warning(f"⚠️ {len(domains_without_cache)} domain(s) have no cached data")
+        with st.expander("Show domains without cache"):
+            for idx in domains_without_cache:
+                st.write(f"- #{idx + 1}: {orders[idx].get('domain', '')}")
+    if domains_with_cache:
+        st.success(f"✅ {len(domains_with_cache)} domain(s) have cached data")
+
     default_batch = st.session_state.get(BATCH_SELECTION_KEY, index_options)
     default_batch = [idx for idx in default_batch if idx in index_options]
     if not default_batch:
@@ -432,17 +466,67 @@ def _render_serp_tab(sidebar_state: Dict[str, Any]) -> None:
     st.session_state[BATCH_SELECTION_KEY] = batch_selection
 
     current_order = orders[selected_index]
+    domain = current_order.get("domain", "")
     serp_keyword = current_order.get("serp_keyword") or sidebar_state["default_serp_keyword"]
-    st.write(f"Using SERP keyword: `{serp_keyword}`")
 
-    batch_col1, batch_col2 = st.columns(2)
+    # Auto-load cached snapshots for the domain
+    all_snapshots = get_all_serp_snapshots_for_domain(domain) if domain else []
+
+    # Automatically load the best snapshot if not already loaded
+    if all_snapshots and selected_index not in st.session_state[SERP_RESULTS_KEY]:
+        # Find snapshot with most titles
+        best_snapshot = max(all_snapshots, key=lambda s: s["title_count"])
+
+        if best_snapshot["title_count"] > 0:
+            try:
+                raw_payload = json.loads(best_snapshot["raw_json"])
+                extracted = json.loads(best_snapshot["extracted_json"])
+                result = SerpFetchResult(
+                    query=raw_payload.get("query", ""),
+                    titles=extracted,
+                    raw=raw_payload,
+                    source=f"cached snapshot ({best_snapshot['created_at'][:10]})",
+                )
+                _store_serp_result(selected_index, result)
+                st.success(f"✅ Auto-loaded {len(extracted)} titles from cached snapshot for **{domain}** (dated {best_snapshot['created_at'][:19].replace('T', ' ')})")
+            except Exception as exc:
+                st.warning(f"Failed to auto-load snapshot: {exc}")
+
+    st.markdown("---")
+
+    # Show snapshot info if available
+    if all_snapshots:
+        st.info(f"📂 {len(all_snapshots)} cached snapshot(s) available for **{domain}**")
+    else:
+        st.warning(f"⚠️ No cached snapshots found for **{domain}**. Fetch new data below.")
+
+    st.write(f"SERP keyword: `{serp_keyword}`")
+
+    st.markdown("---")
+    st.subheader("Fetch Operations")
+
+    # If no snapshots, emphasize fetching new data
+    refresh_cache = False
+    clear_selection = False
+    if not all_snapshots:
+        st.warning("⚠️ This is a new domain with no cached data. Fetch new SERP titles from DataForSEO.")
+        fetch_button = st.button("🔍 Fetch New SERP Titles", key="fetch_single", type="primary")
+    else:
+        fetch_col1, fetch_col2, fetch_col3 = st.columns(3)
+        fetch_button = fetch_col1.button("Fetch new titles", key="fetch_single", use_container_width=True)
+        refresh_cache = fetch_col2.button("Reload from cache", key="reload_cache", use_container_width=True)
+        clear_selection = fetch_col3.button("Reset selection", key="reset_serp_selection", use_container_width=True)
+
+    st.markdown("#### Batch Operations")
+    batch_col1, batch_col2, batch_col3 = st.columns(3)
     fetch_selected_batch = batch_col1.button("Fetch selected orders", key="fetch_selected_batch")
     fetch_all_batch = batch_col2.button("Fetch all orders", key="fetch_all_batch")
-
-    fetch_col1, fetch_col2, fetch_col3 = st.columns(3)
-    fetch_button = fetch_col1.button("Fetch titles", key="fetch_single", width="stretch")
-    refresh_cache = fetch_col2.button("Reload from cache", key="reload_cache", width="stretch")
-    clear_selection = fetch_col3.button("Reset selection", key="reset_serp_selection", width="stretch")
+    fetch_missing_only = batch_col3.button(
+        f"Fetch missing ({len(domains_without_cache)})",
+        key="fetch_missing_batch",
+        type="primary" if domains_without_cache else "secondary",
+        disabled=not domains_without_cache,
+    )
 
     limit = sidebar_state["limit"]
     if fetch_button or refresh_cache:
@@ -450,6 +534,7 @@ def _render_serp_tab(sidebar_state: Dict[str, Any]) -> None:
             try:
                 cache_only = refresh_cache or sidebar_state.get("cache_only", False)
                 use_cache = sidebar_state.get("use_cache", False) if not refresh_cache else True
+                effective_force = sidebar_state.get("force_fetch", False) and not cache_only
                 result = _perform_fetch(
                     selected_index,
                     current_order,
@@ -457,42 +542,55 @@ def _render_serp_tab(sidebar_state: Dict[str, Any]) -> None:
                     limit,
                     use_cache=use_cache,
                     cache_only=cache_only,
+                    force_refresh=effective_force,
                 )
                 st.success(f"Loaded {len(result.titles)} titles ({result.source}).")
                 st.caption(f"Query: {result.query}")
             except Exception as exc:
                 st.error(f"SERP fetch failed: {exc}")
 
-    if fetch_selected_batch or fetch_all_batch:
-        targets = batch_selection if fetch_selected_batch else index_options
+    if fetch_selected_batch or fetch_all_batch or fetch_missing_only:
+        if fetch_missing_only:
+            targets = domains_without_cache
+            st.info(f"Fetching {len(targets)} domain(s) without cached data...")
+        elif fetch_selected_batch:
+            targets = batch_selection
+        else:
+            targets = index_options
+
         if not targets:
-            st.warning("Select at least one order for batch fetch.")
+            st.warning("No orders to fetch.")
         else:
             errors: List[str] = []
             successes = 0
             progress = st.progress(0.0)
+            status_text = st.empty()
             with st.spinner("Fetching SERP titles in batch..."):
                 total = len(targets)
                 for position, idx in enumerate(targets, start=1):
                     order_data = orders[idx]
+                    domain = order_data.get('domain', 'Unknown')
+                    status_text.text(f"Fetching {position}/{total}: {domain}")
                     try:
                         _perform_fetch(
                             idx,
                             order_data,
                             sidebar_state,
                             limit,
-                            use_cache=sidebar_state.get("use_cache", False),
-                            cache_only=sidebar_state.get("cache_only", False),
+                            use_cache=False,  # Don't use cache for missing domains
+                            cache_only=False,
+                            force_refresh=True,  # Force new fetch for missing domains
                         )
                         successes += 1
                     except Exception as exc:
-                        errors.append(f"#{idx + 1} {order_data.get('domain', '')}: {exc}")
+                        errors.append(f"#{idx + 1} {domain}: {exc}")
                     progress.progress(position / total)
             progress.empty()
+            status_text.empty()
             if successes:
-                st.success(f"Fetched titles for {successes} order(s).")
+                st.success(f"✅ Successfully fetched titles for {successes} order(s).")
             if errors:
-                st.error("Batch fetch issues:\n" + "\n".join(errors))
+                st.error("❌ Batch fetch issues:\n" + "\n".join(errors))
 
     if clear_selection and selected_index in st.session_state[SERP_RESULTS_KEY]:
         del st.session_state[SERP_RESULTS_KEY][selected_index]
@@ -509,7 +607,7 @@ def _render_serp_tab(sidebar_state: Dict[str, Any]) -> None:
 
     st.markdown("### Titles (unaltered)")
     df = pd.DataFrame(titles)
-    st.dataframe(df, width="stretch")
+    st.dataframe(df, use_container_width=True)
 
     default_selection_count = min(sidebar_state["titles_requested"] * 5, len(titles))
     slider_key = f"serp_slider_{selected_index}"
@@ -548,6 +646,7 @@ def _perform_fetch(
     *,
     use_cache: bool,
     cache_only: bool,
+    force_refresh: bool,
 ) -> SerpFetchResult:
     serp_keyword = order_data.get("serp_keyword") or sidebar_state.get("default_serp_keyword", "")
     if not serp_keyword:
@@ -560,9 +659,45 @@ def _perform_fetch(
         serp_keyword=serp_keyword,
     )
 
+    query_hash = compute_generation_hash(
+        order_data,
+        serp_keyword=serp_keyword,
+        model=f"serp-limit-{limit}",
+        prompt="serp_snapshot",
+    )
+
+    if not force_refresh:
+        snapshot_entry = get_serp_snapshot(query_hash)
+        if snapshot_entry:
+            result = snapshot_entry["result"]
+            _store_serp_result(index, result)
+            return result
+
+        domain_snapshot = get_latest_serp_snapshot_for_domain(
+            order_obj.sanitized_domain(), limit=DATAFORSEO_FETCH_LIMIT
+        )
+        if domain_snapshot:
+            result = domain_snapshot["result"]
+            _store_serp_result(index, result)
+            try:
+                store_serp_snapshot(
+                    query_hash=query_hash,
+                    order_data=order_data,
+                    serp_keyword=serp_keyword,
+                    limit=domain_snapshot["limit"],
+                    result=result,
+                )
+            except Exception as exc:
+                logging.getLogger(__name__).warning(
+                    "Failed to persist domain snapshot reuse for %s: %s",
+                    order_data.get("domain", ""),
+                    exc,
+                )
+            return result
+
     settings = FetchSettings(
         default_serp_keyword=sidebar_state.get("default_serp_keyword", ""),
-        live=sidebar_state.get("use_live_endpoint", True),
+        live=sidebar_state.get("use_live_endpoint", False),
     )
 
     result = fetch_serp(
@@ -574,12 +709,6 @@ def _perform_fetch(
     )
     _store_serp_result(index, result)
     try:
-        query_hash = compute_generation_hash(
-            order_data,
-            serp_keyword=serp_keyword,
-            model=f"serp-limit-{limit}",
-            prompt="serp_snapshot",
-        )
         store_serp_snapshot(
             query_hash=query_hash,
             order_data=order_data,
@@ -613,6 +742,8 @@ def _ensure_serp_for_order(
         limit,
         use_cache=sidebar_state.get("use_cache", False),
         cache_only=sidebar_state.get("cache_only", False),
+        force_refresh=sidebar_state.get("force_fetch", False)
+        and not sidebar_state.get("cache_only", False),
     )
     return st.session_state[SERP_RESULTS_KEY][index]
 
@@ -718,7 +849,7 @@ def _render_generation_tab(template_lookup: Dict[str, PromptTemplate], sidebar_s
 
     st.markdown("### Titles (unaltered)")
     if available_titles:
-        st.dataframe(pd.DataFrame(available_titles), width="stretch")
+        st.dataframe(pd.DataFrame(available_titles), use_container_width=True)
     else:
         st.warning("No titles returned.")
 
@@ -905,7 +1036,7 @@ def _render_generation_tab(template_lookup: Dict[str, PromptTemplate], sidebar_s
                     "model",
                 ]
             ]
-            st.dataframe(table_view, width="stretch")
+            st.dataframe(table_view, use_container_width=True)
 
             st.markdown("#### Browse results by order")
             grouped = export_df.groupby("order_index", sort=True)

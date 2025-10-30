@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:32:18Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "mypokercoaching.com",
+    "anchor_keyword": "elmst-casinos.com",
+    "anchor_country": "Sweden",
+    "target_url": "https://elmst-casinos.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Online Casino Games in Sweden: Odds, Rules, and Table Etiquette",
+      "rationale": "Fits mypokercoaching.com\u2019s strategy/education style and allows a contextual link to elmst-casinos.com for up-to-date Sweden-facing game availability and guidance without naming brands."
+    },
+    {
+      "title": "House Edge by Game: a Sweden-Focused Guide for Smarter Casino Play",
+      "rationale": "Educational angle aligns with existing house-edge content; elmst-casinos.com can be referenced for Sweden-specific RTP ranges and game categories users can compare before playing."
+    },
+    {
+      "title": "Payment Methods for Online Casinos in Sweden: Limits, Fees, and Speed",
+      "rationale": "Practical banking guide where elmst-casinos.com can support with current Sweden-ready deposit/withdrawal options and processing times to help readers plan transactions."
+    },
+    {
+      "title": "Mobile Casino Play in Sweden: Pros, Cons, and Bankroll Tips",
+      "rationale": "Mobile-first strategy piece suitable for mypokercoaching.com; link to elmst-casinos.com to verify mobile game libraries and Sweden-compatible payment methods."
+    },
+    {
+      "title": "Regular vs. Jackpot Slots in Sweden: Which Fits Your Risk Profile?",
+      "rationale": "Comparative strategy content ideal for poker-minded readers; elmst-casinos.com can be cited for Sweden-available slot types, variance considerations, and typical RTP ranges."
+    }
+  ],
+  "titles_context": [
+    "Zula Casino Review & Top Alternatives for US Players ...",
+    "Online Social Casino Strategy - How to Play Smarter and ...",
+    "Casino House Edge In Different Games - What is it?",
+    "Master The Rules and Learn How To Play Various Casino ...",
+    "Top 10 Casinos and Sports Betting Sites to Play With",
+    "Regular vs. Jackpot Slots \u2013 Do You Know How to Pick the ...",
+    "Casino War vs Blackjack: Which Has Better Odds?",
+    "Online Casino Games in the USA",
+    "Which Is the Best Casino Bonus for Me... And Why?",
+    "How Do Casinos Make Money From Different Games?",
+    "Casino Etiquette: The Do's & Don'ts When Playing at a ...",
+    "House Edge Explained \u2013 How Casinos Make Their Money",
+    "Different Types of Slot Machines - How to Pick the Best ...",
+    "Mariano Goes for It: Crazy Turn Action on Hustler Casino ...",
+    "Exploring the Rise of Online Slots",
+    "Lucky8 Review: The Best Online Casino",
+    "Mobile Casino Pros & Cons - An Online Casino in Your ...",
+    "Choosing an Online Casino License in 2025",
+    "How to Play Casino Craps (Beginner's Guide)",
+    "Rivers Casino Poker Room Review",
+    "How Technology Is Changing The Online Casino ...",
+    "US Poker Scene \u2013 How To Find The Best Casino For You",
+    "Why Payment Methods Matter in Online Casinos",
+    "Top Casino Table Games That You Must Try at Least Once",
+    "Best Las Vegas Casinos \u2013 Play Poker And Enjoy Your ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://elmst-casinos.com/ that feel at home on mypokercoaching.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): elmst-casinos.com\n\nAnchor operates in: Sweden. \n\nI need to have the country in the title.\n\nReference titles:\n- Zula Casino Review & Top Alternatives for US Players ...\n- Online Social Casino Strategy - How to Play Smarter and ...\n- Casino House Edge In Different Games - What is it?\n- Master The Rules and Learn How To Play Various Casino ...\n- Top 10 Casinos and Sports Betting Sites to Play With\n- Regular vs. Jackpot Slots \u2013 Do You Know How to Pick the ...\n- Casino War vs Blackjack: Which Has Better Odds?\n- Online Casino Games in the USA\n- Which Is the Best Casino Bonus for Me... And Why?\n- How Do Casinos Make Money From Different Games?\n- Casino Etiquette: The Do's & Don'ts When Playing at a ...\n- House Edge Explained \u2013 How Casinos Make Their Money\n- Different Types of Slot Machines - How to Pick the Best ...\n- Mariano Goes for It: Crazy Turn Action on Hustler Casino ...\n- Exploring the Rise of Online Slots\n- Lucky8 Review: The Best Online Casino\n- Mobile Casino Pros & Cons - An Online Casino in Your ...\n- Choosing an Online Casino License in 2025\n- How to Play Casino Craps (Beginner's Guide)\n- Rivers Casino Poker Room Review\n- How Technology Is Changing The Online Casino ...\n- US Poker Scene \u2013 How To Find The Best Casino For You\n- Why Payment Methods Matter in Online Casinos\n- Top Casino Table Games That You Must Try at Least Once\n- Best Las Vegas Casinos \u2013 Play Poker And Enjoy Your ...\n\nGuidance:\n1. Combine your own knowledge of mypokercoaching.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to mypokercoaching.com while naturally justifying a link to https://elmst-casinos.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude elmst-casinos.com and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Sweden where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 980,
+    "completion_tokens": 992
+  },
+  "cost_usd": 0.07912
+}

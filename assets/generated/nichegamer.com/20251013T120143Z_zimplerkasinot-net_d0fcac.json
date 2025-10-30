@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-13T12:01:43Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "nichegamer.com",
+    "anchor_keyword": "zimplerkasinot.net",
+    "anchor_country": "Finland",
+    "target_url": "https://zimplerkasinot.net/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "From JRPG Minigames to Real\u2011money Mechanics: Why Casino Systems Hook Core Gamers",
+      "rationale": "Connects game design analysis to real-money systems popular with NicheGamer readers; a contextual link to zimplerkasinot.net can illustrate how Finnish-facing sites implement similar mechanics and payment flows."
+    },
+    {
+      "title": "Finland\u2019s Mobile\u2011first Gambling Scene in 2025: a Core Gamer\u2019s Field Guide",
+      "rationale": "Localizes to Finland and mobile play, matching the audience\u2019s tech-savvy angle; linking to zimplerkasinot.net provides up-to-date Finnish payment options, regulations, and onboarding specifics."
+    },
+    {
+      "title": "Latency, RNG, and UX: the Tech Stack Driving Today\u2019s Online Casino Games",
+      "rationale": "Tech-forward angle suits NicheGamer; zimplerkasinot.net can serve as a resource on Finnish platforms\u2019 verification steps, payment rails like Zimpler, and player protections."
+    },
+    {
+      "title": "Bankroll Management for Gamers: Turning Raid Math Into Safer Casino Sessions",
+      "rationale": "Bridges familiar gaming concepts with responsible gambling; a link to zimplerkasinot.net can give Finland-focused guidance on limits, deposits, and withdrawal practices."
+    },
+    {
+      "title": "Payment Speedruns: How Instant Deposits Are Reshaping Online Play in the Nordics",
+      "rationale": "Highlights fast fintech methods common in Finland and neighboring regions; zimplerkasinot.net can contextualize local payment methods, fees, and KYC friction for readers curious about the Nordic landscape."
+    }
+  ],
+  "titles_context": [
+    "How To Choose the Best Casino Game for Your Play Style",
+    "Casino Bonus Mastery: 2025 Power-Ups for Core Gamers",
+    "5 Statistics About Online Casino Games for 2025",
+    "Why Casino Minigames in JRPGs Still Shine",
+    "Can You 'Master' Casino Games Like a Niche Strategy ...",
+    "Smartphone Gambling: Mobile vs Desktop Casino Gaming",
+    "How Online Casino Works in Norway",
+    "Bet Smart, Play Safe: Navigating the Online Casino ...",
+    "Popular Online Casino Games in Norway",
+    "Blooming Business: Casino Review",
+    "Unconventional Online Casino Strategies: Thinking ...",
+    "How to Find the Best Online Casino to Match Your Love of ...",
+    "Which Online Casino Community Bonuses Are Worth Your ...",
+    "GoldenPanda Casino Locked My Account \u2013 How To Take ...",
+    "How Mobile Gaming Is Transforming The Casino Experience",
+    "From No-Deposit Bonuses to Skill-Based Gambling",
+    "Category: Sponsored Content",
+    "An overview of the top online casino games",
+    "How to Download and Get Started with the Zula Casino App",
+    "Choosing a Safe Online Casino",
+    "Bigger thrills with no deposit bonuses for exciting online ...",
+    "What is Aviator And How Is It Different from Other Casino ...",
+    "The Rise of Mobile Gaming: What It Means for Casino ...",
+    "Video Game Narratives Power Up Online Casino Adventures",
+    "Hollywood and Gambling: A High-Stakes Partnership Built ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://zimplerkasinot.net/ that feel at home on nichegamer.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): zimplerkasinot.net\n\nAnchor operates in: Finland\n\nReference titles:\n- How To Choose the Best Casino Game for Your Play Style\n- Casino Bonus Mastery: 2025 Power-Ups for Core Gamers\n- 5 Statistics About Online Casino Games for 2025\n- Why Casino Minigames in JRPGs Still Shine\n- Can You 'Master' Casino Games Like a Niche Strategy ...\n- Smartphone Gambling: Mobile vs Desktop Casino Gaming\n- How Online Casino Works in Norway\n- Bet Smart, Play Safe: Navigating the Online Casino ...\n- Popular Online Casino Games in Norway\n- Blooming Business: Casino Review\n- Unconventional Online Casino Strategies: Thinking ...\n- How to Find the Best Online Casino to Match Your Love of ...\n- Which Online Casino Community Bonuses Are Worth Your ...\n- GoldenPanda Casino Locked My Account \u2013 How To Take ...\n- How Mobile Gaming Is Transforming The Casino Experience\n- From No-Deposit Bonuses to Skill-Based Gambling\n- Category: Sponsored Content\n- An overview of the top online casino games\n- How to Download and Get Started with the Zula Casino App\n- Choosing a Safe Online Casino\n- Bigger thrills with no deposit bonuses for exciting online ...\n- What is Aviator And How Is It Different from Other Casino ...\n- The Rise of Mobile Gaming: What It Means for Casino ...\n- Video Game Narratives Power Up Online Casino Adventures\n- Hollywood and Gambling: A High-Stakes Partnership Built ...\n\nGuidance:\n1. Combine your own knowledge of nichegamer.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to nichegamer.com while naturally justifying a link to https://zimplerkasinot.net/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude zimplerkasinot.net and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Finland where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 972,
+    "completion_tokens": 836
+  },
+  "cost_usd": 0.0696
+}

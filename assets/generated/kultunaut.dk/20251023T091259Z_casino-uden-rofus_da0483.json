@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-23T09:12:59Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "kultunaut.dk",
+    "anchor_keyword": "Casino uden rofus",
+    "anchor_country": "",
+    "target_url": "https://www.worldclasstrotting.com/dk/casino-uden-rofus/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Undg\u00e5 Fup: Tjekliste Til Sikker Verificering Af Online Spilsteder",
+      "rationale": "En praktisk guide til l\u00e6sere p\u00e5 KultuNaut, der s\u00f8ger tryghed online. Et link kan pege p\u00e5 en dybdeg\u00e5ende ressource om casino uden ROFUS, der forklarer ID\u2011tjek, licenser, betaling og ansvarligt spil uden at anbefale udbydere."
+    },
+    {
+      "title": "Virtuel Virkelighed Og Spil: N\u00e6ste Kapitel for Digital Underholdning",
+      "rationale": "Et kultur- og tech-vinkel, der matcher KultuNauts univers. Et link kan give faktabaseret baggrund om rammerne for at spille udenfor ROFUS og hvilke forhold man b\u00f8r kende, f\u00f8r man pr\u00f8ver nye formater."
+    },
+    {
+      "title": "Spil Og Kultur I Danmark: Fra Klassiske Borde Til Online Vaner",
+      "rationale": "Kontekstualiserer spil i dansk kulturliv. Et link kan tilbyde forklaring af selvudelukkelse via ROFUS, hvad \u2018casino uden ROFUS\u2019 indeb\u00e6rer, samt r\u00e5d om sikkerhed, s\u00e5 l\u00e6serne kan forst\u00e5 landskabet."
+    },
+    {
+      "title": "S\u00e5dan Navigerer Du I Spil Uden Dansk Licens: Regler, Risici Og Rettigheder",
+      "rationale": "Forbrugervinklet og oplysende, i tr\u00e5d med tidligere informationsindl\u00e6g p\u00e5 KultuNaut. Et link kan nuancere juridiske forskelle, betalingsl\u00f8sninger og ansvarligt spil ved casino uden ROFUS."
+    },
+    {
+      "title": "Hvorfor Online Spil Boomer: Tendenser, Sikkerhed Og Ansvarlighed",
+      "rationale": "Trendartikel med fokus p\u00e5 adf\u00e6rd og sikkerhed. Et link kan give en neutral gennemgang af muligheder og faldgruber ved at benytte casino uden ROFUS, inkl. tips til verificering og selvkontrol."
+    }
+  ],
+  "titles_context": [
+    "Casino Cosmopol Malm\u00f6 - Find it on KultuNaut",
+    "Undg\u00e5 fup og bedrag: S\u00e5dan verificerer du et online casino",
+    "Casino Vesterport - Find det p\u00e5 KultuNaut",
+    "Virtuel virkelighed: Fremtiden for casino-underholdning i ...",
+    "Casino Copenhagen - Find det p\u00e5 KultuNaut",
+    "Mariatorget Pitchers (Casino) - Find det p\u00e5 KultuNaut",
+    "Casino uden licens - hvad er det, og hvad skal man v\u00e6re ...",
+    "Top 5 online casinoer med de bedste spil og ...",
+    "Guide to culture events, music, theatre and exhibitions",
+    "Casino Bodega - Finn det p\u00e5 KultuNaut",
+    "Gambling i den danske kultur: en fortid og nutidsperspektiv",
+    "Online casinos Denmark: Derfor er de mere sikre at spille p\u00e5",
+    "S\u00e5dan finder du de bedste casinoer online - KultuNaut",
+    "Walk-in - Salsa & Rueda de Casino - Kultunaut",
+    "Casino Bodega - Finden Sie es bei KultuNaut",
+    "Workshop rueda de casino llanta style - Kultunaut",
+    "Kultunaut \u00bb Blog",
+    "Dark Comedy Night - Guide to culture events, music, theatre and ...",
+    "Udenlandsk Casino Med Trustly \u00bb Kultunaut",
+    "Finland planl\u00e6gger at implementere ny spillelicens - KultuNaut",
+    "SalsaSon WHITE Party & WS Rueda de Casino m/Denis Matheu",
+    "Udviklingen i de finske spilmarked - KultuNaut",
+    "DR Big Bands Nyt\u00e5rskoncert - KultuNaut",
+    "Spil p\u00e5 nettet er popul\u00e6rt som aldrig f\u00f8r - KultuNaut",
+    "Casino og kultur - KultuNaut"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.worldclasstrotting.com/dk/casino-uden-rofus/ that feel at home on kultunaut.dk.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Casino uden rofus\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Casino Cosmopol Malm\u00f6 - Find it on KultuNaut\n- Undg\u00e5 fup og bedrag: S\u00e5dan verificerer du et online casino\n- Casino Vesterport - Find det p\u00e5 KultuNaut\n- Virtuel virkelighed: Fremtiden for casino-underholdning i ...\n- Casino Copenhagen - Find det p\u00e5 KultuNaut\n- Mariatorget Pitchers (Casino) - Find det p\u00e5 KultuNaut\n- Casino uden licens - hvad er det, og hvad skal man v\u00e6re ...\n- Top 5 online casinoer med de bedste spil og ...\n- Guide to culture events, music, theatre and exhibitions\n- Casino Bodega - Finn det p\u00e5 KultuNaut\n- Gambling i den danske kultur: en fortid og nutidsperspektiv\n- Online casinos Denmark: Derfor er de mere sikre at spille p\u00e5\n- S\u00e5dan finder du de bedste casinoer online - KultuNaut\n- Walk-in - Salsa & Rueda de Casino - Kultunaut\n- Casino Bodega - Finden Sie es bei KultuNaut\n- Workshop rueda de casino llanta style - Kultunaut\n- Kultunaut \u00bb Blog\n- Dark Comedy Night - Guide to culture events, music, theatre and ...\n- Udenlandsk Casino Med Trustly \u00bb Kultunaut\n- Finland planl\u00e6gger at implementere ny spillelicens - KultuNaut\n- SalsaSon WHITE Party & WS Rueda de Casino m/Denis Matheu\n- Udviklingen i de finske spilmarked - KultuNaut\n- DR Big Bands Nyt\u00e5rskoncert - KultuNaut\n- Spil p\u00e5 nettet er popul\u00e6rt som aldrig f\u00f8r - KultuNaut\n- Casino og kultur - KultuNaut\n\nGuidance:\n1. Combine your own knowledge of kultunaut.dk's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to kultunaut.dk while naturally justifying a link to https://www.worldclasstrotting.com/dk/casino-uden-rofus/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Casino uden rofus and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1154,
+    "completion_tokens": 1304
+  },
+  "cost_usd": 0.10132
+}

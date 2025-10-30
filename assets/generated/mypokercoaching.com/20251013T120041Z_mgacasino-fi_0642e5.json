@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-13T12:00:41Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "mypokercoaching.com",
+    "anchor_keyword": "mgacasino.fi",
+    "anchor_country": "Finland",
+    "target_url": "https://mgacasino.fi/mga-kasinot/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Mga\u2011licensed Casinos Explained for Finnish Players: Security, Fairness, and Game Choice",
+      "rationale": "Educational overview suited to mypokercoaching readers; links naturally to mgacasino.fi\u2019s MGA resource for Finland-specific guidance and vetted options."
+    },
+    {
+      "title": "Are Your Winnings Tax\u2011free? a Finland\u2011focused Guide to EU/Eea\u2011licensed Casino Sites",
+      "rationale": "Addresses a key Finland concern (taxation) and can reference mgacasino.fi for an MGA list and compliance details."
+    },
+    {
+      "title": "Table Games vs. Slots Under the MGA Rulebook: Picking the Lower\u2011edge Options",
+      "rationale": "Strategy angle (house edge/RTP) aligns with mypokercoaching content and justifies citing mgacasino.fi for MGA\u2011licensed choices."
+    },
+    {
+      "title": "How to Evaluate Casino Licenses in 2025: a Finland Player Checklist",
+      "rationale": "License comparison fits the site\u2019s analytical tone; mgacasino.fi provides a practical MGA\u2011focused destination for readers."
+    },
+    {
+      "title": "Bankroll\u2011safe Online Casino Play: RTP, Volatility, and Limits on Eu\u2011licensed Platforms",
+      "rationale": "Bankroll management crossover for poker audiences; link to mgacasino.fi to guide readers toward MGA\u2011supervised platforms relevant to Finland."
+    }
+  ],
+  "titles_context": [
+    "Top 10 Casinos and Sports Betting Sites to Play With",
+    "Online Social Casino Strategy - How to Play Smarter and ...",
+    "The Largest Casino Win on Record",
+    "Online Casino Games in the USA",
+    "Casino War vs Blackjack: Which Has Better Odds?",
+    "How To Always Get The Best Out Of Online Casino Bonuses",
+    "Table Games vs. Slots - Main Differences Compared",
+    "Casino House Edge In Different Games - What is it?",
+    "How Do Casinos Make Money From Different Games?",
+    "US Poker Scene \u2013 How To Find The Best Casino For You",
+    "Different Types of Slot Machines - How to Pick the Best ...",
+    "Zula Casino Review & Top Alternatives for US Players ...",
+    "Casino Blog - Master The Rules and Learn How To Play ...",
+    "Regular vs. Jackpot Slots \u2013 Do You Know How to Pick the ...",
+    "Lucky8 Review: The Best Online Casino",
+    "Why Should You Play Games At an Online Casino?",
+    "House Edge Explained \u2013 How Casinos Make Their Money",
+    "Which Is the Best Casino Bonus for Me... And Why?",
+    "Starda Casino Review 2024 | Join & Get \u20ac1500 + 500 ...",
+    "What Factors Should You Consider Choosing an Online ...",
+    "Top Casino Table Games That You Must Try at Least Once",
+    "Casino Etiquette: The Do's & Don'ts When Playing at a ...",
+    "Choosing an Online Casino License in 2025",
+    "Best Las Vegas Casinos \u2013 Play Poker And Enjoy Your ...",
+    "How to Play Casino Craps (Beginner's Guide)"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://mgacasino.fi/mga-kasinot/ that feel at home on mypokercoaching.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): mgacasino.fi\n\nAnchor operates in: Finland\n\nReference titles:\n- Top 10 Casinos and Sports Betting Sites to Play With\n- Online Social Casino Strategy - How to Play Smarter and ...\n- The Largest Casino Win on Record\n- Online Casino Games in the USA\n- Casino War vs Blackjack: Which Has Better Odds?\n- How To Always Get The Best Out Of Online Casino Bonuses\n- Table Games vs. Slots - Main Differences Compared\n- Casino House Edge In Different Games - What is it?\n- How Do Casinos Make Money From Different Games?\n- US Poker Scene \u2013 How To Find The Best Casino For You\n- Different Types of Slot Machines - How to Pick the Best ...\n- Zula Casino Review & Top Alternatives for US Players ...\n- Casino Blog - Master The Rules and Learn How To Play ...\n- Regular vs. Jackpot Slots \u2013 Do You Know How to Pick the ...\n- Lucky8 Review: The Best Online Casino\n- Why Should You Play Games At an Online Casino?\n- House Edge Explained \u2013 How Casinos Make Their Money\n- Which Is the Best Casino Bonus for Me... And Why?\n- Starda Casino Review 2024 | Join & Get \u20ac1500 + 500 ...\n- What Factors Should You Consider Choosing an Online ...\n- Top Casino Table Games That You Must Try at Least Once\n- Casino Etiquette: The Do's & Don'ts When Playing at a ...\n- Choosing an Online Casino License in 2025\n- Best Las Vegas Casinos \u2013 Play Poker And Enjoy Your ...\n- How to Play Casino Craps (Beginner's Guide)\n\nGuidance:\n1. Combine your own knowledge of mypokercoaching.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to mypokercoaching.com while naturally justifying a link to https://mgacasino.fi/mga-kasinot/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude mgacasino.fi and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Finland where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1022,
+    "completion_tokens": 1171
+  },
+  "cost_usd": 0.0907
+}

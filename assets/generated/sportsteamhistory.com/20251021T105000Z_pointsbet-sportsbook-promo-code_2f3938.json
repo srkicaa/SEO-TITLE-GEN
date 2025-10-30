@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:50:00Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "sportsteamhistory.com",
+    "anchor_keyword": "PointsBet sportsbook promo code",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/betting-sites/pointsbet-promo/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How Casino Cities Shaped Modern Pro Sports Expansion",
+      "rationale": "Explores the historical role of casino hubs (e.g., desert and resort markets) in attracting franchises and fan bases, creating a natural sidebar to explain today\u2019s regulated sportsbooks where a PointsBet sportsbook promo code reference could fit without disrupting team-history focus. Locale: Unspecified/global."
+    },
+    {
+      "title": "From Underdogs to Dynasties: Historic Teams That Defied the Odds",
+      "rationale": "Profiles famous seasons where pre-season lines and public sentiment were overturned by iconic runs, offering space to contextualize betting basics and link to education/resources using the PointsBet sportsbook promo code anchor. Locale: Unspecified/global."
+    },
+    {
+      "title": "The Evolution of Point Spreads in Iconic Rivalries",
+      "rationale": "Traces how long-standing rivalries influenced public wagering and line movement across eras, allowing a natural, non-promotional mention of modern betting options with a contextual link via the PointsBet sportsbook promo code anchor. Locale: Unspecified/global."
+    },
+    {
+      "title": "Opening Night Legends: Debut Games That Made Franchises",
+      "rationale": "Revisits historic first games and arena openings that set narratives\u2014and often swung early-season expectations\u2014creating room to discuss how fans follow lines and props today, with a discreet link using the PointsBet sportsbook promo code anchor. Locale: Unspecified/global."
+    },
+    {
+      "title": "A Timeline of Wagering\u2019s Place in Team Histories",
+      "rationale": "Maps key moments where wagering culture intersected with team milestones (from early pools to regulated markets), justifying a brief explainer and a contextual link anchored with PointsBet sportsbook promo code. Locale: Unspecified/global."
+    }
+  ],
+  "titles_context": [
+    "Vegas Outlaws Team Formation",
+    "Throwing Smoke the History of Nolan Ryan",
+    "Who Are The Greatest Premier League Strikers of All Time?",
+    "NBA vs NFL Halftime Shows: Which Is More Iconic?",
+    "Whalers iconic moments Archives",
+    "NBA Sold Off WNBA Franchises",
+    "Posse Team Formation",
+    "Analysis Of Ron Stewart's Career As CFL Team Player",
+    "Infographic: Los Angeles Dodgers Incredible History",
+    "Minnesota Vikings: The History of a Great NFL Club",
+    "Sports Team News - Part 26 - Sports Team History",
+    "Exploring the Rich History of NHL Teams",
+    "From Thrashers to Jets: Evolution of a Franchise",
+    "Sports Teams You'll Wish Still Existed",
+    "Opening Comerica Park | SPORTS TEAM HISTORY",
+    "Billionaire Michael Jordan's History",
+    "The Legacy of Finnish NHL Stars: From Sel\u00e4nne to Barkov",
+    "Unforgettable Team Dynasties: The Rise and Fall of Legends",
+    "San Diego Conquistadors Team History",
+    "The Rise and Fall of the Detroit Red Wings' Dynasty",
+    "Las Vegas Aces History \u2013 Team Origin and Achievements",
+    "Five NHL Teams Poised for Stanley Cup Victory",
+    "The Legendary Career of Mark Messier - Sports Team History",
+    "A Comprehensive Look into the History of the Denver Nuggets",
+    "boston bruins team history Archives | SPORTS TEAM HISTORY"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/betting-sites/pointsbet-promo/ that feel at home on sportsteamhistory.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): PointsBet sportsbook promo code\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Vegas Outlaws Team Formation\n- Throwing Smoke the History of Nolan Ryan\n- Who Are The Greatest Premier League Strikers of All Time?\n- NBA vs NFL Halftime Shows: Which Is More Iconic?\n- Whalers iconic moments Archives\n- NBA Sold Off WNBA Franchises\n- Posse Team Formation\n- Analysis Of Ron Stewart's Career As CFL Team Player\n- Infographic: Los Angeles Dodgers Incredible History\n- Minnesota Vikings: The History of a Great NFL Club\n- Sports Team News - Part 26 - Sports Team History\n- Exploring the Rich History of NHL Teams\n- From Thrashers to Jets: Evolution of a Franchise\n- Sports Teams You'll Wish Still Existed\n- Opening Comerica Park | SPORTS TEAM HISTORY\n- Billionaire Michael Jordan's History\n- The Legacy of Finnish NHL Stars: From Sel\u00e4nne to Barkov\n- Unforgettable Team Dynasties: The Rise and Fall of Legends\n- San Diego Conquistadors Team History\n- The Rise and Fall of the Detroit Red Wings' Dynasty\n- Las Vegas Aces History \u2013 Team Origin and Achievements\n- Five NHL Teams Poised for Stanley Cup Victory\n- The Legendary Career of Mark Messier - Sports Team History\n- A Comprehensive Look into the History of the Denver Nuggets\n- boston bruins team history Archives | SPORTS TEAM HISTORY\n\nGuidance:\n1. Combine your own knowledge of sportsteamhistory.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to sportsteamhistory.com while naturally justifying a link to https://www.lineups.com/betting-sites/pointsbet-promo/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude PointsBet sportsbook promo code and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 974,
+    "completion_tokens": 1245
+  },
+  "cost_usd": 0.09418
+}

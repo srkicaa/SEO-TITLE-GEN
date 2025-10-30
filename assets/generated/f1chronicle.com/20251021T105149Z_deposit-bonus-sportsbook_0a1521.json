@@ -1,0 +1,62 @@
+{
+  "created_at": "2025-10-21T10:51:49Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "f1chronicle.com",
+    "anchor_keyword": "deposit bonus sportsbook",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/sportsbook-promos/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Why Night Racing in Las Vegas Changes How Fans Engage With F1 Betting",
+      "rationale": "Connects F1 Chronicle\u2019s Las Vegas coverage to fan wagering behavior; naturally supports a contextual link to a page outlining legal sportsbook options for race weekends."
+    },
+    {
+      "title": "How Gambling Partnerships Shape Modern F1 Weekends",
+      "rationale": "Builds on existing sponsorship pieces by examining the casino sector\u2019s influence on scheduling, activations, and fan engagement, creating an organic opening to reference a responsible sportsbook resource."
+    },
+    {
+      "title": "Three Grands Prix in the USA: What It Means for Viewership and Wagering Habits",
+      "rationale": "Aligns with F1 Chronicle\u2019s US race explainers and invites a data-led mention of where readers can compare regulated sportsbook offerings without naming brands."
+    },
+    {
+      "title": "From Pit Wall to Payouts: How Strategy Swings Move F1 Betting Markets",
+      "rationale": "Translates on-track tactics into market reactions, giving a natural reason to link to a hub that helps readers understand lawful sportsbook choices."
+    },
+    {
+      "title": "Responsible Betting for F1 Weekends: a Practical Fan Checklist",
+      "rationale": "Fits F1 Chronicle\u2019s educational tone and provides a clear, non-promotional pathway to a trusted page that aggregates regulated sportsbook information for newcomers."
+    }
+  ],
+  "titles_context": [
+    "The Role of Casino Sponsorships in F1 Races",
+    "Analysis Of The Financial Impact Of Sponsors In Formula 1",
+    "Top Formula 1 Cars in Casino Heists",
+    "Where Are The Three F1 Races In The USA? | F1 Explained",
+    "Who Are The Gambling Sponsors In F1? | F1 News",
+    "Six Intriguing Facts About Motorsport Sponsorships",
+    "Monuments Of Speed: The Most Storied Circuits In ...",
+    "How Many F1 Races Are In The US?",
+    "What Are The Pit Boards In Formula 1?",
+    "How Many Laps In F1 Las Vegas?",
+    "Slot Machines Inspired By Formula 1 | F1 News",
+    "Formula 1 News Articles | Page 61 of 67 | F1 Chronicle",
+    "The Benefits of Hosting An F1 Grand Prix In Las Vegas",
+    "What Is The Most Expensive F1 Race To Attend? - F1 Chronicle",
+    "Las Vegas Grand Prix | F1 Chronicle",
+    "How Much Does Monaco Pay To Host F1? | F1 Explained",
+    "Where Is The F1 Race In Mexico? | F1 Explained",
+    "Why Is The Las Vegas GP So Late At Night? - F1 Chronicle",
+    "Formula One: The Art of Strategic Team Management | F1 News",
+    "What F1 Tracks Can You Drive On? | F1 Explained"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/sportsbook-promos/ that feel at home on f1chronicle.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): deposit bonus sportsbook\n\nAnchor operates in: Unspecified\n\nReference titles:\n- The Role of Casino Sponsorships in F1 Races\n- Analysis Of The Financial Impact Of Sponsors In Formula 1\n- Top Formula 1 Cars in Casino Heists\n- Where Are The Three F1 Races In The USA? | F1 Explained\n- Who Are The Gambling Sponsors In F1? | F1 News\n- Six Intriguing Facts About Motorsport Sponsorships\n- Monuments Of Speed: The Most Storied Circuits In ...\n- How Many F1 Races Are In The US?\n- What Are The Pit Boards In Formula 1?\n- How Many Laps In F1 Las Vegas?\n- Slot Machines Inspired By Formula 1 | F1 News\n- Formula 1 News Articles | Page 61 of 67 | F1 Chronicle\n- The Benefits of Hosting An F1 Grand Prix In Las Vegas\n- What Is The Most Expensive F1 Race To Attend? - F1 Chronicle\n- Las Vegas Grand Prix | F1 Chronicle\n- How Much Does Monaco Pay To Host F1? | F1 Explained\n- Where Is The F1 Race In Mexico? | F1 Explained\n- Why Is The Las Vegas GP So Late At Night? - F1 Chronicle\n- Formula One: The Art of Strategic Team Management | F1 News\n- What F1 Tracks Can You Drive On? | F1 Explained\n\nGuidance:\n1. Combine your own knowledge of f1chronicle.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to f1chronicle.com while naturally justifying a link to https://www.lineups.com/sportsbook-promos/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude deposit bonus sportsbook and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 972,
+    "completion_tokens": 909
+  },
+  "cost_usd": 0.07398
+}

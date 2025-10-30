@@ -1,0 +1,51 @@
+{
+  "created_at": "2025-09-22T11:16:09Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "gcmag.com.au",
+    "anchor_keyword": "razedcryptocasino.com",
+    "anchor_country": "",
+    "target_url": "https://razedcryptocasino.com",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Crypto and the Aussie Gambling Landscape: What 2025 Means for Players and Policy",
+      "rationale": "Timely, Australia-focused analysis aligned with GC Mag\u2019s outlook pieces; a contextual link to razedcryptocasino.com can illustrate how crypto-enabled wagering works in practice, including security and compliance considerations, without naming brands in the title."
+    },
+    {
+      "title": "Gold Coast Guide: Paying With Digital Currencies at Entertainment Venues\u2014What\u2019s Actually Possible?",
+      "rationale": "Anchored to the Gold Coast audience; a link to razedcryptocasino.com can serve as a real-world example of crypto payment flows and user experience, complementing a broader guide about where crypto fits locally."
+    },
+    {
+      "title": "Faster Payouts, Fewer Headaches: How Blockchain Is Changing Withdrawal Times",
+      "rationale": "Builds on GC Mag\u2019s money and payments angles; razedcryptocasino.com can be referenced to explain transaction speed, on-chain confirmations, and weekend payout dynamics."
+    },
+    {
+      "title": "From Esports Arenas to Digital Wallets: Where Youth Culture Meets Crypto Wagering",
+      "rationale": "Connects esports coverage with emerging payment trends; a link to razedcryptocasino.com can demonstrate how provably fair systems and crypto deposits function for tech-savvy readers."
+    },
+    {
+      "title": "Money Mindset 2.0: Managing Risk When Leisure Meets Crypto",
+      "rationale": "Fits GC Mag\u2019s lifestyle-and-finance tone; razedcryptocasino.com can be cited for practical examples of limits, transparency tools, and responsible use of digital assets in entertainment contexts."
+    }
+  ],
+  "titles_context": [
+    "Australia's Gambling Industry: The Rest of 2025 Outlook",
+    "Using Crypto in the Gold Coast: Everything You Need to Know",
+    "A New Kind of Experience: The Star's Transformation for ...",
+    "Is Cryptocurrency a Viable Payment Option for Your Small ...",
+    "Esports in Australia: Legit Career Path or Passing Trend?",
+    "The Gold Coast's Top Casino Restaurants",
+    "Collective Archives - Page 6 of 21",
+    "How People's Attitudes Towards Money Have Evolved",
+    "How To Get Faster Payouts Without Weekend Delays"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://razedcryptocasino.com that feel at home on gcmag.com.au.\n\nReference SERP keyword: casino crypto\nAnchor keyword (use only if natural): razedcryptocasino.com\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Australia's Gambling Industry: The Rest of 2025 Outlook\n- Using Crypto in the Gold Coast: Everything You Need to Know\n- A New Kind of Experience: The Star's Transformation for ...\n- Is Cryptocurrency a Viable Payment Option for Your Small ...\n- Esports in Australia: Legit Career Path or Passing Trend?\n- The Gold Coast's Top Casino Restaurants\n- Collective Archives - Page 6 of 21\n- How People's Attitudes Towards Money Have Evolved\n- How To Get Faster Payouts Without Weekend Delays\n\nGuidance:\n1. Combine your own knowledge of gcmag.com.au's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to gcmag.com.au while naturally justifying a link to https://razedcryptocasino.com.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude razedcryptocasino.com and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 627,
+    "completion_tokens": 779
+  },
+  "cost_usd": 0.05928
+}

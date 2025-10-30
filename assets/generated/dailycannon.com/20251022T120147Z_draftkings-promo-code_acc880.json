@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-22T12:01:47Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "dailycannon.com",
+    "anchor_keyword": "draftkings promo code",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/betting-sites/draftkings-promo-code/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How Casino Strategy Can Sharpen Your Football Predictions on Matchday",
+      "rationale": "Taps Daily Cannon\u2019s football-first audience with a crossover angle from casino strategy to match analysis; naturally supports a contextual link for US-based readers referencing the draftkings promo code within the body copy."
+    },
+    {
+      "title": "Bankroll Habits from Casino Play That Keep Your Weekend Acca Sensible",
+      "rationale": "Responsible staking aligns with DC\u2019s tone; the piece can compare casino bankroll rules with football betting routines and include a resource mention for American readers via the draftkings promo code link."
+    },
+    {
+      "title": "Slots, Tables, and Team Talk: a Football Fan\u2019s Guide to Staying in Control Online",
+      "rationale": "Safety-first guidance mirrors prior DC features; provides a natural point to direct interested US supporters to sportsbook info using the draftkings promo code anchor in supporting text."
+    },
+    {
+      "title": "From North London Nights to Late\u2011night Spins: Timing Your Play for Safer Sessions",
+      "rationale": "Localizes to Arsenal culture while addressing online play habits; creates space to reference regulated options and, for US readers, a discreet draftkings promo code link in the article body."
+    },
+    {
+      "title": "UK vs US: What Football Supporters Should Know About Online Casino and Wagering Rules",
+      "rationale": "Comparative rules content suits DC\u2019s global readership; lets the piece signpost compliant US access points by inserting the draftkings promo code anchor where relevant in copy."
+    }
+  ],
+  "titles_context": [
+    "The origins and development of casino games: A historical ...",
+    "The different games you can play at an online casino",
+    "Best Online Casinos: Find Top-Rated Sites for Safe & ...",
+    "The best platforms for online casino gaming in 2023 ranked",
+    "Exclusive High-Stakes Casino Games for High-Rollers",
+    "Click, Spin, Win: The rise of new online casino sites and ...",
+    "How casino gaming has evolved into the digital age",
+    "How Do You Get a Casino Marker?",
+    "Our guide to which online casinos accept Revolut in 2024",
+    "From 3 reels to 7 - How Slots have changed over time",
+    "The Most Instagram-Worthy Casinos Around the Globe",
+    "Will Online Casinos Replace Traditional Ones",
+    "New online casino tricks to please Arsenal fans - Daily Cannon",
+    "Tips For Safe Gaming: How To Pick A Reputable Casino",
+    "How SMS Payments Work in Online Casinos - Daily Cannon",
+    "Top 7 Blockchain-Based Casino Games to Try in 2024 ...",
+    "Casino games that every football fanatic should try",
+    "Licensed online casino Red Dog - Daily Cannon",
+    "Online Casino Safety: Choose A Trusted And Legit Online ...",
+    "Will sports fans like online casinos? - Daily Cannon",
+    "How to Play Safely and Responsibly at an Online Gambling Site",
+    "The differences between betting on football and gambling in a ...",
+    "American Express Online Casinos Guide",
+    "Key Tips for Safe and Enjoyable Online Casino Gaming",
+    "How casino strategy translates to football bets - Daily Cannon"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/betting-sites/draftkings-promo-code/ that feel at home on dailycannon.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): draftkings promo code\n\nAnchor operates in: Unspecified\n\nReference titles:\n- The origins and development of casino games: A historical ...\n- The different games you can play at an online casino\n- Best Online Casinos: Find Top-Rated Sites for Safe & ...\n- The best platforms for online casino gaming in 2023 ranked\n- Exclusive High-Stakes Casino Games for High-Rollers\n- Click, Spin, Win: The rise of new online casino sites and ...\n- How casino gaming has evolved into the digital age\n- How Do You Get a Casino Marker?\n- Our guide to which online casinos accept Revolut in 2024\n- From 3 reels to 7 - How Slots have changed over time\n- The Most Instagram-Worthy Casinos Around the Globe\n- Will Online Casinos Replace Traditional Ones\n- New online casino tricks to please Arsenal fans - Daily Cannon\n- Tips For Safe Gaming: How To Pick A Reputable Casino\n- How SMS Payments Work in Online Casinos - Daily Cannon\n- Top 7 Blockchain-Based Casino Games to Try in 2024 ...\n- Casino games that every football fanatic should try\n- Licensed online casino Red Dog - Daily Cannon\n- Online Casino Safety: Choose A Trusted And Legit Online ...\n- Will sports fans like online casinos? - Daily Cannon\n- How to Play Safely and Responsibly at an Online Gambling Site\n- The differences between betting on football and gambling in a ...\n- American Express Online Casinos Guide\n- Key Tips for Safe and Enjoyable Online Casino Gaming\n- How casino strategy translates to football bets - Daily Cannon\n\nGuidance:\n1. Combine your own knowledge of dailycannon.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to dailycannon.com while naturally justifying a link to https://www.lineups.com/betting-sites/draftkings-promo-code/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude draftkings promo code and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1033,
+    "completion_tokens": 812
+  },
+  "cost_usd": 0.06938
+}

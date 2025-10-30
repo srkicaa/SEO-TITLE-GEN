@@ -1,0 +1,792 @@
+{
+  "mode": "live",
+  "task_id": "09261446-4117-0121-0000-338d4a9721f6",
+  "query": "site:salonprivemag.com travel",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Top Destinations and Activities for Pushing Your Travel ...",
+      "url": "https://www.salonprivemag.com/top-destinations-and-activities-for-pushing-your-travel-boundaries/",
+      "snippet": "May 10, 2025 \u2014 Traveling is the most exhilarating experience a person can have, offering the chance to explore new cultures, landscapes, and adventures.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Travel Hacks: Tips and Tricks for Seamless Journeys",
+      "url": "https://www.salonprivemag.com/travel-hacks-tips-and-tricks-for-seamless-journeys/",
+      "snippet": "Oct 24, 2024 \u2014 Travel Hacks: Tips and Tricks for Seamless Journeys \u00b7 Roll, Don't Fold \u00b7 Use Compression Bags \u00b7 Pack a Mini First-Aid Kit \u00b7 Book Flights on the\u00a0...",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Pigeon Forge Travel Tips First-Time Visitors Should Know",
+      "url": "https://www.salonprivemag.com/pigeon-forge-travel-tips-first-time-visitors-should-know/",
+      "snippet": "Jul 30, 2025 \u2014 This town in East Tennessee is known for its big attractions, family-friendly entertainment, and easy access to the Great Smoky Mountains.",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Chilling in Style: The Luxury Travel Destinations Keeping ...",
+      "url": "https://www.salonprivemag.com/chilling-in-style-the-luxury-travel-destinations-keeping-jet-setters-cool-this-summer/",
+      "snippet": "Feb 20, 2025 \u2014 According to a report, the three warmest years on record for Europe have all occurred since 2020, and the ten warmest since 2007.",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "7 Emerging Travel Industry Trends To Watch In 2025",
+      "url": "https://www.salonprivemag.com/7-emerging-travel-industry-trends-to-watch-in-2025/",
+      "snippet": "Travelers will increasingly seek out eco-friendly accommodations, low-impact activities, and destinations that prioritize conservation and community well-being.",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "Paris Travel & Lifestyle: Unveiling the Timeless Elegance ...",
+      "url": "https://www.salonprivemag.com/paris-travel-lifestyle-unveiling-the-timeless-elegance-of-place-vendome/",
+      "snippet": "Sep 3, 2025 \u2014 For travelers who are willing to indulge in the Parisian fashion spirit, the square is a must-be-traveled destination on the travel list. A\u00a0...",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "The 15 Hottest Travel Trends of 2024",
+      "url": "https://www.salonprivemag.com/the-15-hottest-travel-trends-of-2024/",
+      "snippet": "Jan 18, 2024 \u2014 The world of travel is constantly evolving, and as we bid farewell to a memorable year, the horizon is bright with exciting new trends.",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Travel Essentials for the Discerning Jetsetter",
+      "url": "https://www.salonprivemag.com/travel-essentials-for-the-discerning-jetsetter/",
+      "snippet": "In the world of luxury travel, comfort, style, and convenience are non-negotiable. For the discerning jetsetter, every detail matters, from the perfectly.",
+      "rank_absolute": 8,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "Revolutionizing Luxury Travel Experiences in the ...",
+      "url": "https://www.salonprivemag.com/travel-experiences-in-the-dominican-republic/",
+      "snippet": "Jun 24, 2024 \u2014 At the heart of this collaboration lies the promise of exclusive access to a secluded paradise on the North Coast of the Dominican Republic\u2014an\u00a0...",
+      "rank_absolute": 9,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "Five Continents, Five Road Trips; A Voyager's Dream",
+      "url": "https://www.salonprivemag.com/five-road-trips-a-voyagers-dream/",
+      "snippet": "May 8, 2023 \u2014 Road trips allow you to immerse yourself in landscapes and cultures in a way no other form of travel can. Let's take a tour around the world,\u00a0...",
+      "rank_absolute": 10,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "7 Popular Travel Destinations for Memorable Enjoyment ...",
+      "url": "https://www.salonprivemag.com/7-popular-travel-destinations-for-memorable-enjoyment-this-summer/",
+      "snippet": "May 18, 2023 \u2014 Are you looking for a perfect summer getaway? Enjoying beautiful scenery, tropical beaches, and delicious local cuisines could be just what\u00a0...",
+      "rank_absolute": 11,
+      "rank_group": 11,
+      "result_type": "items"
+    },
+    {
+      "title": "Discover Madrid: A Luxury Travel Guide",
+      "url": "https://www.salonprivemag.com/discover-madrid-a-luxury-travel-guide/",
+      "snippet": "May 25, 2024 \u2014 Our luxury travel guide explores hidden gems, world-class art, and exquisite culinary experiences in Spain's vibrant capital. Madrid isn't your\u00a0...",
+      "rank_absolute": 12,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "Top Summer Travel Deals: Unmissable Getaways for 2024",
+      "url": "https://www.salonprivemag.com/top-summer-travel-deals/",
+      "snippet": "Jul 26, 2024 \u2014 Head to Nova Maldives, a soulful island resort in the South Ari Atoll offering an all-inclusive, soft-luxury experience. Top Summer Travel Deals\u00a0...",
+      "rank_absolute": 13,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "Alternative Destinations to Add to Your 2023 Travel List",
+      "url": "https://www.salonprivemag.com/alternative-destinations-2023-travel-list/",
+      "snippet": "Apr 17, 2023 \u2014 In this article, we'll highlight some alternative destinations that you may want to add to your travel list for 2023. Patmos: A Serene\u00a0...",
+      "rank_absolute": 14,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "Luxury Travel Redefined: Four Seasons Unveils 2026 ...",
+      "url": "https://www.salonprivemag.com/four-seasons-unveils-2026-private-jet/",
+      "snippet": "Jun 11, 2024 \u2014 Embark on an around-the-world adventure that showcases the best of nature, culture, and history. From the serene landscapes of Bali to the\u00a0...",
+      "rank_absolute": 15,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "Travel Trend: Istria's Allure and Why You Shouldn't Miss It",
+      "url": "https://www.salonprivemag.com/travel-trend-istrias/",
+      "snippet": "Nov 23, 2023 \u2014 Located on Istria's picturesque west coast, Rovinj stands out as one of the Mediterranean's top destinations for couples seeking an\u00a0...",
+      "rank_absolute": 16,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "Playground Of The Rich & Famous: 20 Places For Luxury ...",
+      "url": "https://www.salonprivemag.com/playground-of-the-rich-famous-20-places-for-luxury-travel-in-2022/",
+      "snippet": "Dec 15, 2021 \u2014 From Nelson Mandela to Princess Diana, Necker Island has played host to some of the most glamorous people on Planet Earth. Hawaii \u2013 One Little\u00a0...",
+      "rank_absolute": 17,
+      "rank_group": 17,
+      "result_type": "items"
+    },
+    {
+      "title": "Villa Finder Achieves B Corp Certification: A Milestone in ...",
+      "url": "https://www.salonprivemag.com/villa-finder-achieves-b-corp-certification-a-milestone-in-purpose-driven-travel/",
+      "snippet": "Aug 19, 2025 \u2014 With a strong focus on sustainability, local impact, and authentic experiences, we help travelers explore the world responsibly\u2014without\u00a0...",
+      "rank_absolute": 18,
+      "rank_group": 18,
+      "result_type": "items"
+    },
+    {
+      "title": "What Are the Best Accessories for Travel Comfort, from Pillows to ...",
+      "url": "https://www.salonprivemag.com/what-are-the-best-accessories-for-travel-comfort-from-pillows-to-portable-chargers/",
+      "snippet": "Travel accessories play a big part in making trips more comfortable. Items like neck pillows, travel blankets, and portable chargers help travelers rest better\u00a0...",
+      "rank_absolute": 19,
+      "rank_group": 19,
+      "result_type": "items"
+    },
+    {
+      "title": "Miami Travel Guide: Discover the Best Summer ...",
+      "url": "https://www.salonprivemag.com/miami-travel-guide-discover-the-best-summer/",
+      "snippet": "Jun 29, 2023 \u2014 Miami, known for its thriving culinary landscape, unparalleled shopping destinations, and ever-evolving art scene, stands out as one of the most\u00a0...",
+      "rank_absolute": 20,
+      "rank_group": 20,
+      "result_type": "items"
+    },
+    {
+      "title": "What to Know About Using Ride Apps When Traveling",
+      "url": "https://www.salonprivemag.com/what-to-know-about-using-ride-apps-when-traveling/",
+      "snippet": "7 days ago \u2014 Ride apps are best used strategically, for late-night travel, trips to less accessible neighborhoods, or when carrying heavy luggage.",
+      "rank_absolute": 21,
+      "rank_group": 21,
+      "result_type": "items"
+    },
+    {
+      "title": "Luxury Travel Trends Unveiled for 2024",
+      "url": "https://www.salonprivemag.com/luxury-travel-trends-unveiled-for-2024/",
+      "snippet": "Mar 11, 2024 \u2014 Wayfairer Travel facilitates safe and seamless travel experiences to adventurous destinations, even with young children in tow, fostering\u00a0...",
+      "rank_absolute": 22,
+      "rank_group": 22,
+      "result_type": "items"
+    },
+    {
+      "title": "Survive The Busiest Travel Days with Expert Tips",
+      "url": "https://www.salonprivemag.com/busiest-travel-days-of-the-year/",
+      "snippet": "Oct 14, 2023 \u2014 Survive The Busiest Travel Days with Expert Tips \u00b7 1. Thanksgiving Day (USA) \u00b7 2. Christmas Eve (Worldwide) \u00b7 3. New Year's Eve (Worldwide) \u00b7 4.",
+      "rank_absolute": 23,
+      "rank_group": 23,
+      "result_type": "items"
+    },
+    {
+      "title": "Celebrating Sustainable Travel: Leading Eco-Conscious ...",
+      "url": "https://www.salonprivemag.com/celebrating-sustainable-travel/",
+      "snippet": "Sep 14, 2023 \u2014 As the world ushers in another World Tourism Day, the global travel landscape is undergoing a profound transformation, one that is steering\u00a0...",
+      "rank_absolute": 24,
+      "rank_group": 24,
+      "result_type": "items"
+    },
+    {
+      "title": "Welcome To Morzine - Travel Guide",
+      "url": "https://www.salonprivemag.com/welcome-to-morzine-travel-guide/",
+      "snippet": "Nov 24, 2022 \u2014 Morzine, a French ski resort, is situated close to the Swiss border at an elevation of 1000 meters. Despite a large number of visitors,\u00a0...",
+      "rank_absolute": 25,
+      "rank_group": 25,
+      "result_type": "items"
+    },
+    {
+      "title": "Five Bucket List Travel Experiences To Book For 2022",
+      "url": "https://www.salonprivemag.com/bucket-list-experiences-to-book-for-2022/",
+      "snippet": "Nov 18, 2021 \u2014 With its beautiful beaches, mouth-watering cuisine, and welcoming culture, Thailand is one of the world's top tourist destinations. With its\u00a0...",
+      "rank_absolute": 26,
+      "rank_group": 26,
+      "result_type": "items"
+    },
+    {
+      "title": "Why Turkey Should Be on Your Travel List?",
+      "url": "https://www.salonprivemag.com/why-turkey-should-be-on-your-travel-list/",
+      "snippet": "Dec 26, 2022 \u2014 Turkey can be an excellent destination for travellers interested in its rich history, culture, and natural beauty and willing to take the necessary precautions.",
+      "rank_absolute": 27,
+      "rank_group": 27,
+      "result_type": "items"
+    },
+    {
+      "title": "Reinvigorating Luxury Travel: Silavadee Pool Spa Resort ...",
+      "url": "https://www.salonprivemag.com/luxury-travel-silavadee-pool-spa-resort/",
+      "snippet": "May 24, 2023 \u2014 The idyllic Koh Samui, Thailand, hosts the renowned Silavadee Pool Spa Resort, a beacon of premium luxury.",
+      "rank_absolute": 28,
+      "rank_group": 28,
+      "result_type": "items"
+    },
+    {
+      "title": "15 Best Gifts for People Who Love to Travel",
+      "url": "https://www.salonprivemag.com/15-best-gifts-for-people-who-love-to-travel/",
+      "snippet": "Mar 3, 2023 \u2014 Another affordable gift is a passport holder or travel document organizer. These come in many different designs and materials, from water-\u00a0...",
+      "rank_absolute": 29,
+      "rank_group": 29,
+      "result_type": "items"
+    },
+    {
+      "title": "4 Travel Destinations Ideas for Winter 2023",
+      "url": "https://www.salonprivemag.com/4-travel-destinations-ideas-for-winter-2023/",
+      "snippet": "Apr 29, 2022 \u2014 Destination 1: The Three Valleys, France. 4 Travel Destinations Ideas for Winter 2023 ... Destination 2: Nagano, Japan. 4 Travel Destinations\u00a0...",
+      "rank_absolute": 30,
+      "rank_group": 30,
+      "result_type": "items"
+    },
+    {
+      "title": "Top 9 Things To Do While Traveling Across Pigeon Forge",
+      "url": "https://www.salonprivemag.com/top-9-things-to-do-while-traveling-across-pigeon-forge/",
+      "snippet": "Nov 24, 2022 \u2014 Top 9 Things To Do While Traveling Across Pigeon Forge \u00b7 1. See Nature In All Its Glory \u00b7 2. Go On A Shopping Spree \u00b7 3. Ride The Lightning Rod \u00b7 4.",
+      "rank_absolute": 31,
+      "rank_group": 31,
+      "result_type": "items"
+    },
+    {
+      "title": "Top Things To Do While Traveling Across California",
+      "url": "https://www.salonprivemag.com/things-to-do-across-california/",
+      "snippet": "Nov 2, 2022 \u2014 The Golden Gate Bridge is one of the largest tourist hotspots in the US, and it spreads across San Francisco Bay for over a mile. It is known\u00a0...",
+      "rank_absolute": 32,
+      "rank_group": 32,
+      "result_type": "items"
+    },
+    {
+      "title": "The Top 6 Apps For Travelers",
+      "url": "https://www.salonprivemag.com/the-top-6-apps-for-travelers/",
+      "snippet": "Nov 17, 2021 \u2014 Some of the best top traveler apps can assist your traveling adventures. From taking great pictures to sharing them with the world and\u00a0...",
+      "rank_absolute": 33,
+      "rank_group": 33,
+      "result_type": "items"
+    },
+    {
+      "title": "What Makes Rolls-Royce Ideal for Luxurious Long- ...",
+      "url": "https://www.salonprivemag.com/what-makes-rolls-royce-ideal-for-luxurious-long-distance-travel/",
+      "snippet": "Aug 23, 2024 \u2014 Rolls-Royce cars are meticulously designed to elevate the comfort level for long-distance travel, ensuring that every passenger enjoys a serene\u00a0...",
+      "rank_absolute": 34,
+      "rank_group": 34,
+      "result_type": "items"
+    },
+    {
+      "title": "Affordable International Trips You Can Take Without a ...",
+      "url": "https://www.salonprivemag.com/affordable-international-trips-you-can-take-without-a-visa-from-india/",
+      "snippet": "Feb 17, 2025 \u2014 So, pack your bags and learn about the best affordable international trips you can take without the visa hassle! Why Choose Visa-Free Travel?",
+      "rank_absolute": 35,
+      "rank_group": 35,
+      "result_type": "items"
+    },
+    {
+      "title": "Saturnalis Travel Adventures' Gems of Italy",
+      "url": "https://www.salonprivemag.com/saturnalis-travel-adventures-gems-of-italy/",
+      "snippet": "Mar 16, 2021 \u2014 Saturnalis is a boutique travel agency that focuses on providing tailor-made tours and experiential travel to our loyal guests. Recently, many\u00a0...",
+      "rank_absolute": 36,
+      "rank_group": 36,
+      "result_type": "items"
+    },
+    {
+      "title": "Travel Tips For Hollywood And Entry Requirements ...",
+      "url": "https://www.salonprivemag.com/travel-tips-for-hollywood-and-entry-requirements-for-the-usa/",
+      "snippet": "Oct 6, 2022 \u2014 Hollywood is an iconic place for the entertainment industry. Here are the best tips for staying in Hollywood and entering the USA.",
+      "rank_absolute": 37,
+      "rank_group": 37,
+      "result_type": "items"
+    },
+    {
+      "title": "Experience a New Era of Social Travel at Socialtel Koh ...",
+      "url": "https://www.salonprivemag.com/social-travel-at-socialtel-koh-samui/",
+      "snippet": "May 5, 2023 \u2014 Looking for a hotel that's not so anti-social? Say hello to Socialtel Koh Samui \u2013 a revolutionary concept that offers modern travellers an\u00a0...",
+      "rank_absolute": 38,
+      "rank_group": 38,
+      "result_type": "items"
+    },
+    {
+      "title": "The Top 7 Cinematic Travel Destinations",
+      "url": "https://www.salonprivemag.com/the-top-7-cinematic-travel-destinations/",
+      "snippet": "Jun 27, 2022 \u2014 We've got the most incredible locations from your favorite movies that you can travel to for an amazing holiday, whether you're into action,\u00a0...",
+      "rank_absolute": 40,
+      "rank_group": 39,
+      "result_type": "items"
+    },
+    {
+      "title": "Planning A Vacation? Here Are 7 Reasons Why You ...",
+      "url": "https://www.salonprivemag.com/planning-a-vacation-here-are-7-reasons-why-you-should-visit-tennessee/",
+      "snippet": "Sep 13, 2021 \u2014 Whitewater rafting in the Pigeon Forge is a compelling reason that attracts people from all over the country to travel to Tennessee. The\u00a0...",
+      "rank_absolute": 41,
+      "rank_group": 40,
+      "result_type": "items"
+    },
+    {
+      "title": "6 Good Reasons To Travel By Private Jet",
+      "url": "https://www.salonprivemag.com/6-good-reasons-to-travel-by-private-jet/",
+      "snippet": "Jun 21, 2022 \u2014 Private jets offer a more comfortable and enjoyable flying experience than commercial flights. You'll have more space to stretch out and relax,\u00a0...",
+      "rank_absolute": 43,
+      "rank_group": 42,
+      "result_type": "items"
+    },
+    {
+      "title": "The Ultimate Travel Guide To Casablanca in Morocco",
+      "url": "https://www.salonprivemag.com/the-ultimate-travel-guide-to-casablanca-in-morocco/",
+      "snippet": "May 9, 2019 \u2014 From being one of the most important harbours and trading posts of the ancient world to the go-to place for the adventurous tourist, this city truly offers it\u00a0...",
+      "rank_absolute": 44,
+      "rank_group": 43,
+      "result_type": "items"
+    },
+    {
+      "title": "How Waterproof Mattress Protectors Help You Stay ...",
+      "url": "https://www.salonprivemag.com/how-waterproof-mattress-protectors-help-you-stay-comfortable-during-extended-travel/",
+      "snippet": "Nov 11, 2024 \u2014 ... travel. This is where bed protectors come in. Rather than traveling with your mattress, a bed protector is a more portable option to keep\u00a0...",
+      "rank_absolute": 45,
+      "rank_group": 44,
+      "result_type": "items"
+    },
+    {
+      "title": "8 Best Cannabis-Friendly Travel Destinations",
+      "url": "https://www.salonprivemag.com/8-best-cannabis-friendly-travel-destinations/",
+      "snippet": "Aug 20, 2021 \u2014 The world has changed a lot in the last few years. The global pandemic has rekindled the need for many to travel, let loose, and relax.",
+      "rank_absolute": 46,
+      "rank_group": 45,
+      "result_type": "items"
+    },
+    {
+      "title": "Jamaica Excels: Triumph at World Travel Awards 2023",
+      "url": "https://www.salonprivemag.com/jamaica-excels-triumph-at-world-travel-award/",
+      "snippet": "Dec 26, 2023 \u2014 Jamaica, the jewel of the Caribbean, has once again emerged triumphant at the esteemed World Travel Awards 2023, reinforcing its standing as\u00a0...",
+      "rank_absolute": 47,
+      "rank_group": 46,
+      "result_type": "items"
+    },
+    {
+      "title": "Travelling to London? Here's How to Be a Traveler & Not ...",
+      "url": "https://www.salonprivemag.com/travelling-to-london-heres-how-to-be-a-traveler-not-a-tourist/",
+      "snippet": "Mar 15, 2024 \u2014 Get Off the Beaten Path: To truly experience London like a local, venture off the beaten path and explore areas that are not typically\u00a0...",
+      "rank_absolute": 48,
+      "rank_group": 47,
+      "result_type": "items"
+    },
+    {
+      "title": "Travel Agent Archives - Salon Prive Mag",
+      "url": "https://www.salonprivemag.com/tag/travel-agent/",
+      "snippet": "Up Close & Personal With Let's GoDo's CEO Juliana Chies ... In our recent interview with Juliana Chies, founder and CEO of Let's GoDo, she spoke\u2026",
+      "rank_absolute": 49,
+      "rank_group": 48,
+      "result_type": "items"
+    },
+    {
+      "title": "Four Seasons Hotel Madrid Spa Awarded 5* In Forbes ...",
+      "url": "https://www.salonprivemag.com/four-seasons-hotel-madrid-spa/",
+      "snippet": "Feb 28, 2023 \u2014 The Spa at Four Seasons Hotel Madrid has been recognized with Five Stars by Forbes Travel Guide Star Awards 2023, making it the first and\u00a0...",
+      "rank_absolute": 50,
+      "rank_group": 49,
+      "result_type": "items"
+    },
+    {
+      "title": "Bentley Luggage Launches New Collection for Elite Travel",
+      "url": "https://www.salonprivemag.com/bentley-luggage-launches/",
+      "snippet": "Oct 25, 2024 \u2014 Bentley Luggage: Exquisite travel accessories blending luxury and practicality, showcasing Bentley's renowned craftsmanship for discerning\u00a0...",
+      "rank_absolute": 51,
+      "rank_group": 50,
+      "result_type": "items"
+    },
+    {
+      "title": "Travelling to Massachusetts: All You Need to Know",
+      "url": "https://www.salonprivemag.com/travelling-to-massachusetts-all-you-need-to-know/",
+      "snippet": "Mar 27, 2023 \u2014 The state is also known for its vibrant culture and diverse attractions. Visitors can explore the city's many museums in Boston, including the\u00a0...",
+      "rank_absolute": 52,
+      "rank_group": 51,
+      "result_type": "items"
+    },
+    {
+      "title": "Travel to Vietnam for a Beach Holiday and Apply on Time ...",
+      "url": "https://www.salonprivemag.com/travel-to-vietnam-for-a-beach-holiday/",
+      "snippet": "Oct 22, 2019 \u2014 Most of us are these days planning our summer holidays, booking hotels or applying for visas. However, May is also a good moment for sea and\u00a0...",
+      "rank_absolute": 53,
+      "rank_group": 52,
+      "result_type": "items"
+    },
+    {
+      "title": "Leather Goods for Travel: The Best Pieces for Your Next Trip",
+      "url": "https://www.salonprivemag.com/leather-goods-for-travel-the-best-pieces-for-your-next-trip/",
+      "snippet": "Oct 30, 2024 \u2014 In this article, we'll analyze the best leather piece to consider for your next trip and why leather bags and leather backpacks are such fantastic choices.",
+      "rank_absolute": 54,
+      "rank_group": 53,
+      "result_type": "items"
+    },
+    {
+      "title": "Bentley's 'Extraordinary Journeys' - A Unique Travel ...",
+      "url": "https://www.salonprivemag.com/bentleys-extraordinary-journeys/",
+      "snippet": "Apr 12, 2023 \u2014 ... travel series. The small-scale travel series will offer bespoke road trips across the UK, New Mexico, and Scandinavia starting in April 2023.",
+      "rank_absolute": 55,
+      "rank_group": 54,
+      "result_type": "items"
+    },
+    {
+      "title": "Culinary Wonders at 35500 ft: Elevating Air Travel Dining",
+      "url": "https://www.salonprivemag.com/at-35500-ft-elevating-air-travel-dining/",
+      "snippet": "Jun 14, 2023 \u2014 Discover the best meals enjoyed at 35000 feet. From caviar and pies to mezze platters and bibimbap, these airline dining experiences are out\u00a0...",
+      "rank_absolute": 56,
+      "rank_group": 55,
+      "result_type": "items"
+    },
+    {
+      "title": "Making Your Travel More Convenient With Virtual Phone ...",
+      "url": "https://www.salonprivemag.com/travel-with-virtual-phone-numbers/",
+      "snippet": "Jul 7, 2023 \u2014 Overall, staying connected while travelling is crucial for communication, safety, convenience, and productivity. A virtual phone number is a\u00a0...",
+      "rank_absolute": 57,
+      "rank_group": 56,
+      "result_type": "items"
+    },
+    {
+      "title": "What Is The Best Foreo Product For Your Next Trip?",
+      "url": "https://www.salonprivemag.com/what-is-the-best-foreo-product-for-your-next-trip/",
+      "snippet": "Oct 18, 2024 \u2014 The Foreo Iris is perfect for anyone who wants to combat puffiness and signs of fatigue, which are common problems when travelling. This eye\u00a0...",
+      "rank_absolute": 58,
+      "rank_group": 57,
+      "result_type": "items"
+    },
+    {
+      "title": "NFT Travel Meets Luxury - IBZNFT Members-Only Club",
+      "url": "https://www.salonprivemag.com/nft-travel-meets-luxury-ibznft/",
+      "snippet": "Mar 15, 2023 \u2014 IBZNFT is changing the luxury travel industry by offering a unique digital membership club that leverages NFT and blockchain technology to\u00a0...",
+      "rank_absolute": 59,
+      "rank_group": 58,
+      "result_type": "items"
+    },
+    {
+      "title": "Key Cold Wallet Features for Crypto Travelers",
+      "url": "https://www.salonprivemag.com/key-cold-wallet-features-for-crypto-travelers/",
+      "snippet": "Aug 16, 2025 \u2014 Looking to secure your crypto as you travel the world? Crypto travel is on the rise. With 38% more travel bookings using crypto payments\u00a0...",
+      "rank_absolute": 60,
+      "rank_group": 59,
+      "result_type": "items"
+    },
+    {
+      "title": "HIIVE Binh Duong Debut: Business Travel Redefined",
+      "url": "https://www.salonprivemag.com/hiive-binh-duong-debut/",
+      "snippet": "Jul 29, 2023 \u2014 They proudly announced the launch of HIIVE Hotels, and the debut of HIIVE Binh Duong marks an important milestone for the brand in Southeast\u00a0...",
+      "rank_absolute": 61,
+      "rank_group": 60,
+      "result_type": "items"
+    },
+    {
+      "title": "Discover Untold Japan's Award-Winning Bespoke Tours",
+      "url": "https://www.salonprivemag.com/unlock-the-heart-of-japan-discover-untold-japans-award-winning-bespoke-tours/",
+      "snippet": "Feb 13, 2025 \u2014 When it comes to curating luxury experiences on another level, Untold Japan stands as a true pioneer in the world of exclusive travel.",
+      "rank_absolute": 62,
+      "rank_group": 61,
+      "result_type": "items"
+    },
+    {
+      "title": "Quiet Luxury: Discovering Koh Tao's Understated Charm ...",
+      "url": "https://www.salonprivemag.com/quiet-luxury-discovering-koh-taos-understated-charm-via-sea-route/",
+      "snippet": "Sep 1, 2025 \u2014 Why the Sea Route Embodies Koh Tao's Essence. Traveling to Koh Tao is never merely about logistics. The ride determines how you get there, and\u00a0...",
+      "rank_absolute": 63,
+      "rank_group": 62,
+      "result_type": "items"
+    },
+    {
+      "title": "When is Hurricane Season in the Caribbean?",
+      "url": "https://www.salonprivemag.com/when-is-hurricane-season-in-the-caribbean/",
+      "snippet": "Oct 16, 2023 \u2014 What Precautions Should Travellers Take During This Period? How Do Hurricanes Impact Travel and Accommodation Bookings? Is It Safe to Cruise in\u00a0...",
+      "rank_absolute": 64,
+      "rank_group": 63,
+      "result_type": "items"
+    },
+    {
+      "title": "Vacation to Florence: Immerse Yourself in the Art and ...",
+      "url": "https://www.salonprivemag.com/vacation-to-florence-immerse-yourself-in-the-art-and-culture-of-tuscanys-jewel/",
+      "snippet": "May 16, 2024 \u2014 Nestled in the heart of Italy's picturesque Tuscany region, Florence (or Firenze, as it is called in Italian) stands as a beacon of art,\u00a0...",
+      "rank_absolute": 65,
+      "rank_group": 64,
+      "result_type": "items"
+    },
+    {
+      "title": "Anuja Gaur, Author at Salon Prive Mag",
+      "url": "https://www.salonprivemag.com/our-authors/anuja-gaur/",
+      "snippet": "Anuja Gaur is a freelance luxury restaurant and travel writer based in Hertfordshire, UK. She is also an associate at an award-winning hedge fund in Mayfair.",
+      "rank_absolute": 66,
+      "rank_group": 65,
+      "result_type": "items"
+    },
+    {
+      "title": "World's Highest Rescue Mission And A Lopsided Travel ...",
+      "url": "https://www.salonprivemag.com/worlds-highest-rescue-mission/",
+      "snippet": "Jul 2, 2021 \u2014 How many of us, especially in the travel media are even aware of one stupendous feat that was accomplished by a Sherpa and one of the\u00a0...",
+      "rank_absolute": 67,
+      "rank_group": 66,
+      "result_type": "items"
+    },
+    {
+      "title": "Up Close And Personal With Luxe Tribes CEO Chidi Ashley",
+      "url": "https://www.salonprivemag.com/luxe-tribes-ceo-chidi-ashley/",
+      "snippet": "Dec 12, 2022 \u2014 An entrepreneur with a passion for luxury travel experiences and an eye for detail, Chidi's goal was to give women the chance to explore the world in style.",
+      "rank_absolute": 68,
+      "rank_group": 67,
+      "result_type": "items"
+    },
+    {
+      "title": "Unique Vacation Ideas for Couples",
+      "url": "https://www.salonprivemag.com/unique-vacation-ideas-for-couples/",
+      "snippet": "Feb 23, 2024 \u2014 Research has shown that when couples do new and exciting activities together, they tend to be happier in their relationship,\u00a0...",
+      "rank_absolute": 69,
+      "rank_group": 68,
+      "result_type": "items"
+    },
+    {
+      "title": "Travel-Sized Cannabis Products: What Are Your Options?",
+      "url": "https://www.salonprivemag.com/travel-sized-cannabis-products/",
+      "snippet": "Jul 27, 2022 \u2014 Are you someone who travels frequently and needs a cannabis consumption method that is suited to your travels? Do you want to know what your\u00a0...",
+      "rank_absolute": 70,
+      "rank_group": 69,
+      "result_type": "items"
+    },
+    {
+      "title": "Axonall Redefines Luxury Travel with AI",
+      "url": "https://www.salonprivemag.com/axonall-redefines-luxury-travel-with-ai/",
+      "snippet": "Aug 16, 2025 \u2014 Axonall is the first AI-powered luxury travel platform to design personalised journeys based on how travellers want to feel, not just where\u00a0...",
+      "rank_absolute": 71,
+      "rank_group": 70,
+      "result_type": "items"
+    },
+    {
+      "title": "Tag: SAii Lagoon Maldives",
+      "url": "https://www.salonprivemag.com/tag/saii-lagoon-maldives/",
+      "snippet": "Looking for a fun-packed family vacation that combines adventure, relaxation, and luxury? Look no further\u2026",
+      "rank_absolute": 72,
+      "rank_group": 71,
+      "result_type": "items"
+    },
+    {
+      "title": "The Thrill of Yacht Adventures: A Guide to Unforgettable ...",
+      "url": "https://www.salonprivemag.com/the-thrill-of-yacht-adventures-a-guide-to-unforgettable-maritime-journeys/",
+      "snippet": "Apr 8, 2025 \u2014 Yacht adventures offer unique travel experiences that combine luxury, exploration, and autonomy on the open sea.",
+      "rank_absolute": 73,
+      "rank_group": 72,
+      "result_type": "items"
+    },
+    {
+      "title": "Four Seasons Private Jet Experience's New 2025 Itineraries",
+      "url": "https://www.salonprivemag.com/four-seasons-private-jet-experiences/",
+      "snippet": "Dec 15, 2023 \u2014 \u201cThe overwhelmingly positive feedback we receive is a testament to the desire for immersive, seamless, and personalized travel experiences, and\u00a0...",
+      "rank_absolute": 74,
+      "rank_group": 73,
+      "result_type": "items"
+    },
+    {
+      "title": "Tag: Leading hotels of the World",
+      "url": "https://www.salonprivemag.com/tag/leading-hotels-of-the-world/",
+      "snippet": "... travel \u00b7 United Kingdom \u00b7 United States \u00b7 Home \u00b7 Arts & Culture \u00b7 Fashion \u00b7 Lifestyle \u00b7 Royals \u00b7 Social \u00b7 Health and Beauty \u00b7 Travel \u00b7 Shop \u00b7 Contact Us. Salon\u00a0...",
+      "rank_absolute": 75,
+      "rank_group": 74,
+      "result_type": "items"
+    },
+    {
+      "title": "A Pet-Friendly Vacation in Pigeon Forge: Activities for You ...",
+      "url": "https://www.salonprivemag.com/a-pet-friendly-vacation-in-pigeon-forge-activities-for-you-and-your-furry-friend/",
+      "snippet": "Oct 31, 2024 \u2014 Pigeon Forge is a fantastic vacation destination that welcomes all members of the family, including the four-legged ones.",
+      "rank_absolute": 76,
+      "rank_group": 75,
+      "result_type": "items"
+    },
+    {
+      "title": "Top Tips For Long Drives With Toddlers",
+      "url": "https://www.salonprivemag.com/top-tips-for-long-drives-with-toddlers/",
+      "snippet": "Nov 11, 2024 \u2014 All parents know keeping a toddler entertained on long car journeys can be challenging, but with a bit of planning, you can make the trip\u00a0...",
+      "rank_absolute": 77,
+      "rank_group": 76,
+      "result_type": "items"
+    },
+    {
+      "title": "Beverly Hills' Best-Kept Secrets: Insider Tips on Selecting ...",
+      "url": "https://www.salonprivemag.com/beverly-hills-best-kept-secrets-insider-tips-on-selecting-accommodation-for-your-vacation/",
+      "snippet": "Apr 19, 2024 \u2014 Now that's a celebrity vacation! Finding Your Dream Rental. Unlike hotels you can easily book online, finding quality Beverly Hills home rentals\u00a0...",
+      "rank_absolute": 78,
+      "rank_group": 77,
+      "result_type": "items"
+    },
+    {
+      "title": "5 Factors Behind the Surge in Flight Prices",
+      "url": "https://www.salonprivemag.com/5-factors-behind-the-surge-in-flight-prices/",
+      "snippet": "Jun 5, 2024 \u2014 The cost of air travel has been on the rise in recent years, leaving many travelers puzzled and frustrated. Several underlying factors\u00a0...",
+      "rank_absolute": 79,
+      "rank_group": 78,
+      "result_type": "items"
+    },
+    {
+      "title": "Celebrating 95 Years of The Ghan: Australia's Iconic Train ...",
+      "url": "https://www.salonprivemag.com/celebrating-95-years-of-the-ghan/",
+      "snippet": "Aug 9, 2024 \u2014 Today, The Ghan travels between Darwin and Adelaide, taking guests on an epic adventure traversing the Australian continent and through the Red\u00a0...",
+      "rank_absolute": 80,
+      "rank_group": 79,
+      "result_type": "items"
+    },
+    {
+      "title": "How to Have a Luxury Lifestyle in 2025",
+      "url": "https://www.salonprivemag.com/how-to-have-a-luxury-lifestyle-in-2025/",
+      "snippet": "Jan 27, 2025 \u2014 As with many last minute deals, air travel can be surprisingly cheap. Whether you're planning a flight to France or Fiji, why not see if you can\u00a0...",
+      "rank_absolute": 81,
+      "rank_group": 80,
+      "result_type": "items"
+    },
+    {
+      "title": "4 Lakes to Visit in Central America",
+      "url": "https://www.salonprivemag.com/4-lakes-to-visit-in-central-america/",
+      "snippet": "Aug 21, 2023 \u2014 Belize is on the eastern coast of Central America and is quickly becoming a tourist hotspot. In the centre of the country is Five Blues Lake, so\u00a0...",
+      "rank_absolute": 82,
+      "rank_group": 81,
+      "result_type": "items"
+    },
+    {
+      "title": "Weighing the Pros and Cons of Satellite Dishes For ...",
+      "url": "https://www.salonprivemag.com/weighing-the-pros-and-cons-of-satellite-dishes-for-caravan-adventures/",
+      "snippet": "Mar 23, 2025 \u2014 ... travel lifestyle. Advantages of Satellite Dishes for Caravans. Uninterrupted Entertainment and News Access. One of the biggest benefits of\u00a0...",
+      "rank_absolute": 83,
+      "rank_group": 82,
+      "result_type": "items"
+    },
+    {
+      "title": "5 Tips for Planning Cross-Country Adventures With Kids",
+      "url": "https://www.salonprivemag.com/5-tips-for-planning-cross-country-adventures-with-kids/",
+      "snippet": "Aug 9, 2025 \u2014 Cross-country trips always make for a fun adventure with the family. When kids are involved, however, things can go haywire.",
+      "rank_absolute": 84,
+      "rank_group": 83,
+      "result_type": "items"
+    },
+    {
+      "title": "Four Seasons Private Jet Now Available for Charter",
+      "url": "https://www.salonprivemag.com/exploring-with-four-seasons-private-jet/",
+      "snippet": "Apr 24, 2024 \u2014 Indulge in the glamour of Hollywood with the \u201cFour Seasons Set-Jetting\u201d experience. Travel in style to iconic filming locations featured in hit\u00a0...",
+      "rank_absolute": 85,
+      "rank_group": 84,
+      "result_type": "items"
+    },
+    {
+      "title": "Lifesaving Tips To Help You Ease Your Hotel Stay With A ...",
+      "url": "https://www.salonprivemag.com/ease-your-hotel-stay-with-a-baby/",
+      "snippet": "Mar 2, 2022 \u2014 As a parent, there is probably nothing more nerve-wracking than traveling with a baby. So, when looking for short term rentals Nashville\u00a0...",
+      "rank_absolute": 86,
+      "rank_group": 85,
+      "result_type": "items"
+    },
+    {
+      "title": "Tag: World's Top 100 Resorts",
+      "url": "https://www.salonprivemag.com/tag/worlds-top-100-resorts/",
+      "snippet": "Dec 31, 2023 \u2014 ... Tourism. Travel, Vietnam December 31, 2023. Phu Quoc: A Jewel Redefined in Luxury Tourism. Phu Quoc, a picturesque island gem nestled off the\u00a0...",
+      "rank_absolute": 87,
+      "rank_group": 86,
+      "result_type": "items"
+    },
+    {
+      "title": "Accessorising Your Look: How to Elevate Everyday Outfits",
+      "url": "https://www.salonprivemag.com/accessorising-your-look-how-to-elevate-everyday-outfits/",
+      "snippet": "1 day ago \u2014 ... Travel \u00b7 Shop \u00b7 Contact Us. Salon Prive Magazine Logo.",
+      "rank_absolute": 88,
+      "rank_group": 87,
+      "result_type": "items"
+    },
+    {
+      "title": "Where Are The Best Places To Ski And Snowboard In ...",
+      "url": "https://www.salonprivemag.com/where-are-the-best-places-to-ski-and-snowboard-in-finland/",
+      "snippet": "Jul 17, 2022 \u2014 Snow-covered landscapes and frozen lakes around the nation are a gorgeous backdrop for a winter vacation, and the ski resorts in the country\u00a0...",
+      "rank_absolute": 89,
+      "rank_group": 88,
+      "result_type": "items"
+    },
+    {
+      "title": "Grand Pioneers Cruise Wins the Best Luxury New ...",
+      "url": "https://www.salonprivemag.com/grand-pioneers-cruise-wins-the-best-luxury-new-cruise-line-in-vietnam-at-luxury-lifestyle-awards/",
+      "snippet": "Feb 14, 2025 \u2014 Based in New York, the Luxury Lifestyle Awards is a global, highly respected accolade celebrating the finest brands in travel and luxury\u00a0...",
+      "rank_absolute": 90,
+      "rank_group": 89,
+      "result_type": "items"
+    },
+    {
+      "title": "The Ultimate Guide to Planning a Memorable Wine Tour",
+      "url": "https://www.salonprivemag.com/the-ultimate-guide-to-planning-a-memorable-wine-tour/",
+      "snippet": "Aug 27, 2024 \u2014 ... travel time to and from your chosen destination. 3. Research and Select Wineries. Once you've chosen your destination and duration, it's time\u00a0...",
+      "rank_absolute": 91,
+      "rank_group": 90,
+      "result_type": "items"
+    },
+    {
+      "title": "Tips On Staying Safe In Paris, France",
+      "url": "https://www.salonprivemag.com/tips-on-staying-safe-in-paris-france/",
+      "snippet": "Sep 26, 2023 \u2014 Here are some tips on how you can stay safe during your Parisian vacation. Be Cautious Crossing Streets. Tips On Staying Safe In Paris, France.",
+      "rank_absolute": 92,
+      "rank_group": 91,
+      "result_type": "items"
+    },
+    {
+      "title": "Tag: Hotel Metropole Monte-Carlo",
+      "url": "https://www.salonprivemag.com/tag/hotel-metropole-monte-carlo/",
+      "snippet": "Why Monaco Should Be One Of Your Top Travel Destination. Nestled along the picturesque French Riviera, Monaco beckons with its undeniable allure \u2013 a captivating\u00a0...",
+      "rank_absolute": 93,
+      "rank_group": 92,
+      "result_type": "items"
+    },
+    {
+      "title": "10 Ways To Elevate Your French Holiday To The Next Level",
+      "url": "https://www.salonprivemag.com/10-ways-to-elevate-your-french-holiday-to-the-next-level/",
+      "snippet": "Mar 12, 2024 \u2014 Boutique lodgings are the ideal way to infuse your French vacation with a dash of opulence and genuineness. They range from remodeled chateaus\u00a0...",
+      "rank_absolute": 94,
+      "rank_group": 93,
+      "result_type": "items"
+    },
+    {
+      "title": "Luxury Guide To Visiting Universal Studios With The Family",
+      "url": "https://www.salonprivemag.com/visiting-universal-studios-with-the-family/",
+      "snippet": "Jan 24, 2023 \u2014 However, the park is just as much fun for the older crowd as it is for the kids. While it may not seem like the best place for exclusive travel ...",
+      "rank_absolute": 95,
+      "rank_group": 94,
+      "result_type": "items"
+    },
+    {
+      "title": "The Overlooked Side of Wellness: Safety, Security, and Trust",
+      "url": "https://www.salonprivemag.com/the-overlooked-side-of-wellness-safety-security-and-trust/",
+      "snippet": "5 days ago \u2014 Wellness can extend beyond the home into travel and new experiences. ... Travel \u00b7 Shop \u00b7 Contact Us \u00b7 Salon Prive Mag \u00b7 Home \u00b7 Fashion \u00b7 Runway\u00a0...",
+      "rank_absolute": 96,
+      "rank_group": 95,
+      "result_type": "items"
+    },
+    {
+      "title": "Alma's 2024 Initiatives Leading the Way",
+      "url": "https://www.salonprivemag.com/almas-2024-initiatives-leading-the-way/",
+      "snippet": "Dec 29, 2023 \u2014 1 family resort in Vietnam by Holidays with Kids magazine. Additionally, Alma secured a coveted spot in the 'Travel + Leisure Luxury Awards Asia\u00a0...",
+      "rank_absolute": 97,
+      "rank_group": 96,
+      "result_type": "items"
+    },
+    {
+      "title": "Maldives Tourism Archives",
+      "url": "https://www.salonprivemag.com/tag/maldives-tourism/",
+      "snippet": "... travel \u00b7 United Kingdom \u00b7 United States \u00b7 Home \u00b7 Arts & Culture \u00b7 Fashion \u00b7 Lifestyle \u00b7 Royals \u00b7 Social \u00b7 Health and Beauty \u00b7 Travel \u00b7 Shop \u00b7 Contact Us. Salon\u00a0...",
+      "rank_absolute": 98,
+      "rank_group": 97,
+      "result_type": "items"
+    },
+    {
+      "title": "The Allure of Innsbruck: A Summer Paradise in the Alps",
+      "url": "https://www.salonprivemag.com/discover-the-allure-of-innsbruck/",
+      "snippet": "Jun 10, 2024 \u2014 With numerous historic and cultural attractions, Innsbruck offers summer travellers a prime travel time to explore the city's lively history.",
+      "rank_absolute": 99,
+      "rank_group": 98,
+      "result_type": "items"
+    },
+    {
+      "title": "Exodus Travels And The Kilimanjaro Porter Project",
+      "url": "https://www.salonprivemag.com/exodus-travels-kilimanjaro-porter-project/",
+      "snippet": "Dec 7, 2022 \u2014 Exodus Travels is a highly-rated adventure tour operator that provides over 500 memorable holiday options in more than 90 countries\u00a0...",
+      "rank_absolute": 100,
+      "rank_group": 99,
+      "result_type": "items"
+    }
+  ]
+}

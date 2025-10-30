@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T11:01:01Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "www.playusa.com",
+    "anchor_keyword": "USA online casinos",
+    "anchor_country": "",
+    "target_url": "https://www.playusa.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Free-to-Play Slot Games You Can Try Before Wagering Real Money",
+      "rationale": "Pairs with PlayUSA\u2019s extensive free demo library and how-to-play guides, offering readers a hub to explore popular titles and fundamentals before spending."
+    },
+    {
+      "title": "State-by-State Casino Gaming Revenue Snapshots to Watch This Year",
+      "rationale": "Connects to PlayUSA\u2019s coverage of official revenue reports and market trends, giving readers a central source for US regulatory and performance updates."
+    },
+    {
+      "title": "Low Minimum Deposit Options for Bankroll-Conscious Players",
+      "rationale": "Aligns with PlayUSA\u2019s guides on smaller buy-ins and payment flexibility, helping readers find approachable ways to start without overspending."
+    },
+    {
+      "title": "How Sweepstakes-Style Casino Play Fits Into the US Landscape",
+      "rationale": "Complements PlayUSA\u2019s explanations of sweepstakes models, compliance basics, and player expectations across different jurisdictions."
+    },
+    {
+      "title": "Megaways vs. Classic Reels: Understanding Today\u2019s Most Popular Slot Mechanics",
+      "rationale": "Taps into PlayUSA\u2019s slot education and game catalogs, guiding readers to explore mechanics, volatility, and features using free demos and tutorials."
+    }
+  ],
+  "titles_context": [
+    "Cleopatra Slot Machine - Play For Free or Real ... - PlayUSA",
+    "Cash Wizard Slots - Free to Play Bally Casino Games + ...",
+    "Invaders from the Planet Moolah Slots - Play Free & Real ...",
+    "Best US Sweepstakes Casinos | Over 150+ Sweep Coins ...",
+    "Play IGT's King of Macedonia Slot Game Online",
+    "Free to Play Stinkin' Rich Slot Machine",
+    "NEVADA GAMING ABSTRACT 2023",
+    "Pixies of the Forest Slots - Play for Free or With Real Money!",
+    "Triple Diamond Slot Machine - Full Game Review & Free ...",
+    "Dragon Spin Slots - Free / Real Money & How to Win",
+    "2023 STATEWIDE CASINO REVENUE - Ohio.gov",
+    "Atlantis Megaways Slot Game - PlayUSA",
+    "January 31, 2024 VIA EMAIL Matthew Schuler Executive ...",
+    "$1.19B Bally's Chicago Casino In Progress Ahead ... - PlayUSA",
+    "$5 and $10 Minimum Deposit Casinos Available in the US",
+    "January 2024 Revenue Report",
+    "Best Online Casinos in the USA | Your Full Guide 2025",
+    "FanDuel Casino Launches New Rewards Club Program",
+    "Lucky Tree Slot Machine - Play Bally Slots for Free or Real ...",
+    "November 2023 - Slot Machines Table Games Sports Wagering",
+    "Play Old Money Deluxe Slot Online - PlayUSA",
+    "Online Gambling in Washington DC - DC Online Casinos 2025",
+    "Goldfish Casino Slots Online - Play for Free or Real Money!",
+    "Dancing Drum Slots - Play for Free & Win Real Money!",
+    "Wild Red Quick Hits Slot Machine - $20 Cash to Play Free!"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.playusa.com/ that feel at home on www.playusa.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): USA online casinos\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Cleopatra Slot Machine - Play For Free or Real ... - PlayUSA\n- Cash Wizard Slots - Free to Play Bally Casino Games + ...\n- Invaders from the Planet Moolah Slots - Play Free & Real ...\n- Best US Sweepstakes Casinos | Over 150+ Sweep Coins ...\n- Play IGT's King of Macedonia Slot Game Online\n- Free to Play Stinkin' Rich Slot Machine\n- NEVADA GAMING ABSTRACT 2023\n- Pixies of the Forest Slots - Play for Free or With Real Money!\n- Triple Diamond Slot Machine - Full Game Review & Free ...\n- Dragon Spin Slots - Free / Real Money & How to Win\n- 2023 STATEWIDE CASINO REVENUE - Ohio.gov\n- Atlantis Megaways Slot Game - PlayUSA\n- January 31, 2024 VIA EMAIL Matthew Schuler Executive ...\n- $1.19B Bally's Chicago Casino In Progress Ahead ... - PlayUSA\n- $5 and $10 Minimum Deposit Casinos Available in the US\n- January 2024 Revenue Report\n- Best Online Casinos in the USA | Your Full Guide 2025\n- FanDuel Casino Launches New Rewards Club Program\n- Lucky Tree Slot Machine - Play Bally Slots for Free or Real ...\n- November 2023 - Slot Machines Table Games Sports Wagering\n- Play Old Money Deluxe Slot Online - PlayUSA\n- Online Gambling in Washington DC - DC Online Casinos 2025\n- Goldfish Casino Slots Online - Play for Free or Real Money!\n- Dancing Drum Slots - Play for Free & Win Real Money!\n- Wild Red Quick Hits Slot Machine - $20 Cash to Play Free!\n\nGuidance:\n1. Combine your own knowledge of www.playusa.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to www.playusa.com while naturally justifying a link to https://www.playusa.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude USA online casinos and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1070,
+    "completion_tokens": 748
+  },
+  "cost_usd": 0.06628
+}

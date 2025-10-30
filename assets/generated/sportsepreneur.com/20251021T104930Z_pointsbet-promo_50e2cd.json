@@ -1,0 +1,59 @@
+{
+  "created_at": "2025-10-21T10:49:30Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "sportsepreneur.com",
+    "anchor_keyword": "PointsBet promo",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/betting-sites/pointsbet-promo/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "The Rise of All-in-One Betting Apps: from Sportsbook to Casino, and What That Means for Fans",
+      "rationale": "Fits Sportsepreneur\u2019s tech-and-business lens by examining product convergence. Link naturally when comparing onboarding incentives and T&Cs across platforms; use the anchor text \u201cPointsBet promo\u201d to exemplify how a specific operator structures offers within combined sportsbook/casino ecosystems."
+    },
+    {
+      "title": "New-User Incentives in Betting: an Entrepreneur\u2019s Guide to Ethical Acquisition and Smarter Bankrolls",
+      "rationale": "Aligns with growth and ethics themes. Insert the link while outlining how to evaluate regulated offers for value and responsibility; use \u201cPointsBet promo\u201d as a concrete example readers can analyze for terms, rollover, and risk controls."
+    },
+    {
+      "title": "US Sports Betting 2025: Media Tie-Ups, Product Moats, and the Next Phase of Growth",
+      "rationale": "Matches Sportsepreneur\u2019s market-analysis angle. Reference the anchor \u201cPointsBet promo\u201d when discussing operator differentiation via user incentives and partnerships, showing how specific offers reflect broader go-to-market strategy."
+    },
+    {
+      "title": "Protecting Athletes in a Betting-Everywhere Era: Practical Guardrails for Teams and Schools",
+      "rationale": "Speaks to integrity and education threads on the site. Place the link in a compliance/resource section that guides readers to understand regulated offer mechanics; use \u201cPointsBet promo\u201d to illustrate what transparent, legal incentives look like and why policy literacy matters."
+    },
+    {
+      "title": "Are Mobile Micro-Markets Reshaping Casual Fandom\u2014or Making It Stronger?",
+      "rationale": "Echoes the fandom debate seen on Sportsepreneur. Include the link when analyzing how short-horizon bets and incentives affect engagement; cite \u201cPointsBet promo\u201d as an example readers can review to see how introductory offers may influence behavior."
+    }
+  ],
+  "titles_context": [
+    "NCAA Admits It Can't Police Sports Betting for Athletes",
+    "The Rise of Sports Betting Apps: Convenience at What Cost?",
+    "How Sports Betting Apps Killed Casual Fandom",
+    "The California Sports Betting Standoff",
+    "Sports Betting Uncovered: Explosive Growth, Advertising, ...",
+    "The Rise of Mobile Betting Apps: An In-Depth Analysis",
+    "US Sports Betting in 2025: A $142 Billion Industry!",
+    "Sports Betting in the US: Billions on the Line",
+    "How to Protect Yourself When Using Sports Betting Apps",
+    "Luka Trade Conspiracy Theories | Vegas, Lakers, NBA TV ...",
+    "ESPN BET 2025 | Sports Betting, Market Share & Media Ethics",
+    "SportsE Media Blog - SportsEpreneur",
+    "Sports Betting on College Campuses | A Storm Is Brewing",
+    "The Legalization of Sports Betting in North Carolina | Big Money",
+    "The Sports Betting Industry: Exploring Future Opportunities ...",
+    "Exploring the Sports Betting Market - SportsEpreneur",
+    "Mark Cuban's Warning: How NBA Private Equity Could Break ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/betting-sites/pointsbet-promo/ that feel at home on sportsepreneur.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): PointsBet promo\n\nAnchor operates in: Unspecified\n\nReference titles:\n- NCAA Admits It Can't Police Sports Betting for Athletes\n- The Rise of Sports Betting Apps: Convenience at What Cost?\n- How Sports Betting Apps Killed Casual Fandom\n- The California Sports Betting Standoff\n- Sports Betting Uncovered: Explosive Growth, Advertising, ...\n- The Rise of Mobile Betting Apps: An In-Depth Analysis\n- US Sports Betting in 2025: A $142 Billion Industry!\n- Sports Betting in the US: Billions on the Line\n- How to Protect Yourself When Using Sports Betting Apps\n- Luka Trade Conspiracy Theories | Vegas, Lakers, NBA TV ...\n- ESPN BET 2025 | Sports Betting, Market Share & Media Ethics\n- SportsE Media Blog - SportsEpreneur\n- Sports Betting on College Campuses | A Storm Is Brewing\n- The Legalization of Sports Betting in North Carolina | Big Money\n- The Sports Betting Industry: Exploring Future Opportunities ...\n- Exploring the Sports Betting Market - SportsEpreneur\n- Mark Cuban's Warning: How NBA Private Equity Could Break ...\n\nGuidance:\n1. Combine your own knowledge of sportsepreneur.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to sportsepreneur.com while naturally justifying a link to https://www.lineups.com/betting-sites/pointsbet-promo/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude PointsBet promo and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 838,
+    "completion_tokens": 1469
+  },
+  "cost_usd": 0.1049
+}

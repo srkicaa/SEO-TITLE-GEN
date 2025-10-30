@@ -1,0 +1,48 @@
+{
+  "created_at": "2025-09-23T10:59:54Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "eurojackpotarvonta.fi",
+    "anchor_keyword": "MGA kasinot",
+    "anchor_country": "",
+    "target_url": "https://mgacasino.fi/mga-kasinot/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Pelaajan Muistilista: Lisenssit, Valvonta Ja Vastuullisuus Verkossa",
+      "rationale": "Sopii sivuston ohjeistavaan tyyliin ja tarjoaa luontevan paikan viitata MGA kasinot -sivuun, joka avaa EU-alueen lisenssej\u00e4, valvontaa ja k\u00e4yt\u00e4nt\u00f6j\u00e4 k\u00e4yt\u00e4nn\u00f6n esimerkein."
+    },
+    {
+      "title": "Lotto vs. J\u00e4ttipottikolikkopelit: Miss\u00e4 Riskit Ja Vaihtelu Eroavat?",
+      "rationale": "Vertailuartikkeli istuu jackpot-aiheiseen sis\u00e4lt\u00f6\u00f6n ja mahdollistaa linkin MGA kasinot -oppaaseen, jossa selitet\u00e4\u00e4n lisensoitujen sivustojen pelivalikoimaa, volatiliteettia ja vastuullisen pelaamisen ty\u00f6kaluja."
+    },
+    {
+      "title": "Nettipelaajan Maksutavat: Nopeat Talletukset Ja Kotiutukset EU-Alueen Lisensseill\u00e4",
+      "rationale": "Maksuaihe on tuttu lottoartikkeleista; linkki MGA kasinot -sivulle syvent\u00e4\u00e4 k\u00e4sityst\u00e4 siit\u00e4, miten lisensoiduilla sivustoilla tunnistautuminen ja kotiutusten k\u00e4sittely toimivat."
+    },
+    {
+      "title": "N\u00e4in Tunnistat Turvallisen Pelisivuston: 7 Kohtaa Ennen Kuin Pelaat",
+      "rationale": "Checklista on linjassa sivuston \u201dmuistilista\u201d-sis\u00e4lt\u00f6jen kanssa ja antaa luontevan syyn ohjata lukija MGA kasinot -sivulle tarkistamaan lisenssit, valvonnan ja pelaajansuojan."
+    },
+    {
+      "title": "Lottoviikon J\u00e4lkeen: J\u00e4rkev\u00e4t Vaihtoehdot J\u00e4nnityksen Jatkamiseen Verkossa",
+      "rationale": "Jatkokulma Eurojackpot-teemaan; linkki MGA kasinot -sivulle perustelee, miten lisensoidut vaihtoehdot voi arvioida turvallisuuden, l\u00e4pin\u00e4kyvyyden ja vastuullisuuden n\u00e4k\u00f6kulmista."
+    }
+  ],
+  "titles_context": [
+    "Mill\u00e4 Maksutavoilla Eurojackpotin Pelaaminen Onnistuu?",
+    "Mist\u00e4 Lotoista Voittaa Eniten? - EuroJackpotArvonta",
+    "Jackpot-Faneille: Pelaa N\u00e4it\u00e4 Bonusosto Slottipelej\u00e4",
+    "Uhkapelaajan Muistilista: Huomioi N\u00e4m\u00e4 Asiat Ennen Kuin Pelaat ...",
+    "Parhaat J\u00e4ttipottipelit Eurojackpotin Lis\u00e4ksi",
+    "Perjantaina Jaossa Huimat 72 Miljoonaa - Eurojackpot Tulokset"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://mgacasino.fi/mga-kasinot/ that feel at home on eurojackpotarvonta.fi.\n\nReference SERP keyword: kasinot\nAnchor keyword (use only if natural): MGA kasinot\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Mill\u00e4 Maksutavoilla Eurojackpotin Pelaaminen Onnistuu?\n- Mist\u00e4 Lotoista Voittaa Eniten? - EuroJackpotArvonta\n- Jackpot-Faneille: Pelaa N\u00e4it\u00e4 Bonusosto Slottipelej\u00e4\n- Uhkapelaajan Muistilista: Huomioi N\u00e4m\u00e4 Asiat Ennen Kuin Pelaat ...\n- Parhaat J\u00e4ttipottipelit Eurojackpotin Lis\u00e4ksi\n- Perjantaina Jaossa Huimat 72 Miljoonaa - Eurojackpot Tulokset\n\nGuidance:\n1. Combine your own knowledge of eurojackpotarvonta.fi's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to eurojackpotarvonta.fi while naturally justifying a link to https://mgacasino.fi/mga-kasinot/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude MGA kasinot and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 651,
+    "completion_tokens": 1533
+  },
+  "cost_usd": 0.105
+}

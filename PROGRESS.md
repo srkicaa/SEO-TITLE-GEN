@@ -28,3 +28,15 @@ To continue work: restart Streamlit via `streamlit run streamlit_app/app.py` and
 - Persisted every SERP fetch (limit 35 by default) to assets/data/app.sqlite alongside full logging hooks.
 - Reverted AI parser to create()+manual fallback extraction with retry (no responses.parse).
 - SERP fetch now pulls 100 titles per domain (preview still uses 35) and archives every payload in SQLite.
+
+## 2025-09-20
+- Defaulted all new Streamlit runs to the DataForSEO Standard queue and added an explicit sidebar toggle when the live endpoint is required.
+- Implemented two-tier SERP caching: first reuse exact task hashes, then fall back to the most recent snapshot for the requested domain before calling the API.
+- Normalised stored domain names so history lookups ignore protocol/`www` prefixes and return consistent payloads regardless of input formatting.
+- Added a “Force new DataForSEO fetch” sidebar option that bypasses history while still respecting cache-only mode, giving manual control over fresh pulls.
+
+## 2025-10-30
+- Audited both SERP fetchers and corrected all Google Organic endpoints to `/serp/google/organic/task_post` and `/serp/google/organic/task_get/regular/{id}` for Standard queue workflows; Live requests stay on `/live/regular`.
+- Increased default Standard-queue polling window (5 s interval × 240 attempts ≈ 20 min) and added explicit response validation so POST calls fail fast unless the task reports `status_code` 20100.
+- Captured a debug run for `primedope.com` using `python3 dfs_serp_fetcher.py --domain primedope.com --serp-keyword casino --debug`, which revealed DataForSEO returned `task_status_code=40203` (“daily money limit exceeded”), explaining the prior 40401 polls.
+- Next actions: raise/reset the daily cost ceiling in the DataForSEO dashboard, re-run the debug command to harvest POST/GET payloads after the limit resets, and share those JSON snippets with DataForSEO support if tasks still fail.

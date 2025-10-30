@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-13T14:58:15Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "moneymagpie.com",
+    "anchor_keyword": "Sterling Savvy",
+    "anchor_country": "United Kingdom",
+    "target_url": "https://sterling-savvy.co.uk/en/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Budget-Friendly Crypto: How to Start With \u00a3100 in the UK",
+      "rationale": "Fits MoneyMagpie\u2019s cautious, practical tone. A contextual link to Sterling Savvy can guide readers through low-cost starting steps, UK-specific fees, and pound\u2011cost averaging without hype."
+    },
+    {
+      "title": "UK Crypto Tax 2025: the Essentials Before You Buy or Sell",
+      "rationale": "Strong service angle for UK readers. Linking to Sterling Savvy can provide plain\u2011English explainers on CGT basics, record\u2011keeping tips, and common HMRC pitfalls to avoid."
+    },
+    {
+      "title": "Is It a Good Time to Buy? a Calm, Step\u2011by\u2011step Crypto Checklist",
+      "rationale": "MoneyMagpie prioritises sensible frameworks over speculation. Sterling Savvy can offer a balanced checklist on emergency funds, risk tolerance, research methods, and volatility planning."
+    },
+    {
+      "title": "Keep Your Crypto Safe: Simple Wallet and Security Tips for Brits",
+      "rationale": "Security first aligns with MoneyMagpie\u2019s consumer\u2011protection stance. A link to Sterling Savvy can expand on wallet types, 2FA, phishing red flags, and common VPN mistakes to avoid."
+    },
+    {
+      "title": "What I Wish I Knew Before Buying My First Bitcoin (UK Edition)",
+      "rationale": "Personal, relatable entry point for beginners. Sterling Savvy can add deeper guidance on account setup, KYC, fees, transfer steps, and scam avoidance tailored to UK users."
+    }
+  ],
+  "titles_context": [
+    "Getting Started in Crypto: A Complete Guide",
+    "How Much Crypto Should You Have in a Diversified ...",
+    "Bitcoin and Crypto",
+    "Bitcoin vs Gold: What are the Differences in a Long-Term ...",
+    "5 Crypto Coins I'm Watching in 2025 (And How to Buy ...",
+    "Buying Items With Crypto: Does it Save You Money?",
+    "9 Ways to Make Money (And Lose It!) With Crypto in 2025",
+    "What I Wish I Knew Before Buying My First Bitcoin",
+    "Understanding Web3 and the role Crypto Could Play in ...",
+    "Making Your First Crypto Investment: A Beginner's Guide to ...",
+    "Making Your Crypto Useful: How to Spend, Send and Save ...",
+    "When Is The Right Time to Buy Crypto?",
+    "Buy Crypto with Professional Support via an OTC desk",
+    "Crypto Survey",
+    "Everything You Need to Know About Crypto ETNs as a UK ...",
+    "Three Crypto Tax Mistakes That Could Cost You in 2025",
+    "How to Passively Grow your Crypto Portfolio Through ...",
+    "What are Crypto Whales and How Do They Generate Such ...",
+    "VPN Mistakes That Put Your Crypto at Risk\u2014and How to ...",
+    "Budget-Friendly Crypto Investing: How to Start with \u00a3100 in ...",
+    "Everything You Need to Know About Dogecoin in 2025 ...",
+    "What Makes Crypto Go Up and Down?",
+    "How to Safely Buy Crypto in Singapore: A Starter's Guide ...",
+    "The Ethereum Boom No One Talks About",
+    "Understanding Bitcoin: Why This Crypto has Limited Supply"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://sterling-savvy.co.uk/en/ that feel at home on moneymagpie.com.\n\nReference SERP keyword: crypto\nAnchor keyword (use only if natural): Sterling Savvy\n\nAnchor operates in: United Kingdom\n\nReference titles:\n- Getting Started in Crypto: A Complete Guide\n- How Much Crypto Should You Have in a Diversified ...\n- Bitcoin and Crypto\n- Bitcoin vs Gold: What are the Differences in a Long-Term ...\n- 5 Crypto Coins I'm Watching in 2025 (And How to Buy ...\n- Buying Items With Crypto: Does it Save You Money?\n- 9 Ways to Make Money (And Lose It!) With Crypto in 2025\n- What I Wish I Knew Before Buying My First Bitcoin\n- Understanding Web3 and the role Crypto Could Play in ...\n- Making Your First Crypto Investment: A Beginner's Guide to ...\n- Making Your Crypto Useful: How to Spend, Send and Save ...\n- When Is The Right Time to Buy Crypto?\n- Buy Crypto with Professional Support via an OTC desk\n- Crypto Survey\n- Everything You Need to Know About Crypto ETNs as a UK ...\n- Three Crypto Tax Mistakes That Could Cost You in 2025\n- How to Passively Grow your Crypto Portfolio Through ...\n- What are Crypto Whales and How Do They Generate Such ...\n- VPN Mistakes That Put Your Crypto at Risk\u2014and How to ...\n- Budget-Friendly Crypto Investing: How to Start with \u00a3100 in ...\n- Everything You Need to Know About Dogecoin in 2025 ...\n- What Makes Crypto Go Up and Down?\n- How to Safely Buy Crypto in Singapore: A Starter's Guide ...\n- The Ethereum Boom No One Talks About\n- Understanding Bitcoin: Why This Crypto has Limited Supply\n\nGuidance:\n1. Combine your own knowledge of moneymagpie.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to moneymagpie.com while naturally justifying a link to https://sterling-savvy.co.uk/en/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Sterling Savvy and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging United Kingdom where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1017,
+    "completion_tokens": 1137
+  },
+  "cost_usd": 0.08856
+}

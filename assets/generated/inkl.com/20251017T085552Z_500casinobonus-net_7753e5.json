@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-17T08:55:52Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "inkl.com",
+    "anchor_keyword": "500casinobonus.net",
+    "anchor_country": "",
+    "target_url": "https://500casinobonus.net/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Sweepstakes vs. Real\u2011money Casino Formats: What Players Should Know in 2025",
+      "rationale": "Explainer aligns with inkl\u2019s news-first tone; links naturally to 500casinobonus.net for a plain-language breakdown of formats, eligibility, and compliance distinctions without brand mentions."
+    },
+    {
+      "title": "The Hidden Costs of \u201cFast\u201d Payouts in Online Gambling",
+      "rationale": "Consumer-protection angle suits inkl readers; 500casinobonus.net can provide a neutral checklist on payout speeds, verification steps, and fees to watch for."
+    },
+    {
+      "title": "Mobile\u2011first Gambling: a Safety Checklist Before Your First Spin",
+      "rationale": "Service journalism piece; use 500casinobonus.net as a resource hub on device security, geolocation, and account protections relevant to mobile play."
+    },
+    {
+      "title": "Payment Rails That Shape Online Play: Cards, Bank Transfers, and E\u2011wallets Compared",
+      "rationale": "Timely fintech explainer; 500casinobonus.net can supply up\u2011to\u2011date guidance on limits, settlement times, and typical costs across methods without endorsing operators."
+    },
+    {
+      "title": "As Online Gambling Expands, Setting Limits That Actually Work",
+      "rationale": "Public-interest framing fits inkl; 500casinobonus.net can support with practical tools and step\u2011by\u2011step guidance for deposit caps, time-outs, and self-assessments."
+    }
+  ],
+  "titles_context": [
+    "The Latest Breaking News from Casino",
+    "The most popular online casino games you could try out",
+    "Best PayPal Casino Sites 2025",
+    "Best Sweepstakes Casino of 2025: Mega Frenzy & Top\u2026",
+    "Discover the Thrill of Online Casino Games: A\u2026",
+    "Sweepstakes Casinos with Fastest Payout [Latest Update]",
+    "\u201cIt Was So Depressing\u201d: 57 Casino Secrets That Might\u2026",
+    "The Latest Breaking News from Casino",
+    "The Latest Breaking News from Casino Royale",
+    "List of Sweepstakes Casinos [Latest Update]: Top 3\u2026",
+    "The mobile casino in your pocket",
+    "What to choose: free casino games or real money games?",
+    "Royal Caribbean makes new casino perk partnership",
+    "U.S. Online Gambling Losses To Pass $1 Trillion By 2028",
+    "Las Vegas Strip casino brings back legendary pop\u2026",
+    "The Latest Breaking News from Planet Hollywood Resort Casino",
+    "VIP Play, Inc. Expands Market Access to West Virginia, Set ...",
+    "Las Vegas Strip casino cancels superstar band's residency ...",
+    "Virtual Vegas: How Arizona's Online Casinos Compare to\u2026",
+    "Royal Caribbean casino players need to know this",
+    "5 Hidden Features in Mobile Casino Apps You Should\u2026",
+    "Best New Online Casinos UK: Top New Casino Sites 2025",
+    "Las Vegas Strip casino closes another popular restaurant",
+    "How to Choose Reliable Online Casino Review Sites",
+    "Carnival Cruise Line explains key casino perk"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://500casinobonus.net/ that feel at home on inkl.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): 500casinobonus.net\n\nAnchor operates in: Unspecified\n\nReference titles:\n- The Latest Breaking News from Casino\n- The most popular online casino games you could try out\n- Best PayPal Casino Sites 2025\n- Best Sweepstakes Casino of 2025: Mega Frenzy & Top\u2026\n- Discover the Thrill of Online Casino Games: A\u2026\n- Sweepstakes Casinos with Fastest Payout [Latest Update]\n- \u201cIt Was So Depressing\u201d: 57 Casino Secrets That Might\u2026\n- The Latest Breaking News from Casino\n- The Latest Breaking News from Casino Royale\n- List of Sweepstakes Casinos [Latest Update]: Top 3\u2026\n- The mobile casino in your pocket\n- What to choose: free casino games or real money games?\n- Royal Caribbean makes new casino perk partnership\n- U.S. Online Gambling Losses To Pass $1 Trillion By 2028\n- Las Vegas Strip casino brings back legendary pop\u2026\n- The Latest Breaking News from Planet Hollywood Resort Casino\n- VIP Play, Inc. Expands Market Access to West Virginia, Set ...\n- Las Vegas Strip casino cancels superstar band's residency ...\n- Virtual Vegas: How Arizona's Online Casinos Compare to\u2026\n- Royal Caribbean casino players need to know this\n- 5 Hidden Features in Mobile Casino Apps You Should\u2026\n- Best New Online Casinos UK: Top New Casino Sites 2025\n- Las Vegas Strip casino closes another popular restaurant\n- How to Choose Reliable Online Casino Review Sites\n- Carnival Cruise Line explains key casino perk\n\nGuidance:\n1. Combine your own knowledge of inkl.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to inkl.com while naturally justifying a link to https://500casinobonus.net/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude 500casinobonus.net and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 979,
+    "completion_tokens": 935
+  },
+  "cost_usd": 0.07568
+}

@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:55:41Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "gigwise.com",
+    "anchor_keyword": "McLuck Promo Code",
+    "anchor_country": "",
+    "target_url": "https://www.bonus.com/sweepstakes-casinos/mcluck/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Sweepstakes-Style Gaming Explained: the Social Casino Trend Musicians Keep Talking About",
+      "rationale": "A culture-forward explainer suited to Gigwise; links naturally to Bonus.com\u2019s McLuck guide to illustrate how sweepstakes models work and where they\u2019re available. In copy, the anchor could reference McLuck Promo Code contextually when discussing signup flows, without using it in the title."
+    },
+    {
+      "title": "From Soundchecks to Spin Checks: a Gig-Goer\u2019s Guide to Casual Casino Play on the Go",
+      "rationale": "Mobile-first angle for readers on the move; the McLuck resource helps demonstrate lightweight sweepstakes play and dual-currency basics. Anchor can appear in a section on getting started, not in the headline."
+    },
+    {
+      "title": "Casino Lingo for the Streaming Generation: Terms You\u2019ll See in Apps and Live Chats",
+      "rationale": "Educational glossary aligned with Gigwise\u2019s audience; the McLuck page provides concrete examples of sweeps tokens and redemptions to reference within definitions, supporting a natural anchor mention in-body."
+    },
+    {
+      "title": "Safer Sessions: How to Spot Legit Online Casino Formats Without Getting Scammed",
+      "rationale": "Trust-and-safety angle mirrors prior Gigwise pieces on scams; the McLuck explainer helps show compliant sweepstakes structures and eligibility, offering a credible citation and optional anchor usage inside the text."
+    },
+    {
+      "title": "The Evolution of Browser Slots: from Flash to Tap\u2011to\u2011play Sweepstakes",
+      "rationale": "Tech-history angle fits Gigwise\u2019s digital culture coverage; the McLuck overview serves as a modern case study of sweepstakes mechanics and accessibility, allowing a contextual in-article anchor without headline branding."
+    }
+  ],
+  "titles_context": [
+    "Best Online Casino | All Main Attributes And Features",
+    "Casino Lingo You Ought to Know",
+    "Best Casino Apps for Fans Who Love Both Music and ...",
+    "How to Find the Online Casino for Beginners? - Casino sky",
+    "What's the Most Luxurious Casino in the World?",
+    "Patagonia: Unusual Online Casino Games",
+    "The Evolution of Online Casino Games: From Flash to Live ...",
+    "Best Sweepstakes Casino Apps 2025 [Latest Update]",
+    "How to find a reliable online casino? : TOP 5 websites with ...",
+    "Best Online Casino Advice for New Zealand Gamers Today",
+    "New Online Casino Zonder CRUKS - GigWise",
+    "Setting Sail for Wins: How Captain Cooks Casino Makes ...",
+    "Why Are Online Casino Streamers Frowned Upon - GigWise",
+    "No Deposit Bonuses Gain Traction at Online Casinos - GigWise",
+    "Top 10 Tips for Finding the Best Online Casino UK - GigWise",
+    "Stake Casino Sister Sites & Alternatives - GigWise",
+    "Understanding Slots as a Casino Category - GigWise",
+    "10 Best Bitcoin Casinos: Your Lucky Bet - GigWise",
+    "The Financial Impact of the Casino Industry on Global Markets",
+    "Casino Incentivization - The Supreme Method for A High Player ...",
+    "How to Host an Online Casino-Themed Party - GigWise",
+    "What to Look For When Choosing a Good Casino Welcome ...",
+    "Unwinding in Luxury Retreats With Online Casino Excitement",
+    "Common Online Casino Login Scams and How to Avoid Them",
+    "What Makes Live Casinos' Popularity so Sticky in Today's World"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.bonus.com/sweepstakes-casinos/mcluck/ that feel at home on gigwise.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): McLuck Promo Code\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Best Online Casino | All Main Attributes And Features\n- Casino Lingo You Ought to Know\n- Best Casino Apps for Fans Who Love Both Music and ...\n- How to Find the Online Casino for Beginners? - Casino sky\n- What's the Most Luxurious Casino in the World?\n- Patagonia: Unusual Online Casino Games\n- The Evolution of Online Casino Games: From Flash to Live ...\n- Best Sweepstakes Casino Apps 2025 [Latest Update]\n- How to find a reliable online casino? : TOP 5 websites with ...\n- Best Online Casino Advice for New Zealand Gamers Today\n- New Online Casino Zonder CRUKS - GigWise\n- Setting Sail for Wins: How Captain Cooks Casino Makes ...\n- Why Are Online Casino Streamers Frowned Upon - GigWise\n- No Deposit Bonuses Gain Traction at Online Casinos - GigWise\n- Top 10 Tips for Finding the Best Online Casino UK - GigWise\n- Stake Casino Sister Sites & Alternatives - GigWise\n- Understanding Slots as a Casino Category - GigWise\n- 10 Best Bitcoin Casinos: Your Lucky Bet - GigWise\n- The Financial Impact of the Casino Industry on Global Markets\n- Casino Incentivization - The Supreme Method for A High Player ...\n- How to Host an Online Casino-Themed Party - GigWise\n- What to Look For When Choosing a Good Casino Welcome ...\n- Unwinding in Luxury Retreats With Online Casino Excitement\n- Common Online Casino Login Scams and How to Avoid Them\n- What Makes Live Casinos' Popularity so Sticky in Today's World\n\nGuidance:\n1. Combine your own knowledge of gigwise.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to gigwise.com while naturally justifying a link to https://www.bonus.com/sweepstakes-casinos/mcluck/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude McLuck Promo Code and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1050,
+    "completion_tokens": 985
+  },
+  "cost_usd": 0.0801
+}

@@ -1,0 +1,47 @@
+{
+  "created_at": "2025-09-22T11:13:24Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "nationalcasino.com.au",
+    "anchor_keyword": "crypto slots",
+    "anchor_country": "",
+    "target_url": "https://www.razed.com/casino/slots/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Aussie Guide to Crypto\u2011friendly Pokies: Payments, Payouts, and Play",
+      "rationale": "Fits an Australian audience by using pokies and covering crypto payment basics. Link to Razed\u2019s slots hub to illustrate game categories and mechanics users will encounter when funding and playing pokies."
+    },
+    {
+      "title": "RTP, Volatility, and Hit Rate: Choosing Pokies That Match Your Budget",
+      "rationale": "Educates readers on core slot math common across the nationalcasino.com.au audience. Razed\u2019s slots page can provide examples of titles by volatility and RTP to help readers apply the framework."
+    },
+    {
+      "title": "On the Move: Mobile Pokies UX and What to Expect on Modern Devices",
+      "rationale": "Aligns with mobile\u2011first reading habits in Australia. Linking to Razed\u2019s slots collection lets readers explore touch\u2011friendly layouts, feature sets, and game types optimized for phones."
+    },
+    {
+      "title": "Progressive vs Fixed Jackpots in Pokies: How the Prize Pools Grow",
+      "rationale": "Explains jackpot structures popular with Aussie players. A link to Razed\u2019s slots hub can showcase real examples of progressive and fixed\u2011jackpot titles for comparison."
+    },
+    {
+      "title": "Fair Play in Online Pokies: RNG, Provably Fair, and Security Basics",
+      "rationale": "Addresses trust and safety, including crypto\u2011adjacent \u2018provably fair\u2019 concepts without using banned phrasing. Razed\u2019s slots page can anchor the piece with concrete game examples and further reading on mechanics."
+    }
+  ],
+  "titles_context": [
+    "The Global Casino Industry: An Economic Powerhouse \u2013 National ...",
+    "Casino in Your Pocket: The Rise of Mobile Gaming and the Future of ...",
+    "Esports Betting: Where Competitive Gaming Meets the Casino World ...",
+    "Want to Enjoy Online Casino Games? Check Out the Security ...",
+    "Which Casino Games Have the Highest RTP?"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.razed.com/casino/slots/ that feel at home on nationalcasino.com.au.\n\nReference SERP keyword: casino crypto\nAnchor keyword (use only if natural): crypto slots\n\nAnchor operates in: Unspecified\n\nReference titles:\n- The Global Casino Industry: An Economic Powerhouse \u2013 National ...\n- Casino in Your Pocket: The Rise of Mobile Gaming and the Future of ...\n- Esports Betting: Where Competitive Gaming Meets the Casino World ...\n- Want to Enjoy Online Casino Games? Check Out the Security ...\n- Which Casino Games Have the Highest RTP?\n\nGuidance:\n1. Combine your own knowledge of nationalcasino.com.au's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to nationalcasino.com.au while naturally justifying a link to https://www.razed.com/casino/slots/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude crypto slots and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 534,
+    "completion_tokens": 1401
+  },
+  "cost_usd": 0.09474
+}

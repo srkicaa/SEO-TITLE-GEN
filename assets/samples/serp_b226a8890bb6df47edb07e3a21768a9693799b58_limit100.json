@@ -1,0 +1,16 @@
+{
+  "mode": "live",
+  "task_id": "09231711-4117-0121-0000-31dd26be59e6",
+  "query": "site:danang-shopping.com slots",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Experience the Dazzling Dragon Bridge Fire Show in Da Nang",
+      "url": "https://danang-shopping.com/en/experience-the-dazzling-dragon-bridge-fire-show-in-da-nang/",
+      "snippet": "This prime time slot ensures locals and visitors, especially the little ones, get to soak in the magic of the Dragon Bridge breathing fire and spouting water.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    }
+  ]
+}

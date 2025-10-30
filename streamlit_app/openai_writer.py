@@ -35,8 +35,12 @@ WORD_SPLIT_PATTERN = re.compile(r'([\s\-–—/]+)')
 from typing import Any, Dict, List, Optional, Sequence
 
 from .utils import (
+    create_openai_client,
+    extract_finish_reason,
+    extract_primary_message_text,
     extract_response_json,
     extract_structured_from_response,
+    invoke_openai_response,
     load_env,
     normalize_structured_value,
     save_generated_titles_snapshot,
@@ -95,6 +99,80 @@ class TitleGenerationError(RuntimeError):
     """Raised when the OpenAI workflow fails."""
 
 
+def _ensure_response_not_truncated(response: Any) -> None:
+    finish_reason = extract_finish_reason(response)
+    if finish_reason == "length":
+        raise TitleGenerationError(
+            "OpenAI truncated the response before returning valid JSON (finish_reason='length'). "
+            "Reduce the requested number of titles or lower max output tokens, then retry."
+        )
+    primary_text = extract_primary_message_text(response)
+    if primary_text is not None and not primary_text.strip():
+        raise TitleGenerationError(
+            "OpenAI returned an empty message payload; retry with fewer titles or shorter prompts."
+        )
+
+
+def _token_attempts(initial: int, fallback: int) -> List[int]:
+    attempts: List[int] = []
+    baseline = max(initial, 200)
+    attempts.append(baseline)
+    if fallback and fallback != baseline:
+        attempts.append(max(fallback, 200))
+    current = baseline
+    for factor in (0.85, 0.7, 0.5):
+        reduced = max(int(baseline * factor), 300)
+        if reduced < current:
+            attempts.append(reduced)
+            current = reduced
+    attempts.append(300)
+    # keep order, remove duplicates while preserving sequence
+    seen: set[int] = set()
+    ordered: List[int] = []
+    for value in attempts:
+        if value not in seen:
+            seen.add(value)
+            ordered.append(value)
+    return ordered
+
+
+def _invoke_with_backoff(
+    client: Any,
+    *,
+    model: str,
+    system_prompt: str,
+    user_prompt: str,
+    max_tokens_primary: int,
+    max_tokens_fallback: int,
+    text_config: Dict[str, Any],
+    reasoning: Optional[Dict[str, Any]],
+) -> tuple[Any, int]:
+    last_error: Optional[TitleGenerationError] = None
+    for max_tokens in _token_attempts(max_tokens_primary, max_tokens_fallback):
+        response = invoke_openai_response(
+            client,
+            model=model,
+            system_prompt=system_prompt,
+            user_prompt=user_prompt,
+            max_output_tokens=max_tokens,
+            text_config=text_config,
+            reasoning=reasoning,
+        )
+        try:
+            _ensure_response_not_truncated(response)
+            return response, max_tokens
+        except TitleGenerationError as exc:
+            if "truncated" in str(exc).lower():
+                last_error = exc
+                continue
+            raise
+    if last_error is not None:
+        raise last_error
+    raise TitleGenerationError(
+        "OpenAI truncated the response repeatedly even after reducing output tokens."
+    )
+
+
 def generate_titles(
     *,
     titles_context: Sequence[str],
@@ -119,7 +197,7 @@ def generate_titles(
         api_key = os.getenv("OPENAI_API_KEY")
         if not api_key:
             raise TitleGenerationError("OPENAI_API_KEY is not set; update .env or export the key before running.")
-        client = OpenAI(api_key=api_key)
+        client = create_openai_client(api_key=api_key)
 
     system_prompt = (
         "You are an SEO editor generating link placement titles. "
@@ -139,9 +217,7 @@ def generate_titles(
         except (TypeError, ValueError):
             num_expected = None
 
-    text_config: Dict[str, Any] = {
-        "verbosity": "medium"
-    }
+    text_config: Dict[str, Any] = {"verbosity": "medium"}
 
     titles_schema = {
         "type": "object",
@@ -174,21 +250,17 @@ def generate_titles(
         calculated = 600 + num_expected * 260
         effective_max_tokens = max(max_output_tokens, min(calculated, 4096))
 
-    request_payload: Dict[str, Any] = {
-        "model": model,
-        "input": [
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt},
-        ],
-        "max_output_tokens": effective_max_tokens,
-        "text": text_config,
-    }
+    reasoning_config = {"effort": "low"} if model in {"gpt-5", "gpt-5-mini"} else None
 
-    if model in {"gpt-5", "gpt-5-mini"}:
-        request_payload["reasoning"] = {"effort": "low"}
-
-    response = client.responses.create(  # type: ignore[attr-defined]
-        **request_payload
+    response, used_max_tokens = _invoke_with_backoff(
+        client,
+        model=model,
+        system_prompt=system_prompt,
+        user_prompt=user_prompt,
+        max_tokens_primary=effective_max_tokens,
+        max_tokens_fallback=max_output_tokens,
+        text_config=text_config,
+        reasoning=reasoning_config,
     )
 
     prompt_tokens, completion_tokens = _extract_usage(response)
@@ -204,8 +276,15 @@ def generate_titles(
                 except TypeError:
                     raw_json_text = ""
         if raw_json_text.strip().strip('"') == "title_array":
-            retry_response = client.responses.create(  # type: ignore[attr-defined]
-                **request_payload
+            retry_response, used_max_tokens = _invoke_with_backoff(
+                client,
+                model=model,
+                system_prompt=system_prompt,
+                user_prompt=user_prompt,
+                max_tokens_primary=used_max_tokens,
+                max_tokens_fallback=max_output_tokens,
+                text_config=text_config,
+                reasoning=reasoning_config,
             )
             response = retry_response
             prompt_tokens, completion_tokens = _extract_usage(response)
@@ -214,11 +293,17 @@ def generate_titles(
     try:
         parsed = json.loads(raw_json_text)
     except json.JSONDecodeError as exc:
+        finish_reason = extract_finish_reason(response)
+        if finish_reason == "length":
+            raise TitleGenerationError(
+                "OpenAI truncated the response before completing JSON (finish_reason='length'). "
+                "Lower the requested output volume or max tokens and try again."
+            ) from exc
         repaired = _repair_generation_json(raw_json_text)
         if repaired is None:
             debug_snapshot = _debug_dump_response(response)
             raise TitleGenerationError(
-                f"Model returned invalid JSON: {exc}. Raw: {raw_json_text}. Debug: {debug_snapshot}"
+                f"Model returned invalid JSON: {exc}. Raw: {raw_json_text[:200]}. Debug: {debug_snapshot}"
             ) from exc
         parsed = json.loads(repaired)
 

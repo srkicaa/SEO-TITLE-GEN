@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:50:59Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "pokertube.com",
+    "anchor_keyword": "BetRivers promo code",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/betting-sites/betrivers-bonus-code/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Bankroll-Smart Casino Side Games for Poker-Focused Players",
+      "rationale": "Fits PokerTube\u2019s strategy-first tone by showing poker players how to dabble in casino games without punting their roll. The article can link to the Lineups resource as a real-world example of welcome terms and how codes work, naturally referencing the BetRivers promo code within body copy while noting availability varies by jurisdiction (Unspecified)."
+    },
+    {
+      "title": "RTP, Variance, and Edge: a Poker Player\u2019s Guide to Safer Casino Picks",
+      "rationale": "Educates PokerTube readers on math-driven selection of casino games\u2014native to the site\u2019s analytical style. The link to the Lineups page can illustrate how different welcome terms map to expected value, allowing a contextual mention of the BetRivers promo code in supporting paragraphs."
+    },
+    {
+      "title": "Live Dealer vs RNG: Which Online Casino Tables Best Suit a Poker Mindset?",
+      "rationale": "Compares gameplay formats through a poker lens\u2014a familiar PokerTube angle. The Lineups destination can serve as a practical example page for current offers and code redemption steps, with an in-article nod to the BetRivers promo code to show where terms materially differ."
+    },
+    {
+      "title": "Wagering Requirements Explained: Keep Your Poker Edge in Casino Play",
+      "rationale": "Explains rollover, game weighting, and max-bet rules\u2014content PokerTube audiences value before mixing casino action into their routine. The Lineups link provides an up-to-date terms snapshot; the piece can naturally reference the BetRivers promo code when demonstrating how conditions impact clearance."
+    },
+    {
+      "title": "Is Casino Grinding Helping or Hurting Your Poker EV?",
+      "rationale": "A reflective, EV-centric topic that aligns with PokerTube\u2019s strategic content. The article can link to the Lineups page to show readers a concrete, current example of welcome structures and code use, allowing a natural mention of the BetRivers promo code while stressing jurisdictional limits (Unspecified)."
+    }
+  ],
+  "titles_context": [
+    "First Time Casino Play Advice",
+    "The Highest Payout Casinos Online",
+    "Online Casinos that Offer Poker Proven More Reliable",
+    "What Casino Games Attract Most People to iGaming Platforms?",
+    "Best Payout Online Casino: Exploring Top Platforms for 2025",
+    "Top Strategies for Maximizing Your Online Casino ...",
+    "Every INSANE Casino in Las Vegas Explained",
+    "The Casino Loophole That Made Players $35 Million",
+    "Why More People Prefer to Play Online Casino Games",
+    "Poker and Other Casino Games: How Important is ...",
+    "Advantage Players in the World of Casinos - PokerTube",
+    "Before You Bet: Understanding Online Casino Safety",
+    "Other Fun Casino Games to Play Aside From Poker - PokerTube",
+    "Joe Rogan and Dana White's $10M Casino Trip Gone Wrong...",
+    "What's Casino Live Poker and Is It Worth a Look? - PokerTube",
+    "The Best Online Casino Games to Improve Your Poker Strategy",
+    "Which free slot apps are safe to use? - PokerTube",
+    "What Are the Benefits of Choosing a Cryptocurrency Casino ...",
+    "Best Casino Games for Consoles - PokerTube",
+    "Wynn Casino To Re-open But Without Poker - PokerTube",
+    "What Top 10 Casino Online Features Every Poker Player ...",
+    "How to Find a Reputable Online Casino - PokerTube",
+    "How to Build Confidence in a Casino - PokerTube",
+    "7 New Gambling Websites in the USA! - PokerTube",
+    "Things to Know About Online Casino Groups - PokerTube"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/betting-sites/betrivers-bonus-code/ that feel at home on pokertube.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): BetRivers promo code\n\nAnchor operates in: Unspecified\n\nReference titles:\n- First Time Casino Play Advice\n- The Highest Payout Casinos Online\n- Online Casinos that Offer Poker Proven More Reliable\n- What Casino Games Attract Most People to iGaming Platforms?\n- Best Payout Online Casino: Exploring Top Platforms for 2025\n- Top Strategies for Maximizing Your Online Casino ...\n- Every INSANE Casino in Las Vegas Explained\n- The Casino Loophole That Made Players $35 Million\n- Why More People Prefer to Play Online Casino Games\n- Poker and Other Casino Games: How Important is ...\n- Advantage Players in the World of Casinos - PokerTube\n- Before You Bet: Understanding Online Casino Safety\n- Other Fun Casino Games to Play Aside From Poker - PokerTube\n- Joe Rogan and Dana White's $10M Casino Trip Gone Wrong...\n- What's Casino Live Poker and Is It Worth a Look? - PokerTube\n- The Best Online Casino Games to Improve Your Poker Strategy\n- Which free slot apps are safe to use? - PokerTube\n- What Are the Benefits of Choosing a Cryptocurrency Casino ...\n- Best Casino Games for Consoles - PokerTube\n- Wynn Casino To Re-open But Without Poker - PokerTube\n- What Top 10 Casino Online Features Every Poker Player ...\n- How to Find a Reputable Online Casino - PokerTube\n- How to Build Confidence in a Casino - PokerTube\n- 7 New Gambling Websites in the USA! - PokerTube\n- Things to Know About Online Casino Groups - PokerTube\n\nGuidance:\n1. Combine your own knowledge of pokertube.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to pokertube.com while naturally justifying a link to https://www.lineups.com/betting-sites/betrivers-bonus-code/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude BetRivers promo code and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1017,
+    "completion_tokens": 858
+  },
+  "cost_usd": 0.07182
+}

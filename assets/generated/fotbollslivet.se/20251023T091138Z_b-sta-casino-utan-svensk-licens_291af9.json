@@ -1,0 +1,50 @@
+{
+  "created_at": "2025-10-23T09:11:38Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "fotbollslivet.se",
+    "anchor_keyword": "b\u00e4sta casino utan svensk licens",
+    "anchor_country": "",
+    "target_url": "https://www.umamicart.com/sv/casino/utan-svensk-licens/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Fr\u00e5n Planen Till Spelplanen: Vad Fotbollsfans B\u00f6r Veta Om Spel Utan Svensk Licens",
+      "rationale": "Knuten till hur fans f\u00f6rh\u00e5ller sig till betting runt matchdagar; l\u00e4nken ger saklig bakgrund om regelverk och risker med alternativ utanf\u00f6r svensk licens, relevant f\u00f6r svenska l\u00e4sare."
+    },
+    {
+      "title": "N\u00e4r Supporterkultur M\u00f6ter Betting: Etik, Ansvar Och Regler I En F\u00f6r\u00e4nderlig Spelmarknad",
+      "rationale": "Passar fotbollslivets fokus p\u00e5 kultur och ansvar; m\u00e5lgruppen f\u00e5r en neutral f\u00f6rklaring av vad licens utanf\u00f6r Sverige inneb\u00e4r och hur det p\u00e5verkar spelbeteenden."
+    },
+    {
+      "title": "Klubbekonomi Och Sidoint\u00e4kter: Spelmarknadens P\u00e5verkan P\u00e5 Fotbollens Ekosystem",
+      "rationale": "Ekonomivinkel i linje med tidigare artiklar om sponsorint\u00e4kter; l\u00e4nken f\u00f6rdjupar f\u00f6rst\u00e5elsen av licensmilj\u00f6er och konsumentperspektiv utan att marknadsf\u00f6ra operat\u00f6rer."
+    },
+    {
+      "title": "S\u00e4kerhet, Bankid Och Spelpaus: D\u00e4rf\u00f6r Hamnar Vissa Fans Utanf\u00f6r Svensk Licens",
+      "rationale": "Tar upp vanliga sk\u00e4l och missf\u00f6rst\u00e5nd kring licens och verktyg som BankID/Spelpaus; l\u00e4nken erbjuder kontext om riskhantering och regelverk f\u00f6r svenska l\u00e4sare."
+    },
+    {
+      "title": "Allsvensk Vardag, Global Spelreglering: En Neutral Genomg\u00e5ng F\u00f6r Nyfikna Fans",
+      "rationale": "Binder samman svensk fotboll med internationella spelregler; l\u00e4nken kompletterar med fakta om spel utan svensk licens f\u00f6r en informerad diskussion p\u00e5 sajten."
+    }
+  ],
+  "titles_context": [
+    "Johan Stenmark: Casino utan BankID - Spela enkelt!",
+    "Strategin bakom spelet: Paralleller mellan fotboll och betting",
+    "Ritualer i fotbollens psykologi",
+    "Politik och ekonomis p\u00e5verkan p\u00e5 sponsoravtal i fotboll",
+    "Fotbollslivet.se - av fotbollsfans, f\u00f6r fotbollsfans.",
+    "Vad vi ser fram emot i Allsvenskan 2025",
+    "Hur digitala spelautomater marknadsf\u00f6rs tillsammans med ...",
+    "Externa int\u00e4ktsk\u00e4llor och deras p\u00e5verkan p\u00e5 klubbekonomi"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.umamicart.com/sv/casino/utan-svensk-licens/ that feel at home on fotbollslivet.se.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): b\u00e4sta casino utan svensk licens\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Johan Stenmark: Casino utan BankID - Spela enkelt!\n- Strategin bakom spelet: Paralleller mellan fotboll och betting\n- Ritualer i fotbollens psykologi\n- Politik och ekonomis p\u00e5verkan p\u00e5 sponsoravtal i fotboll\n- Fotbollslivet.se - av fotbollsfans, f\u00f6r fotbollsfans.\n- Vad vi ser fram emot i Allsvenskan 2025\n- Hur digitala spelautomater marknadsf\u00f6rs tillsammans med ...\n- Externa int\u00e4ktsk\u00e4llor och deras p\u00e5verkan p\u00e5 klubbekonomi\n\nGuidance:\n1. Combine your own knowledge of fotbollslivet.se's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to fotbollslivet.se while naturally justifying a link to https://www.umamicart.com/sv/casino/utan-svensk-licens/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude b\u00e4sta casino utan svensk licens and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 671,
+    "completion_tokens": 815
+  },
+  "cost_usd": 0.06232
+}

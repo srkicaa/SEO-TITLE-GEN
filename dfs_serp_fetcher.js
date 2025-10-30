@@ -21,7 +21,7 @@
  *
  * Endpoints & docs:
  *   - POST task_post: https://docs.dataforseo.com/v3/serp/google/organic/task_post/?bash
- *   - GET task_get:  https://docs.dataforseo.com/v3/serp/task_get/?bash
+ *   - GET task_get:  https://docs.dataforseo.com/v3/serp/google/organic/task_get/regular/?bash
  *   - Pricing / depth/billing: https://dataforseo.com/pricing/serp/serp-api
  *   - How many results & filter=0: https://dataforseo.com/help-center/how-many-results-scraped
  *   - Pingbacks/postbacks: https://dataforseo.com/help-center/pingbacks-postbacks-with-dataforseo-api
@@ -45,7 +45,7 @@ const axios = require('axios');
 
 const DFS_BASE = 'https://api.dataforseo.com/v3';
 const TASK_POST_URL = `${DFS_BASE}/serp/google/organic/task_post`;
-const TASK_GET_URL = `${DFS_BASE}/serp/task_get`; // use ?id=<task_id>
+const TASK_GET_URL = `${DFS_BASE}/serp/google/organic/task_get/regular`;
 
 // ENV & defaults
 const DFS_LOGIN = process.env.DFS_LOGIN || '';
@@ -67,6 +67,23 @@ const HEADERS = {
   'Authorization': createAuthHeader(DFS_LOGIN, DFS_PASSWORD),
   'Content-Type': 'application/json'
 };
+
+function ensureTaskStatus(respJson, { allowedParent, allowedTask, context }) {
+  const parentStatus = respJson && respJson.status_code;
+  if (!allowedParent.includes(parentStatus)) {
+    const message = (respJson && respJson.status_message) || 'unknown';
+    throw new Error(`${context} failed: status_code=${parentStatus} message=${message}`);
+  }
+  const tasks = respJson && respJson.tasks;
+  if (!Array.isArray(tasks) || tasks.length === 0) {
+    throw new Error(`${context} failed: tasks array missing`);
+  }
+  const taskStatus = tasks[0].status_code;
+  if (!allowedTask.includes(taskStatus)) {
+    const message = tasks[0].status_message || 'unknown';
+    throw new Error(`${context} failed: task_status_code=${taskStatus} message=${message}`);
+  }
+}
 
 // Sleep utility
 function sleep(ms) {
@@ -99,14 +116,20 @@ async function postSerpTask({
   }
 
   const resp = await axios.post(TASK_POST_URL, payload, { headers: HEADERS, timeout: 60000 });
-  return resp.data;
+  const json = resp.data;
+  ensureTaskStatus(json, {
+    allowedParent: [20000],
+    allowedTask: [20100],
+    context: 'Task POST'
+  });
+  return json;
 }
 
-// 2) Poll Task GET for result readiness
-async function pollTaskGet(taskId, { intervalMs = 2000, maxAttempts = 90 } = {}) {
+// 2) Poll Task GET for result readiness (Standard queue can take several minutes)
+async function pollTaskGet(taskId, { intervalMs = 5000, maxAttempts = 240 } = {}) {
   for (let attempt = 1; attempt <= maxAttempts; attempt++) {
     try {
-      const resp = await axios.get(`${TASK_GET_URL}?id=${taskId}`, { headers: HEADERS, timeout: 60000 });
+      const resp = await axios.get(`${TASK_GET_URL}/${taskId}`, { headers: HEADERS, timeout: 60000 });
       const json = resp.data;
       if (json && Array.isArray(json.tasks) && json.tasks.length > 0) {
         const task = json.tasks[0];
@@ -236,7 +259,7 @@ function parseTaskIdFromPostResponse(postResp) {
     console.log('Task ID:', taskId);
 
     console.log('Polling Task GET for results (may take seconds to minutes)...');
-    const got = await pollTaskGet(taskId, { intervalMs: 2000, maxAttempts: 90 });
+    const got = await pollTaskGet(taskId, { intervalMs: 5000, maxAttempts: 240 });
     console.log('Task GET response (raw):', JSON.stringify(got, null, 2));
     if (got.cost !== undefined) console.log('Task cost:', got.cost);
     if (got.time) console.log('API reported time:', got.time);

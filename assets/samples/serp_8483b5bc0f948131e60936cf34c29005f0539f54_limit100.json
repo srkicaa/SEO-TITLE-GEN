@@ -1,0 +1,800 @@
+{
+  "mode": "live",
+  "task_id": "09261443-4117-0121-0000-cf0e4e89a074",
+  "query": "site:businessabc.net travel",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Travel + Leisure",
+      "url": "https://businessabc.net/wiki/travel-leisure",
+      "snippet": "Travel + Leisure Co., together with its subsidiaries, provides hospitality services and products in the United States and internationally.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "What Are the Top 5 Business Travel Destinations in the USA?",
+      "url": "https://businessabc.net/what-are-the-top-5-business-travel-destinations-in-the-usa",
+      "snippet": "Mar 27, 2025 \u2014 What Are the Top 5 Business Travel Destinations in the USA? \u00b7 1. New York City: The Financial Capital of the USA \u00b7 2. San Francisco: Silicon\u00a0...",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Japan Airlines Business Class: Guide to Luxury Travel",
+      "url": "https://businessabc.net/japan-airlines-business-class-a-complete-guide-to-luxury-travel",
+      "snippet": "Feb 10, 2025 \u2014 Japan Airlines Business Class sets the gold standard for premium air travel, offering lie-flat seats, gourmet Japanese cuisine, and priority\u00a0...",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Why Business Travelers Prefer Business Class Airlines Over",
+      "url": "https://businessabc.net/why-business-travelers-prefer-business-class-airlines-over-economy",
+      "snippet": "Feb 13, 2025 \u2014 Many business travelers opt for business class over economy due to the various benefits that enhance productivity, comfort, and overall travel ...",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Turkish Airlines Business Class: A Detailed Guide to Premium ...",
+      "url": "https://businessabc.net/turkish-airlines-business-class",
+      "snippet": "Turkish Airlines Business Class has been designed with these needs in mind, combining fully lie-flat seating, regionally inspired meals, and lounge access to\u00a0...",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "Aer Lingus Business Class: Ground vs Travel Experience",
+      "url": "https://businessabc.net/aer-lingus-business-class-ground-vs-travel-experience",
+      "snippet": "Feb 28, 2025 \u2014 Aer Lingus Business Class provides a premium travel experience with a strong focus on comfort, flexibility, and convenience.",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "Copa Airlines Business Class: Everything You Need to Know",
+      "url": "https://businessabc.net/copa-airlines-business-class-everything-you-need-to-know-before-booking",
+      "snippet": "Feb 28, 2025 \u2014 Copa Airlines Business Class offers a premium experience with fully reclining seats, priority services, and lounge access\u2014at a competitive price\u00a0...",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Lufthansa Business Class Seats: What to Expect on Flight",
+      "url": "https://businessabc.net/lufthansa-business-class-seats-what-to-expect-on-your-flight",
+      "snippet": "Feb 10, 2025 \u2014 This article explores Lufthansa's business class in detail, covering seating, airport services, dining, and amenities to help passengers know what to expect.",
+      "rank_absolute": 8,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "WeTime",
+      "url": "https://businessabc.net/wiki/we-time",
+      "snippet": "Feb 25, 2025 \u2014 WeTime revolutionises travel planning with AI-driven solutions, offering personalised itineraries and seamless travel experiences for users\u00a0...",
+      "rank_absolute": 10,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "Tips for Managing Your Fantasy Team While Traveling ...",
+      "url": "https://businessabc.net/tips-for-managing-your-fantasy-team-while-traveling-around-the-world",
+      "snippet": "Aug 13, 2025 \u2014 Portable Wi-Fi devices are game-changers for serious fantasy managers, and international data plans have gotten much more reasonable over the\u00a0...",
+      "rank_absolute": 11,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "Expedia Group",
+      "url": "https://businessabc.net/wiki/expedia-group",
+      "snippet": "Expedia is an online travel agency that provides hotel reservations, airline tickets, and vacation packages. It enables users to access a wide range of\u00a0...",
+      "rank_absolute": 12,
+      "rank_group": 11,
+      "result_type": "items"
+    },
+    {
+      "title": "Lion Travel Service",
+      "url": "https://businessabc.net/wiki/lion-travel-service",
+      "snippet": "Feb 25, 2025 \u2014 provides travel services in Taiwan and internationally. It offers packaged tours, transportation ticketing, visa application, tour guides, and\u00a0...",
+      "rank_absolute": 13,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "Beginner's Guide to Implementing Travel Management ...",
+      "url": "https://businessabc.net/a-beginner-s-guide-to-implementing-travel-management-software-in-your-company",
+      "snippet": "Oct 23, 2024 \u2014 Embracing travel management software and integrating it with the best online travel agency can lead to more efficient travel management. The\u00a0...",
+      "rank_absolute": 14,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "Spirit Airlines",
+      "url": "https://businessabc.net/wiki/spirit-airlines",
+      "snippet": "Feb 25, 2025 \u2014 ... tour operator providing travel packages to entertainment destinations such as Atlantic City, Las Vegas, and the Bahamas. 1990s. In 1990\u00a0...",
+      "rank_absolute": 15,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "How Digital Marketing Can Transform Your Travel Business",
+      "url": "https://businessabc.net/how-digital-marketing-can-transform-your-travel-business",
+      "snippet": "Jul 30, 2024 \u2014 About. Businessabc provides digital business directory, digital blockchain AI certification, resources, and marketplace for businesses,\u00a0...",
+      "rank_absolute": 16,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "Philippine Airlines Business Class: Seats, Service, Lounges",
+      "url": "https://businessabc.net/philippine-airlines-business-class-seats-service-and-lounges",
+      "snippet": "Feb 13, 2025 \u2014 Philippine Airlines Business Class\u2014also known as Mabuhay Class\u2014offers an exceptional travel experience designed for both business and\u00a0...",
+      "rank_absolute": 17,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "Spring Airlines",
+      "url": "https://businessabc.net/wiki/spring-airlines",
+      "snippet": "Travel. Number of Employees. 1,000 - 20,000. Headquarters. Shanghai, Shanghai, China. Established. 2003. Revenue. Above - 1B. Traded as. 601021.SS. Social Media.",
+      "rank_absolute": 18,
+      "rank_group": 17,
+      "result_type": "items"
+    },
+    {
+      "title": "What Makes Corporate Travel Management Unique?",
+      "url": "https://businessabc.net/what-sets-a-corporate-travel-management-agency-apart-key-differences-explained",
+      "snippet": "Nov 20, 2024 \u2014 A corporate travel management agency coordinates business trips, focusing on cost efficiency, policy compliance, and employee safety.",
+      "rank_absolute": 19,
+      "rank_group": 18,
+      "result_type": "items"
+    },
+    {
+      "title": "Etihad Business Class: A Comprehensive Overview",
+      "url": "https://businessabc.net/etihad-business-class-a-comprehensive-overview",
+      "snippet": "Feb 12, 2025 \u2014 Etihad Airways' Business Class sets a new standard in luxury travel, offering lie-flat seats, fine dining, and premium services that rival\u00a0...",
+      "rank_absolute": 20,
+      "rank_group": 19,
+      "result_type": "items"
+    },
+    {
+      "title": "Copa Airlines",
+      "url": "https://businessabc.net/wiki/copa-airlines",
+      "snippet": "Passenger air travel, Business Class, Economy Class, ConnectMiles frequent flyer programme, Copa Club lounges, in-flight services, cargo transportation, and\u00a0...",
+      "rank_absolute": 21,
+      "rank_group": 20,
+      "result_type": "items"
+    },
+    {
+      "title": "Relocating to Cyprus after Schengen admission: 8 things ...",
+      "url": "https://businessabc.net/relocating-to-cyprus-after-schengen-admission-8-things-eu-movers-need-to-re-learn",
+      "snippet": "Aug 21, 2025 \u2014 However, until its complete accession in 2026, you must still expect external border checks, especially for freelancers who frequently travel.",
+      "rank_absolute": 22,
+      "rank_group": 21,
+      "result_type": "items"
+    },
+    {
+      "title": "Korean Air Lines",
+      "url": "https://businessabc.net/wiki/korean-air",
+      "snippet": "Adventure Travel, Air Transportation, Business Travel, Tourism, Travel. Number of Employees. 1,000 - 20,000. Headquarters. Seoul, Seoul-t'ukpyolsi, South Korea.",
+      "rank_absolute": 23,
+      "rank_group": 22,
+      "result_type": "items"
+    },
+    {
+      "title": "ANA Holdings",
+      "url": "https://businessabc.net/wiki/ana-holdings",
+      "snippet": "The Airline Related segment provides air transportation related services, such as airport passenger, ground handling, and maintenance services. The Travel ...",
+      "rank_absolute": 24,
+      "rank_group": 23,
+      "result_type": "items"
+    },
+    {
+      "title": "Darya Shaterloo - Businessabc AI Global Summit",
+      "url": "https://aisummit.businessabc.net/influencers/darya-shaterloo-aisummit",
+      "snippet": "Darya is an Advisor to the Board at Planingo.ai, an AI-powered travel company. She also volunteers with WIH, a charity focused on feeding homeless people\u00a0...",
+      "rank_absolute": 25,
+      "rank_group": 24,
+      "result_type": "items"
+    },
+    {
+      "title": "Delta Air Lines",
+      "url": "https://businessabc.net/wiki/delta-air-lines",
+      "snippet": "Feb 25, 2025 \u2014 Service Industry, Transportation, Travel. Number of Employees. 1,000 - 20,000. Headquarters. Atlanta, Georgia, United States. Established. 1927.",
+      "rank_absolute": 26,
+      "rank_group": 25,
+      "result_type": "items"
+    },
+    {
+      "title": "Singapore Airlines",
+      "url": "https://businessabc.net/wiki/singapore-airlines",
+      "snippet": "Siok Hua Chia (Divisional VP of Fin.) Products/ Services. Leisure, Transportation, Travel. Number of Employees. 20,000 - 50,000.",
+      "rank_absolute": 27,
+      "rank_group": 26,
+      "result_type": "items"
+    },
+    {
+      "title": "Voyageurs du Monde",
+      "url": "https://businessabc.net/wiki/voyageurs-du-monde",
+      "snippet": "Feb 25, 2025 \u2014 It organizes honeymoons, family holidays, romantic weekend trips, summer holidays, cruise tours, world tours, diving, and business trips to\u00a0...",
+      "rank_absolute": 28,
+      "rank_group": 27,
+      "result_type": "items"
+    },
+    {
+      "title": "AirTrip",
+      "url": "https://businessabc.net/wiki/airtrip",
+      "snippet": "Feb 25, 2025 \u2014 AirTrip Corp. engages in the online travel agency business in Japan. The company operates AirTrip, a travel platform.",
+      "rank_absolute": 29,
+      "rank_group": 28,
+      "result_type": "items"
+    },
+    {
+      "title": "Royal Caribbean International",
+      "url": "https://businessabc.net/wiki/royal-caribbean",
+      "snippet": "Feb 25, 2025 \u2014 TUI Cruises's subsidiary, TUI Travel, had a 50% interest in Island Cruises following their merger with First Choice Holidays in 2007. In October\u00a0...",
+      "rank_absolute": 30,
+      "rank_group": 29,
+      "result_type": "items"
+    },
+    {
+      "title": "Airbnb",
+      "url": "https://businessabc.net/wiki/airbnb",
+      "snippet": "The company is committed to promoting sustainability and responsible travel practices. They encourage hosts and guests to be mindful of their environmental\u00a0...",
+      "rank_absolute": 31,
+      "rank_group": 30,
+      "result_type": "items"
+    },
+    {
+      "title": "Toofan Aslan Shaterloo",
+      "url": "https://aisummit.businessabc.net/influencers/toofan-aslan-shaterloo-aisummit",
+      "snippet": "Aslan is the Founder and Chairman of Planingo.ai, an AI travel startup recognised among the top global ventures in its field. He also serves as a Board\u00a0...",
+      "rank_absolute": 32,
+      "rank_group": 31,
+      "result_type": "items"
+    },
+    {
+      "title": "Avis Budget Group",
+      "url": "https://businessabc.net/wiki/avis-budget-group",
+      "snippet": "Property Management, Real Estate, Tourism, Travel. Number of Employees. 1,000 - 20,000. Headquarters. Parsippany, New Jersey, United States. Established. 1945.",
+      "rank_absolute": 33,
+      "rank_group": 32,
+      "result_type": "items"
+    },
+    {
+      "title": "Bravofly",
+      "url": "https://businessabc.net/wiki/bravofly",
+      "snippet": "Feb 25, 2025 \u2014 ... flights, vacation packages and cruises, hotel accommodations, car rentals, and other travel products and services. It also directs traffic\u00a0...",
+      "rank_absolute": 34,
+      "rank_group": 33,
+      "result_type": "items"
+    },
+    {
+      "title": "Amsterdam's Smart Edge \u2013 Escort Amsterdam & Wellness Travel",
+      "url": "https://businessabc.net/amsterdam-s-smart-edge-escort-amsterdam-and-wellness-travel",
+      "snippet": "Discover how escort Amsterdam, escort Schiphol, GFE, and escort services for couples in Haarlem & Almere make business travel smarter.",
+      "rank_absolute": 35,
+      "rank_group": 34,
+      "result_type": "items"
+    },
+    {
+      "title": "Cheap Tickets",
+      "url": "https://businessabc.net/wiki/cheap-tickets",
+      "snippet": "Feb 25, 2025 \u2014 The company is an online travel search engine specializing in finding cheap fares for domestic and international airlines, hotels, rental cars\u00a0...",
+      "rank_absolute": 36,
+      "rank_group": 35,
+      "result_type": "items"
+    },
+    {
+      "title": "NH Hotel Group",
+      "url": "https://businessabc.net/wiki/nh-hoteles",
+      "snippet": "Hospitality, Hotel, Travel, Travel Agency. Number of Employees. 1,000 - 20,000. Headquarters. Madrid, Madrid, Spain. Established. 1977. Revenue. Above - 1B.",
+      "rank_absolute": 37,
+      "rank_group": 36,
+      "result_type": "items"
+    },
+    {
+      "title": "TUMI",
+      "url": "https://businessabc.net/wiki/tumi",
+      "snippet": "Feb 25, 2025 \u2014 TUMI is a globally renowned brand specialising in premium luggage, travel accessories, and lifestyle products. Known for its innovative design, durability, and\u00a0...",
+      "rank_absolute": 38,
+      "rank_group": 37,
+      "result_type": "items"
+    },
+    {
+      "title": "Dufry",
+      "url": "https://businessabc.net/wiki/dufry",
+      "snippet": "Feb 26, 2025 \u2014 Dufry AG operates as a travel retailer. The company's retail brands include general travel retail shops under the Dufry, World Duty Free,\u00a0...",
+      "rank_absolute": 39,
+      "rank_group": 38,
+      "result_type": "items"
+    },
+    {
+      "title": "Best Bus Service in India? Here's What Frequent Travelers ...",
+      "url": "https://businessabc.net/best-bus-service-in-india-here-s-what-frequent-travelers-recommend",
+      "snippet": "Aug 26, 2025 \u2014 Looking for the best bus service in India? See what frequent travelers recommend for luxury buses, safe intercity travel, and smooth online\u00a0...",
+      "rank_absolute": 40,
+      "rank_group": 39,
+      "result_type": "items"
+    },
+    {
+      "title": "Business Should Use Travel Management Companies",
+      "url": "https://businessabc.net/3-reasons-why-your-business-should-use-travel-management-companies",
+      "snippet": "Sep 8, 2022 \u2014 Travel management companies manage your overall travel expenses through planning, tracking, and reporting tools.",
+      "rank_absolute": 41,
+      "rank_group": 40,
+      "result_type": "items"
+    },
+    {
+      "title": "Yatra",
+      "url": "https://businessabc.net/wiki/yatra-online",
+      "snippet": "Feb 25, 2025 \u2014 Yatra Online, Inc. operates as an online travel company in India and internationally. It operates in Air Ticketing, and Hotels and Packages, and Other Services\u00a0...",
+      "rank_absolute": 42,
+      "rank_group": 41,
+      "result_type": "items"
+    },
+    {
+      "title": "Rhona Morrell",
+      "url": "https://aisummit.businessabc.net/influencers/rhona-morell-aisummit",
+      "snippet": "... Travel & Tourism), and various courses in environmental management. She has led projects like Restoration Panama, developing environmental metrics and\u00a0...",
+      "rank_absolute": 43,
+      "rank_group": 42,
+      "result_type": "items"
+    },
+    {
+      "title": "American Express",
+      "url": "https://businessabc.net/wiki/american-express",
+      "snippet": "Feb 25, 2025 \u2014 American Express is a global financial services company that provides credit cards, charge cards, and travel services for businesses and\u00a0...",
+      "rank_absolute": 44,
+      "rank_group": 43,
+      "result_type": "items"
+    },
+    {
+      "title": "Things to Consider Before Buying a 24-Inch Portable ...",
+      "url": "https://businessabc.net/things-to-consider-before-buying-a-24-inch-portable-monitor-for-travel-use",
+      "snippet": "Aug 4, 2025 \u2014 Since small 15-inch and 17-inch portable monitors are gaining popularity, a 24-inch display may not be an easy fit in some travel bags. However,\u00a0...",
+      "rank_absolute": 45,
+      "rank_group": 44,
+      "result_type": "items"
+    },
+    {
+      "title": "PROS",
+      "url": "https://businessabc.net/wiki/pros-holdings",
+      "snippet": "... travel industry; PROS Airline Real-Time Dynamic Pricing that offers accurate booking class availability and seat prices; and PROS Airline Group Sales\u00a0...",
+      "rank_absolute": 46,
+      "rank_group": 45,
+      "result_type": "items"
+    },
+    {
+      "title": "Bluegreen Vacations",
+      "url": "https://businessabc.net/wiki/bluegreen-vacations",
+      "snippet": "Feb 25, 2025 \u2014 Patten branched off as an independent developer after ten years, and in 1976, he incorporated the business as Patten Realty Corporation. In 1982\u00a0...",
+      "rank_absolute": 47,
+      "rank_group": 46,
+      "result_type": "items"
+    },
+    {
+      "title": "Cox and Kings",
+      "url": "https://businessabc.net/wiki/cox-and-kings",
+      "snippet": "Feb 25, 2025 \u2014 They have retail outlets in India and are also one of the leading travel companies in MICE and Destination Weddings. History. Richard Cox, the\u00a0...",
+      "rank_absolute": 48,
+      "rank_group": 47,
+      "result_type": "items"
+    },
+    {
+      "title": "Wit Sumathavanit",
+      "url": "https://businessabc.net/wiki/wit-sumathavanit",
+      "snippet": "Feb 27, 2025 \u2014 Wit Sumathavanit is a business expert, thought leader and Luxury Travel executive. Wit Sumathavanit is currently the Chief Support Officer for the Travel ...",
+      "rank_absolute": 49,
+      "rank_group": 48,
+      "result_type": "items"
+    },
+    {
+      "title": "Dart Group Corporation",
+      "url": "https://businessabc.net/wiki/dart-group-corporation",
+      "snippet": "Feb 25, 2025 \u2014 Dart Group Corporation is a family-run travel and leisure business based in Leeds, UK. The company operates scheduled leisure flights, tour\u00a0...",
+      "rank_absolute": 50,
+      "rank_group": 49,
+      "result_type": "items"
+    },
+    {
+      "title": "Trainline",
+      "url": "https://businessabc.net/wiki/trainline",
+      "snippet": "Summary. Trainline Plc operates an independent rail and coach travel platform that sells rail and coach tickets worldwide. The company operates through three\u00a0...",
+      "rank_absolute": 51,
+      "rank_group": 50,
+      "result_type": "items"
+    },
+    {
+      "title": "Dominica citizenship for Nigerians: Legal pathways to ...",
+      "url": "https://businessabc.net/dominica-citizenship-for-nigerians-legal-pathways-to-obtaining-a-second-passport-by-investment",
+      "snippet": "Aug 20, 2025 \u2014 ... travel, tax benefits, and more. Lyle Julien, Investment Programs Expert at Immigrant Invest, will explore the steps involved, the benefits\u00a0...",
+      "rank_absolute": 52,
+      "rank_group": 51,
+      "result_type": "items"
+    },
+    {
+      "title": "Airline Miles vs Cashback: Which is Better for Travelers",
+      "url": "https://businessabc.net/airline-miles-vs-cashback-which-is-better-for-business-travelers",
+      "snippet": "May 26, 2023 \u2014 Business travelers can enjoy the freedom of using their cashback rewards however they please, whether to offset travel expenses, invest in their\u00a0...",
+      "rank_absolute": 53,
+      "rank_group": 52,
+      "result_type": "items"
+    },
+    {
+      "title": "Travel & Hospitality In Web 3.0 Metaverse",
+      "url": "https://businessabc.net/travel-and-hospitality-in-web-3-0-metaverse-moh-belkhodja-head-of-investments-at-ras-al-khaimah-tourism-development-authority",
+      "snippet": "May 3, 2023 \u2014 Moh Belkhodja, a veteran in travel and hospitality industry and Head of Investments & Special Projects At Ras Al Khaimah Tourism Development\u00a0...",
+      "rank_absolute": 54,
+      "rank_group": 53,
+      "result_type": "items"
+    },
+    {
+      "title": "These Are The Best And Worst Cities For Commuting",
+      "url": "https://businessabc.net/the-best-and-worst-cities-for-commuting",
+      "snippet": "Sep 8, 2022 \u2014 According to the Department for Transport, London by far has the longest commute with the average worker spending 46 minutes per trip or a\u00a0...",
+      "rank_absolute": 55,
+      "rank_group": 54,
+      "result_type": "items"
+    },
+    {
+      "title": "Vera Bradley",
+      "url": "https://businessabc.net/wiki/vera-bradley",
+      "snippet": "Vera Bradley, Inc., together with its subsidiaries, designs, manufactures, and sells women's handbags, luggage and travel items, fashion and home accessories,\u00a0...",
+      "rank_absolute": 56,
+      "rank_group": 55,
+      "result_type": "items"
+    },
+    {
+      "title": "WH Smith",
+      "url": "https://businessabc.net/wiki/whsmith",
+      "snippet": "WH Smith PLC operates as a travel retailer in the United Kingdom and internationally. It operates in two divisions, Travel and High Street. The company\u00a0...",
+      "rank_absolute": 57,
+      "rank_group": 56,
+      "result_type": "items"
+    },
+    {
+      "title": "Luxury Minibuses and Coaches Hire in the UK",
+      "url": "https://businessabc.net/luxury-minibuses-and-coaches-hire-in-the-uk-redefining-group-travel",
+      "snippet": "A guide to luxury minibus and coach hire in the UK, highlighting its comfort, convenience, and ideal use for events, tours, and group travel.",
+      "rank_absolute": 58,
+      "rank_group": 57,
+      "result_type": "items"
+    },
+    {
+      "title": "Debox Global IT Solutions Pvt Ltd",
+      "url": "https://businessabc.net/wiki/debox-global-it-solutions-pvt-ltd-1671460582795",
+      "snippet": "Feb 26, 2025 \u2014 Travel Technology - Travel CRM Apparel Technology - Apparel ERP. Number of Employees. 0 - 50. Headquarters. Noida, India. Established. 2018.",
+      "rank_absolute": 59,
+      "rank_group": 58,
+      "result_type": "items"
+    },
+    {
+      "title": "7 Reasons Electric Bikes Are Perfect for Daily Commuting",
+      "url": "https://businessabc.net/7-reasons-electric-bikes-are-perfect-for-daily-commuting",
+      "snippet": "3 days ago \u2014 Save Money on Daily Travel. When you have to shell out for petrol, a parking space, or train tickets or bus fares, that can add up. Always\u00a0...",
+      "rank_absolute": 60,
+      "rank_group": 59,
+      "result_type": "items"
+    },
+    {
+      "title": "What Are The Perks Of Working On An Oil Rig?",
+      "url": "https://businessabc.net/what-are-the-perks-of-working-on-an-oil-rig",
+      "snippet": "Oct 3, 2022 \u2014 An exciting and challenging career \u00b7 A chance to travel \u00b7 It is a high-paying job \u00b7 It is part of the global economy \u00b7 An impressive time off count.",
+      "rank_absolute": 61,
+      "rank_group": 60,
+      "result_type": "items"
+    },
+    {
+      "title": "LynKey Introduces LynKeyPay Card Collection",
+      "url": "https://businessabc.net/lynkey-introduces-its-first-edition-of-lynkeypay-card-collection",
+      "snippet": "May 17, 2023 \u2014 The collection offers a myriad of solutions to make travel rewarding and optimise property-based experiences for tourism. With LynKey Pay\u00a0...",
+      "rank_absolute": 62,
+      "rank_group": 61,
+      "result_type": "items"
+    },
+    {
+      "title": "MakeMyTrip",
+      "url": "https://businessabc.net/wiki/makemytrip-com",
+      "snippet": "Its services and products include air tickets; hotels; packages; rail tickets; bus tickets; and car hire, as well as ancillary travel requirements, such as visa\u00a0...",
+      "rank_absolute": 63,
+      "rank_group": 62,
+      "result_type": "items"
+    },
+    {
+      "title": "Timeshare And NFT Powered Solution",
+      "url": "https://businessabc.net/timeshare-and-nft-powered-solutions-for-a-premium-vacation-experience",
+      "snippet": "Sep 8, 2022 \u2014 Creating a timesharing opportunity to capitalize on the desperation of the vacation industry post-pandemic crisis. COVID-19 pandemic created a\u00a0...",
+      "rank_absolute": 64,
+      "rank_group": 63,
+      "result_type": "items"
+    },
+    {
+      "title": "Technological Advancements In Blockchain",
+      "url": "https://businessabc.net/technological-advancements-in-blockchain-to-render-growth-and-development-in-tourism-understanding-the-basics",
+      "snippet": "Sep 8, 2022 \u2014 Blockchain technology has taken the tourism and travel industry by storm. So, let's understand what, why, and how of blockchain in the travel ...",
+      "rank_absolute": 65,
+      "rank_group": 64,
+      "result_type": "items"
+    },
+    {
+      "title": "USC Marshall School of Business \u2013 Los Angeles, California",
+      "url": "https://businessabc.net/wiki/marshall-school-of-business-university-of-southern-california",
+      "snippet": "Feb 27, 2025 \u2014 Students travel across Asia and Latin America to study emerging economies, interact with executives in Shanghai, Seoul, Tokyo, Beijing and\u00a0...",
+      "rank_absolute": 66,
+      "rank_group": 65,
+      "result_type": "items"
+    },
+    {
+      "title": "AXA",
+      "url": "https://businessabc.net/wiki/axa",
+      "snippet": "Speciality Insurance: Travel Insurance: Coverage for individuals and families travelling domestically or internationally, providing protection against travel-\u00a0...",
+      "rank_absolute": 67,
+      "rank_group": 66,
+      "result_type": "items"
+    },
+    {
+      "title": "How to Optimize Your Supply Chain",
+      "url": "https://businessabc.net/how-to-optimize-your-supply-chain",
+      "snippet": "6 days ago \u2014 They provide a stable platform that can withstand the rigors of long-distance travel, ensuring the smooth operation of the supply chain.",
+      "rank_absolute": 68,
+      "rank_group": 67,
+      "result_type": "items"
+    },
+    {
+      "title": "Navigating Higher Education in Belgium: Guide for Students",
+      "url": "https://businessabc.net/navigating-higher-education-in-belgium-a-guide-for-international-students",
+      "snippet": "Sep 25, 2024 \u2014 In addition, Belgium's central location in Europe makes it an ideal place for students interested in international travel and networking\u00a0...",
+      "rank_absolute": 69,
+      "rank_group": 68,
+      "result_type": "items"
+    },
+    {
+      "title": "Stagecoach Bus",
+      "url": "https://businessabc.net/wiki/stagecoach-group",
+      "snippet": "Feb 25, 2025 \u2014 Vision. Our vision is to be the leading global provider of bus, coach and rail services by creating a safe and enjoyable travel experience for\u00a0...",
+      "rank_absolute": 70,
+      "rank_group": 69,
+      "result_type": "items"
+    },
+    {
+      "title": "PASSUR Aerospace",
+      "url": "https://businessabc.net/wiki/passur-aerospace",
+      "snippet": "Feb 25, 2025 \u2014 ... Travel. Number of Employees. 0 - 50. Headquarters. Stamford, Connecticut, United States. Established. 1966. Company Registration. SEC CIK number\u00a0...",
+      "rank_absolute": 71,
+      "rank_group": 70,
+      "result_type": "items"
+    },
+    {
+      "title": "Rimowa",
+      "url": "https://businessabc.net/wiki/rimowa",
+      "snippet": "Feb 25, 2025 \u2014 Luggage, bags and travel accessories ... LVMH-acquired German luxury brand Rimowa retails luxury luggage, bags and travel accessories\u00a0...",
+      "rank_absolute": 72,
+      "rank_group": 71,
+      "result_type": "items"
+    },
+    {
+      "title": "Digispice Technologies",
+      "url": "https://businessabc.net/wiki/digispice-technologies",
+      "snippet": "Feb 25, 2025 \u2014 In addition, the company provides digital travel services under the Travel Union brand, which offers inventory, prices, and support system\u00a0...",
+      "rank_absolute": 73,
+      "rank_group": 72,
+      "result_type": "items"
+    },
+    {
+      "title": "Hyatt Hotels",
+      "url": "https://businessabc.net/wiki/hyatt",
+      "snippet": "Considering the growing use of air travel for business, the Pritzker brothers realized that locating a high quality hotel near a major airport was a valuable\u00a0...",
+      "rank_absolute": 74,
+      "rank_group": 73,
+      "result_type": "items"
+    },
+    {
+      "title": "Williams-Sonoma",
+      "url": "https://businessabc.net/wiki/williams-sonoma",
+      "snippet": "... travel, entertaining and bar, home d\u00e9cor, and seasonal items under the Mark and Graham brand, as well as operates a 3-D imaging and augmented reality\u00a0...",
+      "rank_absolute": 75,
+      "rank_group": 74,
+      "result_type": "items"
+    },
+    {
+      "title": "Fraport",
+      "url": "https://businessabc.net/wiki/fraport-ag",
+      "snippet": "Air Transportation, Infrastructure, Travel. Number of Employees. 1,000 - 20,000. Headquarters. Frankfurt, Hessen, Germany. Established. 1923. Net Income. 100M\u00a0...",
+      "rank_absolute": 76,
+      "rank_group": 75,
+      "result_type": "items"
+    },
+    {
+      "title": "Prada",
+      "url": "https://businessabc.net/wiki/prada",
+      "snippet": "How did it all start? Prada was founded in 1913 when Mario Prada and his brother Martino opened a leather goods store in Milan to retail handbags, travel bags\u00a0...",
+      "rank_absolute": 77,
+      "rank_group": 76,
+      "result_type": "items"
+    },
+    {
+      "title": "Camping World",
+      "url": "https://businessabc.net/wiki/camping-world",
+      "snippet": "It also offers extended vehicle service contracts; roadside assistance plans; property and casualty insurance programs; travel assist travel protection\u00a0...",
+      "rank_absolute": 78,
+      "rank_group": 77,
+      "result_type": "items"
+    },
+    {
+      "title": "UserTesting",
+      "url": "https://businessabc.net/wiki/usertesting-com",
+      "snippet": "Feb 25, 2025 \u2014 It serves customers in B2B and B2C technology, retail and e-commerce, consumer products, automotive, financial services, travel and\u00a0...",
+      "rank_absolute": 79,
+      "rank_group": 78,
+      "result_type": "items"
+    },
+    {
+      "title": "Founders Factory",
+      "url": "https://businessabc.net/wiki/founders-factory",
+      "snippet": "Feb 27, 2025 \u2014 Henry Lane Fox is a former executive at the luxury travel company, Belmond, and is also the sister of Brent Hoberman. Founders Factory was\u00a0...",
+      "rank_absolute": 80,
+      "rank_group": 79,
+      "result_type": "items"
+    },
+    {
+      "title": "Moh Belkhodja",
+      "url": "https://businessabc.net/wiki/Moh-Belkhodja",
+      "snippet": "Feb 27, 2025 \u2014 ... travel industry expert. Known for. Ras Al Khaimah Tourism Development ... travel and tourism council (WTTC) safe travels stamp. Moh also\u00a0...",
+      "rank_absolute": 81,
+      "rank_group": 80,
+      "result_type": "items"
+    },
+    {
+      "title": "Playa Hotels and Resorts",
+      "url": "https://businessabc.net/wiki/playa-hotels-resorts",
+      "snippet": "Playa Hotels & Resorts is consistently recognized for excellence. Recent awards include Top Resort in Mexico & Central America by Travel + Leisure, Top 75\u00a0...",
+      "rank_absolute": 82,
+      "rank_group": 81,
+      "result_type": "items"
+    },
+    {
+      "title": "Aer Lingus",
+      "url": "https://businessabc.net/wiki/aer-lingus",
+      "snippet": "Feb 25, 2025 \u2014 Aer Lingus is Ireland's national airline, connecting Europe and North America with reliable air travel and a modern fleet of Airbus\u00a0...",
+      "rank_absolute": 83,
+      "rank_group": 82,
+      "result_type": "items"
+    },
+    {
+      "title": "InterContinental Hotels Group",
+      "url": "https://businessabc.net/wiki/intercontinental-hotels-group",
+      "snippet": "Hospitality, Hotel, Leisure, Travel. Number of Employees. 1,000 - 20,000. Headquarters. Denham, Buckinghamshire, United Kingdom. Established. 2002. Company\u00a0...",
+      "rank_absolute": 84,
+      "rank_group": 83,
+      "result_type": "items"
+    },
+    {
+      "title": "OneSpaWorld",
+      "url": "https://businessabc.net/wiki/onespaworld-holdings",
+      "snippet": "OneSpaWorld Holdings Limited operates health and wellness centers onboard cruise ships and at destination resorts worldwide. ... Travel + Leisure for excellence\u00a0...",
+      "rank_absolute": 85,
+      "rank_group": 84,
+      "result_type": "items"
+    },
+    {
+      "title": "NHN Corp",
+      "url": "https://businessabc.net/wiki/nhn-entertainment-corp",
+      "snippet": "... travel service that offers various travel packages. In addition, it offers Shop by, an online shopping mall solution, Godomall 5, an e-commerce solution for\u00a0...",
+      "rank_absolute": 86,
+      "rank_group": 85,
+      "result_type": "items"
+    },
+    {
+      "title": "Sun Country Airlines",
+      "url": "https://businessabc.net/wiki/sun-country-airlines",
+      "snippet": "Air Transportation, Hospitality, Service Industry, Travel. Number of ... The airline has also been ranked in the Top 10 by both Business Travel News\u00a0...",
+      "rank_absolute": 87,
+      "rank_group": 86,
+      "result_type": "items"
+    },
+    {
+      "title": "Affirm",
+      "url": "https://businessabc.net/wiki/affirm",
+      "snippet": "Its merchants represent a range of industries, including sporting goods and outdoors, furniture and homewares, travel and ticketing, apparel, accessories,\u00a0...",
+      "rank_absolute": 88,
+      "rank_group": 87,
+      "result_type": "items"
+    },
+    {
+      "title": "LOT Business Class: A Comprehensive Overview",
+      "url": "https://businessabc.net/lot-business-class-a-comprehensive-overview",
+      "snippet": "Feb 13, 2025 \u2014 From lie-flat seats to gourmet dining, discover why business and luxury travellers are choosing LOT Polish Airlines for an upgraded travel ...",
+      "rank_absolute": 89,
+      "rank_group": 88,
+      "result_type": "items"
+    },
+    {
+      "title": "Zaplox AB (publ)",
+      "url": "https://businessabc.net/wiki/zaplox",
+      "snippet": "Feb 25, 2025 \u2014 ... Travel Network. References. https://in.investing.com/equities/zaplox-company-profile \u00b7 https://finance.yahoo.com/quote/ZAPLOX.ST/profile?p\u00a0...",
+      "rank_absolute": 90,
+      "rank_group": 89,
+      "result_type": "items"
+    },
+    {
+      "title": "Avante Logixx",
+      "url": "https://businessabc.net/wiki/avante-logixx",
+      "snippet": "Feb 25, 2025 \u2014 ... travel advisory and transport; and electronic security services comprise home security services including system design, access control, and\u00a0...",
+      "rank_absolute": 91,
+      "rank_group": 90,
+      "result_type": "items"
+    },
+    {
+      "title": "Comfort Anywhere with BougeRV: Portable Diesel Heater ...",
+      "url": "https://businessabc.net/comfort-anywhere-with-bouge-rv-portable-diesel-heater-and-propane-water-heater",
+      "snippet": "6 days ago \u2014 When you're traveling, camping, or living off-grid, two things often make the biggest difference: warmth and hot water.",
+      "rank_absolute": 92,
+      "rank_group": 91,
+      "result_type": "items"
+    },
+    {
+      "title": "Vertical Aerospace",
+      "url": "https://businessabc.net/wiki/vertical-aerospace-ltd",
+      "snippet": "... travel with ease. We innovate and manufacture electric Vertical Take-off and Landing (eVTOL) aircraft with the aim of outpacing traditional aviation\u00a0...",
+      "rank_absolute": 93,
+      "rank_group": 92,
+      "result_type": "items"
+    },
+    {
+      "title": "Allianz",
+      "url": "https://businessabc.net/wiki/allianz",
+      "snippet": "Travel insurance: Allianz offers travel insurance products that provide coverage for trip cancellations, medical emergencies, and other travel-related incidents\u00a0...",
+      "rank_absolute": 94,
+      "rank_group": 93,
+      "result_type": "items"
+    },
+    {
+      "title": "Sampo Group",
+      "url": "https://businessabc.net/wiki/sampo-group",
+      "snippet": "Feb 25, 2025 \u2014 The company offers household, homeowner, motor, accident, travel, boat, forest, livestock, property, casualty, liability, car, van, bike, and\u00a0...",
+      "rank_absolute": 95,
+      "rank_group": 94,
+      "result_type": "items"
+    },
+    {
+      "title": "Jeju Air",
+      "url": "https://businessabc.net/wiki/jeju-air",
+      "snippet": "Air Transportation, Reservations, Travel. Headquarters. Jeju, Cheju-do, South Korea. Established. 2004. Revenue. 100M - 500M. Traded as. 089590.KS. Social Media.",
+      "rank_absolute": 96,
+      "rank_group": 95,
+      "result_type": "items"
+    },
+    {
+      "title": "Shuttle Systems in Modern Warehouses",
+      "url": "https://businessabc.net/shuttle-systems-in-modern-warehouses",
+      "snippet": "Feb 14, 2025 \u2014 These shuttles are connected to lifts that help them travel the racking paths to pick up or drop off pallets at either end of the rack.",
+      "rank_absolute": 97,
+      "rank_group": 96,
+      "result_type": "items"
+    },
+    {
+      "title": "Moynat",
+      "url": "https://businessabc.net/wiki/moynat",
+      "snippet": "Feb 25, 2025 \u2014 History. Parisian maison Moynat was the result of a meeting between Pauline Moynat -the only women trunk-maker at the time who sold travel goods\u00a0...",
+      "rank_absolute": 98,
+      "rank_group": 97,
+      "result_type": "items"
+    },
+    {
+      "title": "Wyndham Hotels and Resorts",
+      "url": "https://businessabc.net/wiki/wyndham-hotel-group",
+      "snippet": "Counsel, Chief Compliance Officer & Corp. Sec.) Products/ Services. Hospitality, Location Based Services, Tourism, Travel. Number of Employees.",
+      "rank_absolute": 99,
+      "rank_group": 98,
+      "result_type": "items"
+    },
+    {
+      "title": "Mindtree",
+      "url": "https://businessabc.net/wiki/mindtree",
+      "snippet": "Feb 26, 2025 \u2014 ... Travel, Transport and Hospitality; and Healthcare. It offers services in the areas of agile, analytics and information management\u00a0...",
+      "rank_absolute": 100,
+      "rank_group": 99,
+      "result_type": "items"
+    }
+  ]
+}

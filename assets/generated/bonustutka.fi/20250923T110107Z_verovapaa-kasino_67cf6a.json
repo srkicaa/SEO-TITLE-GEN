@@ -1,0 +1,46 @@
+{
+  "created_at": "2025-09-23T11:01:07Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "bonustutka.fi",
+    "anchor_keyword": "verovapaa kasino",
+    "anchor_country": "",
+    "target_url": "https://verovapaatnettikasinot.net/verovapaat-kasinot/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "ETA-Lisenssi Ja Verotus: Mit\u00e4 Pelaajan Kannattaa Tiet\u00e4\u00e4 Ennen Rekister\u00f6itymist\u00e4",
+      "rationale": "Luonnollinen paikka linkille, joka selitt\u00e4\u00e4 verovapauden perusteet ja listaa ETA-lisenssill\u00e4 toimivat vaihtoehdot; ankkuri sopii runkotekstiin, ei otsikkoon."
+    },
+    {
+      "title": "Nopeat Kotiutukset Ilman Yll\u00e4tyksi\u00e4: N\u00e4in V\u00e4lt\u00e4t Turhat Kulut Ja Veromurheet",
+      "rationale": "Artikkeli voi ohjata lukijan koontiin, jossa avataan verovapauden ehdot ja miten se vaikuttaa kotiutuksiin EU/ETA-alueella."
+    },
+    {
+      "title": "Suomalaisen Pelaajan Verovinkit: EU-Lisenssit, S\u00e4\u00e4nn\u00f6t Ja Arjen Esimerkit",
+      "rationale": "Linkki t\u00e4ydent\u00e4\u00e4 sis\u00e4lt\u00f6\u00e4 tarjoamalla ajantasaisen oppaan verotukseen vaikuttavista lisensseist\u00e4 ja verovapaista vaihtoehdoista."
+    },
+    {
+      "title": "Mist\u00e4 Tunnistaa Turvalliset Ja Verotuksen Kannalta Huolettomat Kasinot",
+      "rationale": "Sopii Bonustutkan tyyliin korostaen k\u00e4yt\u00e4nn\u00f6llisi\u00e4 tunnusmerkkej\u00e4; linkki antaa syvent\u00e4v\u00e4n katsauksen verovapautta koskeviin kriteereihin."
+    },
+    {
+      "title": "K\u00e4tev\u00e4 Tarkistuslista: Verot, Lisenssit Ja Kotiutukset Kun Valitset Kasinon",
+      "rationale": "Linkitys tarjoaa lukijalle selke\u00e4n l\u00e4hteen, jossa k\u00e4yd\u00e4\u00e4n l\u00e4pi verovapauden ehdot ja EU/ETA-lisenssien merkitys p\u00e4\u00e4t\u00f6ksenteossa."
+    }
+  ],
+  "titles_context": [
+    "Bonustutka: Kotiin",
+    "Perimm\u00e4inen opas parhaiden l\u00f6yt\u00e4miseen kasinobonukset Online ...",
+    "Saako Visalla pelatessa kasinobonuksia? - Bonustutka",
+    "Blogi - Bonustutka"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://verovapaatnettikasinot.net/verovapaat-kasinot/ that feel at home on bonustutka.fi.\n\nReference SERP keyword: kasinot\nAnchor keyword (use only if natural): verovapaa kasino\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Bonustutka: Kotiin\n- Perimm\u00e4inen opas parhaiden l\u00f6yt\u00e4miseen kasinobonukset Online ...\n- Saako Visalla pelatessa kasinobonuksia? - Bonustutka\n- Blogi - Bonustutka\n\nGuidance:\n1. Combine your own knowledge of bonustutka.fi's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to bonustutka.fi while naturally justifying a link to https://verovapaatnettikasinot.net/verovapaat-kasinot/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude verovapaa kasino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 541,
+    "completion_tokens": 943
+  },
+  "cost_usd": 0.0674
+}

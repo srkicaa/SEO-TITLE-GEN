@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-22T14:18:50Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "pt-media.org",
+    "anchor_keyword": "24 Casino",
+    "anchor_country": "",
+    "target_url": "https://24-kasino.fi/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Pikakasinot 2025: Mit\u00e4 Muuttuu Suomalaiselle Pelaajalle?",
+      "rationale": "Ajankohtainen n\u00e4k\u00f6kulma pt-media.orgin tyyliin. Linkki 24-kasino.fi:hin voi tarjota p\u00e4ivittyv\u00e4n oppaan pikakasinoista ja muutoksista; ankkuri \u201c24 Casino\u201d istuu luontevasti leip\u00e4tekstiin viittaamaan yleisesittelyyn."
+    },
+    {
+      "title": "Tunnistautuminen Ja Maksutavat: Pay N Play -Mallin Hy\u00f6dyt Ja Sudenkuopat",
+      "rationale": "Sopii sivuston analyyttiseen otteeseen. Linkitys 24-kasino.fi:hin voi syvent\u00e4\u00e4 KYC-prosessia, talletusvaihtoehtoja ja k\u00e4yt\u00e4nn\u00f6n ohjeita; ankkuri \u201c24 Casino\u201d toimii neutraalina viittauksena oppaaseen."
+    },
+    {
+      "title": "Verovapaat Voitot Vai Verolliset? Suomalaisen Pelaajan Pikaopas",
+      "rationale": "Veroaihe puhuttelee yleis\u00f6\u00e4 ja on linjassa referenssien kanssa. Linkki 24-kasino.fi:n verotusartikkeliin tai ETA-alueen periaatteita avaavaan sis\u00e4lt\u00f6\u00f6n perustelee l\u00e4hteen; ankkuri \u201c24 Casino\u201d voidaan sijoittaa taustal\u00e4hdeviitteeksi."
+    },
+    {
+      "title": "Nopeat Kotiutukset Todeksi: Milloin Rahasi Oikeasti Saapuvat?",
+      "rationale": "K\u00e4yt\u00e4nn\u00f6nl\u00e4heinen kulma pt-media.orgille. Linkitys 24-kasino.fi:hin voi tarjota aikatauluvertailuja ja vinkkej\u00e4 kotiutusten nopeuttamiseen; ankkuri \u201c24 Casino\u201d sopii neutraaliksi l\u00e4hde-ankkuriksi."
+    },
+    {
+      "title": "Vastuullinen Pelaaminen Mobiilissa: Ty\u00f6kalut, Rajat Ja Datan Merkitys",
+      "rationale": "Sosiaalinen n\u00e4k\u00f6kulma tukee sivuston laajaa aihekirjoa. 24-kasino.fi voi toimia lis\u00e4l\u00e4hteen\u00e4 rajoista, itsearvioista ja k\u00e4yt\u00e4nn\u00f6n vinkeist\u00e4; ankkuri \u201c24 Casino\u201d istuu luontevasti linkkiviitteeseen ilman br\u00e4nd\u00e4yst\u00e4 otsikossa."
+    }
+  ],
+  "titles_context": [
+    "Pay N Play -kasinot selitettyn\u00e4",
+    "Kasinot ilman rekister\u00f6itymist\u00e4 on kuumin trendi",
+    "Vuoden 2025 parhaat pay n play kasinot",
+    "'Turvallinen' Kasino - Paradoksi: Trustly-alustojen Haasteet ...",
+    "T\u00e4m\u00e4n takia kotimaiset kasinot toimivat Suomessa",
+    "Visa kasinot",
+    "Pikakasinot",
+    "Top 5 virolaiset kasinot suomalaisen pelaajan makuun",
+    "Miten tunnistaa luotettava nettikasino suomalaiselle pelaajalle? \u00b7",
+    "Pay N Play casino on monen suomalaisen pelaajan ...",
+    "T\u00e4m\u00e4n takia tietyill\u00e4 kasinoilla tulee maksaa veroa",
+    "Zimpler Casino: Mobiilimaksujen Innovaatio",
+    "Halloween on t\u00e4n\u00e4 vuonna torstaina: Kasino nopein v\u00e4yl\u00e4 ...",
+    "Nopeat kotiutukset nettikasinoilla \u2013 Pelaajan opas vuodelle ...",
+    "Miten suomalaiset uhkapelaajat saavat verovapaita voittoja",
+    "Pikakasinoiden elinkaari on lyhyt \u2013 n\u00e4m\u00e4 merkit ...",
+    "N\u00e4it\u00e4 ominaisuuksia suomalaiset arvostavat nettikasinolla",
+    "Miten mobiili kasino tuli aikuisten vapaa-ajan harrastuksen ...",
+    "N\u00e4in suomalaiset kasinot toimivat nyt ja tulevaisuudessa",
+    "Millaiset nettikasinot kiinnostavat moottoriurheilun yst\u00e4vi\u00e4?",
+    "Innovatiiviset ratkaisut live-kasinolla: teko\u00e4lyst\u00e4 ...",
+    "25.12.2024",
+    "Rahapelaaminen on siirtynyt kivijalkakasinoista verkkoon",
+    "15.9.2025 \u2022 Pt-media.org",
+    "A quick beginner's guide to 4 best casino dice games"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://24-kasino.fi/ that feel at home on pt-media.org.\n\nReference SERP keyword: kasino\nAnchor keyword (use only if natural): 24 Casino\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Pay N Play -kasinot selitettyn\u00e4\n- Kasinot ilman rekister\u00f6itymist\u00e4 on kuumin trendi\n- Vuoden 2025 parhaat pay n play kasinot\n- 'Turvallinen' Kasino - Paradoksi: Trustly-alustojen Haasteet ...\n- T\u00e4m\u00e4n takia kotimaiset kasinot toimivat Suomessa\n- Visa kasinot\n- Pikakasinot\n- Top 5 virolaiset kasinot suomalaisen pelaajan makuun\n- Miten tunnistaa luotettava nettikasino suomalaiselle pelaajalle? \u00b7\n- Pay N Play casino on monen suomalaisen pelaajan ...\n- T\u00e4m\u00e4n takia tietyill\u00e4 kasinoilla tulee maksaa veroa\n- Zimpler Casino: Mobiilimaksujen Innovaatio\n- Halloween on t\u00e4n\u00e4 vuonna torstaina: Kasino nopein v\u00e4yl\u00e4 ...\n- Nopeat kotiutukset nettikasinoilla \u2013 Pelaajan opas vuodelle ...\n- Miten suomalaiset uhkapelaajat saavat verovapaita voittoja\n- Pikakasinoiden elinkaari on lyhyt \u2013 n\u00e4m\u00e4 merkit ...\n- N\u00e4it\u00e4 ominaisuuksia suomalaiset arvostavat nettikasinolla\n- Miten mobiili kasino tuli aikuisten vapaa-ajan harrastuksen ...\n- N\u00e4in suomalaiset kasinot toimivat nyt ja tulevaisuudessa\n- Millaiset nettikasinot kiinnostavat moottoriurheilun yst\u00e4vi\u00e4?\n- Innovatiiviset ratkaisut live-kasinolla: teko\u00e4lyst\u00e4 ...\n- 25.12.2024\n- Rahapelaaminen on siirtynyt kivijalkakasinoista verkkoon\n- 15.9.2025 \u2022 Pt-media.org\n- A quick beginner's guide to 4 best casino dice games\n\nGuidance:\n1. Combine your own knowledge of pt-media.org's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to pt-media.org while naturally justifying a link to https://24-kasino.fi/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude 24 Casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1161,
+    "completion_tokens": 1081
+  },
+  "cost_usd": 0.08808
+}

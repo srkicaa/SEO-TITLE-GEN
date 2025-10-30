@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-22T14:18:35Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "vti.fi",
+    "anchor_keyword": "https://24-kasino.fi/",
+    "anchor_country": "",
+    "target_url": "https://24-kasino.fi/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Luotettavan Nettikasinon Tarkistuslista: 7 K\u00e4yt\u00e4nn\u00f6n Kohtaa Suomalaisille",
+      "rationale": "T\u00e4m\u00e4 aihe sopii VTI:n opastavaan tyyliin ja voi linkitt\u00e4\u00e4 24-kasino.fi-sivuun, jossa on koosteita ja ohjeita luotettavuuden arviointiin (lisenssit, tietoturva, vastuullinen pelaaminen)."
+    },
+    {
+      "title": "Pikakasinot Ja Pankkitunnistautuminen: Mit\u00e4 Hy\u00f6ty\u00e4 Pelaajalle?",
+      "rationale": "VTI:ll\u00e4 on sis\u00e4lt\u00f6\u00e4 pikakasinoista; linkki 24-kasino.fi:hin tukee aihetta tarjoamalla ajantasaisia listauksia ja selityksi\u00e4 tunnistautumis- ja kotiutusprosessista."
+    },
+    {
+      "title": "Turvalliset Maksutavat Netiss\u00e4 Pelaamiseen: Nopeus vs. Suoja",
+      "rationale": "Maksutapavertailu on luonteva paikka ohjata lukija 24-kasino.fi:n kattaviin maksutapaoppeihin ja k\u00e4yt\u00e4nn\u00f6n vinkkeihin suomalaisille pelaajille."
+    },
+    {
+      "title": "Miten Tunnistat Reilut Peliehdot Ja Kierr\u00e4tysvaatimukset?",
+      "rationale": "VTI:n yleis\u00f6 hy\u00f6tyy konkreettisista kriteereist\u00e4; 24-kasino.fi voi toimia l\u00e4hteen\u00e4 esimerkeille ja termien avauksille ehdoista ja vaatimuksista ilman br\u00e4ndimainintoja."
+    },
+    {
+      "title": "Nettikasinoiden Trendit 2025: Pelillist\u00e4minen, Vastuullisuus Ja Teko\u00e4ly",
+      "rationale": "Ajankohtainen trendikatsaus on VTI:lle tyypillinen teema; linkki 24-kasino.fi:hin tarjoaa lukijalle syvent\u00e4v\u00e4\u00e4 paikallista n\u00e4k\u00f6kulmaa ja koottuja esimerkkej\u00e4 trendeist\u00e4."
+    }
+  ],
+  "titles_context": [
+    "Luotettavan Nettikasinon Tunnistaminen \u2013 7 Merkki\u00e4 Jotka ...",
+    "Ninja Casino Finland \u2013 Katsaus Alustaan, Jossa on V\u00e4litt\u00f6m\u00e4t ...",
+    "Suomen paras playn go kasino Pelataan.com - VTI",
+    "Erilaiset Kasinot Netiss\u00e4 \u2013 Kaikki Mit\u00e4 Sinun Tarvitsee Tiet\u00e4\u00e4",
+    "Riskin ilmapiiri: kasino elokuvallisen panostuksen ja juonen ...",
+    "Voivatko nettikasinot huijata pelaajaa? - VTI",
+    "Teknologian vaikutus nykyaikaisiin kasinopeliel\u00e4myksiin - VTI",
+    "Milt\u00e4 Kasino Voi N\u00e4ytt\u00e4\u00e4 Metaversumissa - VTI",
+    "VTI: Home 03",
+    "Turvalliset Maksutavat Nettikasinoilla - VTI",
+    "Kuinka T\u00e4rke\u00e4\u00e4 Asiakaspalvelu on Nettikasinoilla? - VTI",
+    "Riitt\u00e4v\u00e4tk\u00f6 Suomalaisten Digitaidot Luotettavan Nettikasinon ...",
+    "Nettikasinoiden Bonukset - VTI",
+    "Kuinka Pikakasinot Muuttavat Tapaamme Pelata Uusilla ... - VTI",
+    "N\u00e4in Suomalaiset Kasinot Markkinoivat Itse\u00e4\u00e4n - VTI",
+    "Uncategorized Archives - Page 2 of 10 - VTI",
+    "Kasinot Ilman Rekister\u00f6itymist\u00e4 2022 - VTI",
+    "Online-Kasinoiden Merkitys ja Kehitys - VTI",
+    "Teknologian Vaikutus Nettikasinoiden Kehitykseen - VTI",
+    "Parhaat Kasinopelit Bee Fee -Studiolta - VTI",
+    "Mist\u00e4 l\u00f6yt\u00e4\u00e4 parhaat pikakasinot - VTI",
+    "Maksutavat Nettikasinoilla Tarjoavat Nopeutta ja Turvallisuutta",
+    "Viimeisimm\u00e4t Nettikasinoiden Trendit - VTI",
+    "Allyspin Casino ja Datapohjaiset Ratkaisut Pelaajien ... - VTI",
+    "Mik\u00e4 on nettikasinoiden trendi vuonna 2024? - VTI"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://24-kasino.fi/ that feel at home on vti.fi.\n\nReference SERP keyword: kasino\nAnchor keyword (use only if natural): https://24-kasino.fi/\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Luotettavan Nettikasinon Tunnistaminen \u2013 7 Merkki\u00e4 Jotka ...\n- Ninja Casino Finland \u2013 Katsaus Alustaan, Jossa on V\u00e4litt\u00f6m\u00e4t ...\n- Suomen paras playn go kasino Pelataan.com - VTI\n- Erilaiset Kasinot Netiss\u00e4 \u2013 Kaikki Mit\u00e4 Sinun Tarvitsee Tiet\u00e4\u00e4\n- Riskin ilmapiiri: kasino elokuvallisen panostuksen ja juonen ...\n- Voivatko nettikasinot huijata pelaajaa? - VTI\n- Teknologian vaikutus nykyaikaisiin kasinopeliel\u00e4myksiin - VTI\n- Milt\u00e4 Kasino Voi N\u00e4ytt\u00e4\u00e4 Metaversumissa - VTI\n- VTI: Home 03\n- Turvalliset Maksutavat Nettikasinoilla - VTI\n- Kuinka T\u00e4rke\u00e4\u00e4 Asiakaspalvelu on Nettikasinoilla? - VTI\n- Riitt\u00e4v\u00e4tk\u00f6 Suomalaisten Digitaidot Luotettavan Nettikasinon ...\n- Nettikasinoiden Bonukset - VTI\n- Kuinka Pikakasinot Muuttavat Tapaamme Pelata Uusilla ... - VTI\n- N\u00e4in Suomalaiset Kasinot Markkinoivat Itse\u00e4\u00e4n - VTI\n- Uncategorized Archives - Page 2 of 10 - VTI\n- Kasinot Ilman Rekister\u00f6itymist\u00e4 2022 - VTI\n- Online-Kasinoiden Merkitys ja Kehitys - VTI\n- Teknologian Vaikutus Nettikasinoiden Kehitykseen - VTI\n- Parhaat Kasinopelit Bee Fee -Studiolta - VTI\n- Mist\u00e4 l\u00f6yt\u00e4\u00e4 parhaat pikakasinot - VTI\n- Maksutavat Nettikasinoilla Tarjoavat Nopeutta ja Turvallisuutta\n- Viimeisimm\u00e4t Nettikasinoiden Trendit - VTI\n- Allyspin Casino ja Datapohjaiset Ratkaisut Pelaajien ... - VTI\n- Mik\u00e4 on nettikasinoiden trendi vuonna 2024? - VTI\n\nGuidance:\n1. Combine your own knowledge of vti.fi's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to vti.fi while naturally justifying a link to https://24-kasino.fi/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude https://24-kasino.fi/ and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1300,
+    "completion_tokens": 804
+  },
+  "cost_usd": 0.07424
+}

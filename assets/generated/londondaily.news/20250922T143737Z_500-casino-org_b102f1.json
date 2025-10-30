@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-22T14:37:37Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "londondaily.news",
+    "anchor_keyword": "500-casino.org",
+    "anchor_country": "",
+    "target_url": "https://500-casino.org",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "UK Online Casino Rules in 2025: What London Players Should Know",
+      "rationale": "Localised, news-forward explainer for londondaily.news readers; can naturally cite 500-casino.org for neutral primers on how online casinos operate, responsible play, and jurisdictional nuances."
+    },
+    {
+      "title": "The Evolution of Slots in Britain: from Seaside Arcades to Taps on the Tube",
+      "rationale": "British cultural angle suited to London audiences; supports an informational link to 500-casino.org on slot types, mechanics, and the shift to online formats."
+    },
+    {
+      "title": "Live Dealer Etiquette and Real-Time Multiplayer: a Londoner\u2019s Guide",
+      "rationale": "Practical, non-promotional guidance aligned with the site\u2019s lifestyle/service tone; 500-casino.org can back up sections on live rooms, latency, and multiplayer features."
+    },
+    {
+      "title": "Crypto and Casinos: How Wallets, Fees, and Safeguards Work for UK Users",
+      "rationale": "Timely fintech-meets-gambling piece with clear UK relevance; 500-casino.org provides background on wallet setup, transaction flows, and blockchain considerations."
+    },
+    {
+      "title": "Behind the Screen: Data-Driven Casino Games, Personalization, and Player Protections",
+      "rationale": "Policy-and-tech lens that fits a news audience; links to 500-casino.org can explain aggregation, analytics, and fairness tools without promoting any operator."
+    }
+  ],
+  "titles_context": [
+    "Top Casino Game Development Company Guide 2025",
+    "Real-Time Multiplayer Casino Games Are Reshaping ...",
+    "Can you make a living playing online casino games? Let's ...",
+    "Why Multi-Platform Capabilities in Social Casino Software",
+    "Most Popular Types of Slot Machines",
+    "What makes an online casino worth your time and money",
+    "What casino owners need to know about localised software ...",
+    "Top slot aggregators in 2025: Key features to win big!",
+    "White Label vs Turnkey: Casino models explained",
+    "Navigating the texas online casino scene: A guide for ...",
+    "Picking the ideal casino website script for a profitable ...",
+    "Why Choose Turnkey Casino Software | Benefits Uncovered",
+    "Top 5 slot game development trends to watch In 2025",
+    "Data-Driven Casino Games: Personalization & Analytics",
+    "The evolution of Slots: From mechanical reels to online ...",
+    "Can you trust offshore online casinos? What you should ...",
+    "Online gambling: Why so popular?",
+    "How Casino Game Aggregation Transformed iGaming ...",
+    "7 proven tips to win big at online casinos",
+    "Casino Game Development Services: From Idea to Launch",
+    "How Does Sweepstakes Casinos Work? : Ultimate Guide",
+    "Modular Turnkey Casino Solutions: Launch Fast, Scale Smart",
+    "How to Localize Your Online Casino Platform for Global ...",
+    "Live dealer etiquette for online casinos: What every player ...",
+    "How Online Crypto Casinos Operate: Wallets & Blockchain"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://500-casino.org that feel at home on londondaily.news.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): 500-casino.org\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Top Casino Game Development Company Guide 2025\n- Real-Time Multiplayer Casino Games Are Reshaping ...\n- Can you make a living playing online casino games? Let's ...\n- Why Multi-Platform Capabilities in Social Casino Software\n- Most Popular Types of Slot Machines\n- What makes an online casino worth your time and money\n- What casino owners need to know about localised software ...\n- Top slot aggregators in 2025: Key features to win big!\n- White Label vs Turnkey: Casino models explained\n- Navigating the texas online casino scene: A guide for ...\n- Picking the ideal casino website script for a profitable ...\n- Why Choose Turnkey Casino Software | Benefits Uncovered\n- Top 5 slot game development trends to watch In 2025\n- Data-Driven Casino Games: Personalization & Analytics\n- The evolution of Slots: From mechanical reels to online ...\n- Can you trust offshore online casinos? What you should ...\n- Online gambling: Why so popular?\n- How Casino Game Aggregation Transformed iGaming ...\n- 7 proven tips to win big at online casinos\n- Casino Game Development Services: From Idea to Launch\n- How Does Sweepstakes Casinos Work? : Ultimate Guide\n- Modular Turnkey Casino Solutions: Launch Fast, Scale Smart\n- How to Localize Your Online Casino Platform for Global ...\n- Live dealer etiquette for online casinos: What every player ...\n- How Online Crypto Casinos Operate: Wallets & Blockchain\n\nGuidance:\n1. Combine your own knowledge of londondaily.news's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to londondaily.news while naturally justifying a link to https://500-casino.org.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude 500-casino.org and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 991,
+    "completion_tokens": 993
+  },
+  "cost_usd": 0.0794
+}

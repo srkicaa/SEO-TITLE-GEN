@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-15T07:35:12Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "listor.se",
+    "anchor_keyword": "casino utan svensk licens",
+    "anchor_country": "Sweden",
+    "target_url": "https://www.umamicart.com/sv/casino/utan-bankid/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "5 S\u00e4kra S\u00e4tt Att Verifiera Dig Online N\u00e4r Du Spelar",
+      "rationale": "Passar en lista om identitetskontroll f\u00f6r svenska l\u00e4sare och kan naturligt l\u00e4nka till en f\u00f6rdjupning om alternativ till BankID i samband med casino utan svensk licens i br\u00f6dtexten."
+    },
+    {
+      "title": "7 Saker Svenska Spelare B\u00f6r Veta Om Ins\u00e4ttning Och Uttag Utomlands",
+      "rationale": "En praktisk checklista om betalningar p\u00e5 internationella spelsajter; l\u00e4nken kan leda till en guide om hur spel fungerar utan BankID och n\u00e4r begreppet casino utan svensk licens blir relevant i texten."
+    },
+    {
+      "title": "Topp 10 Casinomyter Svenskar Fortfarande Tror P\u00e5 (Och Vad Som St\u00e4mmer 2025)",
+      "rationale": "Mytavlivning \u00e4r typiskt f\u00f6r listor.se och ger utrymme att l\u00e4nka till en resurs som f\u00f6rklarar skillnader mellan spel med BankID i Sverige och l\u00f6sningar utanf\u00f6r landet, inklusive kontext om casino utan svensk licens i copy."
+    },
+    {
+      "title": "3 Trygga Spellicenser Utanf\u00f6r Sverige \u2013 Vad De Betyder F\u00f6r Dig",
+      "rationale": "Informativt och neutralt om internationella licensmodeller; en naturlig plats att l\u00e4nka till en sida som f\u00f6rklarar spel utan BankID och hur det relaterar till casino utan svensk licens i det st\u00f6djande inneh\u00e5llet."
+    },
+    {
+      "title": "S\u00e5 Funkar KYC Och Bankid: En Enkel Guide F\u00f6r N\u00e4tspelare",
+      "rationale": "Utbildande vinkel som matchar svensk publik och kan st\u00f6tta en l\u00e4nk till en genomg\u00e5ng av spel d\u00e4r BankID inte anv\u00e4nds, med kontext om casino utan svensk licens i l\u00f6pande text."
+    }
+  ],
+  "titles_context": [
+    "De 5 b\u00e4sta spelen p\u00e5 svenska online casino",
+    "3 saker som f\u00f6r\u00e4ndrat hur vi spelar p\u00e5 casino",
+    "S\u00e5 v\u00e4ljer du ett casino med l\u00e5g ins\u00e4ttning: Tips f\u00f6r svenska ...",
+    "Topplista \u00f6ver b\u00e4sta svenska casino 2024",
+    "Att v\u00e4lja r\u00e4tt utl\u00e4ndska casino: 5 viktiga \u00f6verv\u00e4ganden",
+    "Utforska nya trender inom online casino spelv\u00e4rlden med ...",
+    "5 saker som g\u00f6r arbetsmilj\u00f6n b\u00e4ttre \u2013 och kroppen gladare",
+    "mat-arkiv",
+    "Skandinavisk casino-kv\u00e4ll hemma | Nordisk stil & norska tips",
+    "Resa",
+    "Spel & Betting",
+    "Topp 10 casinomyter svenskar fortfarande tror p\u00e5 (men ...",
+    "10 fascinerande fakta om casinon som f\u00e5r dig att k\u00e4nnas ...",
+    "3 trygga och s\u00e4kra utl\u00e4ndska spellicenser",
+    "Topp 10 b\u00e4sta casinon 2023",
+    "De 5 b\u00e4sta casinospelen online",
+    "5 av Las Vegas b\u00e4sta casinon",
+    "5 b\u00e4sta n\u00e4tcasinon i Sverige",
+    "6 saker du inte visste var f\u00f6rbjudna i Norge",
+    "10 saker att t\u00e4nka p\u00e5 n\u00e4r du ska v\u00e4lja b\u00e4ddmadrass",
+    "Sveriges 3 b\u00e4sta landcasinon",
+    "3 f\u00f6rdelar med byggsatser - Tr\u00e4garage",
+    "7 anledningar till varf\u00f6r svenska spelare v\u00e4ljer utl\u00e4ndska ...",
+    "8 tips f\u00f6r att spela smart med b\u00e4st chans att vinna",
+    "5 sk\u00e4l till varf\u00f6r v\u00e4lkomstbonusar g\u00f6r onlinespel mer ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.umamicart.com/sv/casino/utan-bankid/ that feel at home on listor.se.\n\nReference SERP keyword: casinon\nAnchor keyword (use only if natural): casino utan svensk licens\n\nAnchor operates in: Sweden\n\nReference titles:\n- De 5 b\u00e4sta spelen p\u00e5 svenska online casino\n- 3 saker som f\u00f6r\u00e4ndrat hur vi spelar p\u00e5 casino\n- S\u00e5 v\u00e4ljer du ett casino med l\u00e5g ins\u00e4ttning: Tips f\u00f6r svenska ...\n- Topplista \u00f6ver b\u00e4sta svenska casino 2024\n- Att v\u00e4lja r\u00e4tt utl\u00e4ndska casino: 5 viktiga \u00f6verv\u00e4ganden\n- Utforska nya trender inom online casino spelv\u00e4rlden med ...\n- 5 saker som g\u00f6r arbetsmilj\u00f6n b\u00e4ttre \u2013 och kroppen gladare\n- mat-arkiv\n- Skandinavisk casino-kv\u00e4ll hemma | Nordisk stil & norska tips\n- Resa\n- Spel & Betting\n- Topp 10 casinomyter svenskar fortfarande tror p\u00e5 (men ...\n- 10 fascinerande fakta om casinon som f\u00e5r dig att k\u00e4nnas ...\n- 3 trygga och s\u00e4kra utl\u00e4ndska spellicenser\n- Topp 10 b\u00e4sta casinon 2023\n- De 5 b\u00e4sta casinospelen online\n- 5 av Las Vegas b\u00e4sta casinon\n- 5 b\u00e4sta n\u00e4tcasinon i Sverige\n- 6 saker du inte visste var f\u00f6rbjudna i Norge\n- 10 saker att t\u00e4nka p\u00e5 n\u00e4r du ska v\u00e4lja b\u00e4ddmadrass\n- Sveriges 3 b\u00e4sta landcasinon\n- 3 f\u00f6rdelar med byggsatser - Tr\u00e4garage\n- 7 anledningar till varf\u00f6r svenska spelare v\u00e4ljer utl\u00e4ndska ...\n- 8 tips f\u00f6r att spela smart med b\u00e4st chans att vinna\n- 5 sk\u00e4l till varf\u00f6r v\u00e4lkomstbonusar g\u00f6r onlinespel mer ...\n\nGuidance:\n1. Combine your own knowledge of listor.se's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to listor.se while naturally justifying a link to https://www.umamicart.com/sv/casino/utan-bankid/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude casino utan svensk licens and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Sweden where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1077,
+    "completion_tokens": 1018
+  },
+  "cost_usd": 0.08262
+}

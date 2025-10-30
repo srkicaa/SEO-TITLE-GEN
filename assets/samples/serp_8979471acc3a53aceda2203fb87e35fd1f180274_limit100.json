@@ -1,0 +1,64 @@
+{
+  "mode": "live",
+  "task_id": "10021028-4117-0121-0000-ec4bef8c43b6",
+  "query": "site:sudokuhelppo.fi kasinot",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Nopea Huvitus Kuten Helppo Sudoku: Verovapaat ...",
+      "url": "https://sudokuhelppo.fi/nopea-huvitus-kuten-helppo-sudoku-verovapaat-kasinosivustot-ilman-tilia/",
+      "snippet": "Sep 19, 2025 \u2014 Nopea huvitus on monen suosikki tapa paeta arkea, ja verovapaat kasinot ilman tili\u00e4 tarjoavat juuri sit\u00e4.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Blog - Sudoku",
+      "url": "https://sudokuhelppo.fi/blog/",
+      "snippet": "Nopea huvitus on monen suosikki tapa paeta arkea, ja verovapaat kasinot ilman tili\u00e4 tarjoavat juuri sit\u00e4. N\u00e4m\u00e4 pelipaikat yhdist\u00e4v\u00e4t hauskuuden ja\u00a0...",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Pelien S\u00e4\u00e4nn\u00f6t: MGA-Lisenssi Takaa Nettikasinoiden ...",
+      "url": "https://sudokuhelppo.fi/pelien-saannot-mga-lisenssi-takaa-nettikasinoiden-reiluuden-ja-turvallisuuden/",
+      "snippet": "Sep 10, 2025 \u2014 MGA-lisenssin my\u00f6nt\u00e4m\u00e4t MGA Kasinot tarjoavat pelaajille turvallisen ymp\u00e4rist\u00f6n, jossa pelien reiluus ja pelaajien oikeudet ovat etusijalla.",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Voiko Sudokua Pelata Rahasta?",
+      "url": "https://sudokuhelppo.fi/voiko-sudokua-pelata-rahasta/",
+      "snippet": "Jun 23, 2025 \u2014 Kaikkien n\u00e4iden pelaaminen onnistuu my\u00f6s mobiilissa, johon Trustly kasinot tarjoavat erityisen hyv\u00e4t mahdollisuudet. Niille kirjaudutaan\u00a0...",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Lista Peleist\u00e4 Joista Sudokun Yst\u00e4v\u00e4t Saattavat Pit\u00e4\u00e4",
+      "url": "https://sudokuhelppo.fi/lista-peleista-joista-sudokun-ystavat-saattavat-pitaa/",
+      "snippet": "Aug 20, 2025 \u2014 Blackjack on suosittu kivijalkakasinoilla sek\u00e4 nettikasinoilla pelattava korttipeli. Suomalaisten keskuudessa suositut Zimpler kasinot p\u00e4\u00e4st\u00e4v\u00e4t\u00a0...",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "Sudoku-Oppien Ja -Strategioiden Hy\u00f6dynt\u00e4minen Nettikasinolla",
+      "url": "https://sudokuhelppo.fi/sudoku-oppien-ja-strategioiden-hyodyntaminen-nettikasinolla/",
+      "snippet": "Sep 12, 2025 \u2014 Markkinoilla toimivat Euteller kasinot tarjoavat asiakkailleen pelattavaksi usein jopa tuhansia pelej\u00e4, mutta valtaosassa n\u00e4ist\u00e4 on merkityst\u00e4\u00a0...",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "Virtuaalimaailmojen Tulevaisuus: Miten Pelaaminen Muokkaa ...",
+      "url": "https://sudokuhelppo.fi/virtuaalimaailmojen-tulevaisuus-miten-pelaaminen-muokkaa-digitaalista-vuorovaikutusta/",
+      "snippet": "Virtuaaliset kasinot, joissa pelaajat voivat liikkua ja olla vuorovaikutuksessa muiden kanssa, voivat olla tulevaisuuden viihteen keski\u00f6ss\u00e4. Lis\u00e4\u00e4 tietoa\u00a0...",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    }
+  ]
+}

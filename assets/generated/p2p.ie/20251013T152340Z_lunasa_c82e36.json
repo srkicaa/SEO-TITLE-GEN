@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-13T15:23:40Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "p2p.ie",
+    "anchor_keyword": "Lunasa",
+    "anchor_country": "",
+    "target_url": "https://www.lunasa.ie/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Where Racing Meets the Casino Mindset: Lessons Irish Punters Can Actually Use",
+      "rationale": "Feels native to p2p.ie by bridging racing culture with casino decision-making. Linking to Lunasa can add an Irish cultural touchpoint that grounds the discussion in local context and balanced leisure."
+    },
+    {
+      "title": "Horse Racing\u2013Themed Slots: What Resonates With Irish Fans and Why",
+      "rationale": "Aligns with p2p.ie\u2019s audience interest in racing while exploring thematic game design. A Lunasa link can provide an Irish cultural perspective that complements the theme without promoting any operator."
+    },
+    {
+      "title": "Gambling Tax Basics in Ireland: What Bettors Should Know for 2025",
+      "rationale": "Matches reference topics on regulations and serves Irish readers. Linking to Lunasa can offer a culturally rooted resource that keeps the piece locally relevant and informative."
+    },
+    {
+      "title": "Safer Play for Racegoers Exploring Online Casinos: a Practical Checklist",
+      "rationale": "Echoes p2p.ie\u2019s emphasis on responsible engagement. A Lunasa link can reinforce balanced, culture-forward leisure habits without brand or bonus language."
+    },
+    {
+      "title": "Bankroll Discipline from the Track to the Casino Floor: Strategies That Travel Well",
+      "rationale": "Connects racing-savvy money management to casino settings, in line with p2p.ie\u2019s strategic content. Lunasa can serve as a neutral Irish resource to contextualize lifestyle and cultural considerations."
+    }
+  ],
+  "titles_context": [
+    "Where Sports Meet the Casino Business: Top Titles",
+    "The best slots to play in 2025: how to choose?",
+    "How to Use Online Slot Bonuses to Play Horse Racing ...",
+    "The best horse racing-themed slots",
+    "5 Legendary Casino Wins That Transformed Ireland's ...",
+    "Understanding the regulations governing gambling taxes ...",
+    "Irish Betting Sites",
+    "How to Play Big Bass Bonanza at BoyleSports",
+    "How to Choose Your First Game Subscription",
+    "Results",
+    "How Ireland`s Betting Culture is Going Digital",
+    "Betinia and the Rise of Safe Gambling Initiatives",
+    "Best Horse Racing Sites in Ireland: Online Betting and ...",
+    "How to Pick Your Betting Winners in Ireland",
+    "The fun of picking winning longshots in horse racing",
+    "Sugar Rush 1000 Slot Review",
+    "Blockchain Technology Is Already Changing the Gambling ...",
+    "Results",
+    "Results",
+    "3 Tips for creating a successful betting strategy",
+    "Entries (1)",
+    "Former P2P Horses Lay Down Markers for Future Success ...",
+    "Results",
+    "Raceday Live",
+    "Results"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lunasa.ie/ that feel at home on p2p.ie.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Lunasa\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Where Sports Meet the Casino Business: Top Titles\n- The best slots to play in 2025: how to choose?\n- How to Use Online Slot Bonuses to Play Horse Racing ...\n- The best horse racing-themed slots\n- 5 Legendary Casino Wins That Transformed Ireland's ...\n- Understanding the regulations governing gambling taxes ...\n- Irish Betting Sites\n- How to Play Big Bass Bonanza at BoyleSports\n- How to Choose Your First Game Subscription\n- Results\n- How Ireland`s Betting Culture is Going Digital\n- Betinia and the Rise of Safe Gambling Initiatives\n- Best Horse Racing Sites in Ireland: Online Betting and ...\n- How to Pick Your Betting Winners in Ireland\n- The fun of picking winning longshots in horse racing\n- Sugar Rush 1000 Slot Review\n- Blockchain Technology Is Already Changing the Gambling ...\n- Results\n- Results\n- 3 Tips for creating a successful betting strategy\n- Entries (1)\n- Former P2P Horses Lay Down Markers for Future Success ...\n- Results\n- Raceday Live\n- Results\n\nGuidance:\n1. Combine your own knowledge of p2p.ie's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to p2p.ie while naturally justifying a link to https://www.lunasa.ie/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Lunasa and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 830,
+    "completion_tokens": 935
+  },
+  "cost_usd": 0.0727
+}

@@ -1,0 +1,40 @@
+{
+  "mode": "live",
+  "task_id": "09221409-4117-0121-0000-03eafd14f3cf",
+  "query": "site:australiabasket.com casino crypto",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Exploring the Role of Sponsors - Australian Basketball",
+      "url": "https://www.australiabasket.com/Australia/news/842570/Sponsorship-in-Australian-Basketball-%E2%80%93-Exploring-the-Role-of-Sponsors",
+      "snippet": "Dec 9, 2023 \u2014 Cryptocurrency casinos are a growth area where we are seeing more advertising globally and this could be a way for some sports such as\u00a0...",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Australian Basketball News, Scores, Stats, Analysis, Standings",
+      "url": "https://www.australiabasket.com/Australia/news/933286/The-Sponsorship-Economy-Behind-Pro-Basketball%E2%80%99s-Expansion",
+      "snippet": "New industries like crypto, e-commerce, and new online casinos are racing to develop relationships with teams and are only fueling momentum, helping\u00a0...",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Australian Basketball News, Scores, Stats, Analysis, Standings",
+      "url": "https://www.australiabasket.com/Australia/news/888432/The-Evolution-of-Basketball-in-Australia-A-Comprehensive-Overview",
+      "snippet": "Aug 22, 2024 \u2014 crypto casinos have emerged as a popular alternative to traditional online casinos, offering players the opportunity to engage in gambling ...",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Australian Basketball News, Scores, Stats, Analysis, Standings",
+      "url": "https://www.australiabasket.com/Australia/news/892899/The-Growth-of-Basketball-in-Australia",
+      "snippet": "Sep 26, 2024 \u2014 One such area that has seen a connection with sports enthusiasts is the rise of online casinos, particularly crypto slots. ... Crypto slots\u00a0...",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-13T15:23:22Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "irishsun.com",
+    "anchor_keyword": "best online casinos ireland",
+    "anchor_country": "",
+    "target_url": "https://www.lunasa.ie/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Live Music vs Live Dealer: How Irish Players Choose Their Weekend Thrill",
+      "rationale": "Balances entertainment angles familiar to Irish Sun readers and lets the piece link to L\u00fanasa\u2019s site as an authoritative pointer to upcoming trad gigs, offering a culture-first alternative alongside gaming content (anchor can appear naturally in body)."
+    },
+    {
+      "title": "Inside Ireland\u2019s Evolving Casino Rules: What Punters Should Know Now",
+      "rationale": "News-style explainer fits the outlet\u2019s regulatory coverage; a link to L\u00fanasa can highlight Ireland\u2019s cultural scene and responsible night-out options, complementing guidance on compliant play without naming operators."
+    },
+    {
+      "title": "Card Tables or C\u00e9il\u00ed Tables? Ireland\u2019s Night-Out Trends in 2025",
+      "rationale": "Lifestyle angle contrasts gaming with live trad sessions; L\u00fanasa\u2019s official site provides credible listings and context on Irish music, justifying the cultural link-out for readers planning evenings."
+    },
+    {
+      "title": "Safer Gambling Push in Ireland: the Tech, the Limits, the Culture Shift",
+      "rationale": "Aligns with Irish Sun\u2019s reporting on AI and player safety; linking to L\u00fanasa underscores Ireland\u2019s cultural wellbeing focus by pointing readers to non-gambling entertainment options and community events."
+    },
+    {
+      "title": "The Most-Played Casino Games in Ireland\u2014and Why Classic Irish Tunes Still Pack the Room",
+      "rationale": "Data-led listicle tone mirrors prior coverage; the L\u00fanasa link supplies a trusted gateway to live trad experiences, giving readers a balanced look at gaming habits alongside cultural nights out."
+    }
+  ],
+  "titles_context": [
+    "Live Casino Gaming Evolution: A Future Perspective",
+    "The ever-changing Irish casino industry explored - Irish Sun",
+    "Most Played Casino Games in Ireland - Irish Sun",
+    "Ireland's Casino Industry Embraces AI for Heightened Player Safety",
+    "Gambling in Ireland: What rules apply to different offers?",
+    "Why JK8 Is the Go-To Platform for Slots and Casino Fans - Irish Sun",
+    "Understanding Ireland's convoluted history with gambling ...",
+    "AI Developments in Online Gambling Boost Trust in Ireland's ...",
+    "Which Irish Betting Sites Are The Best For You?",
+    "Trump visits Las Vegas casino to promote his plan to not tax tips",
+    "Russia to introduce 5% gambling tax - Irish Sun",
+    "Thai government to introduce bill to legalize casinos - Irish Sun",
+    "After 67 years, Las Vegas' famous Tropicana casino shuts its ...",
+    "US shutdown threatens native health, education ... - Irish Sun",
+    "The 10-day king: How a Russian con artist became ... - Irish Sun",
+    "Best Free Bet Offers in Ireland as of October 2022 - Irish Sun",
+    "Ukraine bans pawnshops from accepting drones - Irish Sun",
+    "Which Social Media Platforms Are Most Popular In Ireland?",
+    "Colin Farrell starrer 'Ballad of a Small Player' trailer out, set to ...",
+    "Russia fears a NATO attack. Here's why. - Irish Sun",
+    "Online gaming firm 888 wins bid to acquire Bwing.party",
+    "Made in the USSR: 6 video games Soviets went crazy over",
+    "Rafael Nadal, Carlos Alcaraz to headline Netflix's Next ...",
+    "Chinese FM visits Cambodia, Beijing's closest Southeast ...",
+    "Ragasa, strongest storm of 2025, shutters Hong Kong and ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lunasa.ie/ that feel at home on irishsun.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): best online casinos ireland\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Live Casino Gaming Evolution: A Future Perspective\n- The ever-changing Irish casino industry explored - Irish Sun\n- Most Played Casino Games in Ireland - Irish Sun\n- Ireland's Casino Industry Embraces AI for Heightened Player Safety\n- Gambling in Ireland: What rules apply to different offers?\n- Why JK8 Is the Go-To Platform for Slots and Casino Fans - Irish Sun\n- Understanding Ireland's convoluted history with gambling ...\n- AI Developments in Online Gambling Boost Trust in Ireland's ...\n- Which Irish Betting Sites Are The Best For You?\n- Trump visits Las Vegas casino to promote his plan to not tax tips\n- Russia to introduce 5% gambling tax - Irish Sun\n- Thai government to introduce bill to legalize casinos - Irish Sun\n- After 67 years, Las Vegas' famous Tropicana casino shuts its ...\n- US shutdown threatens native health, education ... - Irish Sun\n- The 10-day king: How a Russian con artist became ... - Irish Sun\n- Best Free Bet Offers in Ireland as of October 2022 - Irish Sun\n- Ukraine bans pawnshops from accepting drones - Irish Sun\n- Which Social Media Platforms Are Most Popular In Ireland?\n- Colin Farrell starrer 'Ballad of a Small Player' trailer out, set to ...\n- Russia fears a NATO attack. Here's why. - Irish Sun\n- Online gaming firm 888 wins bid to acquire Bwing.party\n- Made in the USSR: 6 video games Soviets went crazy over\n- Rafael Nadal, Carlos Alcaraz to headline Netflix's Next ...\n- Chinese FM visits Cambodia, Beijing's closest Southeast ...\n- Ragasa, strongest storm of 2025, shutters Hong Kong and ...\n\nGuidance:\n1. Combine your own knowledge of irishsun.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to irishsun.com while naturally justifying a link to https://www.lunasa.ie/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude best online casinos ireland and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1090,
+    "completion_tokens": 1021
+  },
+  "cost_usd": 0.08306
+}

@@ -1,0 +1,72 @@
+{
+  "mode": "live",
+  "task_id": "10231207-4117-0121-0000-51ea79a8926c",
+  "query": "site:fotbollslivet.se casino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Johan Stenmark: Casino utan BankID - Spela enkelt!",
+      "url": "https://fotbollslivet.se/johan-stenmark/",
+      "snippet": "Sep 3, 2024 \u2014 Johan Stenmark diskuterar f\u00f6rdelarna med att spela p\u00e5 casino utan BankID. L\u00e4s mer om hur du kan spela anonymt och s\u00e4kert online.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Strategin bakom spelet: Paralleller mellan fotboll och betting",
+      "url": "https://fotbollslivet.se/strategin-bakom-spelet-paralleller-mellan-fotboll-och-betting/",
+      "snippet": "Aug 15, 2025 \u2014 Fotboll och betting delar en unik koppling, b\u00e5da drivna av strategi, f\u00f6rv\u00e4ntan och en djup f\u00f6rst\u00e5else f\u00f6r sannolikheter.",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Ritualer i fotbollens psykologi",
+      "url": "https://fotbollslivet.se/ritualer-i-fotbollens-psykologi/",
+      "snippet": "Dec 23, 2024 \u2014 Precis som en fotbollsspelare f\u00f6rlitar sig p\u00e5 sina ritualer, kan en spelare p\u00e5 ett casino f\u00f6rlita sig p\u00e5 sina egna turvanor. Men medan\u00a0...",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Politik och ekonomis p\u00e5verkan p\u00e5 sponsoravtal i fotboll",
+      "url": "https://fotbollslivet.se/politik-och-ekonomis-paverkan-pa-sponsoravtal-i-fotboll/",
+      "snippet": "Sep 12, 2025 \u2014 N\u00e4r exempelvis nya casino utan licens blir en del av sponsorlandskapet kan detta skapa etiska dilemman f\u00f6r b\u00e5de klubben och dess supportrar. Hur\u00a0...",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Fotbollslivet.se - av fotbollsfans, f\u00f6r fotbollsfans.",
+      "url": "https://fotbollslivet.se/",
+      "snippet": "M\u00e5nga som f\u00f6ljer fotboll och spelar p\u00e5 odds provar ibland \u00e4ven casinospel \u2013 slots, roulette, blackjack. Det \u00e4r olika typer av spel, men ofta samma anv\u00e4ndarkonto\u00a0...",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "Vad vi ser fram emot i Allsvenskan 2025",
+      "url": "https://fotbollslivet.se/vad-vi-ser-fram-emot-i-allsvenskan-2025/",
+      "snippet": "Mar 16, 2025 \u2014 Precis som med smidiga pay n play casino d\u00e4r du slipper kr\u00e5ngliga registreringsprocesser, kommer Allsvenskan 2025 att erbjuda direkta\u00a0...",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "Hur digitala spelautomater marknadsf\u00f6rs tillsammans med ...",
+      "url": "https://fotbollslivet.se/hur-digitala-spelautomater-marknadsfors-tillsammans-med-fotbollsnyheter-och-strategier-for-att-engagera-fans/",
+      "snippet": "Oct 4, 2025 \u2014 Onlinekasino svenska och slots hos Quick Casino g\u00e5r idag ofta hand i hand med realtidsbaserade fotbollsnyheter och aktuella analyser.",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Externa int\u00e4ktsk\u00e4llor och deras p\u00e5verkan p\u00e5 klubbekonomi",
+      "url": "https://fotbollslivet.se/externa-intaktskallor-och-deras-paverkan-pa-klubbekonomi/",
+      "snippet": "Sep 12, 2025 \u2014 Externa int\u00e4ktsk\u00e4llor har blivit viktiga f\u00f6r fotbollsklubbar som vill st\u00e4rka sina ekonomiska grunder. Ett exempel \u00e4r casino utan svensk licens,\u00a0...",
+      "rank_absolute": 8,
+      "rank_group": 8,
+      "result_type": "items"
+    }
+  ]
+}

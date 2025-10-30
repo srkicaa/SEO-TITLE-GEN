@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-23T09:13:17Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "ekkofilm.dk",
+    "anchor_keyword": "ROFUS-frit online casino",
+    "anchor_country": "",
+    "target_url": "https://www.worldclasstrotting.com/dk/casino-uden-rofus/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Fra Film Noir Til Streaming: Casinodramaets Udvikling",
+      "rationale": "Passer til Ekkos filmhistoriske vinkler og forbinder klassiske og moderne skildringer af gambling. Linket kan bruges til at forklare, hvordan online-spil fungerer i Danmark, herunder betydningen af ROFUS og hvad spil uden tilknytning til registeret indeb\u00e6rer, s\u00e5 l\u00e6seren f\u00e5r fakta bag filmens myter."
+    },
+    {
+      "title": "Hvad Filmene Ikke Viser: Sp\u00e6ndingen Ved Online Spil Set Fra Sofaen",
+      "rationale": "Ekkos publikum f\u00e5r en kulturvinkel p\u00e5 forskellen mellem filmisk sp\u00e6nding og den faktiske online-oplevelse. Linket kan give en n\u00f8gtern gennemgang af danske rammer, herunder selvudelukkelse via ROFUS og muligheder uden for ordningen, med fokus p\u00e5 ansvarlighed."
+    },
+    {
+      "title": "Poker P\u00e5 L\u00e6rredet Kontra Virkeligheden Online",
+      "rationale": "Matcher Ekkos analytiske artikler om genrer og troper. Et link kan informere om regler, sandsynligheder og praktiske forhold ved online spil i Danmark, inkl. hvad \u201cuden ROFUS\u201d betyder i praksis, s\u00e5 l\u00e6seren kan adskille filmtricks fra realiteter."
+    },
+    {
+      "title": "Danske Regler, Selvudelukkelse Og Casino-Motiver I Film",
+      "rationale": "Knytter danske forhold til filmens tematik om spil og risiko. Linket kan give kontekst om ROFUS, licenser og alternativer uden for selvudelukkelsesregisteret, hvilket hj\u00e6lper l\u00e6seren med at forst\u00e5 den virkelighed, filmene refererer til."
+    },
+    {
+      "title": "Soundtracks, Sp\u00e6nding Og Sandsynligheder: N\u00e5r Spil Bliver Filmkunst",
+      "rationale": "Ekkos l\u00e6sere f\u00e5r en \u00e6stetisk og analytisk indgang til casino-scener. Linket kan fungere som bagt\u00e6ppe med fakta om online spil i Danmark, inkl. ROFUS og muligheder uden for ordningen, s\u00e5 artiklen forbliver kulturel, men faktuelt forankret."
+    }
+  ],
+  "titles_context": [
+    "Guide til online-casinoer i Danmark",
+    "Rigtigt og forkert i casino-film",
+    "Kom i casino-stemning med film",
+    "Ni casino-film du b\u00f8r se i dit liv",
+    "Tidl\u00f8s elegance fra film noir til casino",
+    "Spil online-casino, mens du ser dine yndlingsfilm",
+    "Poker Face \u2013 s\u00e6son 2",
+    "Gode r\u00e5d og vejledning til at spille casino",
+    "Fremkomsten af gambling influencers",
+    "Passionen for online casino - Filmmagasinet Ekko",
+    "Filmsp\u00e6ndingen ved poker og blackjack - Filmmagasinet Ekko",
+    "Annoncering - Filmmagasinet Ekko",
+    "Den ultimative guide til en verden af muligheder",
+    "Distribut\u00f8rer frav\u00e6lger anmeldervisninger - Filmmagasinet Ekko",
+    "Poker skaber ikoniske film\u00f8jeblikke - Filmmagasinet Ekko",
+    "Anmeldelser - Filmmagasinet Ekko",
+    "Anmeldelser - Filmmagasinet Ekko",
+    "Goodfellas - Filmmagasinet Ekko",
+    "Peter Sellers 100 \u00e5r - Filmmagasinet Ekko",
+    "Ekko #35 - Filmmagasinet Ekko",
+    "Artikler - Filmmagasinet Ekko",
+    "F\u00e5 mere ud af dine online casino-bes\u00f8g - Filmmagasinet Ekko",
+    "Lupin III: Cagliostros borg - Filmmagasinet Ekko",
+    "Live-casino kan forst\u00e6rke filmoplevelsen - Filmmagasinet Ekko",
+    "De fem bedste film om casinoer - Filmmagasinet Ekko"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.worldclasstrotting.com/dk/casino-uden-rofus/ that feel at home on ekkofilm.dk.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): ROFUS-frit online casino\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Guide til online-casinoer i Danmark\n- Rigtigt og forkert i casino-film\n- Kom i casino-stemning med film\n- Ni casino-film du b\u00f8r se i dit liv\n- Tidl\u00f8s elegance fra film noir til casino\n- Spil online-casino, mens du ser dine yndlingsfilm\n- Poker Face \u2013 s\u00e6son 2\n- Gode r\u00e5d og vejledning til at spille casino\n- Fremkomsten af gambling influencers\n- Passionen for online casino - Filmmagasinet Ekko\n- Filmsp\u00e6ndingen ved poker og blackjack - Filmmagasinet Ekko\n- Annoncering - Filmmagasinet Ekko\n- Den ultimative guide til en verden af muligheder\n- Distribut\u00f8rer frav\u00e6lger anmeldervisninger - Filmmagasinet Ekko\n- Poker skaber ikoniske film\u00f8jeblikke - Filmmagasinet Ekko\n- Anmeldelser - Filmmagasinet Ekko\n- Anmeldelser - Filmmagasinet Ekko\n- Goodfellas - Filmmagasinet Ekko\n- Peter Sellers 100 \u00e5r - Filmmagasinet Ekko\n- Ekko #35 - Filmmagasinet Ekko\n- Artikler - Filmmagasinet Ekko\n- F\u00e5 mere ud af dine online casino-bes\u00f8g - Filmmagasinet Ekko\n- Lupin III: Cagliostros borg - Filmmagasinet Ekko\n- Live-casino kan forst\u00e6rke filmoplevelsen - Filmmagasinet Ekko\n- De fem bedste film om casinoer - Filmmagasinet Ekko\n\nGuidance:\n1. Combine your own knowledge of ekkofilm.dk's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to ekkofilm.dk while naturally justifying a link to https://www.worldclasstrotting.com/dk/casino-uden-rofus/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude ROFUS-frit online casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1102,
+    "completion_tokens": 1224
+  },
+  "cost_usd": 0.09548
+}

@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:54:04Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "nogentech.org",
+    "anchor_keyword": "top social casinos",
+    "anchor_country": "",
+    "target_url": "https://www.bonus.com/social-casinos/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How Social Casino Games Use Gamification and AI to Boost Engagement",
+      "rationale": "Fits Nogentech\u2019s tech-and-gaming angle by focusing on mechanics and AI. A contextual link to a comprehensive guide on social casinos can help readers explore how these games work in practice and where to try them responsibly (Unspecified locale)."
+    },
+    {
+      "title": "Inside the Tech Stack of Social Casino Slots: Rngs, Analytics, and Live Ops",
+      "rationale": "Technical deep dive aligns with Nogentech\u2019s emphasis on platforms and developer tools. Linking to an authoritative overview of social casinos gives readers a practical entry point to understand these systems in real-world apps."
+    },
+    {
+      "title": "Social Casino 101: a Beginner\u2019s Guide to Free-to-Play Casino-Style Gaming",
+      "rationale": "Beginner-friendly format mirrors Nogentech\u2019s guide content. A link to an explainer on social casinos can clarify what they are, how they differ from real-money options, and player expectations globally (Unspecified)."
+    },
+    {
+      "title": "Mobile-First Design in Social Casino Apps: UX Patterns That Drive Retention",
+      "rationale": "Matches Nogentech\u2019s UX and app-focused features. A link to a resource on social casino ecosystems provides examples and context for the patterns discussed without naming operators."
+    },
+    {
+      "title": "Security and Fairness in Social Casinos: What Players Should Check Before They Play",
+      "rationale": "Security-focused angle aligns with Nogentech\u2019s coverage of platform safety. A link to a trusted primer on social casinos can guide readers on features, safeguards, and how these games operate worldwide (Unspecified)."
+    }
+  ],
+  "titles_context": [
+    "Most Popular Games you Should be Playing in 2023",
+    "How Technology Has Changed Roulette Gaming",
+    "New Tech Innovations Set to Transform Online Gaming ...",
+    "How Online Slot Games Are Designed - Complete History",
+    "Top Online Games You Can Play on Your PS5",
+    "Top 8 Game Genres You Can Play In A Quick 5-Minute Break",
+    "Games That Are Still So Popular",
+    "Guide on Crypto iGaming Platforms Security Measures - NogenTech",
+    "Technologies That Game Developers use to Keep Platforms Safe",
+    "9 Gamification Strategies To Keep Players Coming Back",
+    "Online Gaming Guide for Beginners - NogenTech",
+    "Some Unique Gaming Niches You Should Try",
+    "How to Bypass SMS Verification on Gaming Platforms",
+    "Top 3 Hidden Technologies Powering Modern Gaming",
+    "Different Types of Apps to Earn Money - NogenTech",
+    "5 Best Online Game Developers in 2024 - NogenTech",
+    "10 Best Game Streaming Platforms to Stream Video Games",
+    "Impact of AI and Machine Learning in the Online Gaming ...",
+    "New Game Genres For You to Try This Year - NogenTech",
+    "Business Tips To Learn from the iGaming Industry",
+    "10 Most Played Games in the World Right Now (2025 Edition)",
+    "6 Fun Things That Apps Can Do Instantly",
+    "How Online Gaming is Shaping the Future of Entertainment",
+    "6 Ways Game Developers Are Monetizing Social Interaction",
+    "Top Technologies Used in eSports Industry - NogenTech"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.bonus.com/social-casinos/ that feel at home on nogentech.org.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): top social casinos\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Most Popular Games you Should be Playing in 2023\n- How Technology Has Changed Roulette Gaming\n- New Tech Innovations Set to Transform Online Gaming ...\n- How Online Slot Games Are Designed - Complete History\n- Top Online Games You Can Play on Your PS5\n- Top 8 Game Genres You Can Play In A Quick 5-Minute Break\n- Games That Are Still So Popular\n- Guide on Crypto iGaming Platforms Security Measures - NogenTech\n- Technologies That Game Developers use to Keep Platforms Safe\n- 9 Gamification Strategies To Keep Players Coming Back\n- Online Gaming Guide for Beginners - NogenTech\n- Some Unique Gaming Niches You Should Try\n- How to Bypass SMS Verification on Gaming Platforms\n- Top 3 Hidden Technologies Powering Modern Gaming\n- Different Types of Apps to Earn Money - NogenTech\n- 5 Best Online Game Developers in 2024 - NogenTech\n- 10 Best Game Streaming Platforms to Stream Video Games\n- Impact of AI and Machine Learning in the Online Gaming ...\n- New Game Genres For You to Try This Year - NogenTech\n- Business Tips To Learn from the iGaming Industry\n- 10 Most Played Games in the World Right Now (2025 Edition)\n- 6 Fun Things That Apps Can Do Instantly\n- How Online Gaming is Shaping the Future of Entertainment\n- 6 Ways Game Developers Are Monetizing Social Interaction\n- Top Technologies Used in eSports Industry - NogenTech\n\nGuidance:\n1. Combine your own knowledge of nogentech.org's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to nogentech.org while naturally justifying a link to https://www.bonus.com/social-casinos/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude top social casinos and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1012,
+    "completion_tokens": 1290
+  },
+  "cost_usd": 0.09764
+}

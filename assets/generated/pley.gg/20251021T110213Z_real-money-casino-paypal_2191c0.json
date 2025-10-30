@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T11:02:13Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "pley.gg",
+    "anchor_keyword": "real money casino paypal",
+    "anchor_country": "",
+    "target_url": "https://www.playusa.com/payments/paypal/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "E\u2011wallet Deposits for Online Casino Play: a Player\u2019s Guide",
+      "rationale": "Naturally supports a link to PlayUSA\u2019s PayPal payments explainer for steps, limits, fees, verification, and security specifics on using PayPal with casino sites (globally relevant for Unspecified locale)."
+    },
+    {
+      "title": "Fast Payouts Without the Headache: Picking the Right Payment Method",
+      "rationale": "Points readers to the PayPal page for detailed pros/cons, processing times, and troubleshooting tips when choosing an e\u2011wallet for casino deposits and withdrawals."
+    },
+    {
+      "title": "2025 Guide to Secure Casino Banking on Desktop and Mobile",
+      "rationale": "Invites a link to PlayUSA\u2019s PayPal resource to detail device-friendly setup, authentication, and safe transfer practices using PayPal for gaming transactions."
+    },
+    {
+      "title": "Avoiding Fees and Declines: How to Fund and Withdraw Smoothly",
+      "rationale": "Justifies linking to the PayPal guide for clarity on common decline reasons, fee structures, and best practices when using an e\u2011wallet for casino banking."
+    },
+    {
+      "title": "Payment Hygiene for Gamers: Limits, Verification, and Safer Transactions",
+      "rationale": "Makes room to link to PlayUSA\u2019s PayPal page for specifics on account limits, KYC, timelines, and security measures when transacting via PayPal in casino contexts."
+    }
+  ],
+  "titles_context": [
+    "Top 5 Trusted Casino Review Sites with the Biggest Bonus ...",
+    "The Connection Between Esports Strategy and Online ...",
+    "Online Gambling: The 5 Most Popular Games",
+    "Discover the Best Online Casinos to Play Real Money Games",
+    "How Gamers Find Exclusive Offers, Casino Bonuses & ...",
+    "Top Slots to Play and Win Big in 2024",
+    "6 Reasons Why Players Are Moving to Offshore Casinos",
+    "5 Ways to Enhance Your Online Casino Experience",
+    "How to Tell if a Casino Review is Real or Fake",
+    "Integrating Casino Games into Gaming Platforms",
+    "Top 10 Megaways Slots to Play in 2025 - Pley.gg",
+    "How To Use Free Spins Bonuses on Online Slots - Pley.gg",
+    "Common Casino Mistakes Beginners Make (And How to ...",
+    "Does betting more on slots give you a higher chance of ...",
+    "The Best Football-Themed Casino Games Every Fan Should Try",
+    "6 Differences Between Fiat and Crypto Online Casinos - Pley.gg",
+    "Shuffle Casino Promo Code \u201cHELLA\u201d: Get a 100% Deposit ...",
+    "What to look for in casino platforms when you want to bet on ...",
+    "New vs. Old Online Casino Games & Which You Should Play",
+    "Gambling Like in Cyber Sports: The Best Selection of Online ...",
+    "Gaming on a Budget: How to Make the Most of Small Bets - Pley",
+    "7 Crypto & Bitcoin Casinos That Actually Pay Out - Pley.gg",
+    "Gamification in Sweepstakes Casinos Explained - Pley.gg",
+    "Beginner's Guide to Beating the House - Essential Casino ...",
+    "How to Play Casino Games for Free - Pley.gg"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.playusa.com/payments/paypal/ that feel at home on pley.gg.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): real money casino paypal\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Top 5 Trusted Casino Review Sites with the Biggest Bonus ...\n- The Connection Between Esports Strategy and Online ...\n- Online Gambling: The 5 Most Popular Games\n- Discover the Best Online Casinos to Play Real Money Games\n- How Gamers Find Exclusive Offers, Casino Bonuses & ...\n- Top Slots to Play and Win Big in 2024\n- 6 Reasons Why Players Are Moving to Offshore Casinos\n- 5 Ways to Enhance Your Online Casino Experience\n- How to Tell if a Casino Review is Real or Fake\n- Integrating Casino Games into Gaming Platforms\n- Top 10 Megaways Slots to Play in 2025 - Pley.gg\n- How To Use Free Spins Bonuses on Online Slots - Pley.gg\n- Common Casino Mistakes Beginners Make (And How to ...\n- Does betting more on slots give you a higher chance of ...\n- The Best Football-Themed Casino Games Every Fan Should Try\n- 6 Differences Between Fiat and Crypto Online Casinos - Pley.gg\n- Shuffle Casino Promo Code \u201cHELLA\u201d: Get a 100% Deposit ...\n- What to look for in casino platforms when you want to bet on ...\n- New vs. Old Online Casino Games & Which You Should Play\n- Gambling Like in Cyber Sports: The Best Selection of Online ...\n- Gaming on a Budget: How to Make the Most of Small Bets - Pley\n- 7 Crypto & Bitcoin Casinos That Actually Pay Out - Pley.gg\n- Gamification in Sweepstakes Casinos Explained - Pley.gg\n- Beginner's Guide to Beating the House - Essential Casino ...\n- How to Play Casino Games for Free - Pley.gg\n\nGuidance:\n1. Combine your own knowledge of pley.gg's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to pley.gg while naturally justifying a link to https://www.playusa.com/payments/paypal/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude real money casino paypal and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1067,
+    "completion_tokens": 990
+  },
+  "cost_usd": 0.08074
+}

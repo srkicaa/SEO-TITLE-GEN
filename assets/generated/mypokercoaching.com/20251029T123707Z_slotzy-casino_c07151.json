@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:37:07Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "mypokercoaching.com",
+    "anchor_keyword": "Slotzy Casino",
+    "anchor_country": "",
+    "target_url": "https://slotzy-casino.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Online Social Casino Strategy for Poker Players in the USA",
+      "rationale": "Fits mypokercoaching\u2019s crossover audience; links naturally to Slotzy Casino as a social casino example, highlighting game formats and responsible play resources for US readers."
+    },
+    {
+      "title": "House Edge by Game Type: What It Means for US Players",
+      "rationale": "Explains RTP/house edge basics; Slotzy Casino can be cited for real-world game categories and illustrative payout ranges that US players can compare."
+    },
+    {
+      "title": "Regular vs. Jackpot Slots: How to Pick the Right Volatility in the USA",
+      "rationale": "Volatility-focused guide aligns with site\u2019s educational tone; Slotzy Casino\u2019s slots catalog can illustrate volatility, hit rate, and jackpot structures for US audiences."
+    },
+    {
+      "title": "Payment Methods in Online Casinos: Fees, Speed, and Security for US Players",
+      "rationale": "Banking deep-dive is common on mypokercoaching; Slotzy Casino\u2019s payments page can serve as a live example of deposit/withdrawal options and processing times for US users."
+    },
+    {
+      "title": "Casino Licensing and Player Safety in 2025: a Guide for the United States",
+      "rationale": "Regulatory explainer matches reference content; Slotzy Casino\u2019s terms and compliance pages can be referenced to show practical safeguards and player protections for US readers."
+    }
+  ],
+  "titles_context": [
+    "Zula Casino Review & Top Alternatives for US Players ...",
+    "Online Social Casino Strategy - How to Play Smarter and ...",
+    "Master The Rules and Learn How To Play Various Casino ...",
+    "Casino House Edge In Different Games - What is it?",
+    "Top 10 Casinos and Sports Betting Sites to Play With",
+    "Regular vs. Jackpot Slots \u2013 Do You Know How to Pick the ...",
+    "Choosing an Online Casino License in 2025",
+    "Casino War vs Blackjack: Which Has Better Odds?",
+    "How Do Casinos Make Money From Different Games?",
+    "Which Is the Best Casino Bonus for Me... And Why?",
+    "Online Casino Games in the USA",
+    "Different Types of Slot Machines - How to Pick the Best ...",
+    "Mariano Goes for It: Crazy Turn Action on Hustler Casino ...",
+    "House Edge Explained \u2013 How Casinos Make Their Money",
+    "Exploring the Rise of Online Slots",
+    "Why Should You Play Games At an Online Casino?",
+    "Rivers Casino Poker Room Review",
+    "How Technology Is Changing The Online Casino ...",
+    "Top Casino Table Games That You Must Try at Least Once",
+    "US Poker Scene \u2013 How To Find The Best Casino For You",
+    "Why Payment Methods Matter in Online Casinos",
+    "Best Las Vegas Casinos \u2013 Play Poker And Enjoy Your ...",
+    "How to Play Casino Craps (Beginner's Guide)",
+    "Why Online Mobile Poker Will Be Bigger Than Casino ...",
+    "500 Casino Review: Is 500 Casino Legitimate and Safe?"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://slotzy-casino.com/ that feel at home on mypokercoaching.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Slotzy Casino\n\nAnchor operates in: Unspecified. \n\nI need to have the country in the title.\n\nReference titles:\n- Zula Casino Review & Top Alternatives for US Players ...\n- Online Social Casino Strategy - How to Play Smarter and ...\n- Master The Rules and Learn How To Play Various Casino ...\n- Casino House Edge In Different Games - What is it?\n- Top 10 Casinos and Sports Betting Sites to Play With\n- Regular vs. Jackpot Slots \u2013 Do You Know How to Pick the ...\n- Choosing an Online Casino License in 2025\n- Casino War vs Blackjack: Which Has Better Odds?\n- How Do Casinos Make Money From Different Games?\n- Which Is the Best Casino Bonus for Me... And Why?\n- Online Casino Games in the USA\n- Different Types of Slot Machines - How to Pick the Best ...\n- Mariano Goes for It: Crazy Turn Action on Hustler Casino ...\n- House Edge Explained \u2013 How Casinos Make Their Money\n- Exploring the Rise of Online Slots\n- Why Should You Play Games At an Online Casino?\n- Rivers Casino Poker Room Review\n- How Technology Is Changing The Online Casino ...\n- Top Casino Table Games That You Must Try at Least Once\n- US Poker Scene \u2013 How To Find The Best Casino For You\n- Why Payment Methods Matter in Online Casinos\n- Best Las Vegas Casinos \u2013 Play Poker And Enjoy Your ...\n- How to Play Casino Craps (Beginner's Guide)\n- Why Online Mobile Poker Will Be Bigger Than Casino ...\n- 500 Casino Review: Is 500 Casino Legitimate and Safe?\n\nGuidance:\n1. Combine your own knowledge of mypokercoaching.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to mypokercoaching.com while naturally justifying a link to https://slotzy-casino.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Slotzy Casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 970,
+    "completion_tokens": 1049
+  },
+  "cost_usd": 0.08234
+}

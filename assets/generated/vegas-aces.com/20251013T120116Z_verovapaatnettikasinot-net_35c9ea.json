@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-13T12:01:16Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "vegas-aces.com",
+    "anchor_keyword": "verovapaatnettikasinot.net",
+    "anchor_country": "Finland",
+    "target_url": "https://verovapaatnettikasinot.net/verovapaat-kasinot/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Understanding Tax\u2011free Winnings for Finnish Players: Rules, Licenses, and Pitfalls",
+      "rationale": "Educational explainer aligns with Vegas Aces\u2019 guide-style content and links naturally to verovapaatnettikasinot.net for a Finland\u2011specific overview of tax\u2011free criteria and compliant licensing."
+    },
+    {
+      "title": "What \u201cVerovapaat Kasinot\u201d Means: a Plain\u2011english Guide for International Readers",
+      "rationale": "Terminology breakdown matches the site\u2019s glossary pieces and can reference verovapaatnettikasinot.net to illustrate how the term is applied in Finland and the EU/EEA context."
+    },
+    {
+      "title": "EU/EEA Licensing and Player Taxes: How Finnish Rules Shape Your Take\u2011home",
+      "rationale": "Regulatory explainer complements existing licensing articles; the Finland angle is supported by citing verovapaatnettikasinot.net\u2019s guidance on tax\u2011free eligibility and jurisdictions."
+    },
+    {
+      "title": "Fast Withdrawals for Finland: Banking Methods, Processing Times, and Red Flags",
+      "rationale": "Practical payout guidance mirrors the site\u2019s banking content and can link to verovapaatnettikasinot.net for Finland\u2011specific notes on tax\u2011free operators and typical withdrawal practices."
+    },
+    {
+      "title": "Bankroll Strategy When Winnings Are Tax\u2011free: Risk, RTP, and Cashout Planning",
+      "rationale": "Strategy-focused piece fits Vegas Aces\u2019 player education; references to verovapaatnettikasinot.net help contextualize how Finland\u2019s tax\u2011free status affects budgeting and cashout choices."
+    }
+  ],
+  "titles_context": [
+    "Best Payout Casinos Online in 2025: Play Highest Paying ...",
+    "Casino Terminology, Gambling Terms, and Betting Terms",
+    "Vegas Aces \u2014 Free Online Casino Dealer Trade School ...",
+    "10 Best Real Money Las Vegas Online Casinos in 2025",
+    "Understanding How Prizes Work in Sweepstakes Casinos",
+    "How to Spot a High-Paying Casino: Key Metrics and Red Flags",
+    "Best Instant Bank Transfer Casino Sites in 2025",
+    "Best Credit Card Casinos - Vegas Aces",
+    "Free Casino Dealer & Game Courses | Learn to Play & Deal",
+    "5 Myths You've Heard About Online Casino Games",
+    "Understanding Casino Cage Operations - Vegas Aces",
+    "Fast Payout Casinos Online 2025 \u2013 Instant Withdrawals",
+    "The Hidden Mathematics That Powers Modern Casino Favorites",
+    "Top Reputable Sites for Online Casino Reviews",
+    "The 5 Biggest Slot Wins in History: How did it Happen?",
+    "AMA: How to Invent a Casino Game (Setting up LLCs)",
+    "Casino Articles on the Topic: Las Vegas",
+    "Best Sweepstakes Casinos 2025 - Vegas Aces",
+    "Understanding Player Choices in Different Casino Environments",
+    "Top 10 Offshore Online Casino Sites - Vegas Aces",
+    "Casino Surveys - Vegas Aces",
+    "What Have Online Casinos Been Doing to Prevent Players ...",
+    "10 Safest Bitcoin Casinos & Crypto Online ... - Vegas Aces",
+    "Casino Articles on the Topic: Online Casinos - Vegas Aces",
+    "Casino Dealer Flashcards - Values, Jargon, and Math"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://verovapaatnettikasinot.net/verovapaat-kasinot/ that feel at home on vegas-aces.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): verovapaatnettikasinot.net\n\nAnchor operates in: Finland\n\nReference titles:\n- Best Payout Casinos Online in 2025: Play Highest Paying ...\n- Casino Terminology, Gambling Terms, and Betting Terms\n- Vegas Aces \u2014 Free Online Casino Dealer Trade School ...\n- 10 Best Real Money Las Vegas Online Casinos in 2025\n- Understanding How Prizes Work in Sweepstakes Casinos\n- How to Spot a High-Paying Casino: Key Metrics and Red Flags\n- Best Instant Bank Transfer Casino Sites in 2025\n- Best Credit Card Casinos - Vegas Aces\n- Free Casino Dealer & Game Courses | Learn to Play & Deal\n- 5 Myths You've Heard About Online Casino Games\n- Understanding Casino Cage Operations - Vegas Aces\n- Fast Payout Casinos Online 2025 \u2013 Instant Withdrawals\n- The Hidden Mathematics That Powers Modern Casino Favorites\n- Top Reputable Sites for Online Casino Reviews\n- The 5 Biggest Slot Wins in History: How did it Happen?\n- AMA: How to Invent a Casino Game (Setting up LLCs)\n- Casino Articles on the Topic: Las Vegas\n- Best Sweepstakes Casinos 2025 - Vegas Aces\n- Understanding Player Choices in Different Casino Environments\n- Top 10 Offshore Online Casino Sites - Vegas Aces\n- Casino Surveys - Vegas Aces\n- What Have Online Casinos Been Doing to Prevent Players ...\n- 10 Safest Bitcoin Casinos & Crypto Online ... - Vegas Aces\n- Casino Articles on the Topic: Online Casinos - Vegas Aces\n- Casino Dealer Flashcards - Values, Jargon, and Math\n\nGuidance:\n1. Combine your own knowledge of vegas-aces.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to vegas-aces.com while naturally justifying a link to https://verovapaatnettikasinot.net/verovapaat-kasinot/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude verovapaatnettikasinot.net and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Finland where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1051,
+    "completion_tokens": 1033
+  },
+  "cost_usd": 0.083
+}

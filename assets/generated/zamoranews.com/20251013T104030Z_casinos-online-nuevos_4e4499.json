@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-13T10:40:30Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "zamoranews.com",
+    "anchor_keyword": "casinos online nuevos",
+    "anchor_country": "",
+    "target_url": "https://www.platincasino.es/nuevo",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Novedades De Juego Online Que Marcan El A\u00f1o En Zamora Y Alrededores",
+      "rationale": "Encaja en la l\u00ednea local de Zamora News al enfocarse en tendencias cercanas; el enlace puede aportar un listado actualizado de lanzamientos recientes disponibles en Espa\u00f1a para ilustrar ejemplos concretos (p. ej., la secci\u00f3n \u201cnuevo\u201d de PlatinCasino)."
+    },
+    {
+      "title": "Claves Para Reconocer Juegos Reci\u00e9n Lanzados Y Evitar Riesgos",
+      "rationale": "Contenido de servicio p\u00fablico coherente con la secci\u00f3n de consejos; el enlace sirve como referencia pr\u00e1ctica a un cat\u00e1logo en continua actualizaci\u00f3n de t\u00edtulos nuevos en Espa\u00f1a (como la p\u00e1gina de novedades de PlatinCasino) sin car\u00e1cter promocional."
+    },
+    {
+      "title": "Entretenimiento Digital En Castilla Y Le\u00f3n: H\u00e1bitos, Horarios Y Preferencias",
+      "rationale": "Perspectiva regional habitual en Zamora News; el enlace ofrece una muestra real de estrenos de juegos disponibles en el mercado espa\u00f1ol (v\u00eda la secci\u00f3n de nuevos lanzamientos de PlatinCasino) para apoyar los datos con ejemplos vigentes."
+    },
+    {
+      "title": "Del Sal\u00f3n Social Al M\u00f3vil: as\u00ed Evoluciona El Ocio En Zamora",
+      "rationale": "Aprovecha la narrativa local sobre espacios tradicionales y su transici\u00f3n al entorno digital; el enlace puede ilustrar la oferta actual de t\u00edtulos reci\u00e9n publicados en Espa\u00f1a (listados como en la p\u00e1gina de novedades de PlatinCasino)."
+    },
+    {
+      "title": "Pagos, L\u00edmites Y Tiempos De Retirada: Lo Que Conviene Saber Antes De Jugar",
+      "rationale": "Tema informativo alineado con art\u00edculos de seguridad y econom\u00eda de juego; el enlace complementa con ejemplos de juegos nuevos disponibles en Espa\u00f1a (secci\u00f3n de estrenos de PlatinCasino), \u00fatil para contextualizar pr\u00e1cticas responsables sin promocionar marcas en el t\u00edtulo."
+    }
+  ],
+  "titles_context": [
+    "Casinos | \u00daltimas noticias Zamora News",
+    "Calzados Casino | \u00daltimas noticias Zamora News",
+    "El Casino de Zamora acoge la pre-fiesta del reggaeton",
+    "\u00bfEn qu\u00e9 hay que fijarse para elegir un casino online de ...",
+    "As\u00ed luce el Christmas Design Market del Casino",
+    "El Casino de Salamanca ser\u00e1 sede del Preg\u00f3n de la ...",
+    "Zamora se reinventa: la familia del Patio Canalla y el ...",
+    "El Casino de Zamora abre sus puertas a un mercado ...",
+    "Zamora cierra la edici\u00f3n 2025 de Pint of Science con ...",
+    "La importancia de los casinos en l\u00ednea en la econom\u00eda ...",
+    "Consejos para jugar con seguridad en los casinos",
+    "Talento local en Zamora con 'Christmas Design Market' ...",
+    "El zamorano Gonzalo Gonz\u00e1lez Ramos, fundador de ...",
+    "\u00bfQu\u00e9 regulaci\u00f3n tienen los casinos en Zamora?",
+    "Los mejores casinos espa\u00f1oles que ofrecen Skrill para ...",
+    "KasinoBonus.ai revela los 5 bonos de casino m\u00e1s populares de ...",
+    "Precios del software de iGaming: costos, paquetes y qu\u00e9 ...",
+    "Evolution Gamming y Poker Stars Casino miden su potencial ...",
+    "Zamora celebra una nueva edici\u00f3n del festival Pint of ...",
+    "La historia del tradicional Casino Roxy de Valladolid",
+    "Christmas Design Market en el Casino de Zamora: talento ...",
+    "Top 10 casinos en Zamora y alrededores",
+    "Molan los 2000 | \u00daltimas noticias Zamora News",
+    "Gonzalo Gonz\u00e1lez Ramos | \u00daltimas noticias Zamora News",
+    "Descubre la historia del jugador que gan\u00f3 15 millones de ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.platincasino.es/nuevo that feel at home on zamoranews.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): casinos online nuevos\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Casinos | \u00daltimas noticias Zamora News\n- Calzados Casino | \u00daltimas noticias Zamora News\n- El Casino de Zamora acoge la pre-fiesta del reggaeton\n- \u00bfEn qu\u00e9 hay que fijarse para elegir un casino online de ...\n- As\u00ed luce el Christmas Design Market del Casino\n- El Casino de Salamanca ser\u00e1 sede del Preg\u00f3n de la ...\n- Zamora se reinventa: la familia del Patio Canalla y el ...\n- El Casino de Zamora abre sus puertas a un mercado ...\n- Zamora cierra la edici\u00f3n 2025 de Pint of Science con ...\n- La importancia de los casinos en l\u00ednea en la econom\u00eda ...\n- Consejos para jugar con seguridad en los casinos\n- Talento local en Zamora con 'Christmas Design Market' ...\n- El zamorano Gonzalo Gonz\u00e1lez Ramos, fundador de ...\n- \u00bfQu\u00e9 regulaci\u00f3n tienen los casinos en Zamora?\n- Los mejores casinos espa\u00f1oles que ofrecen Skrill para ...\n- KasinoBonus.ai revela los 5 bonos de casino m\u00e1s populares de ...\n- Precios del software de iGaming: costos, paquetes y qu\u00e9 ...\n- Evolution Gamming y Poker Stars Casino miden su potencial ...\n- Zamora celebra una nueva edici\u00f3n del festival Pint of ...\n- La historia del tradicional Casino Roxy de Valladolid\n- Christmas Design Market en el Casino de Zamora: talento ...\n- Top 10 casinos en Zamora y alrededores\n- Molan los 2000 | \u00daltimas noticias Zamora News\n- Gonzalo Gonz\u00e1lez Ramos | \u00daltimas noticias Zamora News\n- Descubre la historia del jugador que gan\u00f3 15 millones de ...\n\nGuidance:\n1. Combine your own knowledge of zamoranews.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to zamoranews.com while naturally justifying a link to https://www.platincasino.es/nuevo.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude casinos online nuevos and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1057,
+    "completion_tokens": 1006
+  },
+  "cost_usd": 0.0815
+}

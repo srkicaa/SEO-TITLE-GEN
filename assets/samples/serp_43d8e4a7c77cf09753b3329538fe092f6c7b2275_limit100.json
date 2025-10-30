@@ -1,0 +1,40 @@
+{
+  "mode": "live",
+  "task_id": "10231207-4117-0121-0000-126ada51a079",
+  "query": "site:nhltimmen.se casino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "NHL 2024\u20132025: En Sp\u00e4nnande S\u00e4song i Full G\u00e5ng",
+      "url": "https://www.nhltimmen.se/nhl-2024-2025-en-spannande-sasong-i-full-gang/",
+      "snippet": "Dec 18, 2024 \u2014 Trots att betting ofta associeras med casinon utan svensk licens \u00e4r det viktigt att komma ih\u00e5g att de erbjuder mycket mer \u00e4n bara vadslagning.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Vegas Golden Knights - fr\u00e5n \u00f6kenstad till hockeyframg\u00e5ng",
+      "url": "https://www.nhltimmen.se/vegas-golden-knights-fran-okenstad-till-hockeyframgang/",
+      "snippet": "Dec 27, 2024 \u2014 N\u00e4r laget grundades 2017 var det m\u00e5nga som ifr\u00e5gasatte hur ett professionellt hockeylag skulle kunna klara sig i den \u00f6kenstad som Las Vegas \u00e4r.",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "S\u00e5 fungerar ishockey: Regler, taktik och spelets hemligheter ...",
+      "url": "https://www.nhltimmen.se/sa-fungerar-ishockey-regler-taktik-och-spelets-hemligheter/",
+      "snippet": "Sep 18, 2025 \u2014 Betting p\u00e5 hockey har blivit en sj\u00e4lvklar del av upplevelsen f\u00f6r ... casino \u2013 B\u00e4sta strategierna f\u00f6r spelaren. Den ger insikter som kan\u00a0...",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "NHLtimmen.se - Hockey med fokus p\u00e5 NHL (och lite SHL!)",
+      "url": "https://www.nhltimmen.se/",
+      "snippet": "P\u00e5 NHLtimmen.se kan du l\u00e4sa om nyheter, statistik och kr\u00f6nikor inom hockey helt enkelt. Vi t\u00e4cker NHL & SHL, och ibland OS & VM!",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    }
+  ]
+}

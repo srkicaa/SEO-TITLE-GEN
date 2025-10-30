@@ -1,0 +1,16 @@
+{
+  "mode": "live",
+  "task_id": "09231722-4117-0121-0000-802a1ad236ee",
+  "query": "site:emojikitchen.pro s\u00f2ng b\u1ea1c",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Gi\u1ea3i m\u00e3 bi\u1ec3u t\u01b0\u1ee3ng c\u1ea3m x\u00fac emoji m\u00e0 d\u00e2n casino hay d\u00f9ng",
+      "url": "https://emojikitchen.pro/giai-ma-bieu-tuong-cam-xuc-emoji-ma-dan-casino-hay-dung/",
+      "snippet": "Sep 9, 2025 \u2014 (M\u00e1y \u0111\u00e1nh b\u1ea1c): \u0110\u1ea1i di\u1ec7n cho c\u00e1c tr\u00f2 ch\u01a1i slot. \u0110\u00e2y l\u00e0 emoji th\u01b0\u1eddng xuy\u00ean xu\u1ea5t hi\u1ec7n m\u1ed7i khi ng\u01b0\u1eddi ch\u01a1i n\u00f3i \u0111\u1ebfn may m\u1eafn, l\u01b0\u1ee3t quay mi\u1ec5n ph\u00ed\u00a0...",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    }
+  ]
+}

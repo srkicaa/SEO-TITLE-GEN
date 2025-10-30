@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:37:37Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "sportsgamblingpodcast.com",
+    "anchor_keyword": "Slotzy.nu",
+    "anchor_country": "",
+    "target_url": "https://slotzy.nu/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Sports-Themed Casino Games That Hit With Bettors in the United States",
+      "rationale": "Pairs well with SGPN\u2019s audience by blending sports and casino. Slotzy.nu can be referenced for examples of sports-inspired slots, RTP insights, and gameplay mechanics to illustrate why these titles appeal to U.S. bettors."
+    },
+    {
+      "title": "Low-Volatility Slots With High RTP: a United States Player\u2019s Guide",
+      "rationale": "Educational angle aligned with SGPN\u2019s how-to pieces. Slotzy.nu provides volatility and RTP breakdowns that support comparisons and practical selection tips for U.S. players."
+    },
+    {
+      "title": "Roulette Basics and Strategy for the United States Gambler",
+      "rationale": "Strategy-forward explainer that fits SGPN\u2019s instructional tone. Slotzy.nu can supply rule summaries, bet type explanations, and odds references to ground the guidance."
+    },
+    {
+      "title": "Online Casino Trends for 2025 in the United States",
+      "rationale": "Forward-looking coverage matches SGPN\u2019s industry pieces. Slotzy.nu can contribute data points on game mechanics, emerging features, and player preferences useful to U.S. readers."
+    },
+    {
+      "title": "Which States Are Leading Online Casino Revenue in the United States?",
+      "rationale": "A data-led angle familiar to SGPN readers. Slotzy.nu can be cited for contextual comparisons of game categories, engagement patterns, and informative resources to interpret revenue trends."
+    }
+  ],
+  "titles_context": [
+    "Top 12 Low Volatility Slot Machines with High RTP",
+    "How To Play Roulette And Strategies For Winning",
+    "Casino Games Inspired by Sports, a Closer Look for Fans",
+    "Casino Road Trip: West Coast",
+    "Casino Road Trip: Some of the Best Casinos Across America",
+    "The pros and cons of PayPal casinos",
+    "What is the Online Casino Industry Like in 2025?",
+    "How to Choose Slot Machine: A Beginner's Guide ...",
+    "CASINO Archives",
+    "CASINO - SGPN - Sports Gambling Podcast",
+    "Best Online Casino Games",
+    "Which U.S. States Are Topping Online Casino Revenue in ...",
+    "Sports Themed Casino Games That Will Scratch Your ...",
+    "Sport-Themed Games in the Best Minimum Casino Sites",
+    "Merge Sports Betting & Casino Games for a Richer Experience",
+    "Compare Online Casinos to Find the Best One for You",
+    "How to Claim the Best Welcome Bonus at an Online Casino",
+    "The Best Social Casino Games Played in 2023",
+    "Comparing Sports Betting and Casino Bonuses",
+    "The Future of Multi-Sensory Slot Experiences",
+    "Types of Gambling Explained",
+    "Casinon's Rundown Of The Best High-Stakes Casinos For ...",
+    "Is Your Online Casino Safe? 5 Indicators to Look For",
+    "Choosing the Best Casino Banking Options for Your Bets",
+    "Sports Gambling Podcast - Free Betting Picks"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://slotzy.nu/ that feel at home on sportsgamblingpodcast.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Slotzy.nu\n\nAnchor operates in: Unspecified. \n\nI need to have the country in the title.\n\nReference titles:\n- Top 12 Low Volatility Slot Machines with High RTP\n- How To Play Roulette And Strategies For Winning\n- Casino Games Inspired by Sports, a Closer Look for Fans\n- Casino Road Trip: West Coast\n- Casino Road Trip: Some of the Best Casinos Across America\n- The pros and cons of PayPal casinos\n- What is the Online Casino Industry Like in 2025?\n- How to Choose Slot Machine: A Beginner's Guide ...\n- CASINO Archives\n- CASINO - SGPN - Sports Gambling Podcast\n- Best Online Casino Games\n- Which U.S. States Are Topping Online Casino Revenue in ...\n- Sports Themed Casino Games That Will Scratch Your ...\n- Sport-Themed Games in the Best Minimum Casino Sites\n- Merge Sports Betting & Casino Games for a Richer Experience\n- Compare Online Casinos to Find the Best One for You\n- How to Claim the Best Welcome Bonus at an Online Casino\n- The Best Social Casino Games Played in 2023\n- Comparing Sports Betting and Casino Bonuses\n- The Future of Multi-Sensory Slot Experiences\n- Types of Gambling Explained\n- Casinon's Rundown Of The Best High-Stakes Casinos For ...\n- Is Your Online Casino Safe? 5 Indicators to Look For\n- Choosing the Best Casino Banking Options for Your Bets\n- Sports Gambling Podcast - Free Betting Picks\n\nGuidance:\n1. Combine your own knowledge of sportsgamblingpodcast.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to sportsgamblingpodcast.com while naturally justifying a link to https://slotzy.nu/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Slotzy.nu and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 935,
+    "completion_tokens": 1314
+  },
+  "cost_usd": 0.09754
+}

@@ -1,0 +1,44 @@
+{
+  "created_at": "2025-09-23T11:03:04Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "brainking.com",
+    "anchor_keyword": "verovapaa kasino",
+    "anchor_country": "",
+    "target_url": "https://verovapaatnettikasinot.net/verovapaat-kasinot/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Pikapelaaminen vs. Harkittu Siirto \u2013 Mit\u00e4 Lautapelaaja Voi Oppia Nettipelaamisesta",
+      "rationale": "Istuu BrainKingin strategiapainotteiseen sis\u00e4lt\u00f6\u00f6n vertaamalla nopeita peliformaatteja ja pitk\u00e4n aikav\u00e4lin ajattelua; artikkelin yhteydess\u00e4 on luontevaa linkitt\u00e4\u00e4 opas verovapaisiin vaihtoehtoihin ja suomalaisen pelaajan verotukseen."
+    },
+    {
+      "title": "Todenn\u00e4k\u00f6isyys, Varianssi Ja Pelikassa \u2013 Peliharrastajan Perustaidot",
+      "rationale": "Yhdist\u00e4\u00e4 shakin kaltaiset p\u00e4\u00e4ttelytaidot rahank\u00e4yt\u00f6n hallintaan; taustoituksessa voidaan viitata luotettavaan tietoon EU/ETA-alueen verovapaista pelialustoista suomalaisille."
+    },
+    {
+      "title": "EU/ETA Ja Verotus Nettipeleiss\u00e4 \u2013 Pelaajan Muistilista",
+      "rationale": "Ajankohtainen, informatiivinen kulma suomalaisille; tarjoaa luonnollisen paikan linkille, joka selitt\u00e4\u00e4, milloin nettipelaamisen voitot ovat verovapaita ja milloin eiv\u00e4t."
+    },
+    {
+      "title": "Strategiaa Ruudulla \u2013 Shakin Ajattelusta Sovelluksia Riskillisiin Peleihin",
+      "rationale": "Kytkee BrainKingin strategiapelit laajempaan verkkopelaamisen ymp\u00e4rist\u00f6\u00f6n; taustaosiossa voidaan ohjata lukija syventyv\u00e4\u00e4n oppaaseen verovapaista vaihtoehdoista ja s\u00e4\u00e4ntelyst\u00e4."
+    },
+    {
+      "title": "Tauot, Rajat Ja Vastuullisuus Verkossa \u2013 Vinkkej\u00e4 Peliharrastajille",
+      "rationale": "Kohdistuu harrastajakuntaan ja korostaa itsehillint\u00e4\u00e4; yhteydess\u00e4 on perusteltua linkitt\u00e4\u00e4 l\u00e4hde, joka avaa turvallisia ja verotuksen kannalta selkeit\u00e4 pelimuotoja suomalaisille."
+    }
+  ],
+  "titles_context": [
+    "Pikapelaaminen internetiss\u00e4 - plussat ja miinukset",
+    "pelaa verkossa shakkia, tammea, backgammonia, reversi\u00e4 ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://verovapaatnettikasinot.net/verovapaat-kasinot/ that feel at home on brainking.com.\n\nReference SERP keyword: kasinot\nAnchor keyword (use only if natural): verovapaa kasino\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Pikapelaaminen internetiss\u00e4 - plussat ja miinukset\n- pelaa verkossa shakkia, tammea, backgammonia, reversi\u00e4 ...\n\nGuidance:\n1. Combine your own knowledge of brainking.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to brainking.com while naturally justifying a link to https://verovapaatnettikasinot.net/verovapaat-kasinot/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude verovapaa kasino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 493,
+    "completion_tokens": 1380
+  },
+  "cost_usd": 0.09266
+}

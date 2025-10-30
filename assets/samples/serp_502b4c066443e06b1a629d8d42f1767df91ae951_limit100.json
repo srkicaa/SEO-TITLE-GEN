@@ -1,0 +1,32 @@
+{
+  "mode": "live",
+  "task_id": "10131808-4117-0121-0000-a43adea44dd1",
+  "query": "site:thesmallbizexpert.co.uk casino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "5 Essential Tips for Running a Smooth and Elegant Gala",
+      "url": "https://www.thesmallbizexpert.co.uk/blog/t3crq9s7p8s203zng5mjlrq898b7bz",
+      "snippet": "May 29, 2025 \u2014 Use the entire venue space for your gala. Separate it into zones, including tables, activities, entertainment, and food.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "The Google Ads Bootcamp",
+      "url": "https://www.thesmallbizexpert.co.uk/google-ads-bootcamp",
+      "snippet": "This five day Google Ads Bootcamp is designed to help you to get more from your Google ads search campaigns - fast. This course consists of 5 x 1 hour live\u00a0...",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Social Media Agency London",
+      "url": "https://www.thesmallbizexpert.co.uk/social-media-agency",
+      "snippet": "We build brands, generate leads and grow awareness through innovative strategies which align with your business objectives.",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    }
+  ]
+}

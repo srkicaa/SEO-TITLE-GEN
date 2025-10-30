@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:47:48Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "gambling911.com",
+    "anchor_keyword": "NFL daily lineups",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Why Online Casinos Keep Expanding Into Sports Sites and What That Means for Bettors",
+      "rationale": "Gambling911 frequently covers the casino\u2013sports crossover. Linking to Lineups.com using the anchor NFL daily lineups within the body can illustrate how roster-driven interest and odds pages fuel this convergence."
+    },
+    {
+      "title": "Bankroll Strategies That Bridge Casino Variance and Game-Day Betting Swings",
+      "rationale": "A piece on cross-discipline bankroll planning fits Gambling911\u2019s strategy content. Citing Lineups.com via NFL daily lineups in-copy shows how lineup timing and injury updates can shape staking plans alongside casino play."
+    },
+    {
+      "title": "The Data Mindset Casino Players Borrow from Sports Analytics",
+      "rationale": "Gambling911 readers value analytical angles. A contextual link to Lineups.com with the anchor NFL daily lineups demonstrates structured data sources that inform disciplined wagering beyond the casino floor."
+    },
+    {
+      "title": "How Roster News Timing Can Influence Crossover Bettors\u2019 Casino-to-Sports Decisions",
+      "rationale": "This timing-focused angle matches Gambling911\u2019s newsy tone. Linking to Lineups.com using NFL daily lineups in supporting text provides a real example of lineup updates that can trigger shifts in play from tables to game bets."
+    },
+    {
+      "title": "New Trends in Live Casino Technology\u2014and Lessons from Real-Time Sports Data",
+      "rationale": "Tech-forward coverage is common on Gambling911. A natural reference to Lineups.com with the anchor NFL daily lineups can show how real-time roster feeds parallel live casino data streams for faster, informed decisions."
+    }
+  ],
+  "titles_context": [
+    "Popular Real Money Online Casinos with High Payout ...",
+    "Free Chip Online Casino Welcome Bonus - $100",
+    "Online Casinos",
+    "Exploring the Best Approaches to Online Casino Betting in ...",
+    "Best No Deposit Bonus Casinos 2025: Top Real Money ...",
+    "Gambling911.com Where to Bet Online, Sports Betting Info ...",
+    "How Sweepstakes Casinos Actually Work",
+    "Casino News | Page 51",
+    "Online Casinos",
+    "Gambling Companies",
+    "Double Your Deposit Online Casino Promos - Gambling 911",
+    "Can I Really Start an Online Casino for Free From Where I Live?",
+    "Casino Cashout Limits and Policies: What You Need to Know",
+    "Licensed to Play: 6 Strongest Casino Licenses",
+    "Online Casino Groups and the Growing Popularity of Live ...",
+    "What Exactly is the Loophole That Makes Sweepstakes ...",
+    "4 Casino Games You Might Not Have Heard Of",
+    "Why Online Casinos Keep Expanding Into Sports Sites and ...",
+    "Which Casino Pays Out Instantly? Check the List Now!",
+    "Online Casinos - Gambling911.com",
+    "Why Are Online Casinos With Low Minimum Deposits so ...",
+    "Navigating Through All Casino Banking Methods",
+    "A Guide to Choosing the Right Irish Casino for You",
+    "Why Some Casino Games Feel More 'Rigged' Than Others",
+    "New Trends in Live Casino Technology - Gambling911.com"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/ that feel at home on gambling911.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): NFL daily lineups\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Popular Real Money Online Casinos with High Payout ...\n- Free Chip Online Casino Welcome Bonus - $100\n- Online Casinos\n- Exploring the Best Approaches to Online Casino Betting in ...\n- Best No Deposit Bonus Casinos 2025: Top Real Money ...\n- Gambling911.com Where to Bet Online, Sports Betting Info ...\n- How Sweepstakes Casinos Actually Work\n- Casino News | Page 51\n- Online Casinos\n- Gambling Companies\n- Double Your Deposit Online Casino Promos - Gambling 911\n- Can I Really Start an Online Casino for Free From Where I Live?\n- Casino Cashout Limits and Policies: What You Need to Know\n- Licensed to Play: 6 Strongest Casino Licenses\n- Online Casino Groups and the Growing Popularity of Live ...\n- What Exactly is the Loophole That Makes Sweepstakes ...\n- 4 Casino Games You Might Not Have Heard Of\n- Why Online Casinos Keep Expanding Into Sports Sites and ...\n- Which Casino Pays Out Instantly? Check the List Now!\n- Online Casinos - Gambling911.com\n- Why Are Online Casinos With Low Minimum Deposits so ...\n- Navigating Through All Casino Banking Methods\n- A Guide to Choosing the Right Irish Casino for You\n- Why Some Casino Games Feel More 'Rigged' Than Others\n- New Trends in Live Casino Technology - Gambling911.com\n\nGuidance:\n1. Combine your own knowledge of gambling911.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to gambling911.com while naturally justifying a link to https://www.lineups.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude NFL daily lineups and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 936,
+    "completion_tokens": 953
+  },
+  "cost_usd": 0.0759
+}

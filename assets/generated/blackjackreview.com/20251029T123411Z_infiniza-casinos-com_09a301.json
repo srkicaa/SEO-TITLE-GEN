@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:34:11Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "blackjackreview.com",
+    "anchor_keyword": "infiniza-casinos.com",
+    "anchor_country": "Sweden",
+    "target_url": "https://infiniza-casinos.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How to Choose the Best Casino Site to Play Blackjack in Sweden",
+      "rationale": "Guides readers on evaluating Swedish-licensed sites (BankID, Spelinspektionen, Spelpaus). A contextual link to infiniza-casinos.com can provide up-to-date Sweden-focused listings and safety checks."
+    },
+    {
+      "title": "Which Casino Game Has the Best Odds of Winning in Sweden?",
+      "rationale": "Compares house edges with a blackjack focus and Swedish regulations on RTP and responsible play. infiniza-casinos.com can be linked as a neutral resource for Sweden-compliant platforms and game info."
+    },
+    {
+      "title": "Exploring the Rise of Live Dealer Casinos in Sweden",
+      "rationale": "Covers live blackjack growth, localization, and Swedish payment norms (Swish, Trustly). infiniza-casinos.com fits naturally as a reference hub for Sweden-available live dealer options."
+    },
+    {
+      "title": "Igaming Trends 2025: What Sweden\u2019s Casino Players Should Know",
+      "rationale": "Discusses regulation updates, mobile play, and player protection in Sweden. A link to infiniza-casinos.com supports readers with current Sweden market overviews and operator directories."
+    },
+    {
+      "title": "Sweden Casino Information and Listings for Online Players",
+      "rationale": "Aggregates practical info for Swedish blackjack fans: licensing, limits, verification, and safer gambling. infiniza-casinos.com can serve as the authoritative destination for Sweden-specific listings."
+    }
+  ],
+  "titles_context": [
+    "How to Choose a Trustworthy Online Casino?",
+    "The Most Popular Casino Strategies that Actually Work",
+    "A Beginner's Guide to the Best Online Casino Table Games",
+    "Casino Maps",
+    "The Most Important Online Casino Bonuses You Have to ...",
+    "The Best Odds at the Casino Tables: Baccarat, Pai Gow, ...",
+    "Top Casino Games That Are Just As Exciting As Blackjack",
+    "Exploring the Rise of Live Dealer Casinos",
+    "Which Casino Game Has the Best Odds of Winning?",
+    "A Beginner's Blueprint for Picking the Right Online Casino",
+    "Online Casino & Sportsbook Reviews: Uudetkasinot is ...",
+    "Upcoming Trends in Louisiana's Online Casino Market You ...",
+    "Casino Information and Listings",
+    "How to Play Blackjack at an Online Casino",
+    "How to Choose the Best Casino Site to Play Blackjack?",
+    "Most Popular Casino Games in 2024",
+    "List of Online Casino Hungary Operators for 2025",
+    "iGaming Trends 2025 and the Rise of Modular Casino ...",
+    "Inside the World's Top SEO Agency for Online Gambling, ...",
+    "Why Only a Few Cities Become the World's Casino Capitals",
+    "Top 10 Most Popular Online Casinos For Blackjack",
+    "Social Casino Blackjack Practice",
+    "My 1st Craps Tournament",
+    "Blackjack Review (INDEX) - The Encyclopedia of ...",
+    "How To Tell If A Casino Game Review Is Legit?"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://infiniza-casinos.com/ that feel at home on blackjackreview.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): infiniza-casinos.com\n\nAnchor operates in: Sweden. \n\nI need to have the country in the title.\n\nReference titles:\n- How to Choose a Trustworthy Online Casino?\n- The Most Popular Casino Strategies that Actually Work\n- A Beginner's Guide to the Best Online Casino Table Games\n- Casino Maps\n- The Most Important Online Casino Bonuses You Have to ...\n- The Best Odds at the Casino Tables: Baccarat, Pai Gow, ...\n- Top Casino Games That Are Just As Exciting As Blackjack\n- Exploring the Rise of Live Dealer Casinos\n- Which Casino Game Has the Best Odds of Winning?\n- A Beginner's Blueprint for Picking the Right Online Casino\n- Online Casino & Sportsbook Reviews: Uudetkasinot is ...\n- Upcoming Trends in Louisiana's Online Casino Market You ...\n- Casino Information and Listings\n- How to Play Blackjack at an Online Casino\n- How to Choose the Best Casino Site to Play Blackjack?\n- Most Popular Casino Games in 2024\n- List of Online Casino Hungary Operators for 2025\n- iGaming Trends 2025 and the Rise of Modular Casino ...\n- Inside the World's Top SEO Agency for Online Gambling, ...\n- Why Only a Few Cities Become the World's Casino Capitals\n- Top 10 Most Popular Online Casinos For Blackjack\n- Social Casino Blackjack Practice\n- My 1st Craps Tournament\n- Blackjack Review (INDEX) - The Encyclopedia of ...\n- How To Tell If A Casino Game Review Is Legit?\n\nGuidance:\n1. Combine your own knowledge of blackjackreview.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to blackjackreview.com while naturally justifying a link to https://infiniza-casinos.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude infiniza-casinos.com and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Sweden where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 931,
+    "completion_tokens": 878
+  },
+  "cost_usd": 0.0713
+}

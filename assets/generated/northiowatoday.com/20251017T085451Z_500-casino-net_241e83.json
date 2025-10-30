@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-17T08:54:51Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "northiowatoday.com",
+    "anchor_keyword": "500-casino.net",
+    "anchor_country": "",
+    "target_url": "https://500-casino.net/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "What Iowa Residents Should Know About Online Casino Laws in 2025",
+      "rationale": "Timely, locally relevant explainer for North Iowa readers; link to 500-casino.net can provide deeper state-by-state context, terminology guides, and responsible play resources."
+    },
+    {
+      "title": "How Random Number Generators Keep Casino Games Fair: a Plain\u2011english Guide for Iowans",
+      "rationale": "Educational piece aligns with northiowatoday.com\u2019s service journalism; 500-casino.net can supply technical explainers and examples that expand on RNG mechanics."
+    },
+    {
+      "title": "Cashless Play and Digital Wallets: the Next Wave in Casino Gaming Reaches the Midwest",
+      "rationale": "Tech-and-policy angle fits regional innovation coverage; 500-casino.net offers comparisons of payment methods and security practices for readers seeking details."
+    },
+    {
+      "title": "Skill vs. Chance: Picking Bankroll\u2011friendly Casino Games for Casual Players",
+      "rationale": "Consumer-helpful guidance without promos or brands; 500-casino.net can host game breakdowns, odds basics, and beginner roadmaps referenced in the article."
+    },
+    {
+      "title": "Community Impact: What a Potential Expansion of Online Casinos Could Mean for North Iowa",
+      "rationale": "Local public-interest framing suited to the site\u2019s audience; 500-casino.net can provide broader market data and responsible gambling links to support the discussion."
+    }
+  ],
+  "titles_context": [
+    "The Best Online Casino Games for Beginners",
+    "Games Available With No Deposit Bonus at Non AAMS ...",
+    "The Importance of Responsible Gambling in Online Casinos",
+    "Comprehensive Review of Pokie Mate Casino Online",
+    "Digital Wallets, Blockchain, and Beyond: The Future of ...",
+    "Dazard Casino Review: A Comprehensive Look at ...",
+    "Global Casino Market Surges to Record Heights as Digital ...",
+    "Aviator vs. Other Casino Games: Why It Stands Out",
+    "Marquette gambling moves on land; regulators fight ...",
+    "Broadway Marquees Set To Protest Times Square Casino Plans",
+    "4 Technological Innovations in Online Casinos",
+    "Ranking the Fastest Paying Online Casinos",
+    "The Evolving Landscape of Iowa Online Gambling Laws",
+    "The Top 5 Popular Table Games: Blackjack, Roulette ...",
+    "Ins and Outs of Online Casino Random Number Generators",
+    "Four Great Casinos to Visit in or Near Northern Iowa",
+    "Top 5 Online Casino Games You Must Play",
+    "Lucky Dreams Casino: A Gem in the Australian Online ...",
+    "The Pokies Casino Review \u2013 Aussie Players' Full Guide",
+    "Iowa's Online Casino Future Uncertain as Key Advocate ...",
+    "Pin Up 360 Casino: How to avoid getting scammed by ...",
+    "The Ultimate Guide to the Most Popular Real Money ...",
+    "Slotozen Casino Australia \u2014 Games, Bonuses & Login Guide",
+    "Sweepstakes casinos with no deposit bonuses in 2024",
+    "Red Stag Casino Review & FAQ for Aussie Players"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://500-casino.net/ that feel at home on northiowatoday.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): 500-casino.net\n\nAnchor operates in: Unspecified\n\nReference titles:\n- The Best Online Casino Games for Beginners\n- Games Available With No Deposit Bonus at Non AAMS ...\n- The Importance of Responsible Gambling in Online Casinos\n- Comprehensive Review of Pokie Mate Casino Online\n- Digital Wallets, Blockchain, and Beyond: The Future of ...\n- Dazard Casino Review: A Comprehensive Look at ...\n- Global Casino Market Surges to Record Heights as Digital ...\n- Aviator vs. Other Casino Games: Why It Stands Out\n- Marquette gambling moves on land; regulators fight ...\n- Broadway Marquees Set To Protest Times Square Casino Plans\n- 4 Technological Innovations in Online Casinos\n- Ranking the Fastest Paying Online Casinos\n- The Evolving Landscape of Iowa Online Gambling Laws\n- The Top 5 Popular Table Games: Blackjack, Roulette ...\n- Ins and Outs of Online Casino Random Number Generators\n- Four Great Casinos to Visit in or Near Northern Iowa\n- Top 5 Online Casino Games You Must Play\n- Lucky Dreams Casino: A Gem in the Australian Online ...\n- The Pokies Casino Review \u2013 Aussie Players' Full Guide\n- Iowa's Online Casino Future Uncertain as Key Advocate ...\n- Pin Up 360 Casino: How to avoid getting scammed by ...\n- The Ultimate Guide to the Most Popular Real Money ...\n- Slotozen Casino Australia \u2014 Games, Bonuses & Login Guide\n- Sweepstakes casinos with no deposit bonuses in 2024\n- Red Stag Casino Review & FAQ for Aussie Players\n\nGuidance:\n1. Combine your own knowledge of northiowatoday.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to northiowatoday.com while naturally justifying a link to https://500-casino.net/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude 500-casino.net and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 997,
+    "completion_tokens": 734
+  },
+  "cost_usd": 0.06398
+}

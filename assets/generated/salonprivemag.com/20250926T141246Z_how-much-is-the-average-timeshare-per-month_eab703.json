@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-26T14:12:46Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "salonprivemag.com",
+    "anchor_keyword": "how much is the average timeshare per month",
+    "anchor_country": "",
+    "target_url": "https://howtocancelmytimeshare.com/how-much-does-a-timeshare-cost-monthly/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "The Real Price of Vacation Ownership: Budgeting for Luxe Getaways All Year",
+      "rationale": "Positions a refined budgeting angle for luxury travelers; naturally supports a link to a breakdown of monthly timeshare costs, fees, and assessments to illustrate ongoing expenses."
+    },
+    {
+      "title": "Timeshare or Private Villa? Choosing the Smarter Path for the Discerning Traveler",
+      "rationale": "Compares ownership and rental models in an upscale tone; the link can provide concrete monthly cost figures to inform the decision-making section."
+    },
+    {
+      "title": "The Hidden Costs of a \u2018Home Away from Home\u2019: Planning Elegant Escapes Without Surprises",
+      "rationale": "Explores ongoing expenses behind property-based vacations; the article on monthly timeshare costs fits as a detailed reference for typical payments and add-on fees."
+    },
+    {
+      "title": "Membership-Style Travel Explained: Points, Shares, and What They Really Cost",
+      "rationale": "Decodes modern subscription and ownership models; linking to monthly timeshare cost data grounds the guide with real-world numbers and averages."
+    },
+    {
+      "title": "Before You Commit: a Jetsetter\u2019s Guide to Ongoing Costs Behind Holiday Property Dreams",
+      "rationale": "Advises readers to evaluate recurring obligations prior to purchasing; the monthly timeshare cost resource serves as authoritative support for fee structures and typical outlays."
+    }
+  ],
+  "titles_context": [
+    "Top Destinations and Activities for Pushing Your Travel ...",
+    "Travel Hacks: Tips and Tricks for Seamless Journeys",
+    "Pigeon Forge Travel Tips First-Time Visitors Should Know",
+    "Chilling in Style: The Luxury Travel Destinations Keeping ...",
+    "7 Emerging Travel Industry Trends To Watch In 2025",
+    "Paris Travel & Lifestyle: Unveiling the Timeless Elegance ...",
+    "The 15 Hottest Travel Trends of 2024",
+    "Travel Essentials for the Discerning Jetsetter",
+    "Revolutionizing Luxury Travel Experiences in the ...",
+    "Five Continents, Five Road Trips; A Voyager's Dream",
+    "7 Popular Travel Destinations for Memorable Enjoyment ...",
+    "Discover Madrid: A Luxury Travel Guide",
+    "Top Summer Travel Deals: Unmissable Getaways for 2024",
+    "Alternative Destinations to Add to Your 2023 Travel List",
+    "Luxury Travel Redefined: Four Seasons Unveils 2026 ...",
+    "Travel Trend: Istria's Allure and Why You Shouldn't Miss It",
+    "Playground Of The Rich & Famous: 20 Places For Luxury ...",
+    "Villa Finder Achieves B Corp Certification: A Milestone in ...",
+    "What Are the Best Accessories for Travel Comfort, from Pillows to ...",
+    "Miami Travel Guide: Discover the Best Summer ...",
+    "What to Know About Using Ride Apps When Traveling",
+    "Luxury Travel Trends Unveiled for 2024",
+    "Survive The Busiest Travel Days with Expert Tips",
+    "Celebrating Sustainable Travel: Leading Eco-Conscious ...",
+    "Welcome To Morzine - Travel Guide"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://howtocancelmytimeshare.com/how-much-does-a-timeshare-cost-monthly/ that feel at home on salonprivemag.com.\n\nReference SERP keyword: travel\nAnchor keyword (use only if natural): how much is the average timeshare per month\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Top Destinations and Activities for Pushing Your Travel ...\n- Travel Hacks: Tips and Tricks for Seamless Journeys\n- Pigeon Forge Travel Tips First-Time Visitors Should Know\n- Chilling in Style: The Luxury Travel Destinations Keeping ...\n- 7 Emerging Travel Industry Trends To Watch In 2025\n- Paris Travel & Lifestyle: Unveiling the Timeless Elegance ...\n- The 15 Hottest Travel Trends of 2024\n- Travel Essentials for the Discerning Jetsetter\n- Revolutionizing Luxury Travel Experiences in the ...\n- Five Continents, Five Road Trips; A Voyager's Dream\n- 7 Popular Travel Destinations for Memorable Enjoyment ...\n- Discover Madrid: A Luxury Travel Guide\n- Top Summer Travel Deals: Unmissable Getaways for 2024\n- Alternative Destinations to Add to Your 2023 Travel List\n- Luxury Travel Redefined: Four Seasons Unveils 2026 ...\n- Travel Trend: Istria's Allure and Why You Shouldn't Miss It\n- Playground Of The Rich & Famous: 20 Places For Luxury ...\n- Villa Finder Achieves B Corp Certification: A Milestone in ...\n- What Are the Best Accessories for Travel Comfort, from Pillows to ...\n- Miami Travel Guide: Discover the Best Summer ...\n- What to Know About Using Ride Apps When Traveling\n- Luxury Travel Trends Unveiled for 2024\n- Survive The Busiest Travel Days with Expert Tips\n- Celebrating Sustainable Travel: Leading Eco-Conscious ...\n- Welcome To Morzine - Travel Guide\n\nGuidance:\n1. Combine your own knowledge of salonprivemag.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to salonprivemag.com while naturally justifying a link to https://howtocancelmytimeshare.com/how-much-does-a-timeshare-cost-monthly/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude how much is the average timeshare per month and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1078,
+    "completion_tokens": 528
+  },
+  "cost_usd": 0.05324
+}

@@ -1,0 +1,56 @@
+{
+  "mode": "live",
+  "task_id": "09221409-4117-0121-0000-921cf54b2afc",
+  "query": "site:au.wowfreebies.com casino crypto",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Reinvention of Casino Payments | WOW Freebies Australia",
+      "url": "https://au.wowfreebies.com/free-bet-promotions/how-casinos-are-reinventing-payments-for-every-type-of-player/",
+      "snippet": "Sep 5, 2025 \u2014 Spent time in a casino lately? Then you've probably noticed the money side moving quickly. Let's explore how payments are being reinvented.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "The Best Aviator Casinos 2025 | WOW Freebies Australia",
+      "url": "https://au.wowfreebies.com/free-bet-promotions/best-aviator-casinos-with-free-spins-and-welcome-bonuses/",
+      "snippet": "Jul 19, 2025 \u2014 1. Mad Casino \u2014 Welcome Bonus up to \u20ac1000 and 100 Free Spins \u00b7 Various payment methods including Bitcoin \u00b7 No fees \u00b7 Excellent customer service\u00a0...",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Aussie Promotions Inspired by 7Bit Casino Mechanics | WOW ...",
+      "url": "https://au.wowfreebies.com/free-bet-promotions/how-gambling-tactics-inspire-aussie-freebies/",
+      "snippet": "The mechanics that make pokies addictive are appearing in other spaces. From loyalty cards to giveaways, the psychology of chance is everywhere.",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Free Offers in Lucky Dreams Casino | WOW Freebies Australia",
+      "url": "https://au.wowfreebies.com/free-spins-and-bonuses-in-lucky-dreams-casino/",
+      "snippet": "Lucky Dreams is known as an international casino site with online slots, poker, blackjack, and quick games for online gamblers.",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "How to Get Free Spins & More | WOW Freebies Australia",
+      "url": "https://au.wowfreebies.com/freebies-for-gamers-how-to-get-free-spins/",
+      "snippet": "Explore gamer freebies and learn how to snag free spins and game credits. Dive into exclusive casino promotions risk-free!",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "The Best Apps for Tracking Finances | WOW Freebies Australia",
+      "url": "https://au.wowfreebies.com/free-tech/the-best-apps-for-tracking-finances/",
+      "snippet": "Sep 6, 2025 \u2014 Zen Money lets you track money flows in multiple currencies, including cryptocurrencies. It is a multi-user app, so all family members can\u00a0...",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    }
+  ]
+}

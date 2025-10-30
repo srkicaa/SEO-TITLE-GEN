@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-22T14:38:10Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "androidguys.com",
+    "anchor_keyword": "500casino.bet",
+    "anchor_country": "",
+    "target_url": "https://500casino.bet",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Pwas vs Native on Android: Which Approach Actually Delivers Smoother Casino Play in 2025",
+      "rationale": "Fits AndroidGuys\u2019 tech-first angle by comparing app architectures. Naturally links to 500casino.bet as a live, web-first destination to illustrate PWA capabilities, with locale Unspecified."
+    },
+    {
+      "title": "Beyond Google Play: Safe, Mobile-Friendly Ways Android Users Access Casino Experiences",
+      "rationale": "Explores distribution and safety for casino experiences outside the store, aligning with AndroidGuys\u2019 guidance content. Linking to 500casino.bet shows a practical, mobile-optimized pathway; locale Unspecified."
+    },
+    {
+      "title": "Android Biometrics and Passkeys: Elevating Account Security for Casino Players",
+      "rationale": "Security-focused title suits AndroidGuys\u2019 coverage of platform features. A link to 500casino.bet can demonstrate biometric/passkey sign-in flows and security documentation; locale Unspecified."
+    },
+    {
+      "title": "Responsible Play by Design on Android: Device Features That Support Healthier Casino Sessions",
+      "rationale": "Highlights digital well-being, notifications, and limit tools\u2014core Android topics. 500casino.bet can serve as an example of implementing session limits and RG resources; locale Unspecified."
+    },
+    {
+      "title": "Seamless Switching from Desktop to Android: How Sync and Wallets Keep Casino Sessions Continuous",
+      "rationale": "Technical look at cross-device continuity resonates with AndroidGuys readers. 500casino.bet can be referenced to show web-to-mobile account syncing and wallet continuity; locale Unspecified."
+    }
+  ],
+  "titles_context": [
+    "Best Online Casinos",
+    "ignition casino slots",
+    "Hybrid Monetization Models: How Android Casino Apps ...",
+    "Is Using An Offshore Casino Site Really Unsafe?",
+    "10 top-rated online gambling sites ranked for games ...",
+    "The Definitive Guide to Google Play's Top Casino Apps 2025",
+    "Casino & Gambling Link Policy",
+    "What Are the Most Underrated Casino Games You Can ...",
+    "How to Maximize Your Mobile Casino Experience on Android",
+    "iPhone vs Android: Which is Best for Online Casino Gaming?",
+    "Top Canadian Online Casinos: Your Guide to Winning Big",
+    "Best Online Casinos in 2023 with Awesome Real Money ...",
+    "Best real money slots app for Android: Top 10 ...",
+    "Online Casinos in the USA: What You Should Know",
+    "image-alt-tag_-slots-empire-casino",
+    "How Android's Biometrics Boost Casino Payment Safety",
+    "The Technology Behind Mobile Casinos: What Makes ...",
+    "$1 Deposit Casinos: Affordable Gaming on Android Devices",
+    "Best mobile casinos and casino apps for Android & iOS",
+    "How Canada's Trusted Casinos Are Leading with Tech",
+    "Best online casinos in Canada & top 17 Canadian ...",
+    "Why Bitcoin Casinos Embrace Outdated Design Trends",
+    "Mega Win Slots Free review",
+    "Best Casino Canada for Real Money with High Payouts",
+    "Finding the right casino app (Promoted)"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://500casino.bet that feel at home on androidguys.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): 500casino.bet\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Best Online Casinos\n- ignition casino slots\n- Hybrid Monetization Models: How Android Casino Apps ...\n- Is Using An Offshore Casino Site Really Unsafe?\n- 10 top-rated online gambling sites ranked for games ...\n- The Definitive Guide to Google Play's Top Casino Apps 2025\n- Casino & Gambling Link Policy\n- What Are the Most Underrated Casino Games You Can ...\n- How to Maximize Your Mobile Casino Experience on Android\n- iPhone vs Android: Which is Best for Online Casino Gaming?\n- Top Canadian Online Casinos: Your Guide to Winning Big\n- Best Online Casinos in 2023 with Awesome Real Money ...\n- Best real money slots app for Android: Top 10 ...\n- Online Casinos in the USA: What You Should Know\n- image-alt-tag_-slots-empire-casino\n- How Android's Biometrics Boost Casino Payment Safety\n- The Technology Behind Mobile Casinos: What Makes ...\n- $1 Deposit Casinos: Affordable Gaming on Android Devices\n- Best mobile casinos and casino apps for Android & iOS\n- How Canada's Trusted Casinos Are Leading with Tech\n- Best online casinos in Canada & top 17 Canadian ...\n- Why Bitcoin Casinos Embrace Outdated Design Trends\n- Mega Win Slots Free review\n- Best Casino Canada for Real Money with High Payouts\n- Finding the right casino app (Promoted)\n\nGuidance:\n1. Combine your own knowledge of androidguys.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to androidguys.com while naturally justifying a link to https://500casino.bet.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude 500casino.bet and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 947,
+    "completion_tokens": 948
+  },
+  "cost_usd": 0.07582
+}

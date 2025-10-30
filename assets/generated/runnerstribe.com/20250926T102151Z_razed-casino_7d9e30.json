@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-26T10:21:51Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "runnerstribe.com",
+    "anchor_keyword": "Razed casino",
+    "anchor_country": "",
+    "target_url": "https://razedcryptocasino.com",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Active Recovery for Runners: Mindful Gaming Habits That Protect Focus and Sleep",
+      "rationale": "Fits Runner\u2019s Tribe\u2019s recovery content by exploring low-arousal off-feet activities. Natural link spot to Razed casino for outlining session timers, spend limits, and responsible play tools without branding the title."
+    },
+    {
+      "title": "Pacing Meets Bankroll: What Runners Can Learn from Casino Risk Management",
+      "rationale": "Connects familiar pacing/fuel budgeting to bankroll discipline and variance. Razed casino can be cited in-body as an example of setting limits and understanding game volatility, aligning with non-promotional education."
+    },
+    {
+      "title": "Travel Days to Race Days: a Runner\u2019s Guide to Staying Within Local Casino Rules (2025)",
+      "rationale": "Pairs international race travel with awareness of gaming regulations. A contextual link to Razed casino can illustrate geo-access, age checks, and responsible play info, keeping tone informational and globally applicable (Anchor unspecified)."
+    },
+    {
+      "title": "Team Nights and Off-Feet Fun: Low-Intensity Games Runners Use to Unwind",
+      "rationale": "Sits naturally among lifestyle/downtime pieces. Razed casino can be referenced as an example source for lighter game formats and session controls, emphasizing moderation and recovery-friendly habits."
+    },
+    {
+      "title": "Understanding Variance: How Casino Odds Mirror Training Load and Race-Day Risk",
+      "rationale": "Maps training stress and peaking to odds, variance, and expected value. Razed casino can serve as an illustrative resource for volatility ranges and bankroll guidelines, supporting an educational, brand-free title."
+    }
+  ],
+  "titles_context": [
+    "Top online casinos with bonuses for athletes and active ...",
+    "Factors behind the rising and falling popularity of various casino ...",
+    "Play Zeus 3 Slot Online Free Spins, Features & Big Wins",
+    "Casino Laws Worldwide: Essential Player Guide for 2025",
+    "Celebrities and Their Legendary Gambling Wins",
+    "Choosing Between Online and Live Blackjack: What Suits ...",
+    "Casino Mate Review: A Premier Online Gaming Destination",
+    "Rest and Recovery: Why Cyclists Spend Their Downtime on ...",
+    "Endurance Building with Marathon Training and RTbet Casino ...",
+    "Joe Fortune Casino Review: A Top-Tier Online Gaming ...",
+    "Bulletin Archives",
+    "Discover the Ultimate Gaming Experience at Stake",
+    "Runnerstribe Admin, Author at Runner's Tribe",
+    "Everything You Need to Know About Poker Run",
+    "Page 7",
+    "Runnerstribe Admin, Author at Runner's Tribe - Page 2 of 618",
+    "Steigen Tribe 12_003",
+    "Page 11",
+    "Three US Cities That Are Hidden Gems for Runners",
+    "Celebrating 70 Years of Milestone Achievement",
+    "Outstanding Achievements Illuminate Millrose Games ...",
+    "Page 552",
+    "A Column By Len Johnson Archives - Page 22 of 56",
+    "TABLE OF CONTENTS",
+    "Inside Running Podcast Episode 394: Great Ocean Road ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://razedcryptocasino.com that feel at home on runnerstribe.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Razed casino\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Top online casinos with bonuses for athletes and active ...\n- Factors behind the rising and falling popularity of various casino ...\n- Play Zeus 3 Slot Online Free Spins, Features & Big Wins\n- Casino Laws Worldwide: Essential Player Guide for 2025\n- Celebrities and Their Legendary Gambling Wins\n- Choosing Between Online and Live Blackjack: What Suits ...\n- Casino Mate Review: A Premier Online Gaming Destination\n- Rest and Recovery: Why Cyclists Spend Their Downtime on ...\n- Endurance Building with Marathon Training and RTbet Casino ...\n- Joe Fortune Casino Review: A Top-Tier Online Gaming ...\n- Bulletin Archives\n- Discover the Ultimate Gaming Experience at Stake\n- Runnerstribe Admin, Author at Runner's Tribe\n- Everything You Need to Know About Poker Run\n- Page 7\n- Runnerstribe Admin, Author at Runner's Tribe - Page 2 of 618\n- Steigen Tribe 12_003\n- Page 11\n- Three US Cities That Are Hidden Gems for Runners\n- Celebrating 70 Years of Milestone Achievement\n- Outstanding Achievements Illuminate Millrose Games ...\n- Page 552\n- A Column By Len Johnson Archives - Page 22 of 56\n- TABLE OF CONTENTS\n- Inside Running Podcast Episode 394: Great Ocean Road ...\n\nGuidance:\n1. Combine your own knowledge of runnerstribe.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to runnerstribe.com while naturally justifying a link to https://razedcryptocasino.com.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Razed casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 929,
+    "completion_tokens": 960
+  },
+  "cost_usd": 0.07618
+}

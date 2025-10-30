@@ -1,0 +1,80 @@
+{
+  "mode": "live",
+  "task_id": "09231350-4117-0121-0000-de43ecf5d63b",
+  "query": "site:uutisettimes.com kasinot",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Suomen lisenssin kasinot \u2013 uhka vai mahdollisuus?",
+      "url": "https://uutisettimes.com/suomen-lisenssin-kasinot-uhka-vai-mahdollisuus/",
+      "snippet": "Jul 19, 2025 \u2014 Suomi siirtyy kasinolisenssij\u00e4rjestelm\u00e4\u00e4n 2026. Lue, mit\u00e4 t\u00e4m\u00e4 tarkoittaa pelaajille, bonuksille, pelivalikoimalle ja verotukselle.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Uusimmat pelipaikat netiss\u00e4",
+      "url": "https://uutisettimes.com/uusimmat-pelipaikat-netissa/",
+      "snippet": "Jun 24, 2025 \u2014 Tutustu uusimpiin pelipaikkoihin netiss\u00e4 ja l\u00f6yd\u00e4 parhaat bonukset, pelit ja nopeat kotiutukset suomalaisille pelaajille.",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Milloin Suomen rahapeliuudistus tapahtuu?",
+      "url": "https://uutisettimes.com/milloin-suomen-rahapeliuudistus-tapahtuu/",
+      "snippet": "Jun 17, 2025 \u2014 Suomi siirtyy rahapelien lisenssimalliin vuonna 2026. Uusi j\u00e4rjestelm\u00e4 tuo lis\u00e4\u00e4 valinnanvaraa ja vastuullisuutta pelaamiseen.",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Luokittelematon",
+      "url": "https://uutisettimes.com/category/luokittelematon/",
+      "snippet": "Livekasinot yhdist\u00e4v\u00e4t viihteen ja jakajat ... Livekasinopelit tarjoavat ainutlaatuisen tavan kokea kasinon j\u00e4nnitys mukavasti kotisohvalta k\u00e4sin. Aidot jakajat\u2026",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Viihdytt\u00e4v\u00e4 peli-ilottelu ja vastuullinen pelaaminen rullien ...",
+      "url": "https://uutisettimes.com/vastuullinen-pelaaminen-viihdetta-harkiten/",
+      "snippet": "Jul 12, 2025 \u2014 Monet kasinot tarjoavat ty\u00f6kaluja, joiden avulla voit tarkkailla pelaamistasi, kuten peliaikaa ja k\u00e4ytetty\u00e4 rahaa. N\u00e4iden ty\u00f6kalujen\u00a0...",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "4",
+      "url": "https://uutisettimes.com/page/4/?page_id=749",
+      "snippet": "Suomen lisenssin kasinot \u2013 uhka vai mahdollisuus ? Rahapelaaminen on Suomessa suuren muutoksen edess\u00e4, kun l\u00e4hivuosina siirryt\u00e4\u00e4n monopolimallista\u00a0...",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "Miss\u00e4 maissa pelataan eniten ja miksi?",
+      "url": "https://uutisettimes.com/missa-maissa-pelataan-eniten-ja-miksi/",
+      "snippet": "May 28, 2025 \u2014 Miss\u00e4 maissa pelataan eniten rahapelej\u00e4? Tutustu Australiaan, Suomeen, Ruotsiin ja Yhdysvaltoihin ja ymm\u00e4rr\u00e4 ilmi\u00f6n syyt.",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Blog",
+      "url": "https://uutisettimes.com/?page_id=749",
+      "snippet": "Uudet MGA-Kasinot 2025 : Lisenssien Hy\u00f6dyt Suomalaispelaajille ja Verovapaus Voitoissa. Vuonna 2025 suomalaispelaajilla on syyt\u00e4 iloita, kun markkinoille\u00a0...",
+      "rank_absolute": 8,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "Miten teko\u00e4ly muuttaa ty\u00f6paikkoja Suomessa",
+      "url": "https://uutisettimes.com/miten-tekoaly-muuttaa-tyopaikkoja-suomessa/",
+      "snippet": "Jun 21, 2025 \u2014 My\u00f6s nettikasinot hy\u00f6dynt\u00e4v\u00e4t teko\u00e4ly\u00e4 monipuolisesti. Teko\u00e4ly analysoi pelaajien k\u00e4ytt\u00e4ytymist\u00e4, auttaa pelisuositusten antamisessa ja tukee\u00a0...",
+      "rank_absolute": 9,
+      "rank_group": 9,
+      "result_type": "items"
+    }
+  ]
+}

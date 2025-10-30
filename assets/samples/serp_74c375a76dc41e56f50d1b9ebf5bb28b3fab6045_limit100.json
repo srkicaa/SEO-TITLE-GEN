@@ -1,0 +1,80 @@
+{
+  "mode": "live",
+  "task_id": "10131324-4117-0121-0000-e6d080ca698a",
+  "query": "site:eldiariodearteixo.com casino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Best Casino Games Online in Australia",
+      "url": "https://www.eldiariodearteixo.com/estaticas/online-casino-games.html",
+      "snippet": "The most best casino online games sites will include hundreds of fantastic pokies gambling games for Australians, whether it's the most recent progressive\u00a0...",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Best Live Dealer Casino in Canada",
+      "url": "https://www.eldiariodearteixo.com/estaticas/live-casino-games.html",
+      "snippet": "Live casinos are a relatively new type of internet gaming that simulates the action found in physical casinos. Live casinos may provide players with a higher\u00a0...",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Presentaci\u00f3n del libro \"Atlas sensorial dunha Costa da ...",
+      "url": "https://www.eldiariodearteixo.com/articulo/galicia/presentacion-libro-atlas-sensorial-costa-da-morte/20240814123709012844.html",
+      "snippet": "Aug 14, 2024 \u2014 La presentaci\u00f3n del libro se realizar\u00e1 en el Parador Costa da Morte y en el Casino de Carballo. \u00b7 Cuenta atr\u00e1s para ver a Quevedo en A Coru\u00f1a.",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Nace a Escola de Regueifa de Carballo",
+      "url": "https://www.eldiariodearteixo.com/articulo/portal-infancia/escola-regueifa-carballo/20230327203850010826.html",
+      "snippet": "Mar 27, 2023 \u2014 A partir de agora, a regueifa soar\u00e1 durante todo o ano no concello de Carballo, porque nace a Escola de Regueifa de Carballo.",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Poes\u00eda y teatro, vida y palabras",
+      "url": "https://www.eldiariodearteixo.com/articulo/noticias-de-arteixo/poesia-y-teatro-vida-y-palabras-2/20140702112320007502.html",
+      "snippet": "Lucia Vilches, autora ya de tres libros, presentaba el pasado 25 de junio en el Sporting Club Casino de A Coru\u00f1a su nueva creaci\u00f3n, \u201cEl teatro de la vida\u201d.",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "\"Juguetes que unen\"",
+      "url": "https://www.eldiariodearteixo.com/articulo/rincon-silencio/juguetes-que-unen/20241218114213013240.html",
+      "snippet": "Dec 18, 2024 \u2014 Los juguetes recolectados a trav\u00e9s de esta campa\u00f1a ser\u00e1n entregados al Ateneo de Paiporta (Casino), donde se est\u00e1 desarrollando un proyecto\u00a0...",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "Desbloquear el Bono de Bienvenida 1Win: Gu\u00eda sencilla ...",
+      "url": "https://www.eldiariodearteixo.com/articulo/comunicados/desbloquear-bono-bienvenida-1win-guia-sencilla-principiantes/20250213151224013420.html",
+      "snippet": "Feb 13, 2025 \u2014 El bono de bienvenida de la plataforma 1Win es una gran oportunidad para que los nuevos usuarios de Colombia mejoren su experiencia de apuestas.",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "BOE: medidas hacia la fase 3",
+      "url": "https://www.eldiariodearteixo.com/articulo/salud-medicina-hoy/boe-publica-medidas-para-la-fase-3/20200530175742005863.html",
+      "snippet": "May 30, 2020 \u2014 Entre otras cuestiones recoge que podr\u00e1n abrirse los establecimientos y locales comerciales minoristas y de actividades de servicios\u00a0...",
+      "rank_absolute": 9,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "One, two, three\u2026 Action !!, un nuevo espacio l\u00fadico para ...",
+      "url": "https://www.eldiariodearteixo.com/articulo/entrevistas/one-two-three-action/20230516114750007157.html",
+      "snippet": "May 16, 2023 \u2014 La academia de ingl\u00e9s One, two, three\u2026 Action !! est\u00e1 en Avenida Fisterra 229 bajo izquierda, Arteixo y propone aprender el idioma a trav\u00e9s\u00a0...",
+      "rank_absolute": 10,
+      "rank_group": 9,
+      "result_type": "items"
+    }
+  ]
+}

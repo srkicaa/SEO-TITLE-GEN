@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-15T07:32:31Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "dagensinfrastruktur.se",
+    "anchor_keyword": "S\u00e4kra casinon utan svensk licens",
+    "anchor_country": "Sweden",
+    "target_url": "https://www.umamicart.com/sv/casino/utan-bankid/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Bankid Eller Inte? Identitetsinfrastrukturens Roll I Svensk Igaming",
+      "rationale": "Passar sajtens fokus p\u00e5 digital infrastruktur och regelverk. L\u00e4nken kan ge bakgrund om hur plattformar fungerar n\u00e4r spel sker utan BankID och vad det betyder f\u00f6r verifiering och spels\u00e4kerhet."
+    },
+    {
+      "title": "N\u00e4tcasinon Utan Svensk Licens: S\u00e5 P\u00e5verkas Betalningar, KYC Och Datafl\u00f6den",
+      "rationale": "Knyter an till betal- och datainfrastruktur. Den l\u00e4nkade resursen kan f\u00f6rklara hur kombinationen av alternativa verifieringsmetoder och licensregimer p\u00e5verkar transaktioner och datalagring."
+    },
+    {
+      "title": "Datacenter, Latency Och Live-Spel: Infrastrukturkrav N\u00e4r Marknaden Blir Gr\u00e4ns\u00f6verskridande",
+      "rationale": "Temat speglar sajtens intresse f\u00f6r serverparker och n\u00e4tprestanda. L\u00e4nken kan erbjuda kontext kring plattformar som verkar utanf\u00f6r svensk licens och deras tekniska behov."
+    },
+    {
+      "title": "N\u00e4r Bankid Saknas: Teknik, Konsumentskydd Och Efterlevnad I Den Digitala Spelmilj\u00f6n",
+      "rationale": "Fokuserar p\u00e5 s\u00e4kerhet och compliance, centralt f\u00f6r Dagens Infrastruktur. L\u00e4nken kan ge l\u00e4saren en introduktion till hur spel sker utan BankID och vilka skyddsmekanismer som anv\u00e4nds."
+    },
+    {
+      "title": "Molnstrategier Och Regler 2025: S\u00e5 M\u00f6ts Igaming, Eid Och Europeisk Lagstiftning",
+      "rationale": "Fram\u00e5tblickande vinkel om policy och molninfrastruktur. L\u00e4nken kan f\u00f6rdjupa f\u00f6rst\u00e5elsen f\u00f6r skillnader mellan svensk licens och alternativ verifikation samt deras praktiska implikationer."
+    }
+  ],
+  "titles_context": [
+    "S\u00e5 vinner du p\u00e5 ett nytt online casino \u2013 B\u00e4sta strategierna ...",
+    "casino-8809690_1280 - dagensinfrastruktur",
+    "Vad skiljer ett bra fr\u00e5n ett d\u00e5ligt online casino?",
+    "Stockholms enda casino: I skuggan av internationell ...",
+    "Hur h\u00e5llbara online casino f\u00f6r\u00e4ndrar industrin",
+    "Live Casino eller standardspel: S\u00e5 v\u00e4ljer du r\u00e4tt som ...",
+    "nytt online casino Archives",
+    "Casinobranschens p\u00e5verkan p\u00e5 svensk tech",
+    "Casinointeri\u00f6rdesign: Vad \u00e4r viktigast att t\u00e4nka p\u00e5?",
+    "live casino Archives - dagensinfrastruktur",
+    "Kan online casinon konkurrera ut fysiska casinon?",
+    "skattefria casinon Archives - dagensinfrastruktur",
+    "Casino utan licens: allt du beh\u00f6ver veta",
+    "Online casinon utan svensk licens och dess p\u00e5verkan p\u00e5 ...",
+    "S\u00e5 har vadslagning p\u00e5 n\u00e4tet utvecklats",
+    "V\u00e4rldens 5 m\u00e4ktigaste casinobyggnader",
+    "betinia casino Archives",
+    "Strategier i framkant: Fr\u00e5n online casinon till elbilars ...",
+    "Innovationer inom molninfrastruktur f\u00f6r n\u00e4tcasinon",
+    "Hur spelautomater \u00e4r placerade i fysiska casinon",
+    "AI och blockchain f\u00f6r\u00e4ndrar casinon som Betinia Casino i ...",
+    "Datainfrastruktur p\u00e5 svenska casinon",
+    "S\u00e5 mycket bidrar spelande till Sveriges ekonomi",
+    "Sveriges serverparker: d\u00e4r iGaming och gr\u00f6n energi m\u00f6ts",
+    "svenska casino Archives"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.umamicart.com/sv/casino/utan-bankid/ that feel at home on dagensinfrastruktur.se.\n\nReference SERP keyword: casinon\nAnchor keyword (use only if natural): S\u00e4kra casinon utan svensk licens\n\nAnchor operates in: Sweden\n\nReference titles:\n- S\u00e5 vinner du p\u00e5 ett nytt online casino \u2013 B\u00e4sta strategierna ...\n- casino-8809690_1280 - dagensinfrastruktur\n- Vad skiljer ett bra fr\u00e5n ett d\u00e5ligt online casino?\n- Stockholms enda casino: I skuggan av internationell ...\n- Hur h\u00e5llbara online casino f\u00f6r\u00e4ndrar industrin\n- Live Casino eller standardspel: S\u00e5 v\u00e4ljer du r\u00e4tt som ...\n- nytt online casino Archives\n- Casinobranschens p\u00e5verkan p\u00e5 svensk tech\n- Casinointeri\u00f6rdesign: Vad \u00e4r viktigast att t\u00e4nka p\u00e5?\n- live casino Archives - dagensinfrastruktur\n- Kan online casinon konkurrera ut fysiska casinon?\n- skattefria casinon Archives - dagensinfrastruktur\n- Casino utan licens: allt du beh\u00f6ver veta\n- Online casinon utan svensk licens och dess p\u00e5verkan p\u00e5 ...\n- S\u00e5 har vadslagning p\u00e5 n\u00e4tet utvecklats\n- V\u00e4rldens 5 m\u00e4ktigaste casinobyggnader\n- betinia casino Archives\n- Strategier i framkant: Fr\u00e5n online casinon till elbilars ...\n- Innovationer inom molninfrastruktur f\u00f6r n\u00e4tcasinon\n- Hur spelautomater \u00e4r placerade i fysiska casinon\n- AI och blockchain f\u00f6r\u00e4ndrar casinon som Betinia Casino i ...\n- Datainfrastruktur p\u00e5 svenska casinon\n- S\u00e5 mycket bidrar spelande till Sveriges ekonomi\n- Sveriges serverparker: d\u00e4r iGaming och gr\u00f6n energi m\u00f6ts\n- svenska casino Archives\n\nGuidance:\n1. Combine your own knowledge of dagensinfrastruktur.se's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to dagensinfrastruktur.se while naturally justifying a link to https://www.umamicart.com/sv/casino/utan-bankid/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude S\u00e4kra casinon utan svensk licens and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Sweden where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1047,
+    "completion_tokens": 1160
+  },
+  "cost_usd": 0.09054
+}

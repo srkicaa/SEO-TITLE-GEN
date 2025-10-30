@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:48:07Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "thegww.com",
+    "anchor_keyword": "NFL starting lineup",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How RNG, Volatility, and House Edge Really Work: a Gamer\u2019s Guide to Casino Math",
+      "rationale": "Fits TheGWW\u2019s tech-savvy audience by demystifying game systems. A link to Lineups can support the math with probability tools, odds converters, and matchup data; supporting copy can naturally reference its NFL starting lineup resources as an example of depth, while keeping the locale Unspecified."
+    },
+    {
+      "title": "From Esports to Casino Tables: Tilt Control and Strategy Habits That Transfer",
+      "rationale": "Bridges gaming culture and responsible wagering, a common TheGWW crossover. Lineups provides data-driven frameworks (bankroll calculators, odds education, matchup insights) that reinforce skill transfer concepts; mention of its NFL starting lineup pages can appear in-body, not in the title, and content remains globally applicable (Unspecified)."
+    },
+    {
+      "title": "Mobile-First Casinos and the UX Gamers Expect: Speed, Wallets, and Verification",
+      "rationale": "Tech-and-UX focus aligns with TheGWW coverage. Linking to Lineups adds practical context via odds tracking and responsible play tools that readers can use alongside UX considerations; copy may reference its NFL starting lineup sections as an example of fast, reliable data. Locale: Unspecified."
+    },
+    {
+      "title": "When Comics Meet Chance: Why Superhero-Themed Casino Games Keep Winning Fans",
+      "rationale": "A pop-culture angle native to TheGWW\u2019s comics readership. Lineups can anchor the piece with objective betting education (implied probability, bankroll tools) without brand mentions; supporting text can cite its NFL starting lineup data to illustrate how fandom and stats intersect. Locale: Unspecified."
+    },
+    {
+      "title": "AI, 5G, and on-Chain Proofs: the Tech Trends Reshaping Online Casino Play in 2025",
+      "rationale": "Tech-forward lens suits TheGWW\u2019s audience. Lineups contributes credible, data-centric references (odds resources, calculators, market movement tracking) to ground the discussion; body copy can naturally nod to its NFL starting lineup coverage as a benchmark for real-time data depth. Locale: Unspecified."
+    }
+  ],
+  "titles_context": [
+    "Online Casino Strategies: Tips for Success and Big Wins",
+    "A Beginner's Guide to Navigating Online Casino Promo ...",
+    "Best Online Casino Review Experts: Which Reviews to Trust",
+    "Key Features That Define The Best Online Casino ...",
+    "Sweepstakes Casino Games: Best Titles to Try in 2025",
+    "Gaming Options at Today's Online Casinos",
+    "The Gamer's Guide to Fast, Secure Casino Payouts",
+    "The Features That Make or Break an Online Casino ...",
+    "Innovation Meets Gaming: A Deep Dive into Spree Casino's User ...",
+    "How Video Gamers Can Transition to Online Gambling",
+    "Top 10 Paysafecard Casinos for Safe and Easy Deposits in ...",
+    "Tips for Choosing the Best Online Casino for Slots",
+    "How SlotsUp Builds Trust Through Transparent Ratings",
+    "The Evolution of Casino Game Genres: From Classic to Modern",
+    "Loyalty Programs Explained: How to Get the Most from Casino ...",
+    "When Comics Meet Casinos: How Superheroes Took Over ...",
+    "How AI Is Shaping the Online Casino Industry in 2024",
+    "Is Apple Pay the Fastest Way to Start Playing at Online ...",
+    "5G Changes Online Gambling Completely | Trusted Online Casino ...",
+    "Gaming Meets Crypto: Are NFT Casinos the Next Evolution?",
+    "Hungary's Hidden Online Casino Gems - TheGWW.com",
+    "The Best PC Games With Casino Elements - TheGWW.com",
+    "Slots continued to dominate Canada's iGaming market with ...",
+    "Yay Casino Has Just Opened - Is It Worth a Visit?",
+    "Innovate Change: The 5 Best Online Casinos for Real Money ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/ that feel at home on thegww.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): NFL starting lineup\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Online Casino Strategies: Tips for Success and Big Wins\n- A Beginner's Guide to Navigating Online Casino Promo ...\n- Best Online Casino Review Experts: Which Reviews to Trust\n- Key Features That Define The Best Online Casino ...\n- Sweepstakes Casino Games: Best Titles to Try in 2025\n- Gaming Options at Today's Online Casinos\n- The Gamer's Guide to Fast, Secure Casino Payouts\n- The Features That Make or Break an Online Casino ...\n- Innovation Meets Gaming: A Deep Dive into Spree Casino's User ...\n- How Video Gamers Can Transition to Online Gambling\n- Top 10 Paysafecard Casinos for Safe and Easy Deposits in ...\n- Tips for Choosing the Best Online Casino for Slots\n- How SlotsUp Builds Trust Through Transparent Ratings\n- The Evolution of Casino Game Genres: From Classic to Modern\n- Loyalty Programs Explained: How to Get the Most from Casino ...\n- When Comics Meet Casinos: How Superheroes Took Over ...\n- How AI Is Shaping the Online Casino Industry in 2024\n- Is Apple Pay the Fastest Way to Start Playing at Online ...\n- 5G Changes Online Gambling Completely | Trusted Online Casino ...\n- Gaming Meets Crypto: Are NFT Casinos the Next Evolution?\n- Hungary's Hidden Online Casino Gems - TheGWW.com\n- The Best PC Games With Casino Elements - TheGWW.com\n- Slots continued to dominate Canada's iGaming market with ...\n- Yay Casino Has Just Opened - Is It Worth a Visit?\n- Innovate Change: The 5 Best Online Casinos for Real Money ...\n\nGuidance:\n1. Combine your own knowledge of thegww.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to thegww.com while naturally justifying a link to https://www.lineups.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude NFL starting lineup and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1024,
+    "completion_tokens": 1068
+  },
+  "cost_usd": 0.08456
+}

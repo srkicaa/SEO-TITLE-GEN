@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:47:31Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "bestofarkansassports.com",
+    "anchor_keyword": "Lineup experts",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Arkansas Casino Chatter Is Loud, but the Smarter Play Is Tracking How Hogs Lines Move",
+      "rationale": "Invites a link to Lineups.com\u2019s odds screen and line-movement tools to show historical shifts on Arkansas games without naming operators."
+    },
+    {
+      "title": "Online Sports Betting in Arkansas: the Fine Print Fans Forget on Game Day",
+      "rationale": "Naturally points to Lineups.com\u2019s state-by-state betting guides and responsible wagering resources to clarify rules affecting Arkansas users."
+    },
+    {
+      "title": "Prop Bets vs. Reality: Grading the Weekly Arkansas Buzz",
+      "rationale": "Uses Lineups.com\u2019s player projections, injury reports, and prop comparisons to evaluate whether popular Arkansas props have value."
+    },
+    {
+      "title": "Driving to a Casino or Tapping Your Phone? How Arkansans Really Place Bets\u2014and What That Means for Prices",
+      "rationale": "Justifies linking to Lineups.com\u2019s live odds and market comparisons to illustrate price differences across retail and online markets, brand-free."
+    },
+    {
+      "title": "Heavy Hitters Leaning on Arkansas This Week? Reading the Market Before Kickoff",
+      "rationale": "Leverages Lineups.com\u2019s consensus odds, public betting splits, and line histories to interpret sharp vs. public movement on Arkansas matchups."
+    }
+  ],
+  "titles_context": [
+    "Arkansas Sports Casino Tries to Whistleblow on UA ...",
+    "Online Sports Betting Laws In Arkansas",
+    "Ruthlessly Examining Arkansas Prop Bets Touted on ...",
+    "While Driving to Downstream Casino, Barry Switzer Talks ...",
+    "Land-Based and Online Gambling in Finland, Brief Home ...",
+    "Hogs' Rivals Looking to Poach New Tech That Makes NIL ...",
+    "Vols Caving, Pittman Thanking Oaklawn Portend Weird ...",
+    "Arkansas Sports Betting Poised To Be Among Worst In U.S.",
+    "Vegas Puts More Faith in Arkansas Getting James Franklin ...",
+    "Calipari Hire Broke Glass Ceiling to Set Stage for Saracen vs ...",
+    "Razorback Star Recalls Mid-Season Tampering by \u201cMoney ...",
+    "Everything You Need to Know about Darts (with Arkansas)",
+    "Jimmy Johnson Bailing on Class to Hustle Fellow Razorbacks ...",
+    "Arkansas Needs to Delete More Than That Harebrained ...",
+    "ESPN Casts Hogs into A Group of Five with Suspect Reasoning",
+    "Belichick Didn't Let a Class Schedule Hinder What He Had to ...",
+    "New Episode Uncovers Mystery Behind Davis' Injury, Izzo ...",
+    "Matt Jones' NIL Solution is Simple: Recruit Arkansas More",
+    "Razorback All-American Says He Was Out the Door to Ole ...",
+    "Heavy Hitters Favor Arkansas vs Georgia Despite Calipari's ...",
+    "Agent of Malzahn, Pittman Apparently Meddled with UA Lot ...",
+    "Swagger Returning to Arkansas Football Doesn't Mean It's ...",
+    "Dick Vitale's Good-Natured Back Stabbing of Calipari, Hogs ...",
+    "\u201cA Lot of It Was Us\u201d: Purdue Basketball Player Grudging When ...",
+    "Johnell Davis Bidding War Shows Large Onus Is On Cal to ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/ that feel at home on bestofarkansassports.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Lineup experts\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Arkansas Sports Casino Tries to Whistleblow on UA ...\n- Online Sports Betting Laws In Arkansas\n- Ruthlessly Examining Arkansas Prop Bets Touted on ...\n- While Driving to Downstream Casino, Barry Switzer Talks ...\n- Land-Based and Online Gambling in Finland, Brief Home ...\n- Hogs' Rivals Looking to Poach New Tech That Makes NIL ...\n- Vols Caving, Pittman Thanking Oaklawn Portend Weird ...\n- Arkansas Sports Betting Poised To Be Among Worst In U.S.\n- Vegas Puts More Faith in Arkansas Getting James Franklin ...\n- Calipari Hire Broke Glass Ceiling to Set Stage for Saracen vs ...\n- Razorback Star Recalls Mid-Season Tampering by \u201cMoney ...\n- Everything You Need to Know about Darts (with Arkansas)\n- Jimmy Johnson Bailing on Class to Hustle Fellow Razorbacks ...\n- Arkansas Needs to Delete More Than That Harebrained ...\n- ESPN Casts Hogs into A Group of Five with Suspect Reasoning\n- Belichick Didn't Let a Class Schedule Hinder What He Had to ...\n- New Episode Uncovers Mystery Behind Davis' Injury, Izzo ...\n- Matt Jones' NIL Solution is Simple: Recruit Arkansas More\n- Razorback All-American Says He Was Out the Door to Ole ...\n- Heavy Hitters Favor Arkansas vs Georgia Despite Calipari's ...\n- Agent of Malzahn, Pittman Apparently Meddled with UA Lot ...\n- Swagger Returning to Arkansas Football Doesn't Mean It's ...\n- Dick Vitale's Good-Natured Back Stabbing of Calipari, Hogs ...\n- \u201cA Lot of It Was Us\u201d: Purdue Basketball Player Grudging When ...\n- Johnell Davis Bidding War Shows Large Onus Is On Cal to ...\n\nGuidance:\n1. Combine your own knowledge of bestofarkansassports.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to bestofarkansassports.com while naturally justifying a link to https://www.lineups.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Lineup experts and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1119,
+    "completion_tokens": 896
+  },
+  "cost_usd": 0.07614
+}

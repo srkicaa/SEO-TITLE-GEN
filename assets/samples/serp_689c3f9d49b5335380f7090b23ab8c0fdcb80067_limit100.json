@@ -1,0 +1,808 @@
+{
+  "mode": "live",
+  "task_id": "10211310-4117-0121-0000-ef7a546dd4ad",
+  "query": "site:bigfightweekend.com casino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "How Boxers Look to Increase Legacies Through Online ...",
+      "url": "https://bigfightweekend.com/featured/boxers-online-casinos-increasing-legacy/",
+      "snippet": "Nov 19, 2024 \u2014 Discover how boxers enhance their legacies through online casinos, integrating themselves into the online casino world.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "How Combat Sports Fans Are Finding New Ways To ...",
+      "url": "https://bigfightweekend.com/news/combat-sports-fans-engage-through-stake/",
+      "snippet": "Apr 9, 2025 \u2014 Sites like Stake Casino have been changing the way combat sports fans have been betting on their favorite fighters and fights for years and continue to do so.",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Oscar Collazo vs Jayson Vayson: stream, odds, fight card ...",
+      "url": "https://bigfightweekend.com/previews/oscar-collazo-vs-jayson-vayson-stream/",
+      "snippet": "Sep 15, 2025 \u2014 The fight is set to be held at Fantasy Springs Casino, Indio. What Channel/Stream? The whole card is set to be shown live on DAZN in over 200\u00a0...",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Caleb Plant vs. Armando Res\u00e9ndiz: Quotes and ...",
+      "url": "https://bigfightweekend.com/previews/caleb-plant-armando-resendiz/",
+      "snippet": "May 30, 2025 \u2014 Their bout headlines a Premier Boxing Champions card at the Michelob ULTRA Arena at Mandalay Bay Resort and Casino in Las Vegas, NV. Fight\u00a0...",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Las Vegas Boxing: Revisting Iconic Fights",
+      "url": "https://bigfightweekend.com/history/iconic-las-vegas-boxing-matches/",
+      "snippet": "Aug 27, 2025 \u2014 Las Vegas is a spectacle in many ways \u2013 an iconic landmark in the middle of the desert, made of neon signs and dreams. More than just lavish and\u00a0...",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "Richard Torrez Jr. vs. Guido Vianello",
+      "url": "https://bigfightweekend.com/previews/richard-torrez-jr-guido-vianello/",
+      "snippet": "Apr 4, 2025 \u2014 Their bout headlines a Top Rank card at the Palms Casino Resort in Las Vegas, NV. Boxing fans in the United States can catch the action live\u00a0...",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "Cache Creek Casino Hosts Another ShoBox Card on April 7",
+      "url": "https://bigfightweekend.com/news/cache-creek-casino-hosts-another-shobox-card-on-april-7/",
+      "snippet": "Mar 31, 2023 \u2014 On April 7, Sampson Boxing and Paco Presents Boxing are bringing ShoBox: the Next Generation boxing back to Northern California.",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Five Boxers Who Love to Gamble",
+      "url": "https://bigfightweekend.com/betting/five-boxers-love-gambling/",
+      "snippet": "Oct 12, 2024 \u2014 Discover five boxers who have a love for gambling and betting. Explore their stories and how each fighter has dealt with their passion.",
+      "rank_absolute": 8,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "How Streaming Platforms Are Changing Boxing",
+      "url": "https://bigfightweekend.com/featured/streaming-changing-future-boxing-promotions/",
+      "snippet": "Nov 8, 2024 \u2014 Discover how streaming giants are changing boxing promotions and the choices fans have when consuming content.",
+      "rank_absolute": 9,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "Vergil Ortiz Jr. vs. Serhii Bohachuk: How to Stream, Betting ...",
+      "url": "https://bigfightweekend.com/previews/how-to-stream-vergil-ortiz-serhii-bohachuk/",
+      "snippet": "Aug 6, 2024 \u2014 Where is Ortiz Jr. vs. Bohachuk? The fight will take place at Michelob Ultra Arena at Mandalay Bay Resort and Casino in Las Vegas.",
+      "rank_absolute": 10,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "Vergil Ortiz Jr. vs. Serhii Bohachuk - Big Fight Weekend",
+      "url": "https://bigfightweekend.com/previews/how-to-stream-vergil-ortiz-serhii-bohachuk/",
+      "snippet": "Aug 6, 2024 \u2014 ... Resort and Casino in Las Vegas for Bohachuk's interim WBC super welterweight title. The entire card will be shown live on DAZN in over 200\u00a0...",
+      "rank_absolute": 11,
+      "rank_group": 11,
+      "result_type": "items"
+    },
+    {
+      "title": "Oscar Collazo vs. Jayson Vayson quotes and fight prediction ...",
+      "url": "https://bigfightweekend.com/previews/oscar-collazo-jayson-vayson-quotes/",
+      "snippet": "Sep 19, 2025 \u2014 Their bout is being promoted by Golden Boy Promotions \u2013 in association with Miguel Cotto Promotions \u2013 at the Fantasy Springs Resort Casino in\u00a0...",
+      "rank_absolute": 12,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "Richard Torrez Jr. vs. Guido Vianello: How to Stream, Betting ...",
+      "url": "https://bigfightweekend.com/previews/richard-torrez-jr-vs-guido-vianello/",
+      "snippet": "Mar 31, 2025 \u2014 Discover how to stream Richard Torrez Jr vs Guido Vianello, explore the latest betting odds, and view the full fight card for the April 5\u00a0...",
+      "rank_absolute": 13,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "Boxing Betting: Prop Bets for Benavidez vs. Morrell on Feb. 1",
+      "url": "https://bigfightweekend.com/betting/boxing-betting-benavidez-morrell/",
+      "snippet": "Jan 13, 2025 \u2014 Explore the best boxing betting prop bets for David Benavidez vs. David Morrell on Feb 1. Boost your fight night experience with the best\u00a0...",
+      "rank_absolute": 14,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "Roy Jones Jr Teases Shock Return Naming Opponent",
+      "url": "https://bigfightweekend.com/news/roy-jones-jr-teases-tommy-fury-fight/",
+      "snippet": "Jun 29, 2025 \u2014 When speaking to Casino Slots, Jones reflected on Tommy Fury calling out Mike Tyson, and revealed he would be more than willing to face Fury: \u201c\u00a0...",
+      "rank_absolute": 15,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "Boxing Sponsorships and Endorsements - Big Fight Weekend",
+      "url": "https://bigfightweekend.com/fan-culture/boxing-sponsorships-and-endorsements/",
+      "snippet": "Jul 8, 2025 \u2014 ... casino. Considering the relationship, it isn't hard to see why a casino might want to sponsor a fighter. You might be surprised to learn\u00a0...",
+      "rank_absolute": 16,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "Carl Froch Questions Deontay Wilder June 27 Return",
+      "url": "https://bigfightweekend.com/previews/carl-froch-talks-deontay-wilder/",
+      "snippet": "Apr 5, 2025 \u2014 Questions remain over what \u201cThe Bronze Bomber\u201d has left, and Carl Froch has weighed in, speaking to Casino Beats about Wilder's motivation for returning to\u00a0...",
+      "rank_absolute": 17,
+      "rank_group": 17,
+      "result_type": "items"
+    },
+    {
+      "title": "Canelo Alvarez Warns William Scull Ahead of May 3",
+      "url": "https://bigfightweekend.com/previews/canelo-alvarez-warns-scull/",
+      "snippet": "May 2, 2025 \u2014 Canelo Alvarez will face William Scull in an undisputed super middleweight clash. This bout will be the first fight for the Mexican under his historic four-\u00a0...",
+      "rank_absolute": 18,
+      "rank_group": 18,
+      "result_type": "items"
+    },
+    {
+      "title": "How Did the Eight-Count Rule Change Boxing Forever?",
+      "url": "https://bigfightweekend.com/history/boxing-history-eight-count-rule/",
+      "snippet": "Mar 18, 2025 \u2014 Intense sparring and scenes of referees counting down a knockdown are staples in nearly every boxing film. You can even find boxing-themed slots\u00a0...",
+      "rank_absolute": 19,
+      "rank_group": 19,
+      "result_type": "items"
+    },
+    {
+      "title": "Ex-World Champion Slams Jake Paul With 3 Harsh Truths",
+      "url": "https://bigfightweekend.com/news/jake-paul-boxing-ability-slammed/",
+      "snippet": "Jun 28, 2025 \u2014 ... Casino Beats. Jake Paul vs Julio Cesar Chavez Jr on June 28. George Groves Rips Into Jake Paul's Boxing Career. Looking at the record of both\u00a0...",
+      "rank_absolute": 20,
+      "rank_group": 20,
+      "result_type": "items"
+    },
+    {
+      "title": "Beterbiev vs Bivol 2: George Groves Predicts Feb. 22 Main ...",
+      "url": "https://bigfightweekend.com/previews/beterbiev-vs-bivol-2-prediction/",
+      "snippet": "Feb 21, 2025 \u2014 Former WBA super middleweight champion George Groves has spoken to Casino Beats and shared his prediction for this titanic rematch.",
+      "rank_absolute": 21,
+      "rank_group": 21,
+      "result_type": "items"
+    },
+    {
+      "title": "Hamzah Sheeraz vs Carlos Adames: George Groves Predicts ...",
+      "url": "https://bigfightweekend.com/previews/hamzah-sheeraz-vs-carlos-adames/",
+      "snippet": "Feb 20, 2025 \u2014 When asked about the fight, Groves told Casino Beats: \u201cI haven't seen a lot of Adames, but Sheeraz of late, I feel has been one of the most\u00a0...",
+      "rank_absolute": 22,
+      "rank_group": 22,
+      "result_type": "items"
+    },
+    {
+      "title": "How to Stream, Odds and Fight Card for Broner vs. Cobbs",
+      "url": "https://bigfightweekend.com/previews/how-to-stream-blair-cobbs-adrien-broner/",
+      "snippet": "Jun 4, 2024 \u2014 On Friday, June 7, at the Seminole Hard Rock Hotel and Casino in Hollywood, Florida, Adrien Broner (35-4-1, 24 KOs) will face Blair Cobbs\u00a0...",
+      "rank_absolute": 23,
+      "rank_group": 23,
+      "result_type": "items"
+    },
+    {
+      "title": "Two 154 Knockout Artists Set to Collide on Golden Boy Show",
+      "url": "https://bigfightweekend.com/previews/vergil-ortiz-jr-serhii-bohachuk-fight-confirmed/",
+      "snippet": "Jul 8, 2024 \u2014 The Mandalay Bay Resort and Casino will be the venue for two KO artists to collide for the interim WBC welterweight title. Ortiz Jr, (21-0, 21\u00a0...",
+      "rank_absolute": 24,
+      "rank_group": 24,
+      "result_type": "items"
+    },
+    {
+      "title": "Darren Till Praises Jake Paul, Hints at Future Fight",
+      "url": "https://bigfightweekend.com/news/darren-till-talks-jake-paul/",
+      "snippet": "Mar 16, 2025 \u2014 When speaking to Genting Casino, \u201cThe Gorilla\u201d was asked about the ability of Jake Paul, and said: \u201cI think Jake is a legitimate boxer. I\u00a0...",
+      "rank_absolute": 25,
+      "rank_group": 25,
+      "result_type": "items"
+    },
+    {
+      "title": "O'Shaquie Foster Targets Revenge Against Robson Concei\u00e7\u00e3o",
+      "url": "https://bigfightweekend.com/news/oshaquie-foster-revenge-robson-conceicao/",
+      "snippet": "Oct 22, 2024 \u2014 O'Shaquie Foster seeks revenge against Robson Concei\u00e7\u00e3o for the WBC super featherweight title at Turning Stone Resort Casino on Nov. 2.",
+      "rank_absolute": 26,
+      "rank_group": 26,
+      "result_type": "items"
+    },
+    {
+      "title": "Roy Jones Jr Delivers Honest Take on Jake Paul's Ability",
+      "url": "https://bigfightweekend.com/news/roy-jones-jr-opinion-jake-paul/",
+      "snippet": "May 30, 2025 \u2014 Jake Paul Has the Power. When talking to Prime Casino, Jones Jr was clear on just how far he believes \u201cEl Gallo\u201d can go: \u201cThe\u00a0...",
+      "rank_absolute": 27,
+      "rank_group": 27,
+      "result_type": "items"
+    },
+    {
+      "title": "Caleb Plant vs Armando Res\u00e9ndiz: May 31 'There Are Levels'",
+      "url": "https://bigfightweekend.com/previews/caleb-plant-vs-armando-resendiz/",
+      "snippet": "May 8, 2025 \u2014 Caleb Plant vs Armando Res\u00e9ndiz will take place on May 31 at the Michelob ULTRA Arena at Mandalay Bay Resort and Casino in Las Vegas.",
+      "rank_absolute": 28,
+      "rank_group": 28,
+      "result_type": "items"
+    },
+    {
+      "title": "Thad Buntsma vs. Cody Kelly 2: Full Card Preview",
+      "url": "https://bigfightweekend.com/previews/thad-buntsma-cody-kelly-rematch-full-card-preview/",
+      "snippet": "Nov 28, 2024 \u2014 Both men face each other on a November 30 United Boxing Promotions event at the Pickering Casino Resort in Ontario, Canada. There is no\u00a0...",
+      "rank_absolute": 29,
+      "rank_group": 29,
+      "result_type": "items"
+    },
+    {
+      "title": "Robeisy Ramirez vs. Isaac Dogboe: Weigh-In Results and ...",
+      "url": "https://bigfightweekend.com/betting/robeisy-ramirez-vs-isaac-dogboe-weigh-in-results-and-betting-odds/",
+      "snippet": "Mar 31, 2023 \u2014 ... Casino Tulsa on March 31, 2023 in Catoosa, Oklahoma. (Photo by Mikey Williams/Top Rank Inc via Getty Images). \u2022 Robeisy Ramirez 125.6 lbs vs\u00a0...",
+      "rank_absolute": 30,
+      "rank_group": 30,
+      "result_type": "items"
+    },
+    {
+      "title": "Blair Cobbs: Welterweight Contender Eyes Big Name",
+      "url": "https://bigfightweekend.com/news/blair-cobbs-wants-ryan-garcia/",
+      "snippet": "Aug 12, 2024 \u2014 The entire card took place at the Seminole Hard Rock Hotel and Casino in Hollywood, FL, with fans catching the action live on PPV on TrillerTV.",
+      "rank_absolute": 31,
+      "rank_group": 31,
+      "result_type": "items"
+    },
+    {
+      "title": "Team USA Standout Amateur Signs With Top Rank",
+      "url": "https://bigfightweekend.com/news/dedrick-crocklem-signs-top-rank/",
+      "snippet": "Dec 12, 2024 \u2014 His first fight will be a four-rounder against Nesly Trezile at Emerald Queen Casino. Read More: Exceptional Junior Bantamweight Talent Inks\u00a0...",
+      "rank_absolute": 32,
+      "rank_group": 32,
+      "result_type": "items"
+    },
+    {
+      "title": "Golden Boy Fight Night Returns On Sept 7 - Big Fight Weekend",
+      "url": "https://bigfightweekend.com/previews/golden-boy-fight-night-returns-on-sept-7/",
+      "snippet": "Sep 3, 2023 \u2014 The bout will be a welterweight clash that takes place at the Fantasy Springs Casino in Indio, California. DAZN will broadcast the event\u00a0...",
+      "rank_absolute": 33,
+      "rank_group": 33,
+      "result_type": "items"
+    },
+    {
+      "title": "Seniesa Estrada To Defend Titles Against Leonela Yudica",
+      "url": "https://bigfightweekend.com/recaps/seniesa-estrada-to-defend-titles-against-leonela-yudica/",
+      "snippet": "Jul 27, 2023 \u2014 ... Casino Resort in Las Vegas. In the 10-round junior lightweight co-feature, unbeaten Las Vegas native Andres \u201cSavage\u201d Cortes (19-0, 10 KOs)\u00a0...",
+      "rank_absolute": 34,
+      "rank_group": 34,
+      "result_type": "items"
+    },
+    {
+      "title": "Buster Douglas title reign stopped by Holyfield",
+      "url": "https://bigfightweekend.com/history/buster-douglas-title-reign-stopped-by-holyfield/",
+      "snippet": "Oct 25, 2019 \u2014 James \"Buster\" Douglas on October 25, 1990 had his Cinderella story end to the hands of Evander Holyfield at the Mirage Hotel & Casino in\u00a0...",
+      "rank_absolute": 35,
+      "rank_group": 35,
+      "result_type": "items"
+    },
+    {
+      "title": "Chris Eubank Jr vs Conor Benn: George Groves Weighs In",
+      "url": "https://bigfightweekend.com/previews/chris-eubank-jr-vs-conor-benn-3/",
+      "snippet": "Mar 28, 2025 \u2014 When speaking to Casino Apps, Groves was clear about who wants this fight more: \u201cThis will be the biggest fight of Conor Benn's career and it's\u00a0...",
+      "rank_absolute": 36,
+      "rank_group": 36,
+      "result_type": "items"
+    },
+    {
+      "title": "KSI vs Dillon Danis: Darren Till Weighs In - Big Fight Weekend",
+      "url": "https://bigfightweekend.com/previews/ksi-vs-dillon-danis-darren-till/",
+      "snippet": "Mar 14, 2025 \u2014 Darren Till, who will be appearing on the undercard has spoken to Genting Casino about the main event and revealed his prediction. KSI vs\u00a0...",
+      "rank_absolute": 37,
+      "rank_group": 37,
+      "result_type": "items"
+    },
+    {
+      "title": "Concei\u00e7\u00e3o vs. Foster II: WBC Title Rematch Showdown",
+      "url": "https://bigfightweekend.com/news/conceicao-foster-ii-wbc-title-rematch/",
+      "snippet": "Sep 9, 2024 \u2014 Robson Concei\u00e7\u00e3o defends WBC title against O'Shaquie Foster in a heated rematch on Nov. 2 at Turning Stone Resort & Casino, Verona,\u00a0...",
+      "rank_absolute": 38,
+      "rank_group": 38,
+      "result_type": "items"
+    },
+    {
+      "title": "Joe Cordina Defeats Edward Vasquez in Close Battle",
+      "url": "https://bigfightweekend.com/recaps/joe-cordina-defeats-edward-vasquez/",
+      "snippet": "Nov 4, 2023 \u2014 ... Casino de Monte Carlo Salle Medecin in Monte Carlo, Monaco. The event was shown live on DAZN in over 200 countries across the globe (except\u00a0...",
+      "rank_absolute": 39,
+      "rank_group": 39,
+      "result_type": "items"
+    },
+    {
+      "title": "ShoBox: The New Generation Sees Ismailov Win Main Event",
+      "url": "https://bigfightweekend.com/news/shobox-the-new-generation-recap-sees-ismailov-win-main-event/",
+      "snippet": "Jun 9, 2023 \u2014 ShoBox: The New Generation returned with a light heavyweight tripleheader at the Turning Stone Resort & Casino in Verona, New York.",
+      "rank_absolute": 40,
+      "rank_group": 40,
+      "result_type": "items"
+    },
+    {
+      "title": "State Of Boxing In Canada- Revitalizing Timeless Combat Sport",
+      "url": "https://bigfightweekend.com/featured/state-of-boxing-in-canada-revitalizing-timeless-combat-sport/",
+      "snippet": "Jul 20, 2023 \u2014 The Popularity of Boxing in Online Casinos in Canada. Renowned historical figures such as Adam Braidwood, George Chuvalo, Lou Brouillard, Trevor\u00a0...",
+      "rank_absolute": 41,
+      "rank_group": 41,
+      "result_type": "items"
+    },
+    {
+      "title": "Luis Ortiz-Charles Martin Kick Off 2022 - Big Fight Weekend",
+      "url": "https://bigfightweekend.com/news/luis-ortiz-charles-martin-kick-off-2022/",
+      "snippet": "Dec 31, 2021 \u2014 We will kick off 2022 boxing year with heavyweights Luis Ortiz and Charles Martin at the Seminole Hard Rock and Casino in Hollywood,\u00a0...",
+      "rank_absolute": 42,
+      "rank_group": 42,
+      "result_type": "items"
+    },
+    {
+      "title": "Jaron Ennis Focused And Ready For Dulorme",
+      "url": "https://bigfightweekend.com/news/jaron-ennis-focused-and-ready-for-dulorme/",
+      "snippet": "Oct 20, 2021 \u2014 ... Resort and Casino in Las Vegas in an event presented by Premier Boxing Champions. Ennis (27-0, 25 KOs), who has steadily risen in the ranks\u00a0...",
+      "rank_absolute": 43,
+      "rank_group": 43,
+      "result_type": "items"
+    },
+    {
+      "title": "Tony Bellew - Moses Itauma - Big Fight Weekend",
+      "url": "https://bigfightweekend.com/news/tony-bellew-tips-moses-itauma/",
+      "snippet": "Jan 14, 2025 \u2014 Bellew was asked by Casino Utan Spelpaus, whether he believes Itauma has what it takes to topple the likes of Daniel Dubois: \u201cI just think\u00a0...",
+      "rank_absolute": 44,
+      "rank_group": 44,
+      "result_type": "items"
+    },
+    {
+      "title": "Fighter Metrics Transform Betting Odds in Combat Sports",
+      "url": "https://bigfightweekend.com/betting/fighter-metrics-betting-odds/",
+      "snippet": "Just as you might seek out a Horus casino review to assess the reliability of a betting platform, bettors now rely on data-driven insights to evaluate the\u00a0...",
+      "rank_absolute": 45,
+      "rank_group": 45,
+      "result_type": "items"
+    },
+    {
+      "title": "Oleksandr Usyk Potential Opponents for 2025 Revealed",
+      "url": "https://bigfightweekend.com/previews/oleksandr-usyk-fight-options/",
+      "snippet": "Feb 12, 2025 \u2014 These casinos are known for super swift payout rates, which allow users to reinvest or cash out without any waiting. With the growing craze of\u00a0...",
+      "rank_absolute": 46,
+      "rank_group": 46,
+      "result_type": "items"
+    },
+    {
+      "title": "Manuel 'Gucci Manny' Flores Headlines June 8 GBP Card On ...",
+      "url": "https://bigfightweekend.com/news/manuel-gucci-manny-flores-headlines-june-8-gbp-card-on-dazn/",
+      "snippet": "Apr 5, 2023 \u2014 ... Resort & Casino in Indio, CA. This is usually the home base for GBP on these Thursday cards, and they always have a good crowd come out and\u00a0...",
+      "rank_absolute": 47,
+      "rank_group": 47,
+      "result_type": "items"
+    },
+    {
+      "title": "Padilla in action against Suarez - Big Fight Weekend",
+      "url": "https://bigfightweekend.com/news/padilla-in-action-against-suarez/",
+      "snippet": "Jan 15, 2020 \u2014 Parx Casino\u00ae is owned and operated by Greenwood Racing, Inc. and is the #1 revenue generating casino property in Pennsylvania. Parx Casino ...",
+      "rank_absolute": 48,
+      "rank_group": 48,
+      "result_type": "items"
+    },
+    {
+      "title": "Roy Jones Jr. vs. Antonio Tarver: Revisiting Devastating KO",
+      "url": "https://bigfightweekend.com/news/roy-jones-jr-loses-antonio-tarver-rematch/",
+      "snippet": "May 15, 2024 \u2014 On May 15, 2004, at the Mandalay Bay Resort & Casino, Paradise, Nevada, Roy Jones Jr. and Antonio Tarver met in a highly anticipated rematch\u00a0...",
+      "rank_absolute": 49,
+      "rank_group": 49,
+      "result_type": "items"
+    },
+    {
+      "title": "Ryan Garcia set to battle against Jose Lopez",
+      "url": "https://bigfightweekend.com/schedule/ryan-garcia-set-to-return/",
+      "snippet": "Feb 23, 2019 \u2014 The event will take place on Saturday, March 30, 2019, at the Fantasy Springs Resort Casino in Indio, Calif. and will be aired live on the\u00a0...",
+      "rank_absolute": 50,
+      "rank_group": 50,
+      "result_type": "items"
+    },
+    {
+      "title": "Jermall Charlo On Derevyanchenko Challenge - \"Talk Is Cheap\"",
+      "url": "https://bigfightweekend.com/news/jermall-charlo-on-derevyanchenko-challenge-talk-is-cheap/",
+      "snippet": "Sep 23, 2020 \u2014 The two shared the stage at the Mohegan Sun Casino in advance of their Showtime PPV showdown Saturday and the champ came straight to the point:\u00a0...",
+      "rank_absolute": 51,
+      "rank_group": 51,
+      "result_type": "items"
+    },
+    {
+      "title": "BT Sport Will Televise Trevor Bryan-Daniel Dubois June Clash",
+      "url": "https://bigfightweekend.com/news/bt-sport-will-televise-trevor-bryan-daniel-dubois-june-clash/",
+      "snippet": "May 6, 2022 \u2014 On Thursday, Don King announced that he had secured the newly renamed Casino Miami (formerly Miami Jai Alai) as the venue for the battle for\u00a0...",
+      "rank_absolute": 52,
+      "rank_group": 52,
+      "result_type": "items"
+    },
+    {
+      "title": "Janibek Alimkhanuly Withdraws from fight vs. Andrei ...",
+      "url": "https://bigfightweekend.com/news/janibek-alimkhanuly-withdraws-andrei-mikhailovich/",
+      "snippet": "Jul 12, 2024 \u2014 Janibek Alimkhanuly vs Anauel Ngamissengue: How to Stream, Betting Odds and Fight Card ... Casino Resort in Las Vegas. The middleweight bout was\u00a0...",
+      "rank_absolute": 53,
+      "rank_group": 53,
+      "result_type": "items"
+    },
+    {
+      "title": "Showtime Replaces Broner With Sergey Lipinets For Figueroa",
+      "url": "https://bigfightweekend.com/news/showtime-replaces-broner-with-sergey-lipinets-for-figueroa/",
+      "snippet": "Aug 15, 2022 \u2014 ... Casino in Hollywood, Fla. in a Premier Boxing Champions Event. The SHOWTIME CHAMPIONSHIP BOXING telecast will also feature top 140-pounders\u00a0...",
+      "rank_absolute": 54,
+      "rank_group": 54,
+      "result_type": "items"
+    },
+    {
+      "title": "Bruno Tarimo Paying Close Attention to Rios-Negrete Winner",
+      "url": "https://bigfightweekend.com/news/bruno-tarimo-paying-close-attention-to-rios-negrete-winner/",
+      "snippet": "Feb 9, 2021 \u2014 ... Resort Casino lights up in.",
+      "rank_absolute": 55,
+      "rank_group": 55,
+      "result_type": "items"
+    },
+    {
+      "title": "Jaron Ennis-Thomas Dulorme Fight Back On",
+      "url": "https://bigfightweekend.com/news/jaron-ennis-thomas-dulorme-fight-back-on/",
+      "snippet": "Aug 27, 2021 \u2014 Ennis and Dulorme were initially one of the \u201cFightsphere\u201d shows (Mohegan Sun Connecticut Casino Bubble) in December 2020. Instead, Dulorme\u00a0...",
+      "rank_absolute": 56,
+      "rank_group": 56,
+      "result_type": "items"
+    },
+    {
+      "title": "O'Shaquie Foster Next Fight: Targets Unification Bout",
+      "url": "https://bigfightweekend.com/news/oshaquie-foster-next-fight-unification-navarrete-valdez/",
+      "snippet": "Nov 3, 2024 \u2014 On Saturday, November 2, at the Turning Stone Resort Casino, Verona, NY, O'Shaquie Foster (23-3, 12 KOs) defeated Robson Concei\u00e7\u00e3o (19-3-1\u00a0...",
+      "rank_absolute": 57,
+      "rank_group": 57,
+      "result_type": "items"
+    },
+    {
+      "title": "What's Next For Boots Ennis? - Big Fight Weekend",
+      "url": "https://bigfightweekend.com/news/whats-next-for-boots-ennis/",
+      "snippet": "Apr 12, 2021 \u2014 ... Casino Uncasville, Conn. The question now begins for the undefeated welterweight from Philadephia is who will be next up for him in the ring\u00a0...",
+      "rank_absolute": 58,
+      "rank_group": 58,
+      "result_type": "items"
+    },
+    {
+      "title": "Cody Kelly Stops Thad Buntsma, Now Canadian 154-lb Champ",
+      "url": "https://bigfightweekend.com/recaps/cody-kelly-stops-thad-buntsma-becomes-champion/",
+      "snippet": "Nov 30, 2024 \u2014 The fight headlined a United Boxing Promotions card at the Pickering Casino Resort in Ontario, Canada. There was no broadcast for the event\u00a0...",
+      "rank_absolute": 59,
+      "rank_group": 59,
+      "result_type": "items"
+    },
+    {
+      "title": "Brandun Lee to take on Prieto on Shobox - Big Fight Weekend",
+      "url": "https://bigfightweekend.com/news/brandun-lee-to-take-on-prieto-on-shobox/",
+      "snippet": "Feb 22, 2020 \u2014 ... Casino Hinckley in Hinckley, Minn. The four fights include five boxers who have yet to taste defeat with a total record of 107 wins to just\u00a0...",
+      "rank_absolute": 60,
+      "rank_group": 60,
+      "result_type": "items"
+    },
+    {
+      "title": "Showtime Fall schedule has Charlos and Davis-Santa Cruz PPVs ...",
+      "url": "https://bigfightweekend.com/news/showtime-fall-schedule-has-charlos-and-davis-santa-cruz-ppvs/",
+      "snippet": "The Network confirmed that all of the fight cards will be at the Mohegan Sun Casino in Connecticut, and for now, without fans in attendance. That will begin\u00a0...",
+      "rank_absolute": 61,
+      "rank_group": 61,
+      "result_type": "items"
+    },
+    {
+      "title": "Connor Coyle to headline against \"The Pride of San Diego\"",
+      "url": "https://bigfightweekend.com/news/connor-coyle-to-headline-upcoming-rjj-boxing-card/",
+      "snippet": "Aug 15, 2019 \u2014 World-class professional boxing returns Saturday night, August 24, to the Viejas Casino and Resort in Alpine, California.",
+      "rank_absolute": 62,
+      "rank_group": 62,
+      "result_type": "items"
+    },
+    {
+      "title": "Issac Dogboe Headlines For Top Rank Coming July",
+      "url": "https://bigfightweekend.com/news/issac-dogboe-headlines-for-top-rank-coming-july/",
+      "snippet": "Jun 14, 2022 \u2014 ... Casino Hinckley in Hinckley, Minnesota. Gonzalez will put his WBO International belt on the line, with the fight also serving as a WBC world\u00a0...",
+      "rank_absolute": 63,
+      "rank_group": 63,
+      "result_type": "items"
+    },
+    {
+      "title": "Boxeo Telemundo back in action in Hollywood",
+      "url": "https://bigfightweekend.com/schedule/boxeo-telemundo-back-in-action-in-hollywood/",
+      "snippet": "Jul 9, 2019 \u2014 ... Casino Hollywood. Former amateur standout and undefeated Navarro (11-0, 7 KOs) and Cruz (19-7-2, 15 KOs) will meet as the chief supporting\u00a0...",
+      "rank_absolute": 64,
+      "rank_group": 64,
+      "result_type": "items"
+    },
+    {
+      "title": "fighters with brutal weight cuts \u2013 7 pushed to the limit",
+      "url": "https://bigfightweekend.com/fan-culture/fighters-with-brutal-weight-cuts/",
+      "snippet": "Sep 24, 2025 \u2014 Yet in fighting, the stakes are much higher: while in the casino the risk is limited to your bankroll, in combat sports, athletes gamble with\u00a0...",
+      "rank_absolute": 65,
+      "rank_group": 65,
+      "result_type": "items"
+    },
+    {
+      "title": "Title Fights Roundup: Mizuki Hiruta and Carlos Ca\u00f1izales ...",
+      "url": "https://bigfightweekend.com/recaps/fights-mizuki-hiruta-carlos-canizales/",
+      "snippet": "Aug 18, 2025 \u2014 Hiruta-Cardenas took place on an August 15 360 Promotions card at the Chumash Casino in Santa Ynez, CA. Boxing fans around the world could\u00a0...",
+      "rank_absolute": 66,
+      "rank_group": 66,
+      "result_type": "items"
+    },
+    {
+      "title": "Joseph Parker vs Martin Bakole: Tony Bellew Weighs In",
+      "url": "https://bigfightweekend.com/news/joseph-parker-vs-martin-bakole/",
+      "snippet": "Feb 21, 2025 \u2014 ... Casino Beats about how dangerous the Congolese fighter is. Tony Bellew Analyses Joseph Parker vs Martin Bakole. Bellew Talks 'Problem' Bakole.",
+      "rank_absolute": 67,
+      "rank_group": 67,
+      "result_type": "items"
+    },
+    {
+      "title": "Exploring Current State Of UK Boxing - Big Fight Weekend",
+      "url": "https://bigfightweekend.com/recaps/current-state-uk-boxing/",
+      "snippet": "Dec 22, 2023 \u2014 ... casinos to find the best online casino in their region. But how did the sport of boxing start? And who are the biggest stars of all time\u00a0...",
+      "rank_absolute": 68,
+      "rank_group": 68,
+      "result_type": "items"
+    },
+    {
+      "title": "Usyk vs Dubois 2: Ex-Champ Reacts to Krassyuk Split",
+      "url": "https://bigfightweekend.com/previews/usyk-vs-dubois-2-george-groves-view/",
+      "snippet": "Jun 27, 2025 \u2014 George Groves has spoken to Casino Beats about the bout and reflected on the significance of Usyk's split from his long-time promoter Alex Krassyuk.",
+      "rank_absolute": 69,
+      "rank_group": 69,
+      "result_type": "items"
+    },
+    {
+      "title": "Dzmitry Asanau vs. Francesco Patera Full Card Preview for ...",
+      "url": "https://bigfightweekend.com/previews/dzmitry-asanau-francesco-patera/",
+      "snippet": "Apr 9, 2025 \u2014 Their bout headlines an Eye of the Tiger Management (EOTTM) card at the Casino de Montr\u00e9al in Qu\u00e9bec, Canada. Boxing fans in the country can\u00a0...",
+      "rank_absolute": 70,
+      "rank_group": 70,
+      "result_type": "items"
+    },
+    {
+      "title": "Elbiali Replaces Stanionis on Trout-Gausha card - Big Fight Weekend",
+      "url": "https://bigfightweekend.com/schedule/elbiali-replaces-stanionis-on-trout-gausha-card/",
+      "snippet": "... Resort Casino in Biloxi, Mississippi. Elbiali will replace the previously scheduled bout featuring Eimantas Stanionis, as Stanionis was forced to withdraw\u00a0...",
+      "rank_absolute": 71,
+      "rank_group": 71,
+      "result_type": "items"
+    },
+    {
+      "title": "Underrated Australian and New Zealand Fighters",
+      "url": "https://bigfightweekend.com/previews/underrated-australian-and-new-zealand-fighters/",
+      "snippet": "Apr 28, 2025 \u2014 Whether you're a boxing or MMA fan \u2014 or enjoy backing rising stars through platforms like Magius Casino \u2014 these five fighters are poised to\u00a0...",
+      "rank_absolute": 72,
+      "rank_group": 72,
+      "result_type": "items"
+    },
+    {
+      "title": "Abdullah Mason Next Fight: Opponent, and Venue Set for April 5",
+      "url": "https://bigfightweekend.com/news/abdullah-mason-next-fight/",
+      "snippet": "Feb 19, 2025 \u2014 This bout will take place on April 5 on the undercard of Richard Torrez Jr. vs Guido Vianello at the Palms Casino Resort in Las Vegas. Richard\u00a0...",
+      "rank_absolute": 73,
+      "rank_group": 73,
+      "result_type": "items"
+    },
+    {
+      "title": "Mike Tyson Record: 37-Second Knockout of Robert Colay 1985",
+      "url": "https://bigfightweekend.com/news/mike-tyson-record-37-second-knockout-robert-colay/",
+      "snippet": "Oct 25, 2024 \u2014 On October 25 of that year, Tyson faced Robert Colay at Atlantis Hotel & Casino, Atlantic City. The Brooklyn native was destroying all\u00a0...",
+      "rank_absolute": 74,
+      "rank_group": 74,
+      "result_type": "items"
+    },
+    {
+      "title": "Lucas Bahdi Exclusive Interview Ahead of March 7 Clash",
+      "url": "https://bigfightweekend.com/news/lucas-bahdi-exclusive-interview/",
+      "snippet": "Mar 6, 2025 \u2014 Their bout headlines a Most Valuable Promotions (MVP) and United Boxing Promotions card at the Great Canadian Casino Resort in Toronto, Canada.",
+      "rank_absolute": 75,
+      "rank_group": 75,
+      "result_type": "items"
+    },
+    {
+      "title": "Osleys Iglesias vs. Vladimir Shishkin: Live Results Update",
+      "url": "https://bigfightweekend.com/recaps/osleys-iglesias-vladimir-shishkin-live/",
+      "snippet": "Sep 4, 2025 \u2014 Osleys Iglesias and Vladimir Shishkin clash in the main event of a card taking place at the Casino de Montr\u00e9al in Qu\u00e9bec, Canada.",
+      "rank_absolute": 76,
+      "rank_group": 76,
+      "result_type": "items"
+    },
+    {
+      "title": "Sara Bailey Exclusive: Defends WBA World Title on March 7",
+      "url": "https://bigfightweekend.com/news/sara-bailey-exclusive-interview/",
+      "snippet": "Feb 28, 2025 \u2014 Their bout takes place on a Most Valuable Promotions (MVP) and United Boxing Promotions card at the Great Canadian Casino Resort in Toronto,\u00a0...",
+      "rank_absolute": 77,
+      "rank_group": 77,
+      "result_type": "items"
+    },
+    {
+      "title": "MVP Announces Their First Ever Fight Card in Canada",
+      "url": "https://bigfightweekend.com/news/mvp-first-ever-card-in-canada/",
+      "snippet": "Jan 31, 2025 \u2014 ... Casino Resort in Toronto, Canada, on March 7. United Boxing Promotions are the official licensed promoter for the fight card. Boxing fans\u00a0...",
+      "rank_absolute": 78,
+      "rank_group": 78,
+      "result_type": "items"
+    },
+    {
+      "title": "George Groves Picks Favourite Canelo Fight",
+      "url": "https://bigfightweekend.com/news/canelo-george-groves-favourite-fight/",
+      "snippet": "Jun 27, 2025 \u2014 Former super middleweight world champion George Groves has spoken to Casino Beats and revealed his favourite Canelo fight, and it's not Floyd Mayweather or the\u00a0...",
+      "rank_absolute": 79,
+      "rank_group": 79,
+      "result_type": "items"
+    },
+    {
+      "title": "Arthur Biyarslanov vs. Mohamed Mimoune Fight Preview",
+      "url": "https://bigfightweekend.com/previews/arthur-biyarslanov-mohamed-mimoune/",
+      "snippet": "Feb 5, 2025 \u2014 Their 10-round super lightweight bout headlines an Eye of the Tiger Management (EOTTM) event at the Casino de Montr\u00e9al. Fight fans can catch\u00a0...",
+      "rank_absolute": 80,
+      "rank_group": 80,
+      "result_type": "items"
+    },
+    {
+      "title": "Jaron Ennis' Three Most Memorable Career Wins",
+      "url": "https://bigfightweekend.com/recaps/jaron-ennis-three-most-memorable-wins/",
+      "snippet": "Apr 7, 2025 \u2014 On October 30, 2021, at the Mandalay Bay Resort & Casino, Las Vegas, Jaron Ennis blew away the French-born fighter, Thomas Dulorme. \u201cBoots\u00a0...",
+      "rank_absolute": 81,
+      "rank_group": 81,
+      "result_type": "items"
+    },
+    {
+      "title": "Women's Super Lightweight Tourney Matchups Set",
+      "url": "https://bigfightweekend.com/news/womens-super-lightweight-tourney-matchups-set/",
+      "snippet": "Sep 4, 2021 \u2014 ... Casino, in El Cajon, California. Jessica \u201cThe Cobra\u201d Camara (8-2), of Montreal, Quebec, Canada, beat former World Champion Heather Hardy\u00a0...",
+      "rank_absolute": 82,
+      "rank_group": 82,
+      "result_type": "items"
+    },
+    {
+      "title": "Devin Haney vs. Vasiliy Lomachenko On May 20 Officially ...",
+      "url": "https://bigfightweekend.com/news/devin-haney-vs-vasiliy-lomachenko-on-may-20-officially-announced/",
+      "snippet": "Mar 31, 2023 \u2014 Lomachenko will emanate from the MGM Grand Garden Arena in Las Vegas, Nevada. ... Cache Creek Casino Hosts Another ShoBox Card on April 7 \u00b7 How To\u00a0...",
+      "rank_absolute": 83,
+      "rank_group": 83,
+      "result_type": "items"
+    },
+    {
+      "title": "Looking at Jon Jones vs. Stipe Miocic - Big Fight Weekend",
+      "url": "https://bigfightweekend.com/featured/jon-jones-against-stipe-miocic/",
+      "snippet": "Nov 15, 2024 \u2014 So, fans and bookmakers are highly excited about this showdown. The biggest UFC bookies, some of which are also famous for their online casino ...",
+      "rank_absolute": 84,
+      "rank_group": 84,
+      "result_type": "items"
+    },
+    {
+      "title": "Top 5 Most Shocking Boxing Upsets of the Last 20 Years",
+      "url": "https://bigfightweekend.com/recaps/boxing-upsets-last-20-years/",
+      "snippet": "May 13, 2025 \u2014 It's also why the popularity of online casinos continues to rise, as players worldwide seek that rush of a sudden, life-changing win. Just as a\u00a0...",
+      "rank_absolute": 85,
+      "rank_group": 85,
+      "result_type": "items"
+    },
+    {
+      "title": "Ricky Hatton vs Amir Khan: Groves Gives Brutally Honest Verdict",
+      "url": "https://bigfightweekend.com/news/ricky-hatton-amir-khan-verdict/",
+      "snippet": "Jun 28, 2025 \u2014 Hatton and Khan both fought at super lightweight and welterweight, and George Groves has spoken to Casino Beats, revealing who he thinks would have won.",
+      "rank_absolute": 86,
+      "rank_group": 86,
+      "result_type": "items"
+    },
+    {
+      "title": "Patrice Volny Outworks Steven Butler in Stoppage Win",
+      "url": "https://bigfightweekend.com/recaps/patrice-volny-outworks-steven-butler/",
+      "snippet": "Jun 6, 2024 \u2014 The time of stoppage was 2:40 of the ninth round. This fight headlined an Eye of the Tiger Management card at the Casino de Montr\u00e9al in Quebec,\u00a0...",
+      "rank_absolute": 87,
+      "rank_group": 87,
+      "result_type": "items"
+    },
+    {
+      "title": "Jermell Charlo Reveals IBF Hasn't Sent Him His Belt",
+      "url": "https://bigfightweekend.com/news/jermell-charlo-reveals-ibf-hasnt-sent-him-his-belt/",
+      "snippet": "Feb 3, 2021 \u2014 Charlo's tweet implies that they don't consider his September win at the Mohegan Sun Casino in Connecticut to be without question. Charlo\u00a0...",
+      "rank_absolute": 88,
+      "rank_group": 88,
+      "result_type": "items"
+    },
+    {
+      "title": "Dzmitry Asanau Outclasses Francesco Patera in Montr\u00e9al",
+      "url": "https://bigfightweekend.com/recaps/dzmitry-asanau-montreal/",
+      "snippet": "Apr 10, 2025 \u2014 Their bout headlined an Eye of the Tiger Management (EOTTM) card at the Casino de Montr\u00e9al in Qu\u00e9bec, Canada. Boxing fans in the country\u00a0...",
+      "rank_absolute": 89,
+      "rank_group": 89,
+      "result_type": "items"
+    },
+    {
+      "title": "Jaime Mungu\u00eda vs. Bruno Surace Stream, Odds, Fight Card",
+      "url": "https://bigfightweekend.com/previews/jaime-munguia-bruno-surace-stream-odds-fight-card/",
+      "snippet": "Dec 8, 2024 \u2014 Mungu\u00eda-Surace will be the 10-round super middleweight main event of a Top Rank Promotions card live on ESPN+ for fight fans in the United States.",
+      "rank_absolute": 90,
+      "rank_group": 90,
+      "result_type": "items"
+    },
+    {
+      "title": "Turki Alalshikh Talks Vergil Ortiz Jr. vs. Terence Crawford After ...",
+      "url": "https://bigfightweekend.com/news/vergil-ortiz-jr-terence-crawford-turki-alashikh/",
+      "snippet": "Aug 11, 2024 \u2014 At the Michelob Ultra Arena at Mandalay Bay Resort and Casino in Las Vegas, Vergil Ortiz Jr. (22-0, 21 KOs) defeated Serhii Bohachuk (24-2\u00a0...",
+      "rank_absolute": 91,
+      "rank_group": 91,
+      "result_type": "items"
+    },
+    {
+      "title": "Jake Paul vs Chavez Jr: Roy Jones Jr Picks Winner for June 28",
+      "url": "https://bigfightweekend.com/previews/jake-paul-vs-chavez-jr-prediction/",
+      "snippet": "May 31, 2025 \u2014 Former multi-weight world champion Roy Jones Jr has broken down Jake Paul vs Chavez Jr to Prime Casino, revealing the likely winner.",
+      "rank_absolute": 92,
+      "rank_group": 92,
+      "result_type": "items"
+    },
+    {
+      "title": "Exclusive: Criztec Bazaldua gears up for his October 10 clash",
+      "url": "https://bigfightweekend.com/news/exclusive-interview-criztec-bazaldua/",
+      "snippet": "Oct 9, 2025 \u2014 The 21-year-old American will face Darian Castro (3-0, 1 KO) on a Red Owl Boxing card at the Commerce Casino in Commerce, CA. Fight fans\u00a0...",
+      "rank_absolute": 93,
+      "rank_group": 93,
+      "result_type": "items"
+    },
+    {
+      "title": "Conor Benn vs Chris Eubank Jr: Tony Bellew Looks Ahead to ...",
+      "url": "https://bigfightweekend.com/previews/conor-benn-vs-chris-eubank-jr-bellew/",
+      "snippet": "Mar 6, 2025 \u2014 This has only intensified a fierce rivalry, and following that incident, Tony Bellew has spoken to Casino Beats about that moment and the\u00a0...",
+      "rank_absolute": 94,
+      "rank_group": 94,
+      "result_type": "items"
+    },
+    {
+      "title": "Rolly Romero Next Fight: An Explosive Encounter on the ...",
+      "url": "https://bigfightweekend.com/news/rolly-romero-next-fight-confident/",
+      "snippet": "Aug 15, 2024 \u2014 While Rolly Romero shows confidence ahead of his next fight, some fans might explore leading casino platforms for thrilling online gaming action\u00a0...",
+      "rank_absolute": 95,
+      "rank_group": 95,
+      "result_type": "items"
+    },
+    {
+      "title": "Lucas Bahdi Drops, Decisions Ryan Racaza but Fails to Impress",
+      "url": "https://bigfightweekend.com/recaps/lucas-bahdi-fails-to-impress/",
+      "snippet": "Mar 7, 2025 \u2014 The fight headlined a Most Valuable Promotions and United Boxing Promotions card at the Great Canadian Casino Resort in Toronto, Canada.",
+      "rank_absolute": 96,
+      "rank_group": 96,
+      "result_type": "items"
+    },
+    {
+      "title": "The weekly title fight roundup: draws, defenses, and knockouts",
+      "url": "https://bigfightweekend.com/recaps/title-fight-evelin-bermudez-tiara-brown/",
+      "snippet": "Sep 23, 2025 \u2014 She is also now the WBA world champion. The fight headlined a September 20 United Boxing Promotions (UBP) card at the Hard Rock Hotel & Casino ...",
+      "rank_absolute": 97,
+      "rank_group": 97,
+      "result_type": "items"
+    },
+    {
+      "title": "Sara Bailey vs. Evelin Bermudez is a world title unification ...",
+      "url": "https://bigfightweekend.com/previews/sara-bailey-evelin-bermudez-title/",
+      "snippet": "Sep 19, 2025 \u2014 Their clash headlines a United Boxing Promotions (UBP) card at the Hard Rock Hotel & Casino in Ottawa, Canada. Fight fans in the country can\u00a0...",
+      "rank_absolute": 98,
+      "rank_group": 98,
+      "result_type": "items"
+    },
+    {
+      "title": "Four Incredible Knockouts In Recent Boxing History",
+      "url": "https://bigfightweekend.com/history/four-incredible-knockouts-in-recent-boxing-history/",
+      "snippet": "Jul 28, 2023 \u2014 Power and aggression certainly play a role, but without a well-calculated game ... slots, which can be found at all the best casinos that\u00a0...",
+      "rank_absolute": 99,
+      "rank_group": 99,
+      "result_type": "items"
+    },
+    {
+      "title": "Title Fights Worldwide: Beatriz Ferreira, Angelo Leo, More",
+      "url": "https://bigfightweekend.com/recaps/angelo-leo-beatriz-ferreira-hiruta/",
+      "snippet": "Jun 24, 2025 \u2014 The title fight took place on a May 17 360 Promotions card at the Commerce Casino in California, USA. Boxing fans around the world could catch\u00a0...",
+      "rank_absolute": 100,
+      "rank_group": 100,
+      "result_type": "items"
+    }
+  ]
+}

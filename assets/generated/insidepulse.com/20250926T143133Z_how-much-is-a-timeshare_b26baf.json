@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-26T14:31:33Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "insidepulse.com",
+    "anchor_keyword": "how much is a timeshare",
+    "anchor_country": "",
+    "target_url": "https://howtocancelmytimeshare.com/how-much-does-a-timeshare-cost-monthly/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Con Season on a Budget: from Wrestlemania Trips to Comic Cons, What Fans Really Pay for Lodging",
+      "rationale": "Speaks to InsidePulse\u2019s wrestling and comics audience, centers on travel costs where a link about monthly timeshare costs fits as a lodging option comparison."
+    },
+    {
+      "title": "Geek Travel 101: Hotel vs. Rental vs. Timeshare for Multi\u2011day Conventions",
+      "rationale": "Practical, non\u2011review feature for pop\u2011culture event travelers; naturally accommodates a cost breakdown and a link explaining monthly timeshare expenses."
+    },
+    {
+      "title": "Pop\u2011culture Pilgrimages: Planning Affordable Trips to Filming Locations and Theme Parks",
+      "rationale": "Appeals to film/TV readers and travel keyword; includes lodging strategies where timeshare cost info can be referenced."
+    },
+    {
+      "title": "Fan Road Trips Without the Time Stone: Smart Budgeting for Week\u2011long Events",
+      "rationale": "On\u2011brand comic/MCU nod without being a review; invites a budgeting section that can link to timeshare monthly cost details."
+    },
+    {
+      "title": "The Ultimate Fandom Travel Playbook: Cutting Costs for Festivals, Cons, and Big Matches",
+      "rationale": "Broad InsidePulse audience (wrestling, comics, movies); cost\u2011saving guide can compare lodging types and link to timeshare pricing info."
+    }
+  ],
+  "titles_context": [
+    "Review: Animal Man #1 by Jeff Lemire and Travel Foreman",
+    "Review: Animal Man #2 by Jeff Lemire and Travel Foreman",
+    "Review: Animal Man #3 by Jeff Lemire and Travel Foreman",
+    "Review: Animal Man #5 by Jeff Lemire, Travel Foreman ...",
+    "Marvel Demythifies Its Time Travels As Loki Season 2 ...",
+    "DVD Review: Have Gun \u2013 Will Travel (The Complete Series)",
+    "CPO: Time Traveling with Sandra Bullock",
+    "DC Comics & Batman #131 Spoilers & Review",
+    "Gulliver's Travels \u2013 Blu-ray Review",
+    "Marvel Comics & ResurrXion Spoilers & Review: Cable #1 ...",
+    "Have Gun \u2013 Will Travel: The Fourth Season, Volume One",
+    "DC Comics Rebirth Spoilers & Review: Green Lanterns ...",
+    "DVD Review: Have Gun \u2013 Will Travel (The Final Season, Volume ...",
+    "Travel Packages For WWE Wrestlemania 32 Announced",
+    "The Weekly Round-Up #767 w/ Ultimates #3, X-Factor #1, ...",
+    "Marvel Comics Universe & Avengers #25 Spoilers & Review",
+    "Blu-Ray Review \u2013 Project Almanac",
+    "DC Comics Universe & Flash Forward #3 Spoilers",
+    "DVD Review: Space Flight Collection",
+    "Meet the Robinsons \u2013 Review",
+    "Gulliver's Travels \u2013 Review",
+    "DC You Review & Spoilers: Justice League United #11 ...",
+    "DC Comics Rebirth Universe & Action Comics #994 Spoilers",
+    "DC Comics Rebirth Spoilers & Review: Green Lanterns ...",
+    "DC Comics Universe & April 2018 Solicitations Spoilers"
+  ],
+  "prompt_text": "You are drafting 5 potential article titles for insidepulse.com.\nThey should make sense for linking to https://howtocancelmytimeshare.com/how-much-does-a-timeshare-cost-monthly/.\nAnchor keyword to use only if it fits in surrounding copy, never inside the title itself: how much is a timeshare.\nBlend what you already know about insidepulse.com's content with the SERP list to stay on-brand.\nAnchor operates in: Unspecified.\nUse any locale cues from the prompt or your knowledge of insidepulse.com; when Unspecified is relevant, acknowledge it without adding brand names.\nNever mention insidepulse.com, how much is a timeshare, or any casino/operator brand name inside a title, and avoid review-style phrasing.\nSearch context keyword: travel.\nReference titles:\n- Review: Animal Man #1 by Jeff Lemire and Travel Foreman\n- Review: Animal Man #2 by Jeff Lemire and Travel Foreman\n- Review: Animal Man #3 by Jeff Lemire and Travel Foreman\n- Review: Animal Man #5 by Jeff Lemire, Travel Foreman ...\n- Marvel Demythifies Its Time Travels As Loki Season 2 ...\n- DVD Review: Have Gun \u2013 Will Travel (The Complete Series)\n- CPO: Time Traveling with Sandra Bullock\n- DC Comics & Batman #131 Spoilers & Review\n- Gulliver's Travels \u2013 Blu-ray Review\n- Marvel Comics & ResurrXion Spoilers & Review: Cable #1 ...\n- Have Gun \u2013 Will Travel: The Fourth Season, Volume One\n- DC Comics Rebirth Spoilers & Review: Green Lanterns ...\n- DVD Review: Have Gun \u2013 Will Travel (The Final Season, Volume ...\n- Travel Packages For WWE Wrestlemania 32 Announced\n- The Weekly Round-Up #767 w/ Ultimates #3, X-Factor #1, ...\n- Marvel Comics Universe & Avengers #25 Spoilers & Review\n- Blu-Ray Review \u2013 Project Almanac\n- DC Comics Universe & Flash Forward #3 Spoilers\n- DVD Review: Space Flight Collection\n- Meet the Robinsons \u2013 Review\n- Gulliver's Travels \u2013 Review\n- DC You Review & Spoilers: Justice League United #11 ...\n- DC Comics Rebirth Universe & Action Comics #994 Spoilers\n- DC Comics Rebirth Spoilers & Review: Green Lanterns ...\n- DC Comics Universe & April 2018 Solicitations Spoilers\n\n",
+  "usage": {
+    "prompt_tokens": 939,
+    "completion_tokens": 792
+  },
+  "cost_usd": 0.0663
+}

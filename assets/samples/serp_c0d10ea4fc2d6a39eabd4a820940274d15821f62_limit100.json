@@ -1,0 +1,800 @@
+{
+  "mode": "live",
+  "task_id": "09261442-4117-0121-0000-85d89e7547fd",
+  "query": "site:banklesstimes.com travel",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Blockchain Statistics: Where Will It Be in 10 Years?",
+      "url": "https://www.banklesstimes.com/blockchain-statistics/",
+      "snippet": "May 6, 2025 \u2014 According to blockchain trends, the market size is predicted to increase dramatically over the next 8-10 years, with cryptocurrency and\u00a0...",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "DigiFinex joins CoolBitX's Sygna Alliance to Comply With ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/digifinex-joins-coolbitxs-sygna-alliance-to-comply-with-fatf-travel-rule-and-singapore-crypto-regulations/",
+      "snippet": "Jan 31, 2023 \u2014 DigiFinex joins CoolBitX's Sygna Alliance to Comply With FATF Travel Rule and Singapore Crypto Regulations. Staff Writer.",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Jeju Island Set To Launch NFT Cards To Attract Younger ...",
+      "url": "https://www.banklesstimes.com/articles/2025/01/06/south-koreas-jeju-island-set-to-launch-nft-cards-to-attract-younger-tourists/",
+      "snippet": "Jan 6, 2025 \u2014 Jeju Island, one of South Korea's most popular tourist destinations, set to introduce NFT visitor cards in the second half of 2025.",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Dubai-based 3F Music purchases side-eyeing Chloe NFT ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/dubai-based-3f-music-purchases-side-eyeing-chloe-nft-for-74k/",
+      "snippet": "Jul 28, 2024 \u2014 The meme is based on a clip of Chloe Clem's unimpressed reaction to a surprise Disneyland trip in 2013. According to the report, the clip\u00a0...",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Incredible UX Statistics & Facts",
+      "url": "https://www.banklesstimes.com/ux-statistics/",
+      "snippet": "Aug 8, 2025 \u2014 59% of respondents expect browsing and shopping for real estate will be better, while 53% of people expect planning a vacation would be better\u00a0...",
+      "rank_absolute": 6,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "HelloVacay and Priceline With 70% off on Holiday ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/hellovacay-and-priceline-with-70percent-off-on-holiday-accommodations-worldwide/",
+      "snippet": "The wholesale travel company provides its members with access to high-quality accommodations with up to 70% off at around 70,000 hotels and resorts around the\u00a0...",
+      "rank_absolute": 7,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "Sygna Bridge, ComplyAdvantage to Facilitate Sanction List ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/sygna-bridge-complyadvantage-to-facilitate-sanction-list-identification-while-meeting-fatf-travel-rule-requirements/",
+      "snippet": "Jan 31, 2023 \u2014 Sanction Screening Integration \u2014 Automatically screen against global sanction lists after the exchange of the required Travel Rule data.",
+      "rank_absolute": 8,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Crypto-Assets Blockchains Consume 120 -240B KWh of ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/crypto-assets-blockchains-consume-120-240b-kwh-of-annual-global-electricity/",
+      "snippet": "Jul 27, 2024 \u2014 The ECI measures the electricity used to power the hardware associated with a particular cryptocurrency network. It includes the energy consumed\u00a0...",
+      "rank_absolute": 9,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "22% Of Global Retail Purchases Will Be Made Online by ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/22percent-of-global-retail-purchases-will-be-made-online-by-2024/",
+      "snippet": "Jul 27, 2024 \u2014 There's a growing shift from brick-and-mortar to digital shopping. Online retail purchases are projected to account for 22% of global retail\u00a0...",
+      "rank_absolute": 10,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "CZ Offered $4.5 B As Security to Leave the US",
+      "url": "https://www.banklesstimes.com/news/2024/01/25/cz-offered-45-billion-dollar-as-security-to-leave-the-us/",
+      "snippet": "Jan 25, 2024 \u2014 Ex-Binance CEO Changpeng Zhao promised his multibillion-dollar stake as security so he could travel back to the United Arab Emirates, where his\u00a0...",
+      "rank_absolute": 11,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "Sanj Goyle on BancBox, crowd-investing and simplifying ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/sanj-goyle-on-bancbox-crowd-investing-and-simplifying-the-investment-process/",
+      "snippet": "Jul 28, 2024 \u2014 It's similar to online travel. People used to shop online, but still wanted to call the airline or travel agent to complete the booking.",
+      "rank_absolute": 12,
+      "rank_group": 11,
+      "result_type": "items"
+    },
+    {
+      "title": "63% Of eSports Fans in Great Britain Are Unfamiliar With ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/63percent-of-esports-fans-in-great-britain-are-unfamiliar-with-cryptocurrency/",
+      "snippet": "Jul 27, 2024 \u2014 Most eSports fans in Great Britain don't know much about cryptos. Fear and lack of awareness of cryptocurrency play a role in the performance.",
+      "rank_absolute": 13,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "About 60% Percent of the Global Population Are Social ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/about-60percent-percent-of-the-global-population-are-social-media-users/",
+      "snippet": "Aug 2, 2024 \u2014 It is estimated that about 60% of the global population are social media users. Social media can be useful for business networking and promoting\u00a0...",
+      "rank_absolute": 14,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "Web3 Market Will Grow at a CAGR of 42% to Surpass ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/web3-market-will-grow-at-a-cagr-of-42percent-to-surpass-the-dollar80b-mark-by-2030/",
+      "snippet": "Jul 27, 2024 \u2014 The site has presented data predicting that it will reach a value of over $80 billion by 2030. This remarkable advancement will come on the back\u00a0...",
+      "rank_absolute": 15,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "It Would Take an Average Brit 22121 Years to Reach the ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/it-would-take-an-average-brit-22121-years-to-reach-the-level-of-rishi-sunaks-wealth/",
+      "snippet": "Jul 27, 2024 \u2014 If Rishi Sunak, currently 42, joined the workforce at 18, and began with a net worth of zero, he would have 24 years to reach 730 million pounds\u00a0...",
+      "rank_absolute": 16,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "Best Crypto Presales - These Cryptos May Show Huge ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/best-crypto-presales-these-cryptos-may-show-huge-gains-in-2023/",
+      "snippet": "Jul 27, 2024 \u2014 LuxWorld (LUX) has an interesting take on this emerging market. It's a GameFi lifestyle app that introduces \u201ctravel to earn\u201d functionality, and\u00a0...",
+      "rank_absolute": 17,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "Mutant Ape Yacht Club sales rise 500% as a Serum NFT ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/mutant-ape-yacht-club-sales-rise-500-as-a-serum-nft-fetches-3-6m/",
+      "snippet": "Jan 31, 2023 \u2014 As a result of the rising popularity, a Mega Mutant Serum NFT in the Mutant Ape Yacht Club sold for 888 ETH ($3.6 million) in the past week.",
+      "rank_absolute": 18,
+      "rank_group": 17,
+      "result_type": "items"
+    },
+    {
+      "title": "North American and European Companies to Defy ...",
+      "url": "https://www.banklesstimes.com/news/2023/02/27/north-american-and-european-companies-to-defy-looming-recession-with-51percent-growing-it-budgets-in-2023/",
+      "snippet": "Feb 27, 2023 \u2014 North American and European Companies to Defy Looming Recession, with 51% growing IT Budgets in 2023 \u00b7 Increasing IT budgets are keeping with IT\u00a0...",
+      "rank_absolute": 19,
+      "rank_group": 18,
+      "result_type": "items"
+    },
+    {
+      "title": "Metaverse Growth Will Transform Avatars into a $17B ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/metaverse-growth-will-transform-avatars-into-a-dollar17b-market-by-2027/",
+      "snippet": "Jan 31, 2023 \u2014 Avatars are taking many roles in digital reality \u2013 they can take on duties that may seem impossible in the physical world. For example, avatars\u00a0...",
+      "rank_absolute": 20,
+      "rank_group": 19,
+      "result_type": "items"
+    },
+    {
+      "title": "Unexpected Ethereum Statistics Relevant After the Merge",
+      "url": "https://www.banklesstimes.com/ethereum-statistics/",
+      "snippet": "May 6, 2025 \u2014 While looking for his next travel destination, Darko developed impeccable research skills that helped him craft some of the most popular stats\u00a0...",
+      "rank_absolute": 21,
+      "rank_group": 20,
+      "result_type": "items"
+    },
+    {
+      "title": "Over 90%of Institutional Investors Interested in Investing ...",
+      "url": "https://www.banklesstimes.com/news/2023/05/12/over-90percentof-institutional-investors-interested-in-investing-in-tokenized-digital-assets/",
+      "snippet": "May 12, 2023 \u2014 Tokenized digital assets, or security tokens, are a new form of digital securities that have transformed the financial landscape.",
+      "rank_absolute": 22,
+      "rank_group": 21,
+      "result_type": "items"
+    },
+    {
+      "title": "Critical: 25% of US Crypto Buyers File Chargebacks",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/critical-25percent-of-us-crypto-buyers-file-chargebacks/",
+      "snippet": "Jan 31, 2023 \u2014 66% of US shoppers and 44% of British shoppers filed chargebacks over the past year. Many of them have filed numerous ones, damaging customer\u00a0...",
+      "rank_absolute": 23,
+      "rank_group": 22,
+      "result_type": "items"
+    },
+    {
+      "title": "AI Could Displace 800 Million Jobs by 2030",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/ai-could-displace-800-million-jobs-by-2030/",
+      "snippet": "Aug 2, 2024 \u2014 AI Could Displace 800 Million Jobs by 2030 \u00b7 The adoption of artificial intelligence tech threatens the livelihoods of millions of global workers\u00a0...",
+      "rank_absolute": 24,
+      "rank_group": 23,
+      "result_type": "items"
+    },
+    {
+      "title": "P2P Lending Projected to Attain over $800 Billion ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/p2p-lending-projected-to-attain-over-dollar800-billion-valuation-by-2028/",
+      "snippet": "Jan 31, 2023 \u2014 P2P Lending Projected to Attain over $800 Billion Valuation by 2028 \u00b7 Borrowers and lenders are flocking to peer-to-peer (P2P) lending platforms.",
+      "rank_absolute": 25,
+      "rank_group": 24,
+      "result_type": "items"
+    },
+    {
+      "title": "Countries Must Increase CCUS Rates by 120X to Meet Net ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/countries-must-increase-ccus-rates-by-120x-to-meet-net-zero-emissions-commitments-by-2050/",
+      "snippet": "Jul 27, 2024 \u2014 As the world becomes increasingly aware of climate change's dangers, more countries are committing to reducing their greenhouse gas emissions.",
+      "rank_absolute": 26,
+      "rank_group": 25,
+      "result_type": "items"
+    },
+    {
+      "title": "76% Of Nokia Consumers Want Fixed Wireless Access in ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/76percent-of-nokia-consumers-want-fixed-wireless-access-in-their-homes/",
+      "snippet": "Jul 27, 2024 \u2014 Most Nokia consumers want fixed wireless access in their homes. Nokia has been one of the most active companies when it comes to 5G development.",
+      "rank_absolute": 27,
+      "rank_group": 26,
+      "result_type": "items"
+    },
+    {
+      "title": "Flywire shows impressive growth in payments sector",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/flywire-continues-impressive-growth-in-payments-sector/",
+      "snippet": "Jan 31, 2023 \u2014 Healthcare payments now account for more than 20 per cent of Flywire's revenue. They also serve travel and B2B customers. Those efforts have led\u00a0...",
+      "rank_absolute": 28,
+      "rank_group": 27,
+      "result_type": "items"
+    },
+    {
+      "title": "News | Page 496 of 644",
+      "url": "https://www.banklesstimes.com/news/page/496/",
+      "snippet": "Since launching in 2012, Bankless Times is dedicated to bringing you the latest news and informational content within the alternative finance industry. Our news\u00a0...",
+      "rank_absolute": 29,
+      "rank_group": 28,
+      "result_type": "items"
+    },
+    {
+      "title": "Cloud Security is Expected to Hit $5.16B in Revenue by 2026",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/cloud-security-is-expected-to-hit-dollar516b-in-revenue-by-2026/",
+      "snippet": "Jan 31, 2023 \u2014 The global cloud security market is expected to grow significantly soon. Cybersecurity is an ever-evolving industry primarily driven by\u00a0...",
+      "rank_absolute": 30,
+      "rank_group": 29,
+      "result_type": "items"
+    },
+    {
+      "title": "David Beckham Could Make \u00a335M in Guild-type ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/david-beckham-could-make-pound35m-in-guild-type-endorsement-deals-by-2030/",
+      "snippet": "Jul 27, 2024 \u2014 David Beckham could earn over \u00a330M in eSports endorsement deals. He is among other high-profile athletes invested in eSports. Esports is a\u00a0...",
+      "rank_absolute": 31,
+      "rank_group": 30,
+      "result_type": "items"
+    },
+    {
+      "title": "72% Of the Global Population Now Has Access to Real- ...",
+      "url": "https://www.banklesstimes.com/news/2023/02/21/72percent-of-the-global-population-now-has-access-to-real-time-payments-driving-innovation/",
+      "snippet": "Feb 21, 2023 \u2014 Real-time payments (RTP) are revolutionizing how people and businesses transfer money worldwide. This technology enables digital payments to be\u00a0...",
+      "rank_absolute": 32,
+      "rank_group": 31,
+      "result_type": "items"
+    },
+    {
+      "title": "Tech Industry Laying Off Staff at the Same Rate as the Start ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/tech-industry-laying-off-staff-at-the-same-rate-as-the-start-of-the-pandemic/",
+      "snippet": "Aug 2, 2024 \u2014 The tech industry is facing a turbulent time globally. That has resulted in many firms laying off significant proportions of their staff.",
+      "rank_absolute": 33,
+      "rank_group": 32,
+      "result_type": "items"
+    },
+    {
+      "title": "Over A Third Of The American Population Are More ...",
+      "url": "https://www.banklesstimes.com/news/2023/02/23/over-a-third-of-the-american-population-are-more-concerned-about-ai-than-excited/",
+      "snippet": "Feb 23, 2023 \u2014 Many Americans are increasingly concerned about the growing usage of Artificial Intelligence (AI). These concerns have increased calls for\u00a0...",
+      "rank_absolute": 34,
+      "rank_group": 33,
+      "result_type": "items"
+    },
+    {
+      "title": "Artificial Intelligence Fields Will Employ Up to 100 Million ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/artificial-intelligence-fields-will-employ-up-to-100-million-people-by-2025/",
+      "snippet": "Aug 2, 2024 \u2014 Rather than obsolescing human labor, AI will actually create more jobs. Embracing AI allows us to rethink how we organize workplaces,\u00a0...",
+      "rank_absolute": 35,
+      "rank_group": 34,
+      "result_type": "items"
+    },
+    {
+      "title": "Global ESG Investments Will Top $53 Trillion by 2025",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/global-esg-investments-will-top-dollar53-trillion-by-2025/",
+      "snippet": "Jul 27, 2024 \u2014 Integrating ESG into investment strategies can improve returns as well as reduce risk. ESG investing has yielded higher performance yields than\u00a0...",
+      "rank_absolute": 36,
+      "rank_group": 35,
+      "result_type": "items"
+    },
+    {
+      "title": "Nigeria Accounts for Over a Third of Africa's 53 Million ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/nigeria-accounts-for-over-a-third-of-africas-53-million-crypto-owners/",
+      "snippet": "Jan 31, 2023 \u2014 Cryptocurrency has provided a suitable option for moving assets in Nigeria. South Africa and Kenya seal the top three crypto holders in Africa.",
+      "rank_absolute": 37,
+      "rank_group": 36,
+      "result_type": "items"
+    },
+    {
+      "title": "PayPal Reigns as the UK's Most Recognized Digital ...",
+      "url": "https://www.banklesstimes.com/news/2023/03/22/paypal-reigns-as-the-uks-most-recognized-digital-payment-provider-at-95percent-followed-by-apple-pay/",
+      "snippet": "Mar 22, 2023 \u2014 PayPal is the leading digital payment provider in the UK, with an astonishingly high recognition rate of 95%. Apple Pay is the second-most\u00a0...",
+      "rank_absolute": 38,
+      "rank_group": 37,
+      "result_type": "items"
+    },
+    {
+      "title": "55% of American Adults Worried About Misuse of Personal ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/55percent-of-americans-worried-about-misuse-of-personal-data-in-the-metaverse/",
+      "snippet": "Jan 31, 2023 \u2014 The concept of the metaverse is quickly gaining traction. \u00b7 That said, most American Adults fear that their personal data could be misused. \u00b7 This\u00a0...",
+      "rank_absolute": 39,
+      "rank_group": 38,
+      "result_type": "items"
+    },
+    {
+      "title": "Global Cloud Gaming Market Will Reach $12B by 2026, ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/global-cloud-gaming-market-will-reach-dollar12b-by-2026-growing-1200percent-from-2021/",
+      "snippet": "Jan 31, 2023 \u2014 Cloud gaming can offer players of all levels an enjoyable, hassle-free way to enjoy their favourite games without investing in costly hardware\u00a0...",
+      "rank_absolute": 40,
+      "rank_group": 39,
+      "result_type": "items"
+    },
+    {
+      "title": "Top 10 Upcoming Metaverse Games",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/top-10-upcoming-metaverse-games/",
+      "snippet": "Jul 27, 2024 \u2014 BanklessTimes has compiled a list of the top 10 upcoming metaverse games. These games offer innovative and immersive gaming experiences\u00a0...",
+      "rank_absolute": 41,
+      "rank_group": 40,
+      "result_type": "items"
+    },
+    {
+      "title": "An investment that allows you to have your cake and eat it too",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/an-investment-that-allows-you-to-have-your-cake-and-eat-it-too/",
+      "snippet": "Jan 31, 2023 \u2014 Called \u201cQuality of Life Investing,\u201d I-Bankers Direct, through issuer Immobilaire Meneghina, is offering Senior Secured \u201cLuxury Travel Notes\u201d in\u00a0...",
+      "rank_absolute": 42,
+      "rank_group": 41,
+      "result_type": "items"
+    },
+    {
+      "title": "Can you really afford to chase your dreams?",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/can-you-really-afford-to-chase-your-dreams/",
+      "snippet": "Jul 28, 2024 \u2014 Before you decide to go traveling, you need to consider how much it's going to cost you and come up with a budget. It's also smart to think\u00a0...",
+      "rank_absolute": 43,
+      "rank_group": 42,
+      "result_type": "items"
+    },
+    {
+      "title": "Global Crypto Investment Slumps 78% YOY: Is the Industry ...",
+      "url": "https://www.banklesstimes.com/news/2023/06/08/global-crypto-investment-slumps-78percent-yoy-is-the-industry-on-the-verge-of-a-crisis/",
+      "snippet": "Jun 8, 2023 \u2014 Nellius is a cryptocurrency investor and journalist who has been in the nascent space since 2018. She is a seasoned writer who loves to travel ...",
+      "rank_absolute": 44,
+      "rank_group": 43,
+      "result_type": "items"
+    },
+    {
+      "title": "Global Social Commerce Market Projected to Reach $1.2T ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/global-social-commerce-market-projected-to-reach-dollar12t-by-2025/",
+      "snippet": "Jan 31, 2023 \u2014 Nellius is a cryptocurrency investor and journalist who has been in the nascent space since 2018. She is a seasoned writer who loves to travel ...",
+      "rank_absolute": 45,
+      "rank_group": 44,
+      "result_type": "items"
+    },
+    {
+      "title": "With the current adoption rate, Bitcoin would be an official ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/with-the-current-adoption-rate-bitcoin-would-be-an-official-currency-by-the-year-2045/",
+      "snippet": "Jan 31, 2023 \u2014 Nellius is a cryptocurrency investor and journalist who has been in the nascent space since 2018. She is a seasoned writer who loves to travel ...",
+      "rank_absolute": 46,
+      "rank_group": 45,
+      "result_type": "items"
+    },
+    {
+      "title": "Over 90% Of Gen Z Are Interested in Augmented Reality ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/over-90percent-of-gen-z-are-interested-in-augmented-reality-ar-experiences-for-decorating-their-home/",
+      "snippet": "Jul 27, 2024 \u2014 Nellius is a cryptocurrency investor and journalist who has been in the nascent space since 2018. She is a seasoned writer who loves to travel ...",
+      "rank_absolute": 47,
+      "rank_group": 46,
+      "result_type": "items"
+    },
+    {
+      "title": "Blockchain AI Market Is Estimated to Reach a Staggering ...",
+      "url": "https://www.banklesstimes.com/news/2023/02/09/blockchain-ai-market-is-estimated-to-reach-a-staggering-usd-28-billion-by-2032/",
+      "snippet": "Feb 9, 2023 \u2014 Nellius is a cryptocurrency investor and journalist who has been in the nascent space since 2018. She is a seasoned writer who loves to travel ...",
+      "rank_absolute": 48,
+      "rank_group": 47,
+      "result_type": "items"
+    },
+    {
+      "title": "Quantum Technology Market Has the Potential to Generate ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/quantum-technology-market-has-the-potential-to-generate-dollar93b-in-revenue-by-2040/",
+      "snippet": "Jan 31, 2023 \u2014 Nellius is a cryptocurrency investor and journalist who has been in the nascent space since 2018. She is a seasoned writer who loves to travel ...",
+      "rank_absolute": 49,
+      "rank_group": 48,
+      "result_type": "items"
+    },
+    {
+      "title": "With the Current Rate TikTok Could Take Over Facebook in ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/tiktok-could-take-over-facebook-in-less-than-4-years/",
+      "snippet": "Aug 2, 2024 \u2014 Nellius is a cryptocurrency investor and journalist who has been in the nascent space since 2018. She is a seasoned writer who loves to travel ...",
+      "rank_absolute": 50,
+      "rank_group": 49,
+      "result_type": "items"
+    },
+    {
+      "title": "Smart Home Technologies Segment Is Projected to ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/smart-home-technologies-segment-is-projected-to-generate-over-dollar2774b-in-revenue-by-2025/",
+      "snippet": "Jul 27, 2024 \u2014 Nellius is a cryptocurrency investor and journalist who has been in the nascent space since 2018. She is a seasoned writer who loves to travel ...",
+      "rank_absolute": 51,
+      "rank_group": 50,
+      "result_type": "items"
+    },
+    {
+      "title": "Will Canada Become the First Cashless Country?",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/will-canada-become-the-first-cashless-country/",
+      "snippet": "Jan 31, 2023 \u2014 Cashless payments will allow for quick and easy transactions when international travel ... \u201cFrom the retailers' side, it means less time spent\u00a0...",
+      "rank_absolute": 52,
+      "rank_group": 51,
+      "result_type": "items"
+    },
+    {
+      "title": "Virtual and Augmented Reality User Base in the US ...",
+      "url": "https://www.banklesstimes.com/news/2023/03/27/virtual-and-augmented-reality-user-base-in-the-us-projected-to-surpass-110-million-by-2023/",
+      "snippet": "Mar 27, 2023 \u2014 She is a seasoned writer who loves to travel and focuses on delivering relevant, valuable content for audiences. Popcat Soars to New ATH as\u00a0...",
+      "rank_absolute": 53,
+      "rank_group": 52,
+      "result_type": "items"
+    },
+    {
+      "title": "Black Households Staring at a $350M Loss in Tech Wages ...",
+      "url": "https://www.banklesstimes.com/news/2023/02/15/black-households-staring-at-a-dollar350m-loss-in-tech-wages-by-2030/",
+      "snippet": "Feb 15, 2023 \u2014 Nellius is a cryptocurrency investor and journalist who has been in the nascent space since 2018. She is a seasoned writer who loves to travel ...",
+      "rank_absolute": 54,
+      "rank_group": 53,
+      "result_type": "items"
+    },
+    {
+      "title": "FBI Arrests Two People For Stealing $230 Million In ...",
+      "url": "https://www.banklesstimes.com/articles/2024/09/20/fbi-arrests-two-people-for-stealing-230-million-in-cryptocurrency-from-a-single-victim/",
+      "snippet": "Sep 20, 2024 \u2014 The indictment also reports that the stolen money was used for \u201cinternational travel, nightclubs, luxury automobiles, watches, jewelry, designer\u00a0...",
+      "rank_absolute": 55,
+      "rank_group": 54,
+      "result_type": "items"
+    },
+    {
+      "title": "The Qatar World Cup Is Projected to Bring In Over $6.4B ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/the-qatar-world-cup-is-projected-to-bring-in-over-dollar64b-in-revenue-from-the-2019-2022-cycle/",
+      "snippet": "Jul 27, 2024 \u2014 Nellius is a cryptocurrency investor and journalist who has been in the nascent space since 2018. She is a seasoned writer who loves to travel ...",
+      "rank_absolute": 56,
+      "rank_group": 55,
+      "result_type": "items"
+    },
+    {
+      "title": "Millennial Gamers Play the Most Compared to Other Age ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/millennial-gamers-play-the-most-compared-to-other-age-groups-averaging-13-hours-per-week/",
+      "snippet": "Jan 31, 2023 \u2014 Nellius is a cryptocurrency investor and journalist who has been in the nascent space since 2018. She is a seasoned writer who loves to travel ...",
+      "rank_absolute": 57,
+      "rank_group": 56,
+      "result_type": "items"
+    },
+    {
+      "title": "Neymar's 222 Million Euro Transfer From Barcelona to ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/neymars-222-million-euro-transfer-from-barcelona-to-paris-saint-germain-is-the-ath-fee-for-a-soccer-transfer/",
+      "snippet": "Jul 27, 2024 \u2014 She is a seasoned writer who loves to travel and focuses on delivering relevant, valuable content for audiences. Popcat Soars to New ATH as\u00a0...",
+      "rank_absolute": 58,
+      "rank_group": 57,
+      "result_type": "items"
+    },
+    {
+      "title": "CZ Defense Team Insists He Isn't a Flight Risk",
+      "url": "https://www.banklesstimes.com/news/2023/11/26/cz-defense-team-insists-he-isnt-a-flight-risk/",
+      "snippet": "Nov 26, 2023 \u2014 The initial ruling allowed Zhao to travel home. Later, DOJ prosecutors requested Zhao be barred from leaving the country as he posed a\u00a0...",
+      "rank_absolute": 59,
+      "rank_group": 58,
+      "result_type": "items"
+    },
+    {
+      "title": "54% Of All Reported Cybercrime Cases Result From Fraud ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/54percent-of-all-reported-cybercrime-cases-result-from-fraud-online-shopping-and-online-banking/",
+      "snippet": "Jan 31, 2023 \u2014 Nellius is a cryptocurrency investor and journalist who has been in the nascent space since 2018. She is a seasoned writer who loves to travel ...",
+      "rank_absolute": 60,
+      "rank_group": 59,
+      "result_type": "items"
+    },
+    {
+      "title": "AFRM: Affirm Stock Price Forecast After the Comeback",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/afrm-affirm-stock-price-forecast-after-the-comeback/",
+      "snippet": "This growth happened as people started traveling again. Indeed, travel and ticketing revenue rose to $390 million. Affirm's revenue rose to $355 million\u00a0...",
+      "rank_absolute": 61,
+      "rank_group": 60,
+      "result_type": "items"
+    },
+    {
+      "title": "Smart Home Devices Save Americans $347 on Utility Bills ...",
+      "url": "https://www.banklesstimes.com/news/2023/03/03/smart-home-devices-save-americans-dollar347-on-utility-bills-every-year/",
+      "snippet": "Mar 3, 2023 \u2014 Nellius is a cryptocurrency investor and journalist who has been in the nascent space since 2018. She is a seasoned writer who loves to travel ...",
+      "rank_absolute": 62,
+      "rank_group": 61,
+      "result_type": "items"
+    },
+    {
+      "title": "Do Kwon's Wife Posts $435K Bond, Montenegro Releases ...",
+      "url": "https://www.banklesstimes.com/news/2023/05/12/do-kwons-wife-posts-dollar435k-bond-montenegro-releases-defendant/",
+      "snippet": "May 12, 2023 \u2014 Arrested for traveling with fake documents. Kwon and Chang-joon were arrested in Montenegro in March for trying to travel with forged documents.",
+      "rank_absolute": 63,
+      "rank_group": 62,
+      "result_type": "items"
+    },
+    {
+      "title": "Jinia Shawdagor, Author at BanklessTimes",
+      "url": "https://www.banklesstimes.com/author/jinia/",
+      "snippet": "She loves gardening, traveling, and extracting joy and happiness from the little things in life. Recent articles by Jinia Shawdagor. News Articles.",
+      "rank_absolute": 64,
+      "rank_group": 63,
+      "result_type": "items"
+    },
+    {
+      "title": "How To Mine Dogecoin: A Step-by-Step Guide",
+      "url": "https://www.banklesstimes.com/mining/how-to-mine-dogecoin/",
+      "snippet": "Jul 23, 2025 \u2014 Nellius is a cryptocurrency investor and journalist who has been in the nascent space since 2018. She is a seasoned writer who loves to travel ...",
+      "rank_absolute": 65,
+      "rank_group": 64,
+      "result_type": "items"
+    },
+    {
+      "title": "Pharrell Williams joins CXIP to help form a DAO that ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/pharrell-williams-joins-cxip-to-help-form-a-dao-that-protects-artist-rights/",
+      "snippet": "Jul 28, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 66,
+      "rank_group": 65,
+      "result_type": "items"
+    },
+    {
+      "title": "Hello Sunshine partners with World of Women",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/hello-sunshine-to-release-tv-shows-based-on-world-of-women-nfts/",
+      "snippet": "Jul 28, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 67,
+      "rank_group": 66,
+      "result_type": "items"
+    },
+    {
+      "title": "SunTec CEO Nanda Kumar's 30 years of tech transformation",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/sun-tec-ceo-nanda-kumars-30-years-of-tech-transformation/",
+      "snippet": "Jul 28, 2024 \u2014 Kumar said. SunTec has applied these principles to telecoms, banking and travel, with insurance the next move, Mr. Kumar said. An essential\u00a0...",
+      "rank_absolute": 68,
+      "rank_group": 67,
+      "result_type": "items"
+    },
+    {
+      "title": "Two NFT apers fight over which iteration is the real fake ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/two-nft-apers-fight-over-which-iteration-is-the-real-fake-version-of-bayc/",
+      "snippet": "Jul 28, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 69,
+      "rank_group": 68,
+      "result_type": "items"
+    },
+    {
+      "title": "Meta rolls out NFT support on Facebook for select creators",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/meta-rolls-out-nft-support-on-facebook-for-select-creators/",
+      "snippet": "Jul 27, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 70,
+      "rank_group": 69,
+      "result_type": "items"
+    },
+    {
+      "title": "Playboy drops another NFT collection; Pre-sale set for ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/playboy-drops-another-nft-collection-pre-sale-set-for-october-24/",
+      "snippet": "Jul 28, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 71,
+      "rank_group": 70,
+      "result_type": "items"
+    },
+    {
+      "title": "Abris rolls out an eco-friendly NFT marketplace on Algorand",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/abris-rolls-out-an-eco-friendly-nft-marketplace-on-algorand/",
+      "snippet": "Jul 28, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 72,
+      "rank_group": 71,
+      "result_type": "items"
+    },
+    {
+      "title": "The $532M purchase of CryptoPunk is not what it ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/the-532m-purchase-of-cryptopunk-is-not-what-it-appeared-to-be/",
+      "snippet": "Jul 28, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 73,
+      "rank_group": 72,
+      "result_type": "items"
+    },
+    {
+      "title": "22-year-old Indonesian makes $1M by selling selfies as ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/22-year-old-indonesian-makes-1m-by-selling-selfies-as-nfts-on-opensea/",
+      "snippet": "Jul 28, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 74,
+      "rank_group": 73,
+      "result_type": "items"
+    },
+    {
+      "title": "Yuga Labs secures $450M in an a16z-led seed funding ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/yuga-labs-secures-dollar450m-in-an-a16z-led-seed-funding-round/",
+      "snippet": "Jul 28, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 75,
+      "rank_group": 74,
+      "result_type": "items"
+    },
+    {
+      "title": "Barclays US Consumer Bank Expands POS Financing ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/barclays-us-consumer-bank-expands-pos-financing-suite-to-include-installment-options-powered-by-amount/",
+      "snippet": "Jul 28, 2024 \u2014 ... travel, entertainment, retail and affinity institutions.\u201d Barclays' partner-centric approach focuses on providing leading merchant brands\u00a0...",
+      "rank_absolute": 76,
+      "rank_group": 75,
+      "result_type": "items"
+    },
+    {
+      "title": "WWE ties with Fanatics to launch NFT trading cards",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/wwe-ties-with-fanatics-to-launch-nft-trading-cards/",
+      "snippet": "Jul 28, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 77,
+      "rank_group": 76,
+      "result_type": "items"
+    },
+    {
+      "title": "NFT startups Dapper Labs and Sorare secure $930M in ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/nft-startups-dapper-labs-and-sorare-secure-930m-in-one-week/",
+      "snippet": "Jul 28, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 78,
+      "rank_group": 77,
+      "result_type": "items"
+    },
+    {
+      "title": "Walt Disney's former CEO and Chairman joins Genies as a ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/robert-iger-joins-the-board-of-directors-of-metaverse-startup-genies/",
+      "snippet": "Jul 28, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 79,
+      "rank_group": 78,
+      "result_type": "items"
+    },
+    {
+      "title": "TreeTrunk modified the ERC-721 protocol",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/ethereum-platform-treetrunk-promises-artists-new-royalty-options/",
+      "snippet": "Jul 28, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 80,
+      "rank_group": 79,
+      "result_type": "items"
+    },
+    {
+      "title": "OpenSea appoints Brian Roberts, Lyft's former CFO, as its ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/opensea-appoints-brian-roberts-lyfts-former-cfo-as-its-first-cfo/",
+      "snippet": "Jul 28, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 81,
+      "rank_group": 80,
+      "result_type": "items"
+    },
+    {
+      "title": "Coinbase resumes plans to expand into Europe",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/coinbase-revives-europe-expansion-plan-amid-intensifying-bear-market/",
+      "snippet": "Jul 27, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 82,
+      "rank_group": 81,
+      "result_type": "items"
+    },
+    {
+      "title": "SolMonkey becomes the first Solana-based NFT to sell for ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/solmonkey-becomes-the-first-solana-based-nft-to-sell-for-over-2m/",
+      "snippet": "Jul 28, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 83,
+      "rank_group": 82,
+      "result_type": "items"
+    },
+    {
+      "title": "Ape Squared gears up to drop an NFT series dubbed ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/ape-squared-gears-up-to-drop-an-nft-series-dubbed-space-bugs/",
+      "snippet": "Jul 28, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 84,
+      "rank_group": 83,
+      "result_type": "items"
+    },
+    {
+      "title": "Budweiser launches 1936 NFTs to serve as keys to the ...",
+      "url": "https://www.banklesstimes.com/news/2023/07/10/budweiser-launches-1936-nfts-to-serve-as-keys-to-the-budverse/",
+      "snippet": "Jul 28, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Jinia is a fintech writer based in Sweden\u00a0...",
+      "rank_absolute": 85,
+      "rank_group": 84,
+      "result_type": "items"
+    },
+    {
+      "title": "Starting a small delivery business: Advantages and ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/starting-a-small-delivery-business-advantages-and-disadvantages/",
+      "snippet": "Jul 28, 2024 \u2014 The first is that it involves a lot of travel. Whether you're cycling, riding a motorbike, or driving a car \u2013 it forms the basis of your\u00a0...",
+      "rank_absolute": 86,
+      "rank_group": 85,
+      "result_type": "items"
+    },
+    {
+      "title": "Xendit Aiming to be AWS for Payments",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/xendit-aiming-to-be-aws-for-payments/",
+      "snippet": "Jul 28, 2024 \u2014 Xendit's growth rates have been strong over the past year, though individual companies in areas like travel have suffered, Mr. Lo said. What\u00a0...",
+      "rank_absolute": 87,
+      "rank_group": 86,
+      "result_type": "items"
+    },
+    {
+      "title": "Immediate Trader Review 2025: Legit Crypto Trading ...",
+      "url": "https://www.banklesstimes.com/trading-robots/immediate-trader/",
+      "snippet": "Jul 30, 2025 \u2014 ... well-versed in the nuances of both industries. When he's not writing, Sam loves to travel and discover new music. BTC/USD. $115,855.",
+      "rank_absolute": 88,
+      "rank_group": 87,
+      "result_type": "items"
+    },
+    {
+      "title": "Authors",
+      "url": "https://www.banklesstimes.com/author/",
+      "snippet": "While looking for his next travel destination, Darko developed impeccable research skills that helped him craft some of the most popular stats pages on the\u00a0...",
+      "rank_absolute": 89,
+      "rank_group": 88,
+      "result_type": "items"
+    },
+    {
+      "title": "How To Spend Bitcoin | What Can You Buy With Bitcoin?",
+      "url": "https://www.banklesstimes.com/cryptocurrency/bitcoin/how-to-spend-bitcoin/",
+      "snippet": "Jul 23, 2025 \u2014 On platforms like these, you can even earn BTC from playing the game also. Travel. Some travel agencies are now accepting Bitcoin for everything\u00a0...",
+      "rank_absolute": 90,
+      "rank_group": 89,
+      "result_type": "items"
+    },
+    {
+      "title": "Palm NFT Studio and DC set to release Batman-themed ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/palm-nft-studio-and-dc-set-to-release-batman-themed-nfts/",
+      "snippet": "Jul 28, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 91,
+      "rank_group": 90,
+      "result_type": "items"
+    },
+    {
+      "title": "What Is the Metaverse and How Does It Work",
+      "url": "https://www.banklesstimes.com/metaverse/",
+      "snippet": "Jul 23, 2025 \u2014 These technologies included in the metaverse are virtual reality and augmented reality among others, which allow people to interact in a virtual\u00a0...",
+      "rank_absolute": 92,
+      "rank_group": 91,
+      "result_type": "items"
+    },
+    {
+      "title": "Ireland an emerging hub in fin-tech",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/ireland-an-emerging-hub-in-fin-tech/",
+      "snippet": "Jul 28, 2024 \u2014 Because of Ireland's membership in the European Union, goods produced there can freely travel to other member countries, Mr. Meehan said\u00a0...",
+      "rank_absolute": 93,
+      "rank_group": 92,
+      "result_type": "items"
+    },
+    {
+      "title": "7 Celebrity NFT Fails",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/7-celebrity-nft-fails/",
+      "snippet": "Aug 2, 2024 \u2014 Nellius is a cryptocurrency investor and journalist who has been in the nascent space since 2018. She is a seasoned writer who loves to travel ...",
+      "rank_absolute": 94,
+      "rank_group": 93,
+      "result_type": "items"
+    },
+    {
+      "title": "Doing business in China means building the relationship ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/doing-business-in-china-means-building-the-relationship-first-geoswift-ceo-says/",
+      "snippet": "Jan 31, 2023 \u2014 Transactions in travel, education services and trading will be fully open, while with capital accounts transactions involving insurance and\u00a0...",
+      "rank_absolute": 95,
+      "rank_group": 94,
+      "result_type": "items"
+    },
+    {
+      "title": "TIME Magazine doubles down on web3 due to its potential",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/time-magazine-doubles-down-on-web3-due-to-its-potential/",
+      "snippet": "Jan 31, 2023 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 96,
+      "rank_group": 95,
+      "result_type": "items"
+    },
+    {
+      "title": "UK's gambling regulator claims Sorare is operating without ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/uks-gambling-regulator-claims-sorare-is-operating-without-a-license/",
+      "snippet": "Jul 28, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 97,
+      "rank_group": 96,
+      "result_type": "items"
+    },
+    {
+      "title": "Jordan Belfort buys CryptoPunk #6033 and other key ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/jordan-belfort-buys-cryptopunk-6033-and-other-key-events-in-the-nft-space/",
+      "snippet": "Jul 28, 2024 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 98,
+      "rank_group": 97,
+      "result_type": "items"
+    },
+    {
+      "title": "Bitcoin Profit Review 2025: The Truth Revealed",
+      "url": "https://www.banklesstimes.com/trading-robots/bitcoin-profit/",
+      "snippet": "Jul 30, 2025 \u2014 ... well-versed in the nuances of both industries. When he's not writing, Sam loves to travel and discover new music. BTC/USD. $113,123.",
+      "rank_absolute": 99,
+      "rank_group": 98,
+      "result_type": "items"
+    },
+    {
+      "title": "Gamers bash Ubisoft's NFT move: Project's video gets 96% ...",
+      "url": "https://www.banklesstimes.com/news/2023/01/31/gamers-bash-ubisofts-nft-move-projects-video-gets-96-dislike-ratio/",
+      "snippet": "Jan 31, 2023 \u2014 She loves gardening, traveling, and extracting joy and happiness from the little things in life. Popcat Soars to New ATH as Investors Eye\u00a0...",
+      "rank_absolute": 100,
+      "rank_group": 99,
+      "result_type": "items"
+    }
+  ]
+}

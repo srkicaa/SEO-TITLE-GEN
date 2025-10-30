@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:35:57Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "cappertek.com",
+    "anchor_keyword": "Slotzy Casino",
+    "anchor_country": "",
+    "target_url": "https://slotzy.org/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Top Casino Banking Methods for Sports Bettors in the United States",
+      "rationale": "Banking how-tos perform well with CapperTek\u2019s audience. This piece compares deposit/withdraw options that also suit bettors transitioning to slots; a contextual link to Slotzy.org using the anchor \u201cSlotzy Casino\u201d can guide readers to deeper payment and cashier details."
+    },
+    {
+      "title": "Slot Volatility vs. Risk Management for Sports Cappers in the United Kingdom",
+      "rationale": "Capper-focused framing connects staking plans to slot variance for UK readers. Linking to Slotzy.org with the anchor \u201cSlotzy Casino\u201d naturally supports explanations of variance, RTP, and sample bankroll ladders."
+    },
+    {
+      "title": "RTP Explained for Canadian Bettors: Casino Math That Mirrors Odds and Edges",
+      "rationale": "Odds-savvy readers in Canada will appreciate a numbers-first breakdown aligning RTP with betting edges; the anchor \u201cSlotzy Casino\u201d can point to Slotzy.org\u2019s RTP and game mechanics resources."
+    },
+    {
+      "title": "Social Casino or Real-Money Play in Australia: Picking the Right Format for Bettor Goals",
+      "rationale": "CapperTek covers both analytics and casual play angles. This Australia-focused comparison invites an educational link to Slotzy.org via the anchor \u201cSlotzy Casino\u201d for format pros/cons and safer-play guidance."
+    },
+    {
+      "title": "Comparing Slot Game Mechanics at Polish Online Casinos: What Sports Cappers Should Know",
+      "rationale": "Polish audience angle echoes existing CapperTek comparisons. Use the anchor \u201cSlotzy Casino\u201d to send readers to Slotzy.org for detailed mechanics, features, and practical examples aligned with betting mindsets."
+    }
+  ],
+  "titles_context": [
+    "What Are Online Casino Bonuses? Everything You Need ...",
+    "The best online casino for real money - what does it mean?",
+    "Top 5 Astropay-Friendly Online Casinos of the Year",
+    "Sports Betting or Casino Games: Which is More Fun for You?",
+    "Comparing Slot Games at Polish Online Casinos",
+    "Ruby Fortune Casino Review: Bonus Up to $750",
+    "The Phenomenon of 777 Slots: Why Do They Remain Casino ...",
+    "Sports and Betting Blogs",
+    "Handicapping Tools Social Casino",
+    "Plinko thrills and flexible ways to drop the ball",
+    "Top Casino Banking Methods for Sports Bettors",
+    "Spot the Signs of Scam Casinos and Protect Your Winnings",
+    "The 5 Benefits Of Offshore Betting That You Might Not ...",
+    "Game Simulator",
+    "Comparing No Verification Sports Betting and Online ...",
+    "Why Most Casino Dealers Are Women",
+    "The Best Europe Online Casinos for Sports Cappers and ...",
+    "CapperTek's Predictions Give Sports Bettors Casino-Grade ...",
+    "A Closer Look at Blockchain-Based Casino Platforms",
+    "Twist Game Slot Review \u2014 Play Crypto Slots at BC Game ...",
+    "Games and Bonuses Available on The Best Litecoin Casinos",
+    "Foreign Online Casinos for Dutch Players: Best Picks",
+    "CapperTek - Make Smarter Sports Betting Picks and Predictions",
+    "Does Bet365 Accept Chime? We Checked So You Don't ...",
+    "Copy Mikki Mase Roulette Strategy (Whole Vegas Banned ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://slotzy.org/ that feel at home on cappertek.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Slotzy Casino\n\nAnchor operates in: Unspecified. \n\nI need to have the country in the title.\n\nReference titles:\n- What Are Online Casino Bonuses? Everything You Need ...\n- The best online casino for real money - what does it mean?\n- Top 5 Astropay-Friendly Online Casinos of the Year\n- Sports Betting or Casino Games: Which is More Fun for You?\n- Comparing Slot Games at Polish Online Casinos\n- Ruby Fortune Casino Review: Bonus Up to $750\n- The Phenomenon of 777 Slots: Why Do They Remain Casino ...\n- Sports and Betting Blogs\n- Handicapping Tools Social Casino\n- Plinko thrills and flexible ways to drop the ball\n- Top Casino Banking Methods for Sports Bettors\n- Spot the Signs of Scam Casinos and Protect Your Winnings\n- The 5 Benefits Of Offshore Betting That You Might Not ...\n- Game Simulator\n- Comparing No Verification Sports Betting and Online ...\n- Why Most Casino Dealers Are Women\n- The Best Europe Online Casinos for Sports Cappers and ...\n- CapperTek's Predictions Give Sports Bettors Casino-Grade ...\n- A Closer Look at Blockchain-Based Casino Platforms\n- Twist Game Slot Review \u2014 Play Crypto Slots at BC Game ...\n- Games and Bonuses Available on The Best Litecoin Casinos\n- Foreign Online Casinos for Dutch Players: Best Picks\n- CapperTek - Make Smarter Sports Betting Picks and Predictions\n- Does Bet365 Accept Chime? We Checked So You Don't ...\n- Copy Mikki Mase Roulette Strategy (Whole Vegas Banned ...\n\nGuidance:\n1. Combine your own knowledge of cappertek.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to cappertek.com while naturally justifying a link to https://slotzy.org/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Slotzy Casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 956,
+    "completion_tokens": 854
+  },
+  "cost_usd": 0.07036
+}

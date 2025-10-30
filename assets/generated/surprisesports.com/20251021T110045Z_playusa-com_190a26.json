@@ -1,0 +1,62 @@
+{
+  "created_at": "2025-10-21T11:00:45Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "surprisesports.com",
+    "anchor_keyword": "playusa.com",
+    "anchor_country": "",
+    "target_url": "https://www.playusa.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Sports Fans\u2019 Guide to Casino Odds: Translating Moneylines to House Edge",
+      "rationale": "Bridges sportsbook concepts with table/slot math; link to PlayUSA\u2019s explanations of RTP, house edge, and game odds for a clear comparison (helpful for a largely U.S.-focused audience)."
+    },
+    {
+      "title": "From the Stadium to the Slots: Why Sports\u2011themed Games Keep Trending",
+      "rationale": "Explores the appeal of sports\u2011inspired slots for readers of a sports site; PlayUSA provides slot overviews and mechanics that support the context without naming operators."
+    },
+    {
+      "title": "Bankroll Management for Bettors Who Split Time Between Sportsbook and Casino",
+      "rationale": "Offers practical staking frameworks across betting and gaming; PlayUSA\u2019s guides on variance, RTP, and session budgeting add authoritative guidance (globally relevant, Unspecified locale)."
+    },
+    {
+      "title": "Understanding Sweepstakes and Social Casino Models: What They Are and Where They Fit",
+      "rationale": "Clarifies alternative models popular with sports audiences; PlayUSA\u2019s legal explainers and state-by-state summaries help define legitimacy and access without brand mentions."
+    },
+    {
+      "title": "Live Dealer Tables on Game Night: Etiquette, Pace, and Smarter Decisions",
+      "rationale": "Connects live dealer play to peak sports moments; PlayUSA\u2019s live dealer primers and game rules back up best practices and decision-making for new and crossover players."
+    }
+  ],
+  "titles_context": [
+    "FairCasinos Review - The Best Online Casino Guide",
+    "Sports Slots: Why Are They So Popular at the Best Casino Online ...",
+    "The Most Popular Slot Games You Can Play in 2023",
+    "Top Casino Games You Can Play at Wolf Winner in 2025",
+    "Best Online Casino Reviews for Slots, Poker, and Live ...",
+    "How Casino Licensing Works and Why It Matters for Players ...",
+    "The Most Innovative Slots From Relax Gaming",
+    "Modern Online Slots: Trends and Case Studies",
+    "1win Nepal: Trusted gaming platform with exclusive features",
+    "Ripper Casino Honest Review 2025: Is It Worth Your Time?",
+    "How Odds Differ Between Sportsbooks and Online Casino ...",
+    "Sweet Bonanza App - Always Have a Slot at Your Fingertips ...",
+    "Spin, Play, Deal: Top Online Casino Games Taking 2025 by ...",
+    "Viggo Slots: New Gaming Platforms Revolutionizing Online ...",
+    "Luckystar Casino: Your Cosmic Shot at Jackpot Glory!",
+    "A Beginner's Guide to Understanding FanDuel Casino ...",
+    "Chasing the Big Win: Popular Progressive Jackpot Slots on ...",
+    "High RTP Games at Vox Casino: truth or marketing trick?",
+    "What are Sweepstakes Casinos? Are They Legal and How Do ...",
+    "Where Gaming Meets Mobility: The Glory Casino App Reviewed"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.playusa.com/ that feel at home on surprisesports.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): playusa.com\n\nAnchor operates in: Unspecified\n\nReference titles:\n- FairCasinos Review - The Best Online Casino Guide\n- Sports Slots: Why Are They So Popular at the Best Casino Online ...\n- The Most Popular Slot Games You Can Play in 2023\n- Top Casino Games You Can Play at Wolf Winner in 2025\n- Best Online Casino Reviews for Slots, Poker, and Live ...\n- How Casino Licensing Works and Why It Matters for Players ...\n- The Most Innovative Slots From Relax Gaming\n- Modern Online Slots: Trends and Case Studies\n- 1win Nepal: Trusted gaming platform with exclusive features\n- Ripper Casino Honest Review 2025: Is It Worth Your Time?\n- How Odds Differ Between Sportsbooks and Online Casino ...\n- Sweet Bonanza App - Always Have a Slot at Your Fingertips ...\n- Spin, Play, Deal: Top Online Casino Games Taking 2025 by ...\n- Viggo Slots: New Gaming Platforms Revolutionizing Online ...\n- Luckystar Casino: Your Cosmic Shot at Jackpot Glory!\n- A Beginner's Guide to Understanding FanDuel Casino ...\n- Chasing the Big Win: Popular Progressive Jackpot Slots on ...\n- High RTP Games at Vox Casino: truth or marketing trick?\n- What are Sweepstakes Casinos? Are They Legal and How Do ...\n- Where Gaming Meets Mobility: The Glory Casino App Reviewed\n\nGuidance:\n1. Combine your own knowledge of surprisesports.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to surprisesports.com while naturally justifying a link to https://www.playusa.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude playusa.com and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 914,
+    "completion_tokens": 928
+  },
+  "cost_usd": 0.07396
+}

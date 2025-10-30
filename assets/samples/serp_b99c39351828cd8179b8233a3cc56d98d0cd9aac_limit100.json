@@ -1,0 +1,24 @@
+{
+  "mode": "live",
+  "task_id": "09231350-4117-0121-0000-835eaab6fbd2",
+  "query": "site:brainking.com kasinot",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Pikapelaaminen internetiss\u00e4 - plussat ja miinukset",
+      "url": "https://brainking.com/fi/Article/PikapelaaminenInternetissa",
+      "snippet": "Pikapelaaminen onnistuu kasinoilla, joille ei tarvitse erikseen rekister\u00f6ity\u00e4. Niill\u00e4 pelataan pankkitunnuksilla, mik\u00e4 tekee pelitilille kirjautumisesta ja\u00a0...",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "pelaa verkossa shakkia, tammea, backgammonia, reversi\u00e4 ...",
+      "url": "https://brainking.com/fi",
+      "snippet": "BrainKing on verkossa toimiva pelipalvelin, miss\u00e4 kuka tahansa voi pelata suosittuja lautapelej\u00e4 ymp\u00e4ri maailmaan tulevien pelaajien kanssa.",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    }
+  ]
+}

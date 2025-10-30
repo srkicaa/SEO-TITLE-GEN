@@ -1,0 +1,808 @@
+{
+  "mode": "live",
+  "task_id": "10221044-4117-0121-0000-debe4ad30cd9",
+  "query": "site:livetsgoda.se casino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Ska du bes\u00f6ka ett lyxigt casino? H\u00e4r \u00e4r tips p\u00e5 hur du ...",
+      "url": "https://www.livetsgoda.se/ska-du-besoka-ett-lyxigt-casino-har-ar-tips-pa-hur-du-bestaller-ratt-drinkar/",
+      "snippet": "Oct 22, 2024 \u2014 Ett bra tips \u00e4r att anpassa din drink efter spelmilj\u00f6n. Casinon kan vara hektiska platser, men de erbjuder ocks\u00e5 stunder av lugn, s\u00e4rskilt i de\u00a0...",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Vad inneb\u00e4r MGA casino f\u00f6r svenska spelare?",
+      "url": "https://www.livetsgoda.se/vad-innebar-mga-casino-for-svenska-spelare/",
+      "snippet": "May 13, 2025 \u2014 Ett casino med MGA licens m\u00e5ste f\u00f6lja EU-lagstiftning och leva upp till krav p\u00e5 bland annat spelars\u00e4kerhet, r\u00e4ttvisa spel och tydlig hantering\u00a0...",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "S\u00e5dan finder du et casino uden rofus, der passer til dine behov",
+      "url": "https://www.livetsgoda.se/sadan-finder-du-et-casino-uden-rofus-der-passer-til-dine-behov/",
+      "snippet": "Et casino uden rofus kan give dig adgang til platforme med st\u00f8rre frihed, flere bonusser og f\u00e6rre tekniske krav. Men med det st\u00f8rre udvalg f\u00f8lger ogs\u00e5 et st\u00f8rre\u00a0...",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Allt man beh\u00f6ver veta innan man spelar online casino live",
+      "url": "https://www.livetsgoda.se/allt-man-behover-veta-innan-man-spelar-online-casino-live/",
+      "snippet": "Jun 10, 2025 \u2014 Live-casinospel baseras p\u00e5 videostreaming-teknik som \u00f6verf\u00f6r h\u00e4ndelser fr\u00e5n professionella studior direkt till spelarnas sk\u00e4rmar. Riktiga\u00a0...",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Skapa den ultimata casinoupplevelsen hemma",
+      "url": "https://www.livetsgoda.se/skapa-den-ultimata-casinoupplevelsen-hemma-med-cocktails-och-tapas-som-satter-stamningen/",
+      "snippet": "Oct 30, 2024 \u2014 \u00c4r du redo f\u00f6r en of\u00f6rgl\u00f6mlig hemmakv\u00e4ll inspirerad av glamouren fr\u00e5n ett lyxigt casino? H\u00e4r \u00e4r guiden f\u00f6r hur du skapar den perfekta\u00a0...",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "De popul\u00e4raste drinkarna p\u00e5 v\u00e4rldens casinon",
+      "url": "https://www.livetsgoda.se/de-popularaste-drinkarna-pa-varldens-casinon/",
+      "snippet": "Nov 21, 2024 \u2014 Martini, Negroni, Whiskey sour och Mojito \u00e4r exempel p\u00e5 drinkar som \u00e4r popul\u00e4ra v\u00e4rlden \u00f6ver och passar v\u00e4l in i eleganta casinomilj\u00f6er.",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "Vin, mat och casino i Sverige",
+      "url": "https://www.livetsgoda.se/vin-mat-och-casino-i-sverige/",
+      "snippet": "Oct 11, 2024 \u2014 Ett st\u00e4lle som erbjuder spel p\u00e5 casino \u00e4r O'learys i V\u00e4xj\u00f6, f\u00f6r att ta ett av m\u00e5nga exempel. Det kanske inte \u00e4r det b\u00e4sta st\u00e4llet om man vill\u00a0...",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Wunderino Slots Casino: En rolig och sp\u00e4nnande ...",
+      "url": "https://www.livetsgoda.se/wunderino-slots-casino-en-rolig-och-spannande-spelupplevelse/",
+      "snippet": "Feb 10, 2025 \u2014 223. Wunderino Slots Casino \u00e4r en popul\u00e4r onlinecasinoplattform som erbjuder ett brett utbud av spelautomater och andra casinofavoriter.",
+      "rank_absolute": 8,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "Smakernas v\u00e4rld och casinospel: en guide till ...",
+      "url": "https://www.livetsgoda.se/smakernas-varld-och-casinospel-en-guide-till-gourmetupplevelser/",
+      "snippet": "Dec 1, 2024 \u2014 Att s\u00e4tta scenen f\u00f6r en kv\u00e4ll fylld med gourmetmat och casinospel b\u00f6rjar med detaljerna; fr\u00e5n bordsdukningen till val av glas f\u00f6r vinprovning.",
+      "rank_absolute": 9,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "De b\u00e4sta casinospelen att spela online",
+      "url": "https://www.livetsgoda.se/de-basta-casinospelen-att-spela-online/",
+      "snippet": "Jun 6, 2025 \u2014 Med ett stort utbud av casinospel finns det gott om alternativ b\u00e5de f\u00f6r nyb\u00f6rjare och erfarna spelare. Slots, bordsspel och live casino \u00e4r\u00a0...",
+      "rank_absolute": 10,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "Skillnaden mellan svenska och utl\u00e4ndska casinon - Livets Goda",
+      "url": "https://www.livetsgoda.se/skillnaden-mellan-svenska-och-utlandska-casinon-2/",
+      "snippet": "Jul 12, 2025 \u2014 158. N\u00e4r det kommer till att v\u00e4lja ett casino att spela p\u00e5, st\u00e5r m\u00e5nga inf\u00f6r valet mellan svenska casinon och utl\u00e4ndska casinon.",
+      "rank_absolute": 11,
+      "rank_group": 11,
+      "result_type": "items"
+    },
+    {
+      "title": "Hur kommer det sig att stanna inne \u00e4r det nya \u201cg\u00e5 ut\u201d bland ...",
+      "url": "https://www.livetsgoda.se/hur-kommer-det-sig-att-stanna-inne-ar-det-nya-ga-ut-bland-casinospelare/",
+      "snippet": "Apr 25, 2025 \u2014 Allt fler svenskar v\u00e4ljer att spela casino hemma fr\u00e5n soffan ist\u00e4llet f\u00f6r att bes\u00f6ka fysiska casinon. Denna f\u00f6r\u00e4ndring i beteende handlar om\u00a0...",
+      "rank_absolute": 12,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "Fakta om bonusar p\u00e5 casinon utan svensk licens - Livets Goda",
+      "url": "https://www.livetsgoda.se/fakta-om-bonusar-pa-casinon-utan-svensk-licens-hur-mycket-mer-far-man-jamfort-med-svenska-casinon/",
+      "snippet": "Jun 23, 2025 \u2014 Ett casino utan svensk licens \u00e4r ett onlinecasino som inte \u00e4r reglerat av Spelinspektionen. ... F\u00f6r att ge ett b\u00e4ttre perspektiv p\u00e5 hur mycket mer\u00a0...",
+      "rank_absolute": 13,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "Upplevelser som kombinerar vin med sp\u00e4nning - Livets Goda",
+      "url": "https://www.livetsgoda.se/upplevelser-som-kombinerar-vin-med-spanning/",
+      "snippet": "Jan 20, 2025 \u2014 Casino Cosmopol, Stockholm \u00b7 H\u00f4tel de Paris Monte-Carlo, Monaco \u00b7 Bellagio, Las Vegas \u00b7 Frescobaldi, Toscana.",
+      "rank_absolute": 14,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "Bonusar och erbjudanden fr\u00e5n utl\u00e4ndska casinon - Livets Goda",
+      "url": "https://www.livetsgoda.se/bonusar-och-erbjudanden-fran-utlandska-casinon-oversikt-over-villkoren/",
+      "snippet": "Jun 18, 2025 \u2014 Vad \u00e4r ett casino utan licens? F\u00f6r att f\u00f6rst\u00e5 vad bonusar och erbjudanden fr\u00e5n casinon utan licens inneb\u00e4r, \u00e4r det viktigt att definiera vad ett\u00a0...",
+      "rank_absolute": 15,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "casino-arkiv - Vinmagasinet Livets Goda / Wine Magazine",
+      "url": "https://www.livetsgoda.se/tag/casino/",
+      "snippet": "casino \u00b7 Hur de nya spelreglerna f\u00f6r\u00e4ndrar den svenska spelmarknaden \u00b7 Hur Las Vegas casinon anv\u00e4nder dofter f\u00f6r att man ska spendera mer \u00b7 Den kulinariska\u00a0...",
+      "rank_absolute": 16,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "Tips p\u00e5 en bra utekv\u00e4ll i Stockholm med goda viner",
+      "url": "https://www.livetsgoda.se/tips-pa-en-bra-utekvall-i-stockholm-med-goda-viner/",
+      "snippet": "Feb 13, 2025 \u2014 Det kan n\u00e4mligen bli aktuellt att st\u00e4nga Casino Cosmopol i Stockholm p\u00e5 lite l\u00e4ngre sikt. En utredning har startat och mycket talar f\u00f6r en\u00a0...",
+      "rank_absolute": 17,
+      "rank_group": 17,
+      "result_type": "items"
+    },
+    {
+      "title": "Champagne, cigarrer och casinokv\u00e4llar - Livets Goda",
+      "url": "https://www.livetsgoda.se/champagne-cigarrer-och-casinokvallar/",
+      "snippet": "Aug 15, 2025 \u2014 Varje legendariskt casino har sina egna drinkar. P\u00e5 casinot i Monaco serveras Casino Royale, en blandning av gin, apelsinlik\u00f6r och ett st\u00e4nk\u00a0...",
+      "rank_absolute": 18,
+      "rank_group": 18,
+      "result_type": "items"
+    },
+    {
+      "title": "S\u00e4kerhet och spelansvar p\u00e5 online casino - Livets Goda",
+      "url": "https://www.livetsgoda.se/sakerhet-och-spelansvar-pa-online-casino-en-omfattande-guide-for-ansvarsfullt-spelande/",
+      "snippet": "Apr 19, 2024 \u2014 Att spela p\u00e5 online casino kan vara en underh\u00e5llande och sp\u00e4nnande fritidsaktivitet, men det \u00e4r mycket viktigt att komma ih\u00e5g att det ocks\u00e5\u00a0...",
+      "rank_absolute": 19,
+      "rank_group": 19,
+      "result_type": "items"
+    },
+    {
+      "title": "Hur gourmetmiddag och casinospel skapar rikare \u00f6gonblick",
+      "url": "https://www.livetsgoda.se/livets-lyx-hur-gourmetmiddag-och-casinospel-skapar-rikare-ogonblick/",
+      "snippet": "Sep 11, 2025 \u2014 Tv\u00e5 tydliga uttryck f\u00f6r detta \u00e4r gourmetmiddag och casino underh\u00e5llning. Den ena bjuder p\u00e5 kulinariska upplevelser, den andra p\u00e5\u00a0...",
+      "rank_absolute": 20,
+      "rank_group": 20,
+      "result_type": "items"
+    },
+    {
+      "title": "Njut av god mat och spel p\u00e5 ett casino",
+      "url": "https://www.livetsgoda.se/njut-av-god-mat-och-spel-pa-ett-casino/",
+      "snippet": "Mar 14, 2023 \u2014 De vanligaste slotsen \u00e4r klassiska slots, video slots och progressiva jackpots. Klassiska slots har tre hjul med symboler som ska matchas f\u00f6r\u00a0...",
+      "rank_absolute": 21,
+      "rank_group": 21,
+      "result_type": "items"
+    },
+    {
+      "title": "S\u00e5 fixar du perfekta temafesten \u2013 f\u00e5 tips p\u00e5 mat, dryck ...",
+      "url": "https://www.livetsgoda.se/sa-fixar-du-perfekta-temafesten-fa-tips-pa-mat-dryck-dekorationer-och-kladsel/",
+      "snippet": "Sep 10, 2024 \u2014 Att arrangera en temafest \u00e4r alltid ett roligt s\u00e4tt att samla v\u00e4nnerna. Med ett tema f\u00e5r ni direkt fart p\u00e5 festen. \u00b7 Back to the 80's \u00b7 Casino-\u00a0...",
+      "rank_absolute": 22,
+      "rank_group": 22,
+      "result_type": "items"
+    },
+    {
+      "title": "Hur de mest v\u00e4lk\u00e4nda casinospelen fungerar - Livets Goda",
+      "url": "https://www.livetsgoda.se/hur-de-mest-valkanda-casinospelen-fungerar/",
+      "snippet": "May 21, 2024 \u2014 Det finns allt fr\u00e5n traditionella kortspel som roulette, blackjack, poker och baccarat till spelautomater, skraplotter och Keno. I den h\u00e4r\u00a0...",
+      "rank_absolute": 23,
+      "rank_group": 23,
+      "result_type": "items"
+    },
+    {
+      "title": "Utforska sp\u00e4nnande casinon utomlands f\u00f6r en trevlig kv\u00e4ll ...",
+      "url": "https://www.livetsgoda.se/utforska-spannande-casinon-utomlands-for-en-trevlig-kvall-hemma/",
+      "snippet": "Dec 1, 2023 \u2014 Det \u00e4r en perfekt l\u00f6sning f\u00f6r en trevlig kv\u00e4ll hemma i soffan n\u00e4r du vill ha lite extra underh\u00e5llning. Att spela online casino utan svensk\u00a0...",
+      "rank_absolute": 24,
+      "rank_group": 24,
+      "result_type": "items"
+    },
+    {
+      "title": "Bes\u00f6k v\u00e4rldens b\u00e4sta barer \u2013 5 tips - Livets Goda",
+      "url": "https://www.livetsgoda.se/besok-varldens-basta-barer-5-tips/",
+      "snippet": "Dec 16, 2024 \u2014 En bar v\u00e4rd att n\u00e4mna, som dessutom \u00e4r \u00f6ppen 24 timmar om dygnet, \u00e4r Baccarat Bar i Las Vegas. ... F\u00f6r att forts\u00e4tta i casino-inspirerade sp\u00e5ret\u00a0...",
+      "rank_absolute": 25,
+      "rank_group": 25,
+      "result_type": "items"
+    },
+    {
+      "title": "Den V\u00e4xande Trenden med Spelifiering i Onlinekasinon",
+      "url": "https://www.livetsgoda.se/den-vaxande-trenden-med-spelifiering-i-onlinekasinon-hur-tekniken-forandrar-spelet/",
+      "snippet": "Apr 22, 2025 \u2014 I onlinekasinon betyder detta att man l\u00e4gger till interaktiva lager till vanliga spel som slots, poker och blackjack. Resultatet \u00e4r en\u00a0...",
+      "rank_absolute": 26,
+      "rank_group": 26,
+      "result_type": "items"
+    },
+    {
+      "title": "Framtidens spelande: Anv\u00e4ndandet av VR f\u00f6r casinon",
+      "url": "https://www.livetsgoda.se/framtidens-spelande-anvandandet-av-vr-for-casinon/",
+      "snippet": "Jan 8, 2025 \u2014 Spela casino i en v\u00e4rld du v\u00e4ljer, vart du \u00e4n befinner dig med hj\u00e4lp av ett VR-headset. Kanske ser den framtida spelmarknaden ut precis s\u00e5?",
+      "rank_absolute": 27,
+      "rank_group": 27,
+      "result_type": "items"
+    },
+    {
+      "title": "Den Svenska Temans Uppg\u00e5ng i Slots och Casinospel",
+      "url": "https://www.livetsgoda.se/den-svenska-temans-uppgang-i-slots-och-casinospel-en-kulturell-utforskning/",
+      "snippet": "Sep 12, 2025 \u2014 Ett snabbt bes\u00f6k p\u00e5 Swift Casino visar en v\u00e4xande samling av slots som vackert f\u00e5ngar essensen av svensk kultur. H\u00e4r snurrar spelarna inte\u00a0...",
+      "rank_absolute": 28,
+      "rank_group": 28,
+      "result_type": "items"
+    },
+    {
+      "title": "\u00d6vriga nyheter-arkiv - Sida 8 av 89 - Livets Goda",
+      "url": "https://www.livetsgoda.se/nyhet/ovriganyheter/page/8/",
+      "snippet": "Allt man beh\u00f6ver veta innan man spelar online casino live. av Livets Goda 2025-06-10. 2025-06-10. Nyheter \u00b7 De b\u00e4sta casinospelen att spela online. av Livets\u00a0...",
+      "rank_absolute": 29,
+      "rank_group": 29,
+      "result_type": "items"
+    },
+    {
+      "title": "Udbetalingsmetoder til kasinoer uden ROFUS: Hastighed og ...",
+      "url": "https://www.livetsgoda.se/udbetalingsmetoder-til-kasinoer-uden-rofus-hastighed-og-palidelighed/",
+      "snippet": "Apr 3, 2025 \u2014 Hvis du leder efter det bedste casino uden rofus, b\u00f8r du ikke kun fokusere p\u00e5 bonusser og spil, men ogs\u00e5 p\u00e5 hvilke betalingsmetoder der tilbydes\u00a0...",
+      "rank_absolute": 30,
+      "rank_group": 30,
+      "result_type": "items"
+    },
+    {
+      "title": "Varf\u00f6r ska du spela hos n\u00e4tcasinon utan svensk licens?",
+      "url": "https://www.livetsgoda.se/varfor-ska-du-spela-hos-natcasinon-utan-svensk-licens/",
+      "snippet": "Jul 31, 2023 \u2014 KOI casino review ... Ett annat popul\u00e4rt n\u00e4tcasino som kontrolleras av en Cura\u00e7ao-licens. Koi casino kontrolleras av bolaget Njord Ventures BV,\u00a0...",
+      "rank_absolute": 31,
+      "rank_group": 31,
+      "result_type": "items"
+    },
+    {
+      "title": "Den perfekta vinkv\u00e4llen \u2013 5 kreativa id\u00e9er som man kanske ...",
+      "url": "https://www.livetsgoda.se/den-perfekta-vinkvallen-5-kreativa-ideer-som-man-kanske-inte-har-tankt-pa/",
+      "snippet": "May 27, 2025 \u2014 N\u00e4r vinprovningen \u00e4r \u00f6ver \u00e4r det dags att njuta av ostbrickan, tilltugg och de viner man gillade b\u00e4st. Kolla in denna lista \u00f6ver casino utan\u00a0...",
+      "rank_absolute": 32,
+      "rank_group": 32,
+      "result_type": "items"
+    },
+    {
+      "title": "Plinko online \u2013 Enkel spelgl\u00e4dje f\u00f6r svenska spelare",
+      "url": "https://www.livetsgoda.se/plinko-online-enkel-spelgladje-for-svenska-spelare/",
+      "snippet": "Apr 24, 2025 \u2014 Vissa sidor listar spelet under rubriker som plinko casino, d\u00e4r det erbjuds allt fr\u00e5n klassiska br\u00e4dor till mer fantasifulla varianter. Ett\u00a0...",
+      "rank_absolute": 33,
+      "rank_group": 33,
+      "result_type": "items"
+    },
+    {
+      "title": "Livsnjutaren James Bond \u2013 mer \u00e4n bara martini - Livets Goda",
+      "url": "https://www.livetsgoda.se/livsnjutaren-james-bond-mer-an-bara-martini/",
+      "snippet": "Sep 19, 2024 \u2014 Livsnjutaren med r\u00e4tt att spela? I n\u00e4stan alla James Bond-filmer f\u00f6rekommer det scener d\u00e4r agenten befinner sig p\u00e5 ett casino f\u00f6r att ta reda p\u00e5\u00a0...",
+      "rank_absolute": 34,
+      "rank_group": 34,
+      "result_type": "items"
+    },
+    {
+      "title": "Spelande p\u00e5 en arbetssemester: B\u00e4st med mobil eller laptop?",
+      "url": "https://www.livetsgoda.se/spelande-pa-en-arbetssemester-bast-med-mobil-eller-laptop/",
+      "snippet": "Sep 24, 2024 \u2014 Dessutom finns det p\u00e5 Instant Casino ett brett utbud av mobilspel som \u00e4r anpassade f\u00f6r kortare spelsessioner, vilket g\u00f6r dem idealiska f\u00f6r\u00a0...",
+      "rank_absolute": 35,
+      "rank_group": 35,
+      "result_type": "items"
+    },
+    {
+      "title": "Varf\u00f6r har casino utan svensk licens blivit popul\u00e4ra",
+      "url": "https://www.livetsgoda.se/varfor-har-casino-utan-svensk-licens-blivit-populara/",
+      "snippet": "Oct 19, 2021 \u2014 2,5K. Casinon utan licens har blivit en allt st\u00f6rre marknad i Sverige, s\u00e4rskilt efter att den nya reglerade spellagen inf\u00f6rs.",
+      "rank_absolute": 36,
+      "rank_group": 36,
+      "result_type": "items"
+    },
+    {
+      "title": "Ansvarsfullt spelande p\u00e5 ChachaBet Casino: En balans ...",
+      "url": "https://www.livetsgoda.se/chachabet-casino-tips-for-ansvarsfullt-spelande/",
+      "snippet": "Jan 24, 2025 \u2014 Casino arbetar st\u00e4ndigt f\u00f6r att spelentusiaster ska hitta en balans i sitt spelande. I den h\u00e4r artikeln kommer man g\u00e5 igenom viktiga tips\u00a0...",
+      "rank_absolute": 37,
+      "rank_group": 37,
+      "result_type": "items"
+    },
+    {
+      "title": "De mest popul\u00e4ra casinospelen att spela online - Livets Goda",
+      "url": "https://www.livetsgoda.se/de-mest-populara-casinospelen-att-spela-online/",
+      "snippet": "Sep 9, 2025 \u2014 Varf\u00f6r spelare v\u00e4ljer onlineplattformar \u00b7 Slots: Den tidl\u00f6sa favoriten \u00b7 Lockelsen med Roulette \u00b7 Blackjack: Spelet om skicklighet och strategi.",
+      "rank_absolute": 38,
+      "rank_group": 38,
+      "result_type": "items"
+    },
+    {
+      "title": "Alkohol och Online Casino: en farlig cocktail - - Livets Goda",
+      "url": "https://www.livetsgoda.se/alkohol-och-online-casino-en-farlig-cocktail/",
+      "snippet": "Jun 15, 2023 \u2014 Det har blivit allt vanligare att m\u00e4nniskor v\u00e4ljer att koppla av med en drink i handen samtidigt som de spelar p\u00e5 online casinon.",
+      "rank_absolute": 39,
+      "rank_group": 39,
+      "result_type": "items"
+    },
+    {
+      "title": "Venetian Macao \u2013 V\u00e4rldens lyxigaste casino? - Livets Goda",
+      "url": "https://www.livetsgoda.se/venetian-macao-varldens-lyxigaste-casino/",
+      "snippet": "Jun 1, 2020 \u2014 Har du n\u00e5gonsin bes\u00f6kt ett riktigt fl\u00e5digt casino? Om inte s\u00e5 borde man verkligen unna dig en riktigt lyxsemester n\u00e5gon g\u00e5ng! Just nu \u00e4r det\u00a0...",
+      "rank_absolute": 40,
+      "rank_group": 40,
+      "result_type": "items"
+    },
+    {
+      "title": "H\u00f4tel de Paris \u2013 ett paradis f\u00f6r vin\u00e4lskaren - Livets Goda",
+      "url": "https://www.livetsgoda.se/hotel-de-paris-ett-paradis-for-vinalskaren/",
+      "snippet": "Apr 10, 2024 \u2014 I dag \u00e4r det kanske mest ber\u00f6mt f\u00f6r sin tid med Hollywoodstj\u00e4rnan Grace Kelly som furstinna och sitt klassiska casino, som har blivit en stark\u00a0...",
+      "rank_absolute": 41,
+      "rank_group": 41,
+      "result_type": "items"
+    },
+    {
+      "title": "RTP och volatilitetsniv\u00e5er: Hur de p\u00e5verkar spelandet",
+      "url": "https://www.livetsgoda.se/rtp-och-volatilitetsnivaer-hur-de-paverkar-spelandet/",
+      "snippet": "Aug 5, 2025 \u2014 Maria Casino erbjuder en rad olika spel med varierande RTP- och volatilitetsniv\u00e5er, vilket ger spelarna en bred valm\u00f6jlighet beroende p\u00e5\u00a0...",
+      "rank_absolute": 42,
+      "rank_group": 42,
+      "result_type": "items"
+    },
+    {
+      "title": "Allt om casino utan Spelpaus - Livets Goda",
+      "url": "https://www.livetsgoda.se/allt-om-casino-utan-spelpaus/",
+      "snippet": "Feb 9, 2022 \u2014 Namn som casino utan svensk licens, casino utan Spelpaus och casino utan BankID \u00e4r frekvent anv\u00e4nda, f\u00f6r att n\u00e4mna n\u00e5gra. I denna artikel\u00a0...",
+      "rank_absolute": 43,
+      "rank_group": 43,
+      "result_type": "items"
+    },
+    {
+      "title": "Upplev en lyxig helkv\u00e4ll med gourmetmat och sp\u00e4nning p\u00e5 ...",
+      "url": "https://www.livetsgoda.se/upplev-en-lyxig-helkvall-med-gourmetmat-och-spanning-pa-nya-casinon/",
+      "snippet": "May 17, 2024 \u2014 Att blanda en lyxig middag med sp\u00e4nningen fr\u00e5n nya online casino kan tyckas som en ovanlig kombination, men f\u00f6r m\u00e5nga \u00e4r det en idealisk mix f\u00f6r\u00a0...",
+      "rank_absolute": 44,
+      "rank_group": 44,
+      "result_type": "items"
+    },
+    {
+      "title": "casino royale-arkiv - Vinmagasinet Livets Goda / Wine Magazine",
+      "url": "https://www.livetsgoda.se/tag/casino-royale/",
+      "snippet": "Feb 21, 2020 \u2014 H\u00e4r \u00e4r de b\u00e4sta drinkarna fr\u00e5n popul\u00e4rkultur \u2013 inklusive Vesper fr\u00e5n Casino Royale \u00b7 NYA UTG\u00c5VOR \u00b7 LG & MUSIKEN \u00b7 Platsannonser \u00b7 Utvalda utg\u00e5vor.",
+      "rank_absolute": 45,
+      "rank_group": 45,
+      "result_type": "items"
+    },
+    {
+      "title": "Nya casinon med svensk licens - Livets Goda",
+      "url": "https://www.livetsgoda.se/nya-casinon-med-svensk-licens/",
+      "snippet": "Sep 16, 2024 \u2014 En svensk spellicens utf\u00e4rdas av Spelinspektionen, som \u00e4r den myndighet som \u00f6vervakar och reglerar spelmarknaden i Sverige. F\u00f6r att ett casino ...",
+      "rank_absolute": 46,
+      "rank_group": 46,
+      "result_type": "items"
+    },
+    {
+      "title": "En guide till v\u00e4rldsklass fine dining - Livets Goda",
+      "url": "https://www.livetsgoda.se/en-guide-till-varldsklass-fine-dining/",
+      "snippet": "Oct 28, 2024 \u2014 M\u00e5nga saker h\u00e5ller sig fortfarande klassiska, som att servera passande viner till r\u00e4tterna. Detta g\u00e4ller \u00e4ven inom spelmilj\u00f6er, d\u00e4r m\u00e5nga casino ...",
+      "rank_absolute": 47,
+      "rank_group": 47,
+      "result_type": "items"
+    },
+    {
+      "title": "5 f\u00f6rdelar med casinon utan svensk licens - Livets Goda",
+      "url": "https://www.livetsgoda.se/152470-2/",
+      "snippet": "Jan 20, 2025 \u2014 A group of people playing gambling in a casino. Artikeln \u00e4r i samarbete med casinoutansvensklicens och uttrycker inte Livets Godas \u00e5sikter.",
+      "rank_absolute": 48,
+      "rank_group": 48,
+      "result_type": "items"
+    },
+    {
+      "title": "Drinkar f\u00f6r casinorelaterade evenemang - Livets Goda",
+      "url": "https://www.livetsgoda.se/drinkar-for-casinorelaterade-evenemang/",
+      "snippet": "Sep 8, 2023 \u2014 ... Casino utan svensk licens eller \u00e4r p\u00e5 en fest med casinotema. Drinkar och casinon g\u00e5r hand i hand och det finns m\u00e5nga popul\u00e4ra och svalkande\u00a0...",
+      "rank_absolute": 49,
+      "rank_group": 49,
+      "result_type": "items"
+    },
+    {
+      "title": "Match med gott s\u00e4llskap - Livets Goda",
+      "url": "https://www.livetsgoda.se/match-med-gott-sallskap/",
+      "snippet": "Nov 3, 2022 \u2014 ... casino. De flesta online casino erbjuder olika typer av spel s\u00e5som sport, live casino och bordsspel. Slots \u00e4r den st\u00f6rsta kategorin inom\u00a0...",
+      "rank_absolute": 50,
+      "rank_group": 50,
+      "result_type": "items"
+    },
+    {
+      "title": "Kontantl\u00f6sa betalningar omformar Sveriges restauranger",
+      "url": "https://www.livetsgoda.se/kontantlosa-betalningar-omformar-sveriges-restauranger/",
+      "snippet": "Oct 21, 2024 \u2014 Denna trend \u00e4r en del av en bredare r\u00f6relse mot digitala betalningsl\u00f6sningar, d\u00e4r \u00e4ven casino med Swish variationer spelar en avg\u00f6rande roll.",
+      "rank_absolute": 51,
+      "rank_group": 51,
+      "result_type": "items"
+    },
+    {
+      "title": "Spellokaler bel\u00e4gna i hj\u00e4rtat av Europas b\u00e4sta ving\u00e5rdar",
+      "url": "https://www.livetsgoda.se/spellokaler-belagna-i-hjartat-av-europas-basta-vingardar/",
+      "snippet": "Aug 22, 2025 \u2014 H\u00e4r finns vackra vyer, goda viner och roliga spelhallar d\u00e4r du kan spela allt fr\u00e5n roulette till klassiska spelautomater. Casino och vin i en\u00a0...",
+      "rank_absolute": 52,
+      "rank_group": 52,
+      "result_type": "items"
+    },
+    {
+      "title": "F\u00f6rst\u00e5 de Viktigaste iGaming-trenderna 2024 - Livets Goda",
+      "url": "https://www.livetsgoda.se/forsta-de-viktigaste-igaming-trenderna-2024/",
+      "snippet": "Oct 8, 2024 \u2014 N\u00e5got som har varit ett riktigt hett \u00e4mne de senaste \u00e5ret \u00e4r Artificiell Intelligens och automatisering. N\u00e4r det kommer till casino online s\u00e5 \u00e4r\u00a0...",
+      "rank_absolute": 53,
+      "rank_group": 53,
+      "result_type": "items"
+    },
+    {
+      "title": "Skillnaden mellan svenska och utl\u00e4ndska casinon - Livets Goda",
+      "url": "https://www.livetsgoda.se/skillnaden-mellan-svenska-och-utlandska-casinon/",
+      "snippet": "Jan 2, 2022 \u2014 N\u00e4r man ska ha en kv\u00e4ll p\u00e5 ett fysiskt casino tillkommer det ofta kostnader f\u00f6r mat, dryck och transport som man slipper n\u00e4r man spelar online.",
+      "rank_absolute": 54,
+      "rank_group": 54,
+      "result_type": "items"
+    },
+    {
+      "title": "Den stora guiden till bonusjakt hos utl\u00e4ndska casinon",
+      "url": "https://www.livetsgoda.se/den-stora-guiden-till-bonusjakt-hos-utlandska-casinon-strategin-du-inte-vill-missa/",
+      "snippet": "May 10, 2023 \u2014 D\u00e4rf\u00f6r har man satt strikta begr\u00e4nsningar p\u00e5 vad casinon f\u00e5r erbjuda. Ett casino f\u00e5r n\u00e4mligen endast ge ut en bonus per spelare enligt nuvarande\u00a0...",
+      "rank_absolute": 55,
+      "rank_group": 55,
+      "result_type": "items"
+    },
+    {
+      "title": "Grundl\u00e4ggande principer f\u00f6r utveckling och reglering av ...",
+      "url": "https://www.livetsgoda.se/grundlaggande-principer-for-utveckling-och-reglering-av-onlinespel-i-sverige-2022/",
+      "snippet": "Jun 20, 2022 \u2014 ... casino-minsta-insattning. \u00c5r 2022 slutar inte indikatorerna f\u00f6r onlinespel att \u00f6ka. Nu i Sverige kan du enkelt skaffa en licens, bli sponsor\u00a0...",
+      "rank_absolute": 56,
+      "rank_group": 56,
+      "result_type": "items"
+    },
+    {
+      "title": "Stor guide: Para cocktails och tilltugg med popul\u00e4ra casinospel",
+      "url": "https://www.livetsgoda.se/stor-guide-parar-cocktails-och-tilltugg-med-populara-casinospel/",
+      "snippet": "Sep 4, 2024 \u2014 ... casino. \u00c4ven om det \u00e4r bekv\u00e4mt att sitta hemma i soffan och spela, s\u00e5 missar man lite av den d\u00e4r livsnjutningen som en natt p\u00e5 casinot kan\u00a0...",
+      "rank_absolute": 57,
+      "rank_group": 57,
+      "result_type": "items"
+    },
+    {
+      "title": "Psykologin bakom casinobonusar: Hur de f\u00e5r en att forts\u00e4tta ...",
+      "url": "https://www.livetsgoda.se/psykologin-bakom-casinobonusar-hur-de-far-en-att-fortsatta-spela/",
+      "snippet": "Apr 28, 2025 \u2014 Bonusar \u00e4r en stor del till varf\u00f6r spelare forts\u00e4tter att \u00e5terkommande spela p\u00e5 ett casino och de psykologiska effekterna bakom det kommer att\u00a0...",
+      "rank_absolute": 58,
+      "rank_group": 58,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino utan svensk licens guiden - Livets Goda",
+      "url": "https://www.livetsgoda.se/casino-utan-svensk-licens-guiden/",
+      "snippet": "Feb 28, 2023 \u2014 Internationella casinon utan svensk licens erbjuder fler spelalternativ och bonusar som du inte hittar p\u00e5 de svenska casinona. Men det \u00e4r\u00a0...",
+      "rank_absolute": 59,
+      "rank_group": 59,
+      "result_type": "items"
+    },
+    {
+      "title": "Kan man bli smartare av att spela kort? - Livets Goda",
+      "url": "https://www.livetsgoda.se/kan-man-bli-smartare-av-att-spela-kort/",
+      "snippet": "Feb 10, 2025 \u2014 Poker och andra kortspel \u00e4r allts\u00e5 alltid tillg\u00e4ngliga! Poker \u2013 mer \u00e4n bara tur. Poker \u00e4r ett utm\u00e4rkt exempel p\u00e5 ett kortspel som kr\u00e4ver b\u00e5de\u00a0...",
+      "rank_absolute": 60,
+      "rank_group": 60,
+      "result_type": "items"
+    },
+    {
+      "title": "N\u00e5gra av Stockholms b\u00e4sta barer \u2013 fem st\u00e4llen du inte f\u00e5r missa",
+      "url": "https://www.livetsgoda.se/nagra-av-stockholms-basta-barer-fem-stallen-du-inte-far-missa/",
+      "snippet": "Sep 30, 2024 \u2014 Casino Cosmopol: Alkoholfria innovationer \u00b7 Lucy's Flower Shop: En hemlig cocktailoas \u00b7 Tjoget: S\u00f6dermalms p\u00e4rla \u00b7 Pharmarium: Historia och\u00a0...",
+      "rank_absolute": 61,
+      "rank_group": 61,
+      "result_type": "items"
+    },
+    {
+      "title": "Tips: Exklusiva vinerna som serveras p\u00e5 eleganta barer och ...",
+      "url": "https://www.livetsgoda.se/tips-exklusiva-vinerna-som-serveras-pa-eleganta-barer-och-framstaende-casinon/",
+      "snippet": "Sep 30, 2025 \u2014 Ett steg p\u00e5 v\u00e4gen kan till exempel vara att provspela p\u00e5 ett online casino som infiniza-casinos.com f\u00f6r betydligt l\u00e4gre insatser. Samtidigt\u00a0...",
+      "rank_absolute": 62,
+      "rank_group": 62,
+      "result_type": "items"
+    },
+    {
+      "title": "Vin- och cocktailtips f\u00f6r casinobes\u00f6kare - Livets Goda",
+      "url": "https://www.livetsgoda.se/vin-och-cocktailtips-for-casinobesokare/",
+      "snippet": "Sep 25, 2023 \u2014 N\u00e4r man befinner sig p\u00e5 ett casino kan man v\u00e4lja drycker som passar till milj\u00f6n och som kan f\u00f6rh\u00f6ja spelupplevelsen. En klassisk cocktail som\u00a0...",
+      "rank_absolute": 63,
+      "rank_group": 63,
+      "result_type": "items"
+    },
+    {
+      "title": "Nostalgitripp med casino utan spelpaus - Livets Goda",
+      "url": "https://www.livetsgoda.se/nostalgitripp-med-casino-utan-spelpaus/",
+      "snippet": "Sep 21, 2021 \u2014 784. Man kan se det framf\u00f6r sig: den ikoniska casino-scenen ur dina filmklassiker. V\u00e4lkl\u00e4dda minglare som smuttar p\u00e5 v\u00e4rldens finaste\u00a0...",
+      "rank_absolute": 64,
+      "rank_group": 64,
+      "result_type": "items"
+    },
+    {
+      "title": "Vesper Martini: Den ursprungliga Bond-drinken - Livets Goda",
+      "url": "https://www.livetsgoda.se/vesper-martini-den-ursprungliga-bond-drinken/",
+      "snippet": "Oct 18, 2022 \u2014 Det h\u00e4r str\u00e4cker sig fr\u00e5n baccarat (flera filmer) och craps (Diamonds Are Forever) till blackjack (Licence to Kill) och poker (Casino Royale).",
+      "rank_absolute": 65,
+      "rank_group": 65,
+      "result_type": "items"
+    },
+    {
+      "title": "Skapa ett virtuellt casino med mat och dryck - Livets Goda",
+      "url": "https://www.livetsgoda.se/skapa-ett-virtuellt-casino-med-mat-och-dryck/",
+      "snippet": "Jul 26, 2021 \u2014 Att spela casino online \u00e4r oerh\u00f6rt popul\u00e4rt, s\u00e5 du har s\u00e4kert n\u00e5gra v\u00e4nner som delar detta intresse med dig. F\u00f6r att g\u00f6ra det mer intressant\u00a0...",
+      "rank_absolute": 66,
+      "rank_group": 66,
+      "result_type": "items"
+    },
+    {
+      "title": "Spel med vin & mat-tema p\u00e5 casino utan Spelpaus - Livets Goda",
+      "url": "https://www.livetsgoda.se/spel-med-vin-mat-tema-pa-casino-utan-spelpaus/",
+      "snippet": "Dec 24, 2022 \u2014 Idag finns det m\u00e4ngder av trevliga casinospel som kretsar kring mat och vin p\u00e5 casino utan svensk licens. S\u00e5 om du \u00e4r intresserad av whiskey,\u00a0...",
+      "rank_absolute": 67,
+      "rank_group": 67,
+      "result_type": "items"
+    },
+    {
+      "title": "N\u00e5gra drinkar f\u00f6r att njuta av casinospel - Livets Goda",
+      "url": "https://www.livetsgoda.se/nagra-drinkar-for-att-njuta-av-casinospel/",
+      "snippet": "Jun 21, 2022 \u2014 Online casino som under pandemin blev popul\u00e4ra ... N\u00e4r pandemin b\u00f6rjades i mars 2020 b\u00f6rjade m\u00e5nga spelare byta sina favorit landbaserade casinon\u00a0...",
+      "rank_absolute": 68,
+      "rank_group": 68,
+      "result_type": "items"
+    },
+    {
+      "title": "Vin och hobby - En perfekt kombination - - Livets Goda",
+      "url": "https://www.livetsgoda.se/vin-och-hobby-en-perfekt-kombination/",
+      "snippet": "Jun 20, 2023 \u2014 Att kombinera njutningen av en hobby s\u00e5som casino med smidiga ins\u00e4ttningar och uttag och en god dryck \u00e4r en oslagbar kombination. F\u00f6r m\u00e5nga\u00a0...",
+      "rank_absolute": 69,
+      "rank_group": 69,
+      "result_type": "items"
+    },
+    {
+      "title": "Hur man parar mat med drycker, vin och mocktails - Livets Goda",
+      "url": "https://www.livetsgoda.se/hur-man-parar-mat-med-drycker-vin-och-mocktails/",
+      "snippet": "Mar 3, 2025 \u2014 En alkoholfri mojito med lime och mynta, kan du avnjuta n\u00e4r du spelar p\u00e5 p\u00e5litliga live casino spel online genom Casumo till exempel. Eller\u00a0...",
+      "rank_absolute": 70,
+      "rank_group": 70,
+      "result_type": "items"
+    },
+    {
+      "title": "Kom ig\u00e5ng med casino utan konto - Livets Goda",
+      "url": "https://www.livetsgoda.se/kom-igang-med-casino-utan-konto/",
+      "snippet": "Mar 25, 2022 \u2014 Kom ig\u00e5ng snabbt och enkelt p\u00e5 casino utan konto. Ta del av gener\u00f6sa bonusar och f\u00f6rm\u00e5nliga villkor som kan \u00f6ka dina vinstchanser.",
+      "rank_absolute": 71,
+      "rank_group": 71,
+      "result_type": "items"
+    },
+    {
+      "title": "Dom b\u00e4sta snacksen till en lyckad casinokv\u00e4ll - Livets Goda",
+      "url": "https://www.livetsgoda.se/dom-basta-snacksen-till-en-lyckad-casinokvall/",
+      "snippet": "Sep 14, 2020 \u2014 ... casino ihop igen, det kanske kan r\u00f6ra sig om lite kortspel eller varf\u00f6r inte spela lite casino online? Fr\u00e5gan \u00e4r nu, vad kan man bjuda p\u00e5\u00a0...",
+      "rank_absolute": 72,
+      "rank_group": 72,
+      "result_type": "items"
+    },
+    {
+      "title": "Macau - \u00d6stasiens motsvarighet till Las Vegas - Livets Goda",
+      "url": "https://www.livetsgoda.se/macau-ostasiens-motsvarighet-till-las-vegas/",
+      "snippet": "Oct 29, 2021 \u2014 Macau \u00e4r hem f\u00f6r ett 40-tal casinon som alla \u00e4r fyllda till bredden med sp\u00e4nning, glitter och glamour. Stadsk\u00e4rnan kantas av aff\u00e4rer d\u00e4r du kan\u00a0...",
+      "rank_absolute": 73,
+      "rank_group": 73,
+      "result_type": "items"
+    },
+    {
+      "title": "Fr\u00e5n ving\u00e5rdar till virtuella v\u00e4rldar: Det nya ansikten av ...",
+      "url": "https://www.livetsgoda.se/fran-vingardar-till-virtuella-varldar-det-nya-ansikten-av-gourmetfritid/",
+      "snippet": "Jul 17, 2025 \u2014 Ett av de mer fascinerande nya inslagen \u00e4r SpacePortswedens guide till casino utan svensk licens. Denna guide presenterar ett kuraterat\u00a0...",
+      "rank_absolute": 74,
+      "rank_group": 74,
+      "result_type": "items"
+    },
+    {
+      "title": "Kombinera festkv\u00e4llen med en rafflande casinoupplevelse",
+      "url": "https://www.livetsgoda.se/kombinera-festkvallen-med-en-rafflande-casinoupplevelse/",
+      "snippet": "Aug 5, 2022 \u2014 3 saker att t\u00e4nka p\u00e5 f\u00f6r en lyckad casinoupplevelse \u00b7 Hitta r\u00e4tt spel f\u00f6r dig \u00b7 Fysiskt casino eller online? \u00b7 Spela inte f\u00f6r mer \u00e4n du har r\u00e5d att\u00a0...",
+      "rank_absolute": 75,
+      "rank_group": 75,
+      "result_type": "items"
+    },
+    {
+      "title": "B\u00f6r man spela p\u00e5 svenska casinon \u00e5ret 2023? - Livets Goda",
+      "url": "https://www.livetsgoda.se/bor-man-spela-pa-svenska-casinon-aret-2023/",
+      "snippet": "Jan 10, 2023 \u2014 N\u00e4r du spelar p\u00e5 ett svenskt casino s\u00e5 har du alltid skattefria vinster och beh\u00f6ver inte deklarera n\u00e5got av ditt spelande, svenska casinon\u00a0...",
+      "rank_absolute": 76,
+      "rank_group": 76,
+      "result_type": "items"
+    },
+    {
+      "title": "Fem klassiska drycker till spelkv\u00e4llen - Livets Goda",
+      "url": "https://www.livetsgoda.se/fem-klassiska-drycker-till-spelkvallen/",
+      "snippet": "Aug 23, 2024 \u2014 Champagne \u2013 n\u00e4r du k\u00e4nner att du redan har vunnit. Inget skriker \u201dcasino\u201d som ett glas bubblande champagne. Det \u00e4r drycken f\u00f6r vinnare, eller\u00a0...",
+      "rank_absolute": 77,
+      "rank_group": 77,
+      "result_type": "items"
+    },
+    {
+      "title": "Historiska Perspektiv p\u00e5 Gastronomi: R\u00f6tterna till Svensk ...",
+      "url": "https://www.livetsgoda.se/historiska-perspektiv-pa-gastronomi-rotterna-till-svensk-matkultur/",
+      "snippet": "Jun 18, 2025 \u2014 Bland dessa alternativ har \u00e4ven plattformar som casino utan spelpaus vunnit popularitet. Anv\u00e4ndare f\u00f6redrar ofta dessa sajter f\u00f6r deras\u00a0...",
+      "rank_absolute": 78,
+      "rank_group": 78,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino utan svensk licens vs. casinon med licens - Livets Goda",
+      "url": "https://www.livetsgoda.se/casino-utan-svensk-licens-vs-casinon-med-licens-vad-ar-skillnaderna/",
+      "snippet": "Jul 31, 2021 \u2014 Det korrekta uttrycket \u00e4r casinon med svensk spellicens. Ett spelbolag kan ha licens i flera l\u00e4nder men om de har en svensk licens och du spelar\u00a0...",
+      "rank_absolute": 79,
+      "rank_group": 79,
+      "result_type": "items"
+    },
+    {
+      "title": "Vad \u00e4r Wunderinos v\u00e4lkomstbonus? - Livets Goda",
+      "url": "https://www.livetsgoda.se/vad-ar-wunderinos-valkomstbonus/",
+      "snippet": "Mar 12, 2025 \u2014 En av dem \u00e4r Wunderino Welcome Bonus, ett bra erbjudande fr\u00e5n detta ansedda tyska online casino. S\u00e5 vad \u00e4r den h\u00e4r bonusen referenserna, och\u00a0...",
+      "rank_absolute": 80,
+      "rank_group": 80,
+      "result_type": "items"
+    },
+    {
+      "title": "Den fina konsten med live dealers: Hur elegans m\u00f6ter ...",
+      "url": "https://www.livetsgoda.se/den-fina-konsten-med-live-dealers-hur-elegans-moter-interaktion-pa-natcasinon/",
+      "snippet": "Sep 11, 2025 \u2014 En stor del av lockelsen kommer fr\u00e5n plattformar som \u00e4r fria fr\u00e5n Sveriges nationella restriktioner. Spelare letar ofta efter b\u00e4sta casino utan\u00a0...",
+      "rank_absolute": 81,
+      "rank_group": 81,
+      "result_type": "items"
+    },
+    {
+      "title": "Upplev Sp\u00e4nningen med Online-Roulette i Sverige hos ...",
+      "url": "https://www.livetsgoda.se/upplev-spanningen-med-online-roulette-i-sverige-hos-mariacasino/",
+      "snippet": "Jun 19, 2025 \u2014 En av de st\u00f6rsta attraktionerna med online-roulette hos Maria Casino \u00e4r de m\u00e5nga alternativ som finns tillg\u00e4ngliga f\u00f6r spelarna. Oavsett om\u00a0...",
+      "rank_absolute": 82,
+      "rank_group": 82,
+      "result_type": "items"
+    },
+    {
+      "title": "De ultimata tilltuggen och dryckerna f\u00f6r en lyckad spelkv\u00e4ll! -",
+      "url": "https://www.livetsgoda.se/de-ultimata-tilltuggen-och-dryckerna-for-en-lyckad-spelkvall/",
+      "snippet": "Jun 29, 2023 \u2014 Magiska smaker och olika tilltugg tar fram det b\u00e4sta med en helkv\u00e4ll av spel och casino. B\u00f6rja med att hitta de r\u00e4tta casinospelen som har\u00a0...",
+      "rank_absolute": 83,
+      "rank_group": 83,
+      "result_type": "items"
+    },
+    {
+      "title": "Weekend i Stockholm \u2013 njut av god mat, vin och n\u00f6jen",
+      "url": "https://www.livetsgoda.se/weekend-i-stockholm-njut-av-god-mat-vin-och-nojen/",
+      "snippet": "Sep 10, 2024 \u2014 Upplevelsen kan sen kr\u00f6nas med ett sp\u00e4nningsfyllt bes\u00f6k p\u00e5 landets enda casino, Casino Cosmopol, bel\u00e4get i de klassiska n\u00f6jeskvarteren runt\u00a0...",
+      "rank_absolute": 84,
+      "rank_group": 84,
+      "result_type": "items"
+    },
+    {
+      "title": "Online casino - optimera upplevelsen - Livets Goda",
+      "url": "https://www.livetsgoda.se/online-casino-optimera-upplevelsen/",
+      "snippet": "Feb 14, 2022 \u2014 910. Online casino \u00e4r en v\u00e4xande digital marknad. Konkurrensen inom utbudet och kvaliteten bidrar till att casinomarknaden \u00e4r i st\u00e4ndig\u00a0...",
+      "rank_absolute": 85,
+      "rank_group": 85,
+      "result_type": "items"
+    },
+    {
+      "title": "Att \u00e5ka p\u00e5 vinresa till USA - Livets Goda",
+      "url": "https://www.livetsgoda.se/att-aka-pa-vinresa-till-usa-en-drom-som-gar-i-uppfyllelse-for-alla-vinalskare/",
+      "snippet": "Jun 9, 2023 \u2014 F\u00f6r de som finner casino och spel intressant \u00e4r USA ett sj\u00e4lvklart resm\u00e5l, eller n\u00e4rmare best\u00e4mt Las Vegas \u2013 det kallas ju f\u00f6r v\u00e4rldens casino ...",
+      "rank_absolute": 86,
+      "rank_group": 86,
+      "result_type": "items"
+    },
+    {
+      "title": "Vilken drink passar dig b\u00e4st till din casino-kv\u00e4ll? - Livets Goda",
+      "url": "https://www.livetsgoda.se/nyheter/vilken-drink-passar-dig-bast-till-din-casino-kvall/",
+      "snippet": "Jan 22, 2018 \u2014 1,9K. Las Vegas har en unik plats i underh\u00e5llningsv\u00e4rlden just eftersom denna n\u00f6jesstad ramar in allt vi f\u00f6rknippar med casino-kulturen.",
+      "rank_absolute": 87,
+      "rank_group": 87,
+      "result_type": "items"
+    },
+    {
+      "title": "Spel, mat och n\u00f6je: Din guide till den perfekta kv\u00e4llen",
+      "url": "https://www.livetsgoda.se/spel-mat-och-noje-din-guide-till-den-perfekta-kvallen/",
+      "snippet": "Dec 2, 2024 \u2014 F\u00f6r dig som vill ha en mer interaktiv upplevelse \u00e4r live casino-spel som blackjack eller roulette perfekta. De ger en k\u00e4nsla av att vara p\u00e5\u00a0...",
+      "rank_absolute": 88,
+      "rank_group": 88,
+      "result_type": "items"
+    },
+    {
+      "title": "Hur man h\u00e5ller sig s\u00e4ker n\u00e4r man spelar online - Livets Goda",
+      "url": "https://www.livetsgoda.se/hur-man-haller-sig-saker-nar-man-spelar-online/",
+      "snippet": "Nov 15, 2022 \u2014 Det \u00e4r \u00e4nd\u00e5 dina pengar som kan st\u00e5 p\u00e5 spel och att f\u00f6rlora pengar p\u00e5 en runda poker eller vid spel p\u00e5 roulette \u00e4r en sak och helt enkelt en del\u00a0...",
+      "rank_absolute": 89,
+      "rank_group": 89,
+      "result_type": "items"
+    },
+    {
+      "title": "vesper martini-arkiv - Livets Goda",
+      "url": "https://www.livetsgoda.se/tag/vesper-martini/",
+      "snippet": "vesper martini. Nyheter \u00b7 Lyxiga drycker som f\u00f6rknippas med casino. av Livets Goda 2020-02-25. 2020-02-25. Fler artiklar. NYA UTG\u00c5VOR. LG & MUSIKEN\u00a0...",
+      "rank_absolute": 90,
+      "rank_group": 90,
+      "result_type": "items"
+    },
+    {
+      "title": "Det goda i livet \u00e4r inte spel och alkohol",
+      "url": "https://www.livetsgoda.se/det-goda-i-livet-ar-inte-spel-och-alkohol/",
+      "snippet": "Dec 1, 2022 \u2014 H\u00e4r kan det handla om betting eller slotspel p\u00e5 utl\u00e4ndska casino. N\u00e5got som d\u00e5 inte g\u00e5r ihop, \u00e4r spel om pengar och alkohol. Artikeln \u00e4r i\u00a0...",
+      "rank_absolute": 91,
+      "rank_group": 91,
+      "result_type": "items"
+    },
+    {
+      "title": "De b\u00e4sta drinkarna att best\u00e4lla p\u00e5 casino - Livets Goda",
+      "url": "https://www.livetsgoda.se/de-basta-drinkarna-att-bestalla-pa-casino/",
+      "snippet": "Feb 23, 2021 \u2014 Att spela casino \u00e4r livet f\u00f6r m\u00e5nga. Vissa gillar att spela p\u00e5 landbaserade casinon, medan andra \u00e4lskar att spela casino i mobilen. Hur \u00e4r\u00a0...",
+      "rank_absolute": 92,
+      "rank_group": 92,
+      "result_type": "items"
+    },
+    {
+      "title": "drycktema p\u00e5 casino utan svensk licens - Livets Goda",
+      "url": "https://www.livetsgoda.se/smaskigaste-spelen-med-mat-drycktema-pa-casino-utan-svensk-licens/",
+      "snippet": "Sep 2, 2021 \u2014 Smaskigaste spelen med mat- & drycktema p\u00e5 casino utan svensk licens ... Vill man spela p\u00e5 ett riktigt bra slot med mat tema s\u00e5 kan man g\u00f6ra det\u00a0...",
+      "rank_absolute": 93,
+      "rank_group": 93,
+      "result_type": "items"
+    },
+    {
+      "title": "Poker och alkohol: \u00c4r det okej att matcha? - Livets Goda",
+      "url": "https://www.livetsgoda.se/poker-och-alkohol-ar-det-okej-att-matcha/",
+      "snippet": "Nov 21, 2022 \u2014 \u00c4ven om m\u00e5nga spelare v\u00e4ljer att dricka en eller tv\u00e5 drinkar medan de spelar kort, avst\u00e5r vissa av r\u00e4dsla f\u00f6r att bli f\u00f6r berusade och f\u00f6rlora\u00a0...",
+      "rank_absolute": 94,
+      "rank_group": 94,
+      "result_type": "items"
+    },
+    {
+      "title": "Hur kontraster formar v\u00e5r syn p\u00e5 f\u00f6rfining - Livets Goda",
+      "url": "https://www.livetsgoda.se/hur-kontraster-formar-var-syn-pa-forfining/",
+      "snippet": "Aug 1, 2025 \u2014 De som precis b\u00f6rjat l\u00e4r dig om mga casino genom guiden som leder dem till n\u00e5gra av de b\u00e4sta Malta-casinona just nu. Din smak visar sig\u00a0...",
+      "rank_absolute": 95,
+      "rank_group": 95,
+      "result_type": "items"
+    },
+    {
+      "title": "Kommer populariteten av vinhandel online att forts\u00e4tta \u00f6ka ...",
+      "url": "https://www.livetsgoda.se/kommer-populariteten-av-vinhandel-online-att-fortsatta-oka-under-2021/",
+      "snippet": "Mar 29, 2021 \u2014 Onlinebaserade casinon som Hajper online casino \u00f6ppnar exempelvis upp f\u00f6r nya m\u00f6jligheter, exempelvis snabbare spel och ett st\u00f6rre spelutbud\u00a0...",
+      "rank_absolute": 96,
+      "rank_group": 96,
+      "result_type": "items"
+    },
+    {
+      "title": "Visning av nyrenoverade G\u00f6ta Kanalb\u00e5ten M/S Diana",
+      "url": "https://www.livetsgoda.se/kalender/pressinbjudan-visning-av-nyrenoverade-gota-kanalbaten-m-s-diana/",
+      "snippet": "May 20, 2012 \u2014 Plats: Packhuskajen (bakom Casino Cosmopol) i G\u00f6teborg. Tid: S\u00f6ndag den 20 maj kl 13.00. Lunch: En l\u00e4ttare lunch kommer att serveras ombord\u00a0...",
+      "rank_absolute": 97,
+      "rank_group": 97,
+      "result_type": "items"
+    },
+    {
+      "title": "De r\u00f6da vintyperna som matchar spelkv\u00e4llen b\u00e4st - Livets Goda",
+      "url": "https://www.livetsgoda.se/de-roda-vintyperna-som-matchar-spelkvallen-bast/",
+      "snippet": "Oct 27, 2022 \u2014 Olika vin f\u00f6r olika spelkv\u00e4llar. En spelkv\u00e4ll kan se ut p\u00e5 m\u00e5nga olika s\u00e4tt. M\u00e5nga arrangerar spelkv\u00e4llar hemma hos varandra, med poker eller\u00a0...",
+      "rank_absolute": 98,
+      "rank_group": 98,
+      "result_type": "items"
+    },
+    {
+      "title": "God mat, gott vin och spel p\u00e5 casino med svensk licens h\u00f6r till ...",
+      "url": "https://www.livetsgoda.se/god-mat-gott-vin-och-spel-pa-casino-med-svensk-licens-hor-till-livets-goda/",
+      "snippet": "Aug 5, 2022 \u2014 926. Det h\u00f6r till livets goda att \u00e4ta gott och dricka gott vin. F\u00f6r m\u00e5nga m\u00e4nniskor \u00e4r en del av det goda livet ocks\u00e5 att tillbringa tid med\u00a0...",
+      "rank_absolute": 99,
+      "rank_group": 99,
+      "result_type": "items"
+    },
+    {
+      "title": "Nyheter-arkiv - Sida 64 av 784 - Vinmagasinet Livets Goda ...",
+      "url": "https://www.livetsgoda.se/nyhet/page/64/",
+      "snippet": "Vad inneb\u00e4r MGA casino f\u00f6r svenska spelare? av Livets Goda 2025-05-13. 2025-05-13. Vinnyhet \u00b7 Nyhet \u2013 \u201dBastarden\u201d fr\u00e5n Bordeaux. av Livets Goda 2025-05-13. 2025\u00a0...",
+      "rank_absolute": 100,
+      "rank_group": 100,
+      "result_type": "items"
+    }
+  ]
+}

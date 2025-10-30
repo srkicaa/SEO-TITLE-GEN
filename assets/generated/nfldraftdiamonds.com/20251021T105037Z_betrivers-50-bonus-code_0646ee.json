@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:50:37Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "nfldraftdiamonds.com",
+    "anchor_keyword": "BetRivers $50 bonus code",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/betting-sites/betrivers-bonus-code/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "House Edge 101: What NFL Fans Should Know Before Trying Online Casino Games",
+      "rationale": "Educational angle fits NFL Draft Diamonds\u2019 audience and the casino theme; a contextual link can point readers to the BetRivers $50 bonus code resource for newcomers seeking a legitimate starting point."
+    },
+    {
+      "title": "The Bankroll Playbook: Smart Staking for Casino Gamers Who Also Bet on Football",
+      "rationale": "Strategy content aligns with site tone and helps justify a link to the BetRivers $50 bonus code page as a next step for readers exploring low-risk entry options."
+    },
+    {
+      "title": "Live Dealer Vibes for Game Day: How Table Games Mirror Gridiron Momentum",
+      "rationale": "Culture-forward piece that blends football energy with live casino concepts; includes a natural spot to reference the BetRivers $50 bonus code guide for readers ready to onboard."
+    },
+    {
+      "title": "Faster Deposits, Safer Withdrawals: Payment Tips Every First-Time Casino Player Should Know",
+      "rationale": "Payments/how-to content is common on the site; a link to the BetRivers $50 bonus code page supports readers comparing sign-up flows and banking terms before they commit."
+    },
+    {
+      "title": "Slot Myths Busted: Picking Volatility Like a Draft Scout Evaluates Prospects",
+      "rationale": "NFL-themed analysis of slot mechanics fits the brand\u2019s voice; from here, a subtle callout can direct readers to the BetRivers $50 bonus code page for verified entry details."
+    }
+  ],
+  "titles_context": [
+    "Understanding the House Edge in Online Casino Games",
+    "Discovering the Best Bitcoin Casinos",
+    "Tricks to Win on Slot Machines: Hacks that Really Works",
+    "Top 8 Lesser-Known Online Gambling Games",
+    "Get Ready to Groove: Spin Fever Casino Online Review",
+    "Going behind the scenes of live casino games",
+    "Unlock no deposit bonuses at the best online casinos",
+    "Innate Mathematical Edge in Gambling Games",
+    "How to Find an Online Slot with Live Dealer Games?",
+    "Where To Get Casino Coupons And Promo Codes?",
+    "Comparing Payment Methods in Online Casinos",
+    "Rolling the Dice: Which NFL Players Can't Resist the Casino ...",
+    "3 Best Live Casino Shows: A Guide for Gambling Beginners ...",
+    "NFL Themed Slot Machines To Try - NFL Draft Diamonds",
+    "Most Trusted Online Casino Review Websites",
+    "The Most Popular Online Casino Games at 1Win",
+    "Best Online Casino Games for NFL Fans",
+    "Mostbet: Unlocking Winning Strategies for Betting and Casino ...",
+    "8 Casino Bonuses That Aren't Worth Claiming In 2025",
+    "Evolution of Themed Online Casino Games - NFL Draft Diamonds",
+    "Expert Tips for Bet on Sports Events and Casino Games with ...",
+    "Sports Betting Experience: 4 Tips for betting with online casinos",
+    "The Legendary Q7 Casino Online: An Epic Review for ...",
+    "A Good Look at the World of Slots Games - NFL Draft Diamonds",
+    "Discover the Thrills of Casino Moons"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/betting-sites/betrivers-bonus-code/ that feel at home on nfldraftdiamonds.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): BetRivers $50 bonus code\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Understanding the House Edge in Online Casino Games\n- Discovering the Best Bitcoin Casinos\n- Tricks to Win on Slot Machines: Hacks that Really Works\n- Top 8 Lesser-Known Online Gambling Games\n- Get Ready to Groove: Spin Fever Casino Online Review\n- Going behind the scenes of live casino games\n- Unlock no deposit bonuses at the best online casinos\n- Innate Mathematical Edge in Gambling Games\n- How to Find an Online Slot with Live Dealer Games?\n- Where To Get Casino Coupons And Promo Codes?\n- Comparing Payment Methods in Online Casinos\n- Rolling the Dice: Which NFL Players Can't Resist the Casino ...\n- 3 Best Live Casino Shows: A Guide for Gambling Beginners ...\n- NFL Themed Slot Machines To Try - NFL Draft Diamonds\n- Most Trusted Online Casino Review Websites\n- The Most Popular Online Casino Games at 1Win\n- Best Online Casino Games for NFL Fans\n- Mostbet: Unlocking Winning Strategies for Betting and Casino ...\n- 8 Casino Bonuses That Aren't Worth Claiming In 2025\n- Evolution of Themed Online Casino Games - NFL Draft Diamonds\n- Expert Tips for Bet on Sports Events and Casino Games with ...\n- Sports Betting Experience: 4 Tips for betting with online casinos\n- The Legendary Q7 Casino Online: An Epic Review for ...\n- A Good Look at the World of Slots Games - NFL Draft Diamonds\n- Discover the Thrills of Casino Moons\n\nGuidance:\n1. Combine your own knowledge of nfldraftdiamonds.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to nfldraftdiamonds.com while naturally justifying a link to https://www.lineups.com/betting-sites/betrivers-bonus-code/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude BetRivers $50 bonus code and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1007,
+    "completion_tokens": 1001
+  },
+  "cost_usd": 0.0802
+}

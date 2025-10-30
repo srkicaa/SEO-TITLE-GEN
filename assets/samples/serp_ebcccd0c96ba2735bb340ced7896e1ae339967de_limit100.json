@@ -1,0 +1,800 @@
+{
+  "mode": "live",
+  "task_id": "10221044-4117-0121-0000-20af51faf3e4",
+  "query": "site:battrestadsdel.se casino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "TAG: svenska casino",
+      "url": "https://www.battrestadsdel.se/tag/svenska-casino/",
+      "snippet": "B\u00e4ttre Stadsdel \u00e4r en lokal nyhetssajt, anslagstavla och stadsdelsforum f\u00f6r H\u00e4gersten-\u00c4lvsj\u00f6-Sk\u00e4rholmen. PRENUMERERA \u00b7 KALENDER \u00b7 NYHETSARKIV \u00b7 F\u00d6RR OCH NU\u00a0...",
+      "rank_absolute": 2,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Cryptocurrency Rewards Programs: A New Era in Casino ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/cryptocurrency-rewards-programs-a-new-era-in-casino-loyalty/",
+      "snippet": "May 14, 2024 \u2014 Reward programs are tools casinos use to keep players loyal. With crypto in the picture, this program is about to get more interesting.",
+      "rank_absolute": 3,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "TAG: pay-n-play-casino",
+      "url": "https://www.battrestadsdel.se/tag/pay-n-play-casino/",
+      "snippet": "TAG: pay-n-play-casino. Finns inga sidor. Mest l\u00e4sta just nu: Ny\u00f6ppnat caf\u00e9: Australien m\u00f6ter svensk fika i en f\u00e4rg- och bakfabrik.",
+      "rank_absolute": 4,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "TAG: Lyllo Casino",
+      "url": "https://www.battrestadsdel.se/tag/lyllo-casino/",
+      "snippet": "TAG: Lyllo Casino. Finns inga sidor. Mest l\u00e4sta just nu: Ny\u00f6ppnat i \u00c4lvsj\u00f6: Vi vill skapa en familj\u00e4r kvarterskrog \u2013 med mycket k\u00e4rlek.",
+      "rank_absolute": 5,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino Med Svensk Licens vs Casino Utan Svensk Licens",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/casino-med-svensk-licens-vs-casino-utan-svensk-licens-en-djupgaende-jamforelse/",
+      "snippet": "Feb 18, 2025 \u2014 I den h\u00e4r guiden g\u00e5r vi igenom allt du beh\u00f6ver veta om dessa tv\u00e5 casinotyper \u2013 fr\u00e5n s\u00e4kerhet och spelutbud till bonusar och betalningsmetoder.",
+      "rank_absolute": 6,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "Varf\u00f6r \u00e4r YoYo Casino Sveriges b\u00e4sta val f\u00f6r spel p\u00e5 ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/varfor-ar-yoyo-casino-sveriges-basta-val-for-spel-pa-casino/",
+      "snippet": "Aug 8, 2024 \u2014 F\u00f6rdelar med spelutbudet p\u00e5 YoYo Casino \u00b7 Massor med spel: Slots, bordsspel, live casino och mycket mer g\u00f6r att du aldrig blir uttr\u00e5kad.",
+      "rank_absolute": 7,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "Gamification i Online Casino-Industrin: En V\u00e4g till \u00d6kad ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/gamification-i-online-casino-industrin-en-vag-till-okad-spelupplevelse-och-engagemang/",
+      "snippet": "Aug 29, 2024 \u2014 Gamification \u00e4r en kraftfull drivkraft inom online casino-industrin som bidrar till att skapa mer engagerande och underh\u00e5llande spelupplevelser.",
+      "rank_absolute": 8,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Mobilanpassade casinospel \u2013 en ny era f\u00f6r casino",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/mobilanpassade-casinospel-en-ny-era-for-casino/",
+      "snippet": "May 13, 2025 \u2014 Mobilt casinospelande lockar allt fler spelare tack vare sin bekv\u00e4mlighet och flexibilitet. M\u00f6jligheten att spela n\u00e4r som helst och var som\u00a0...",
+      "rank_absolute": 9,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "Utl\u00e4ndska casino som en del av din \u00e5terh\u00e4mtning",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/utlandska-casino-som-en-del-av-din-aterhamtning/",
+      "snippet": "Mar 6, 2025 \u2014 EXTERN PARTNER. Kan du som lever en aktiv livsstil och prioriterar h\u00e4lsa och v\u00e4lm\u00e5ende dra nytta av \u0441asinon online som \u00e4r utl\u00e4ndska?",
+      "rank_absolute": 10,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "Snabba uttag p\u00e5 utl\u00e4ndska casinon \u2013 s\u00e5 g\u00f6r du - b\u00e4ttre stadsdel",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/snabba-uttag-pa-utlandska-casinon-sa-gor-du/",
+      "snippet": "Sep 24, 2025 \u2014 Ingen gillar att v\u00e4nta p\u00e5 sina pengar, eller hur? N\u00e4r man har haft turen att vinna p\u00e5 ett casino vill man s\u00e5klart se pengarna p\u00e5 kontot direkt \u2013\u00a0...",
+      "rank_absolute": 11,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "Scanteam presents Cvasino.se \u2013 a new project for Swedish ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/scantem-presents-cvasino-se-a-new-project-for-swedish-casino-fans/",
+      "snippet": "Dec 13, 2020 \u2014 ... casinos, casino games, and gambling in Sweden in general. The site is the brainchild of a team of experts from Scanteam.pro. We aim at\u00a0...",
+      "rank_absolute": 12,
+      "rank_group": 11,
+      "result_type": "items"
+    },
+    {
+      "title": "Snart kan Casino Cosmopol f\u00f6rsvinna i Stockholm",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/snart-kan-casino-cosmopol-forsvinna-i-stockholm/",
+      "snippet": "Nov 7, 2024 \u2014 Om man vill spela casino med andra m\u00e4nniskor s\u00e5 kommer man kunna g\u00f6ra det \u00e4ven efter att Casino Cosmopol st\u00e4ngt igen i Stockholm. Det finns\u00a0...",
+      "rank_absolute": 13,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "Plinko casino Sverige uppt\u00e4ck chanser och njut av spelet",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/plinko-casino-sverige-upptack-chanser-och-njut-av-spelet/",
+      "snippet": "Apr 23, 2025 \u2014 Att ge mig p\u00e5 plinko casino gav mig n\u00e5got nytt att utforska. Jag ville se om den enklare mekaniken gick att kombinera med en k\u00e4nsla av sp\u00e4nning.",
+      "rank_absolute": 14,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "B\u00e4sta casino spelet att vinna p\u00e5: De mest l\u00f6nsamma spelen ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/basta-casino-spelet-att-vinna-pa-de-mest-lonsamma-spelen-for-nyborjare/",
+      "snippet": "Mar 24, 2025 \u2014 EXTERN PARTNER. Att v\u00e4lja r\u00e4tt spel p\u00e5 ett casino \u00e4r nyckeln till framg\u00e5ng, s\u00e4rskilt f\u00f6r nyb\u00f6rjare som precis har b\u00f6rjat utforska\u00a0...",
+      "rank_absolute": 15,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "Online casinon h\u00f6jer standarden f\u00f6r svenska spelare",
+      "url": "https://www.battrestadsdel.se/samarbete-2/online-casinon-hojer-standarden-for-svenska-spelare/",
+      "snippet": "Jul 28, 2024 \u2014 CASINO.COM. Under de senaste \u00e5ren har online casinon och dess popularitet exploderat p\u00e5 den svenska marknaden. Nya online casinon tillkommer\u00a0...",
+      "rank_absolute": 16,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "Amerikansk spelj\u00e4tte p\u00e5verkar casinomarknaden i Sverige ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/amerikansk-speljatte-paverkar-casinomarknaden-i-sverige-och-stockholm/",
+      "snippet": "Nov 18, 2024 \u2014 EXTERN PARTNER. Ikoniska Casino Cosmopol i Stockholm \u00e4r idag Sveriges enda kvarvarande fysiska casino, efter att statens andra casinon i\u00a0...",
+      "rank_absolute": 17,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "Ny svensk onlineplattform lanseras inom kort - b\u00e4ttre stadsdel",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/ny-svensk-onlineplattform-lanseras-inom-kort/",
+      "snippet": "MR BIT CASINO. Den svenska spelmarknaden \u00e4r p\u00e5 v\u00e4g att genomg\u00e5 stora f\u00f6r\u00e4ndringar och en ny plattform f\u00f6r sportsbetting och casinospel kommer snart att\u00a0...",
+      "rank_absolute": 18,
+      "rank_group": 17,
+      "result_type": "items"
+    },
+    {
+      "title": "How Technology Affects Sports Equipment - b\u00e4ttre stadsdel",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/how-technology-affects-sports-equipment/",
+      "snippet": "Apr 2, 2025 \u2014 Jubla Casino recension \u2013 Ett nytt svenskt spelparadis p\u00e5 n\u00e4tet\u00a0...",
+      "rank_absolute": 19,
+      "rank_group": 18,
+      "result_type": "items"
+    },
+    {
+      "title": "Spelifieringen av Verde Casino: Mer \u00e4n bara casinospel",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/spelifieringen-av-verde-casino-mer-an-bara-casinospel-2/",
+      "snippet": "Feb 18, 2025 \u2014 Allt du beh\u00f6ver veta om spelifiering och om hur popul\u00e4ra casinon som Verde Casino anv\u00e4nder dessa f\u00f6r att locka spelare att spela p\u00e5 casinot.",
+      "rank_absolute": 20,
+      "rank_group": 19,
+      "result_type": "items"
+    },
+    {
+      "title": "MGA Casino \u00e4r tvungna att st\u00e4rka bevakning av Ansvarsfullt ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/mga-casino-ar-tvungna-att-starka-bevakning-av-ansvarsfullt-spelande/",
+      "snippet": "Jan 27, 2023 \u2014 Nya \u00e5tg\u00e4rder som g\u00e4ller ansvarsfullt spelande kommer att inf\u00f6ras av MGA. L\u00e4s och l\u00e4r dig mer om nya restriktioner p\u00e5 casino utan svensk\u00a0...",
+      "rank_absolute": 21,
+      "rank_group": 20,
+      "result_type": "items"
+    },
+    {
+      "title": "F\u00e5 st\u00f6rre bonus p\u00e5 norska casinon - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/samarbete-2/fa-storre-bonus-pa-norska-casinon/",
+      "snippet": "Mar 1, 2024 \u2014 CASINO BONUS. Spelinspektionens arbete f\u00f6r att ge ett tryggare konsumentskydd f\u00f6r spelare p\u00e5 online casinon fortg\u00e5r.",
+      "rank_absolute": 22,
+      "rank_group": 21,
+      "result_type": "items"
+    },
+    {
+      "title": "D\u00e4rf\u00f6r f\u00e5r svenska spelbolag sv\u00e5rare att konkurrera med ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/darfor-far-svenska-spelbolag-svarare-att-konkurrera-med-utlandska-spelbolag/",
+      "snippet": "Jan 5, 2024 \u2014 En stor anledning \u00e4r att du har betydligt st\u00f6rre frihet om du spelar p\u00e5 ett utl\u00e4ndskt casino. Du beh\u00f6ver inte r\u00e4tta dig efter n\u00e5gra\u00a0...",
+      "rank_absolute": 23,
+      "rank_group": 22,
+      "result_type": "items"
+    },
+    {
+      "title": "Lokala sportnyheter: Hur betting hos Campobet casino ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/lokala-sportnyheter-hur-betting-hos-campobet-casino-paverkar-engagemanget-i-din-stad/",
+      "snippet": "Jul 11, 2024 \u2014 Betting fr\u00e5n sidor som Campobet casino har blivit en allt vanligare del av sportv\u00e4rlden, och dess p\u00e5verkan p\u00e5 lokalt engagemang kan inte\u00a0...",
+      "rank_absolute": 24,
+      "rank_group": 23,
+      "result_type": "items"
+    },
+    {
+      "title": "Varf\u00f6r st\u00e4nger fysiska kasinon i Sverige? - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/varfor-stanger-fysiska-kasinon-i-sverige/",
+      "snippet": "Feb 12, 2025 \u2014 Den l\u00e4tta tillg\u00e5ngen och den st\u00e4ndiga tillg\u00e4ngligheten av casino sidor utan Spelpaus som g\u00f6r att spelare kan spela utanf\u00f6r det svenska\u00a0...",
+      "rank_absolute": 25,
+      "rank_group": 24,
+      "result_type": "items"
+    },
+    {
+      "title": "Ta del av sp\u00e4nnande spel\u00e4ventyr p\u00e5 n\u00e4tet - b\u00e4ttre stadsdel",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/ta-del-av-spannande-spelaventyr-pa-natet/",
+      "snippet": "Jun 5, 2024 \u2014 Oavsett om det g\u00e4ller slots, poker, roulette, blackjack eller andra ... casino f\u00f6r att kunna spela deras favoritspel. De mest popul\u00e4ra\u00a0...",
+      "rank_absolute": 26,
+      "rank_group": 25,
+      "result_type": "items"
+    },
+    {
+      "title": "Vanliga spel p\u00e5 casino online - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/vanliga-spel-pa-casino-online/",
+      "snippet": "I kategorin bordsspel kan du hitta allt fr\u00e5n black jack till poker, roulette, baccarat och mycket mer. H\u00e4r spelar du en dator, vilket g\u00f6r att spelen skiljer sig\u00a0...",
+      "rank_absolute": 27,
+      "rank_group": 26,
+      "result_type": "items"
+    },
+    {
+      "title": "D\u00e4rf\u00f6r v\u00e4ljer allt fler svenskar att spela p\u00e5 utl\u00e4ndska online ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/darfor-valjer-allt-fler-svenskar-att-spela-pa-utlandska-online-casinon/",
+      "snippet": "Feb 20, 2023 \u2014 Casinon som riktar sig till norska spelare har ofta ett stort utbud av spel. De erbjuder ett brett sortiment av slots, bordsspel och andra\u00a0...",
+      "rank_absolute": 28,
+      "rank_group": 27,
+      "result_type": "items"
+    },
+    {
+      "title": "oktober, 2022 - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/2022/10/",
+      "snippet": "Salong Maria Louis i \u00d6rnsberg \u00e4r nominerad till [\u2026] Publicerad 21:49, 2 oktober 2022. Varf\u00f6r spela p\u00e5 casino utan svensk licens?",
+      "rank_absolute": 29,
+      "rank_group": 28,
+      "result_type": "items"
+    },
+    {
+      "title": "Big Bamboo Demo, Dead or Alive 2 Slot ja Dinopolis",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/tutustuminen-kolikkopelien-jannittavaan-maailmaan-big-bamboo-demo-dead-or-alive-2-slot-ja-dinopolis/",
+      "snippet": "Dec 9, 2024 \u2014 EXTERN PARTNER. Kolikkopelit ovat olleet suosittu viihdemuoto jo pitk\u00e4\u00e4n, houkutellen pelaajia mukaansatempaavilla mekaniikoillaan,\u00a0...",
+      "rank_absolute": 30,
+      "rank_group": 29,
+      "result_type": "items"
+    },
+    {
+      "title": "Jubla Casino recension \u2013 Ett nytt svenskt spelparadis p\u00e5 n\u00e4tet",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/jubla-casino-recension-ett-nytt-svenskt-spelparadis-pa-natet/",
+      "snippet": "Jul 22, 2025 \u2014 EXTERN PARTNER. Det dyker st\u00e4ndigt upp nya n\u00e4tcasinon, men f\u00e5 lyckas sticka ut i m\u00e4ngden s\u00e5 snabbt som Jubla Casino.",
+      "rank_absolute": 31,
+      "rank_group": 30,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino utan konto 2022 - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/casino-utan-konto-2022/",
+      "snippet": "CASINOSLANT. Det finns massor av casinon att v\u00e4lja mellan om man vill spela casino online, fysiska casinon finns det dock inte s\u00e5 m\u00e5nga av.",
+      "rank_absolute": 32,
+      "rank_group": 31,
+      "result_type": "items"
+    },
+    {
+      "title": "Varf\u00f6r v\u00e4ljer svenska spelare casinon utan BankID?",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/varfor-valjer-svenska-spelare-casinon-utan-bankid/",
+      "snippet": "Oct 30, 2024 \u2014 Svenskar som vill spela utan spelpaus \u2013 \u00e4r casino utan BankID l\u00f6sningen? M\u00e5nga svenskar har sedan spelpaus inf\u00f6rande valt att utesluta sig fr\u00e5n\u00a0...",
+      "rank_absolute": 33,
+      "rank_group": 32,
+      "result_type": "items"
+    },
+    {
+      "title": "Regler f\u00f6r s\u00e4ker spelmarknad vid live casino online i Sverige",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/regler-for-saker-spelmarknad-vid-live-casino-online-i-sverige/",
+      "snippet": "Sep 6, 2024 \u2014 Med de senaste \u00e4ndringarna siktar regeringen p\u00e5 att skapa en tryggare milj\u00f6 f\u00f6r alla spelare som spelar live casino online. De nya reglerna\u00a0...",
+      "rank_absolute": 34,
+      "rank_group": 33,
+      "result_type": "items"
+    },
+    {
+      "title": "Vilka F\u00e4rdigheter Beh\u00f6ver Man F\u00f6r Att Bli en B\u00e4ttre ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/vilka-fardigheter-behover-man-for-att-bli-en-battre-pokerspelare/",
+      "snippet": "Jul 29, 2024 \u2014 ... casino eller ett online casino. Med undantag fr\u00e5n spel som exempelvis schack s\u00e5 \u00e4r Poker ett av de spel som kr\u00e4ver mest mental uth\u00e5llighet.",
+      "rank_absolute": 35,
+      "rank_group": 34,
+      "result_type": "items"
+    },
+    {
+      "title": "Ta chansen att spela gratis p\u00e5 online casino - b\u00e4ttre stadsdel",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/ta-chansen-att-spela-gratis-pa-online-casino/",
+      "snippet": "Apr 27, 2022 \u2014 CASINOTOPSONLINE. Det r\u00e5der fortfarande ett stort intresse bland svenska spelare att satsa pengar p\u00e5 spelande, men det kan \u00e4nd\u00e5 vara bra att\u00a0...",
+      "rank_absolute": 36,
+      "rank_group": 35,
+      "result_type": "items"
+    },
+    {
+      "title": "Sveriges spelmarknad f\u00f6r online casino g\u00e5r fortsatt starkt",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/sveriges-spelmarknad-for-online-casino-gar-fortsatt-starkt-omsatte-narmare-7-miljarder-andra-kvartalet/",
+      "snippet": "Oct 25, 2024 \u2014 EXTERN PARTNER. Den svenska spelmarknaden har legat stadigt p\u00e5 drygt 6,5 miljarder kronor i oms\u00e4ttning per kvartal de senaste \u00e5ren.",
+      "rank_absolute": 37,
+      "rank_group": 36,
+      "result_type": "items"
+    },
+    {
+      "title": "H\u00f6gsta RTP-slots p\u00e5 LeoVegas f\u00f6r 2025: Topplistan som \u00f6kar ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/hogsta-rtp-slots-pa-leovegas-for-2025-topplistan-som-okar-din-vinstchans/",
+      "snippet": "Sep 25, 2025 \u2014 Uppt\u00e4ck v\u00e5r kompletta lista \u00f6ver slots med h\u00f6gst RTP 2025, som Dead or Alive 2 & Gates of Olympus. Hitta spelet som betalar b\u00e4st!",
+      "rank_absolute": 38,
+      "rank_group": 37,
+      "result_type": "items"
+    },
+    {
+      "title": "Leverant\u00f6rer av kasinospelautomater och deras skillnader",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/leverantorer-av-kasinospelautomater-och-deras-skillnader/",
+      "snippet": "Oct 21, 2024 \u2014 Om de ovan n\u00e4mnda leverant\u00f6rerna huvudsakligen fokuserar p\u00e5 slots, \u00e4r Evolution Gaming en monopolist inom live casino. F\u00f6retaget har mer \u00e4n\u00a0...",
+      "rank_absolute": 39,
+      "rank_group": 38,
+      "result_type": "items"
+    },
+    {
+      "title": "H\u00f6gstRTP lanseras: en resurs f\u00f6r casinospelare - b\u00e4ttre stadsdel",
+      "url": "https://www.battrestadsdel.se/samarbete-2/hogstrtp-lanseras-en-resurs-for-casinospelare/",
+      "snippet": "May 10, 2025 \u2014 ... slots. Tj\u00e4nsten underl\u00e4ttar f\u00f6r spelare att v\u00e4lja r\u00e4tt casino och spel att spela f\u00f6r h\u00f6gst teoretiska \u00e5terbetalning. \u200bVad \u00e4r m\u00e5let med\u00a0...",
+      "rank_absolute": 40,
+      "rank_group": 39,
+      "result_type": "items"
+    },
+    {
+      "title": "Vilka \u00e4r de b\u00e4sta nya online casinon p\u00e5 den svenska ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/vilka-ar-de-basta-nya-online-casinon-pa-den-svenska-marknaden/",
+      "snippet": "Apr 12, 2021 \u2014 BEST PAY N PLAY CASINOS. Att v\u00e4lja casino \u00e4r en h\u00f6gst personlig sak. Det beror helt p\u00e5 vilka dina preferenser och krav \u00e4r.",
+      "rank_absolute": 41,
+      "rank_group": 40,
+      "result_type": "items"
+    },
+    {
+      "title": "Hur man vet om ett Online Casino \u00e4r tillf\u00f6rlitligt - b\u00e4ttre stadsdel",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/hur-man-vet-om-ett-online-casino-ar-tillforlitligt/",
+      "snippet": "DUNDER. Casinobranschen har \u00f6kat explosionsartat och utbudet f\u00f6r konsumenten \u00e4r st\u00f6rre \u00e4n n\u00e5gonsin. De olika casinooperat\u00f6rerna f\u00f6rs\u00f6ker st\u00e4ndigt locka till\u00a0...",
+      "rank_absolute": 42,
+      "rank_group": 41,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino bonus 2020 \u2013 finns det? - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/sponsrat-innehall-prio/casino-bonus-2020-finns-det/",
+      "snippet": "Oct 14, 2020 \u2014 F\u00f6r det f\u00f6rsta f\u00e5r svenska spelare endast s\u00e4tta in 5 000 kronor i veckan. F\u00f6r det andra s\u00e5 f\u00e5r casinon inte dela ut lika gener\u00f6sa bonusar som\u00a0...",
+      "rank_absolute": 43,
+      "rank_group": 42,
+      "result_type": "items"
+    },
+    {
+      "title": "ANNONS - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/stadsdel/sponsrat-innehall/",
+      "snippet": "Poker f\u00f6ljer trenden med vloggar och streaming \u00b7 ANNONS I SAMARBETE MED \u00b7 IGC. H\u00e4gersten och Liljeholmen \u00e4r kanske inte s\u00e4rskilt [\u2026].",
+      "rank_absolute": 44,
+      "rank_group": 43,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino Online \u2013 Ett s\u00e4tt att f\u00f6rgylla vardagen! - b\u00e4ttre stadsdel",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/casino-online-ett-satt-att-forgylla-vardagen/",
+      "snippet": "Aug 18, 2021 \u2014 Det finns casinospel i olika genrer s\u00e5som exempelvis videoslots, live casino, blackjack, poker och roulett, bara f\u00f6r att n\u00e4mna n\u00e5gra.",
+      "rank_absolute": 45,
+      "rank_group": 44,
+      "result_type": "items"
+    },
+    {
+      "title": "Bingo eller slots: vad ska man v\u00e4lja? - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/bingo-eller-slots-vad-ska-man-valja/",
+      "snippet": "Apr 11, 2022 \u2014 En av de senaste trenderna inom online casino \u00e4r dock att erbjuda bingospel p\u00e5 n\u00e4tet. Tillh\u00f6r man skaran som gillar b\u00e5da alternativen s\u00e5 \u00e4r\u00a0...",
+      "rank_absolute": 46,
+      "rank_group": 45,
+      "result_type": "items"
+    },
+    {
+      "title": "\u00c4r slots det mest popul\u00e4ra spelet p\u00e5 Casino? - b\u00e4ttre stadsdel",
+      "url": "https://www.battrestadsdel.se/sponsrat-innehall-prio/ar-slots-det-mest-populara-spelet-pa-casino/",
+      "snippet": "Mar 17, 2023 \u2014 SNABBARE. Det s\u00e4gs att av alla de sp\u00e4nnande och roande spelen som man kan hitta p\u00e5 riktiga Casinon runt om i den verkliga v\u00e4rlden men ocks\u00e5\u00a0...",
+      "rank_absolute": 47,
+      "rank_group": 46,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino utan konto \u2013 hur fungerar det? - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/casino-utan-konto-hur-fungerar-det/",
+      "snippet": "Dec 13, 2018 \u2014 NOACCOUNTCASINO. Vid det h\u00e4r laget har de flesta uppt\u00e4ckt att allt fler casinon d\u00e4r du kan spela utan att registrera dig men hur fungerar\u00a0...",
+      "rank_absolute": 48,
+      "rank_group": 47,
+      "result_type": "items"
+    },
+    {
+      "title": "De B\u00e4sta Spelupplevelserna f\u00f6r Svenska Gamers och ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/de-basta-spelupplevelserna-for-svenska-gamers-och-streaming-2024/",
+      "snippet": "Oct 3, 2024 \u2014 Det finns n\u00e5got f\u00f6r alla, oavsett om du \u00e4r en passionerad rollspel fan, \u00e4lskar actionfyllda \u00e4ventyr eller bara gillar att spela casino online.",
+      "rank_absolute": 49,
+      "rank_group": 48,
+      "result_type": "items"
+    },
+    {
+      "title": "En spelsajt med flera spel p\u00e5 samma plats - b\u00e4ttre stadsdel",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/en-spelsajt-med-flera-spel-pa-samma-plats/",
+      "snippet": "Apr 4, 2022 \u2014 Det \u00e4r inte ovanligt att de som gillar att spela p\u00e5 online casino g\u00e4rna alternerar sitt spelande. Till exempel att kombinera betting med ett\u00a0...",
+      "rank_absolute": 50,
+      "rank_group": 49,
+      "result_type": "items"
+    },
+    {
+      "title": "Onlinespelens historia - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/onlinespelens-historia/",
+      "snippet": "Sep 29, 2025 \u2014 Online casinos historia b\u00f6rjar under mitten av 1990-talet n\u00e4r internet blev mer tillg\u00e4ngligt f\u00f6r allm\u00e4nheten. \u00c5r 1994 etablerades de f\u00f6rsta\u00a0...",
+      "rank_absolute": 51,
+      "rank_group": 50,
+      "result_type": "items"
+    },
+    {
+      "title": "6 anledningar till att allt fler v\u00e4ljer live-casinon - b\u00e4ttre stadsdel",
+      "url": "https://www.battrestadsdel.se/spel/6-anledningar-till-att-allt-fler-valjer-live-casinon/",
+      "snippet": "Feb 9, 2022 \u2014 YOYO CASINO. Det \u00e4r m\u00e5nga som v\u00e4ljer att spela p\u00e5 onlinecasinon ( \u00e4ven kallat live casino) i st\u00e4llet f\u00f6r att spela p\u00e5 fysiska casinon,\u00a0...",
+      "rank_absolute": 52,
+      "rank_group": 51,
+      "result_type": "items"
+    },
+    {
+      "title": "B\u00e4sta Mobil f\u00f6r Casino Utan Licens - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/basta-mobil-for-casino-utan-licens/",
+      "snippet": "Sep 23, 2022 \u2014 B\u00e4sta Mobil f\u00f6r Casino Utan Licens \u00b7 Processor: Qualcomm Snapdragon 8 Gen 1 \u00b7 Ram Minne: 8 GB \u00b7 Lagringskapacitet: 128/256 GB \u00b7 Sk\u00e4rmstorlek: 12,4\u00a0...",
+      "rank_absolute": 53,
+      "rank_group": 52,
+      "result_type": "items"
+    },
+    {
+      "title": "Svenska landbaserade casinon \u2013 var finns de? - b\u00e4ttre stadsdel",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/svenska-landbaserade-casinon-var-finns-de/",
+      "snippet": "May 25, 2022 \u2014 Det statliga bolaget Casino Cosmopol styr landsbaserade casino. I ... H\u00e4r kan du spela roulette, blackjack, texas hold 'em och mycket mer.",
+      "rank_absolute": 54,
+      "rank_group": 53,
+      "result_type": "items"
+    },
+    {
+      "title": "Hur NIS2-direktivet f\u00f6r\u00e4ndrar den digitala s\u00e4kerheten i ditt ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/hur-nis2-direktivet-forandrar-den-digitala-sakerheten-i-ditt-naromrade/",
+      "snippet": "Jul 16, 2025 \u2014 Jubla Casino recension \u2013 Ett nytt svenskt spelparadis p\u00e5 n\u00e4tet\u00a0...",
+      "rank_absolute": 55,
+      "rank_group": 54,
+      "result_type": "items"
+    },
+    {
+      "title": "Varf\u00f6r \u00e4r n\u00e4tcasino s\u00e5 popul\u00e4rt? - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/varfor-ar-natcasino-sa-populart/",
+      "snippet": "Jul 19, 2021 \u2014 Oavsett vilka erfarenheter man har av att spela p\u00e5 casino, s\u00e5 \u00e4r det relativt enkelt att se f\u00f6rdelarna med att ist\u00e4llet spela casino p\u00e5 n\u00e4tet. \u00c5\u00a0...",
+      "rank_absolute": 56,
+      "rank_group": 55,
+      "result_type": "items"
+    },
+    {
+      "title": "Varf\u00f6r l\u00e4ser vi casino recensioner? - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/sponsrat-innehall-prio/varfor-laser-vi-casino-recensioner/",
+      "snippet": "May 18, 2020 \u2014 SLOTV. Alla som vill ha framg\u00e5ng i casinov\u00e4rlden m\u00e5ste l\u00e4sa online casino recensioner. Industrin utvecklas st\u00e4ndigt - nya intressanta\u00a0...",
+      "rank_absolute": 57,
+      "rank_group": 56,
+      "result_type": "items"
+    },
+    {
+      "title": "Stora f\u00f6r\u00e4ndringar i svenska lagar och regler f\u00f6r online casinon",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/stora-forandringar-i-svenska-lagar-och-regler-for-online-casinon/",
+      "snippet": "Oct 22, 2024 \u2014 Med nya regler som syftar till att strama \u00e5t kontroller, fr\u00e4mja ansvarsfullt spelande och skydda konsumenter har Spelinspektionen inf\u00f6rt\u00a0...",
+      "rank_absolute": 58,
+      "rank_group": 57,
+      "result_type": "items"
+    },
+    {
+      "title": "Din guide till digitala spelupplevelser online - b\u00e4ttre stadsdel",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/din-guide-till-digitala-spelupplevelser-online/",
+      "snippet": "Jan 10, 2025 \u2014 N\u00e4r du v\u00e4ljer betalningsmetod p\u00e5 ett online casino \u00e4r det viktigt att t\u00e4nka p\u00e5 b\u00e5de s\u00e4kerhet och bekv\u00e4mlighet. De flesta casinon erbjuder\u00a0...",
+      "rank_absolute": 59,
+      "rank_group": 58,
+      "result_type": "items"
+    },
+    {
+      "title": "F\u00f6rvaltningsr\u00e4tten upph\u00e4ver Spelinspektionens f\u00f6rel\u00e4ggande",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/forvaltningsratten-upphaver-spelinspektionens-forelaggande-zimpler-pa-vag-tillbaka-pa-internationella-casinon/",
+      "snippet": "Jun 20, 2024 \u2014 ... casino utomlands, men med Zimpler och eventuellt andra svenska ... Denna text \u00e4r producerad i samarbete med Casino utan svensk licens.",
+      "rank_absolute": 60,
+      "rank_group": 59,
+      "result_type": "items"
+    },
+    {
+      "title": "Allt fler kvinnor spelar p\u00e5 casino - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/allt-fler-kvinnor-spelar-pa-casino/",
+      "snippet": "Oct 27, 2021 \u2014 CASINOBONUSAR. Att spela p\u00e5 casino har l\u00e4nge varit n\u00e5got som fr\u00e4mst f\u00f6rknippats med m\u00e4n. Ett parti poker till exempel, framkallar f\u00f6r de\u00a0...",
+      "rank_absolute": 61,
+      "rank_group": 60,
+      "result_type": "items"
+    },
+    {
+      "title": "Varf\u00f6r spela p\u00e5 casino utan svensk licens? - b\u00e4ttre stadsdel",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/varfor-spela-pa-casino-utan-svensk-licens/",
+      "snippet": "Oct 3, 2022 \u2014 SPELACASINONU.COM. Spelande, b\u00e5de vadslagning och casino, \u00e4r stort i Sverige. Man r\u00e4knar med att n\u00e4stan 20% av befolkningen spelar varje\u00a0...",
+      "rank_absolute": 62,
+      "rank_group": 61,
+      "result_type": "items"
+    },
+    {
+      "title": "Vilka faktorer g\u00f6r online casinospel popul\u00e4rt och hur m\u00e5nga ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/vilka-faktorer-gor-online-casinospel-populart-och-hur-manga-manniskor-spelar-pa-casino/",
+      "snippet": "Jun 15, 2022 \u2014 ... casino under 2021. M\u00e5nga av de spelarna i Sverige v\u00e4ljer dock att spela p\u00e5 casino utan svensk licens. Efter den nya spellagen tr\u00e4dde i kraft\u00a0...",
+      "rank_absolute": 63,
+      "rank_group": 62,
+      "result_type": "items"
+    },
+    {
+      "title": "\u00c4r det b\u00e4ttre att spela casino online eller p\u00e5 plats?",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/ar-det-battre-att-spela-casino-online-eller-pa-plats/",
+      "snippet": "Jul 4, 2022 \u2014 ... Casino Cosmopol \u00f6ppnade sina portar 2003 och. ... Slots, blackjack, och alla dina andra favoritspel g\u00e5r att hitta p\u00e5\u00a0...",
+      "rank_absolute": 64,
+      "rank_group": 63,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino utan oms\u00e4ttningskrav - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/casino-utan-omsattningskrav/",
+      "snippet": "Apr 20, 2022 \u2014 Betsafe \u2013 Betsafe casino erbjuder spelare casino-bonusar utan oms\u00e4ttningskrav p\u00e5 flera olika casinospel. ... slots, roulette eller blackjack.",
+      "rank_absolute": 65,
+      "rank_group": 64,
+      "result_type": "items"
+    },
+    {
+      "title": "Klart: Dessa b\u00e4r och frukter planteras i parken i Bred\u00e4ng",
+      "url": "https://www.battrestadsdel.se/skarholmen_stadsdelsomrade/bredang/klart-dessa-bar-och-frukter-planteras-i-parken-i-bredang-omrostning-lockade-manga/",
+      "snippet": "18 hours ago \u2014 F\u00f6rra \u00e5ret beslutade Sk\u00e4rholmens stadsdelsn\u00e4mnd att plantera b\u00e4rbuskar och frukttr\u00e4d i Bred\u00e4ng. Alla inv\u00e5nare i Sk\u00e4rholmen bj\u00f6ds in till att\u00a0...",
+      "rank_absolute": 66,
+      "rank_group": 65,
+      "result_type": "items"
+    },
+    {
+      "title": "Lyckost Casino \u2013 Vi kollar in utbudet - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/lyckost-casino-vi-kollar-in-utbudet/",
+      "snippet": "Jun 16, 2023 \u2014 CASINOSTUND. Lyckost Casino \u00e4r ett online casino d\u00e4r du kan spela olika typer av casinospel. Det startade 2019 och bolaget bakom sajten \u00e4r\u00a0...",
+      "rank_absolute": 67,
+      "rank_group": 66,
+      "result_type": "items"
+    },
+    {
+      "title": "juli, 2024 - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/2024/07/",
+      "snippet": "Betting fr\u00e5n sidor som Campobet casino har blivit en allt [\u2026] Publicerad 22:36, 11 juli 2024. \u00f6versv\u00e4mning \u00b7 Debatt: F\u00f6rt\u00e4tningen av Aspudden: Tas tillr\u00e4ckligt\u00a0...",
+      "rank_absolute": 68,
+      "rank_group": 67,
+      "result_type": "items"
+    },
+    {
+      "title": "Spela p\u00e5 videoslots med h\u00f6g RTP f\u00f6r h\u00f6gre vinstchans",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/spela-pa-videoslots-med-hog-rtp-for-hogre-vinstchans/",
+      "snippet": "Feb 9, 2024 \u2014 Flera speltillverkare erbjuder casinon m\u00f6jligheten att sj\u00e4lva st\u00e4lla in vilken RTP som varje slot ska ha. Du som spelare uppt\u00e4cker s\u00e4llan vilken\u00a0...",
+      "rank_absolute": 69,
+      "rank_group": 68,
+      "result_type": "items"
+    },
+    {
+      "title": "S\u00e5 spelar du utan att \u00f6verdosera \u2013 Casino utan licens eller ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/sa-spelar-du-utan-att-overdosera-casino-utan-licens-eller-andra-spel/",
+      "snippet": "Mar 19, 2020 \u2014 ... poker, s\u00e4llskapsspel och spel p\u00e5 online casino. \u00c4r det en klass fr\u00e5ga i dagens samh\u00e4lle eller \u00e4r det helt enkelt slumpm\u00e4ssigt vilka som\u00a0...",
+      "rank_absolute": 70,
+      "rank_group": 69,
+      "result_type": "items"
+    },
+    {
+      "title": "Vilken \u00e4r den b\u00e4sta tiden f\u00f6r att spela casinospel online och ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/vilken-ar-den-basta-tiden-for-att-spela-casinospel-online-och-varfor/",
+      "snippet": "Jan 15, 2023 \u2014 High Rollers och Casino Loyalists kan spela p\u00e5 natten. Natten \u00e4r en annan hektisk period p\u00e5 n\u00e4tcasinon. De flesta spelare \u00e4r klara med dagens\u00a0...",
+      "rank_absolute": 71,
+      "rank_group": 70,
+      "result_type": "items"
+    },
+    {
+      "title": "Varf\u00f6r f\u00f6nsterrenovering \u00e4r en smart l\u00f6sning - b\u00e4ttre stadsdel",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/varfor-fonsterrenovering-ar-en-smart-losning/",
+      "snippet": "Jan 15, 2025 \u2014 Varf\u00f6r svenska spelare s\u00f6ker sig till betting utan licens \u00b7 Jubla Casino recension \u2013 Ett nytt svenskt spelparadis p\u00e5 n\u00e4tet\u00a0...",
+      "rank_absolute": 72,
+      "rank_group": 71,
+      "result_type": "items"
+    },
+    {
+      "title": "augusti, 2024 - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/2024/08/",
+      "snippet": "Uppt\u00e4ck varf\u00f6r YoYo Casino klasas som ett av Sveriges toppval n\u00e4r detkommer till online casino! Publicerad 22:00, 8 augusti 2024. jourlakarbil. Akut-\u00a0...",
+      "rank_absolute": 73,
+      "rank_group": 72,
+      "result_type": "items"
+    },
+    {
+      "title": "Fr\u00e5n id\u00e9 till scen: S\u00e5 skapas Stockholms lokala kulturscener",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/fran-ide-till-scen-sa-skapas-stockholms-lokala-kulturscener/",
+      "snippet": "Mar 18, 2025 \u2014 Musikfestivaler, interaktiva konstinstallationer och exklusiva upplevelser som Casino Cosmopol visar hur stadens underh\u00e5llningsutbud st\u00e4ndigt\u00a0...",
+      "rank_absolute": 74,
+      "rank_group": 73,
+      "result_type": "items"
+    },
+    {
+      "title": "Hur man hittar en riktig bra bonus p\u00e5 ett casino utanf\u00f6r den ...",
+      "url": "https://www.battrestadsdel.se/sponsrat-innehall-prio/hur-man-hittar-en-riktig-bra-bonus-pa-ett-casino-utanfor-den-svenska-licensen/",
+      "snippet": "Jul 1, 2020 \u2014 CASINOFOX. N\u00e5got som \u00e4r A och O n\u00e4r man spelar casino p\u00e5 n\u00e4tet \u00e4r f\u00f6rst\u00e5s bonusarna. En casinobonus kan vara utformad p\u00e5 m\u00e5nga olika s\u00e4tt\u00a0...",
+      "rank_absolute": 75,
+      "rank_group": 74,
+      "result_type": "items"
+    },
+    {
+      "title": "casinopro.se - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/tag/casinopro-se/",
+      "snippet": "Casino p\u00e5 n\u00e4tet \u2013 S\u00e5 fungerar det i Sverige! ANNONS \u00b7 ANNONSAMARBETE MED CASINOPRO.SE. En guide till den sp\u00e4nnande [\u2026] Publicerad 08:15, 25 juli 2017. Annons\u00a0...",
+      "rank_absolute": 76,
+      "rank_group": 75,
+      "result_type": "items"
+    },
+    {
+      "title": "Kan man spela p\u00e5 casino i Stockholm? - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/kan-man-spela-pa-casino-i-stockholm/",
+      "snippet": "Nov 27, 2022 \u2014 COMEON. Vi har alla en g\u00e5ng i tiden tittat p\u00e5 filmer fr\u00e5n Hollywood som utspelar sig i Las Vegas - Staden som \u00e4r k\u00e4nd f\u00f6r sina casinon.",
+      "rank_absolute": 77,
+      "rank_group": 76,
+      "result_type": "items"
+    },
+    {
+      "title": "Gamingevenemang i Norden \u00e5r 2025 - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/gamingevenemang-i-norden-ar-2025/",
+      "snippet": "Jan 30, 2025 \u2014 Evenemanget organiseras av Eventus International och sponsras bland annat av f\u00f6retag inom iGaming och casino. N\u00e5gra exempel \u00e4r DST Gaming och\u00a0...",
+      "rank_absolute": 78,
+      "rank_group": 77,
+      "result_type": "items"
+    },
+    {
+      "title": "Hur du kan l\u00e4ra dig grunderna i poker 2018 - b\u00e4ttre stadsdel",
+      "url": "https://www.battrestadsdel.se/sponsrat-innehall/hur-du-kan-lara-dig-grunderna-poker-2018/",
+      "snippet": "May 28, 2018 \u2014 888 POKER. Tittar man p\u00e5 poker idag j\u00e4mf\u00f6rt med \u00e5r 2004, s\u00e5 \u00e4r landskapet ganska annorlunda idag \u00e4n var det var d\u00e5.",
+      "rank_absolute": 79,
+      "rank_group": 78,
+      "result_type": "items"
+    },
+    {
+      "title": "Utbetalningar blir snabbare p\u00e5 online casinon - b\u00e4ttre stadsdel",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/utbetalningar-blir-snabbare-pa-online-casinon/",
+      "snippet": "Jul 26, 2023 \u2014 CASIVO. Om man v\u00e4ljer ett casino med direkt utbetalning i dagens l\u00e4ge s\u00e5 kan man oftast r\u00e4kna med att f\u00e5 uttaget inom ett par minuter.",
+      "rank_absolute": 80,
+      "rank_group": 79,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino p\u00e5 n\u00e4tet \u2013 S\u00e5 fungerar det i Sverige! - b\u00e4ttre stadsdel",
+      "url": "https://www.battrestadsdel.se/sponsrat-innehall/casino-pa-natet-sa-fungerar-det-sverige/",
+      "snippet": "Casino p\u00e5 n\u00e4tet \u2013 S\u00e5 fungerar det i Sverige! ANNONS Publicerad 08:15, 25 juli 2017. ANNONSAMARBETE MED CASINOPRO.SE. En guide till den sp\u00e4nnande\u00a0...",
+      "rank_absolute": 81,
+      "rank_group": 80,
+      "result_type": "items"
+    },
+    {
+      "title": "Vad \u00e4r Spelpaus och hur fungerar det hos bookmakers och ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/vad-ar-spelpaus-och-hur-fungerar-det-hos-bookmakers-och-casinon-i-sverige/",
+      "snippet": "Feb 7, 2025 \u2014 Betting & odds, Ja. Casino Cosmopol, Ja. Restaurangspelautomater, Ja. ATG och Svenska Spel, Ja. Utl\u00e4ndska casinon, Nej. N\u00e4r avst\u00e4ngningen l\u00f6per\u00a0...",
+      "rank_absolute": 82,
+      "rank_group": 81,
+      "result_type": "items"
+    },
+    {
+      "title": "F\u00f6r och nackdelar med casino utan konto - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/for-och-nackdelar-med-casino-utan-konto/",
+      "snippet": "Apr 11, 2022 \u2014 CASINOUTANKONTO. Allt fler v\u00e4ljer idag att spela p\u00e5 casinon som inte kr\u00e4ver att du skapar ett konto. Detta g\u00f6r spelandet smidigt,\u00a0...",
+      "rank_absolute": 83,
+      "rank_group": 82,
+      "result_type": "items"
+    },
+    {
+      "title": "Fyra aktiviteter att g\u00f6ra i Stockholm med v\u00e4nnerna",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/fyra-aktiviteter-att-gora-i-stockholm-med-vannerna/",
+      "snippet": "Nov 8, 2024 \u2014 Detta kan vara en rolig aktivitet ihop med v\u00e4nnerna. Men f\u00f6rutom spel kan man p\u00e5 Casino Cosmopol \u00e4ven \u00e4ta och dricka, vilket ocks\u00e5 beh\u00f6vs f\u00f6r\u00a0...",
+      "rank_absolute": 84,
+      "rank_group": 83,
+      "result_type": "items"
+    },
+    {
+      "title": "Hur casinokulturen ser ut i Sverige - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/hur-casinokulturen-ser-ut-i-sverige/",
+      "snippet": "Sep 2, 2022 \u2014 F\u00f6r att spela p\u00e5 ett landbaserat casino i Sverige s\u00e5 beh\u00f6ver du bes\u00f6ka det statligt \u00e4gda Casino Cosmopol. ... Bingo, poker, slots, lotteri\u00a0...",
+      "rank_absolute": 85,
+      "rank_group": 84,
+      "result_type": "items"
+    },
+    {
+      "title": "N\u00e4tkasinon utan Spelpaus eller licens - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/natkasinon-utan-spelpaus-eller-licens/",
+      "snippet": "Mar 29, 2023 \u2014 CASINO UTAN.COM. Ett n\u00e4tcasino utan svensk licens \u00e4r en spelsida som inte har f\u00e5tt sin spellicens fr\u00e5n Sveriges Myndighet f\u00f6r lotteri,\u00a0...",
+      "rank_absolute": 86,
+      "rank_group": 85,
+      "result_type": "items"
+    },
+    {
+      "title": "Vad \u00e4r ett kasino utan svensk licens och hur man v\u00e4ljer det ...",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med-2/vad-ar-ett-kasino-utan-svensk-licens-och-hur-man-valjer-det-basta/",
+      "snippet": "Oct 15, 2024 \u2014 N\u00e4r du v\u00e4ljer casino utan gr\u00e4nser med trustly \u00e4r det viktigt att \u00f6verv\u00e4ga flera villkor, h\u00e4r \u00e4r n\u00e5gra rekommendationer. Det f\u00f6rsta man b\u00f6r titta\u00a0...",
+      "rank_absolute": 87,
+      "rank_group": 86,
+      "result_type": "items"
+    },
+    {
+      "title": "888 poker - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/tag/888-poker/",
+      "snippet": "TAG: 888 poker. Hur du kan l\u00e4ra dig grunderna i poker 2018 \u00b7 ANNONS I SAMARBETE MED \u00b7 888 POKER. Tittar man p\u00e5 poker idag j\u00e4mf\u00f6rt [\u2026] Publicerad 09:03, 28 maj\u00a0...",
+      "rank_absolute": 88,
+      "rank_group": 87,
+      "result_type": "items"
+    },
+    {
+      "title": "S\u00e5 h\u00e4r kan du spela casino i Stockholm under 2022",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/sa-har-kan-du-spela-casino-i-stockholm-under-2022/",
+      "snippet": "Dec 29, 2021 \u2014 CASINODEALEN.SE Bor du i Stockholm eller v\u00e4ljer du att bes\u00f6ka huvudstaden kan du spela casino i Stockholm. Casino Cosmopol \u00e4r ett popul\u00e4rt\u00a0...",
+      "rank_absolute": 89,
+      "rank_group": 88,
+      "result_type": "items"
+    },
+    {
+      "title": "april, 2021 - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/2021/04/",
+      "snippet": "ONLINE CASINO UTAN LICENS. I b\u00f6rjan av 2019 [\u2026] Publicerad 07:00, 12 april 2021. kvinna p\u00e5 cafe videochattar med sin mobil. Orsaker till\u00a0...",
+      "rank_absolute": 90,
+      "rank_group": 89,
+      "result_type": "items"
+    },
+    {
+      "title": "M: Byggprojekt i vissa gr\u00f6nomr\u00e5den m\u00e5ste stoppas",
+      "url": "https://www.battrestadsdel.se/alvsjo_stadsdelsomrade/alvsjo/m-byggprojektet-i-vissa-gronomraden-maste-stoppas/",
+      "snippet": "23 hours ago \u2014 Moderaterna i Stockholm vill stoppa planerade f\u00f6rt\u00e4tningar i flera gr\u00f6nomr\u00e5det i Stockholm. Gr\u00f6nskan har f\u00f6rsvunnit i en rasande takt och\u00a0...",
+      "rank_absolute": 91,
+      "rank_group": 90,
+      "result_type": "items"
+    },
+    {
+      "title": "Hur man f\u00e5r en liten bonus i vardagen - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/hur-man-far-en-liten-bonus-i-vardagen/",
+      "snippet": "Aug 2, 2022 \u2014 Det kan vara n\u00e5got s\u00e5 enkelt som att ta en annan v\u00e4g till jobbet, baka en ny kaka, l\u00e4sa en sp\u00e4nnande bok eller kanske spela lite casino. Att\u00a0...",
+      "rank_absolute": 92,
+      "rank_group": 91,
+      "result_type": "items"
+    },
+    {
+      "title": "f\u00f6reningar - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/stadsdel/foreningar/",
+      "snippet": "B\u00e4ttre Stadsdel \u00e4r en lokal nyhetssajt, anslagstavla och stadsdelsforum f\u00f6r H\u00e4gersten-\u00c4lvsj\u00f6-Sk\u00e4rholmen. PRENUMERERA \u00b7 KALENDER \u00b7 NYHETSARKIV \u00b7 F\u00d6RR OCH NU\u00a0...",
+      "rank_absolute": 93,
+      "rank_group": 92,
+      "result_type": "items"
+    },
+    {
+      "title": "PayPal \u2013 S\u00e5 fungerar betaltj\u00e4nsten f\u00f6r casinon online",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/paypal-sa-fungerar-betaltjansten-for-casinon-online/",
+      "snippet": "Till exempel kan ett svenskt licensierat casino till\u00e4mpas med PayPal f\u00f6r att l\u00e5ta sina svenska kunder finansiera konton. Om samma f\u00f6retag ocks\u00e5 erbj\u00f6d sina\u00a0...",
+      "rank_absolute": 94,
+      "rank_group": 93,
+      "result_type": "items"
+    },
+    {
+      "title": "Tips f\u00f6r nya spelare att v\u00e4lja det b\u00e4sta onlinekasinot",
+      "url": "https://www.battrestadsdel.se/i-samarbete-med/tips-for-nya-spelare-att-valja-det-basta-onlinekasinot/",
+      "snippet": "May 31, 2021 \u2014 CASINOTOP10.SE N\u00e4r man som ny spelare letar efter ett nytt onliecasino finns det flera s\u00e4tt att ta reda p\u00e5 vilket casino som passar.",
+      "rank_absolute": 95,
+      "rank_group": 94,
+      "result_type": "items"
+    },
+    {
+      "title": "\u00c5sikter-\u00c4lvsj\u00f6 - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/stadsdel/asikter-alvsjo/",
+      "snippet": "B\u00e4ttre Stadsdel \u00e4r en lokal nyhetssajt, anslagstavla och stadsdelsforum f\u00f6r H\u00e4gersten-\u00c4lvsj\u00f6-Sk\u00e4rholmen. PRENUMERERA \u00b7 KALENDER \u00b7 NYHETSARKIV \u00b7 F\u00d6RR OCH NU\u00a0...",
+      "rank_absolute": 96,
+      "rank_group": 95,
+      "result_type": "items"
+    },
+    {
+      "title": "april, 2022 - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/2022/04/",
+      "snippet": "SPELA CASINO. Att Sverige just nu g\u00e5r igenom [\u2026] Publicerad 06:00, 1 april 2022. Annons: 6 f\u00f6rdelar med elbilar v\u00e4rda att ha i \u00e5tanke \u00b7 I SAMARBETE MED\u00a0...",
+      "rank_absolute": 97,
+      "rank_group": 96,
+      "result_type": "items"
+    },
+    {
+      "title": "En dag p\u00e5 Kummelholmen i Sk\u00e4rholmen #1 Bella Rune",
+      "url": "https://www.battrestadsdel.se/kalender/en-dag-pa-kummelholmen-i-skarholmen-1-bella-rune/",
+      "snippet": "Feb 1, 2025 \u2014 Bella Rune describes her artistic practice. \u201cMy work explores the sensual and conceptual aspects of spatial and material relationships. I am\u00a0...",
+      "rank_absolute": 98,
+      "rank_group": 97,
+      "result_type": "items"
+    },
+    {
+      "title": "\u00c5sikter, Debatt - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/stadsdel/asikter-debatt/",
+      "snippet": "\u00c5sikter, Debatt. Finns inga sidor. KALENDER. okt 11. 11 oktoberkl.14:00 - 19 oktoberkl.17:00. Konstutst\u00e4llning i oktober p\u00e5 Galleri* Gr\u00f6ndal. okt 14.",
+      "rank_absolute": 99,
+      "rank_group": 98,
+      "result_type": "items"
+    },
+    {
+      "title": "maj, 2020 - B\u00c4TTRE STADSDEL",
+      "url": "https://www.battrestadsdel.se/2020/05/",
+      "snippet": "CASINOWINGS.SE Stockholms enda fysiska casino forts\u00e4tter vara st\u00e4ngt [\u2026] Publicerad 17:26, 18 maj 2020. Startskottet g\u00e5tt f\u00f6r nya avloppstunneln \u00b7 axelsberg.",
+      "rank_absolute": 100,
+      "rank_group": 99,
+      "result_type": "items"
+    }
+  ]
+}

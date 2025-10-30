@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:57:10Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "lastwordonsports.com",
+    "anchor_keyword": "casino reviews, gamingtoday.com",
+    "anchor_country": "",
+    "target_url": "https://www.gamingtoday.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How Casino-Style Games Fit Into the Modern Sports Fan\u2019s Betting Routine",
+      "rationale": "Feels native to Last Word On Sports by framing casino play through a sports-betting lens; supports a contextual link to Gaming Today explainers on game types, odds, and strategy without using brands or promo language (locale: Unspecified)."
+    },
+    {
+      "title": "Bankroll Basics for Parlay Lovers: Lessons Sports Bettors Can Borrow from Casino Table Limits",
+      "rationale": "LWOS-friendly, educational angle on money management that can naturally link to Gaming Today bankroll strategies and house edge guides; avoids reviews and brand mentions (locale: Unspecified)."
+    },
+    {
+      "title": "Understanding Sweepstakes and Social Casinos: a Primer for Sports Communities",
+      "rationale": "Bridges common reader interest between sports and alternative casino formats; enables a link to Gaming Today resources on social/sweepstakes mechanics and compliance considerations (locale: Unspecified)."
+    },
+    {
+      "title": "Live-Event Wagering vs. Live-Dealer Play: Managing Tilt on Game Day",
+      "rationale": "Sports-first psychology and discipline topic that justifies a link to Gaming Today responsible gaming tools and comparative guides to live casino experiences (locale: Unspecified)."
+    },
+    {
+      "title": "The Legal Maze: Where Casino Play Intersects With Sports Wagering Across Regions",
+      "rationale": "Policy-oriented explainer in LWOS style that can point to Gaming Today legality overviews and jurisdictional breakdowns without citing any operator names (locale: Unspecified)."
+    }
+  ],
+  "titles_context": [
+    "The Best Real Money Social Casinos In The US July 2025",
+    "Best Sweepstakes Casinos - Top Sweeps Bonuses ...",
+    "No Deposit Casino Bonuses USA July 2025",
+    "$1 Deposit Casino Canada - Best Minimum Deposit Sites ...",
+    "Last Word On Betting",
+    "Fanduel Promo Code: Bet $5 Get $200 Bonus NBA & ...",
+    "Best California Sports Betting Sites",
+    "Draftkings Promo Code: Bet $5 Get $200 Bonus NFL ...",
+    "Managing Your Casino And Sports Betting War Chest -",
+    "FanDuel Promo Code: Claim $300 Bonus Bets NFL Week 7 ...",
+    "Best Maryland Sports Betting Sites - Last Word On Sports",
+    "FanDuel Promo Code for March Madness - Get $200 Bonus if ...",
+    "BetMGM Bonus Code \"MGM101GG\" Get $1,500 for Super ...",
+    "Where is DraftKings Legal in the US for NBA Betting?",
+    "Casino Ladder Match Set for Return at AEW All Out 2022",
+    "DraftKings Promo Code: $200 Bonus Bills vs Chiefs ...",
+    "Bet $5 Get $200 Bonus Super Bowl 59 Chiefs vs Eagles",
+    "Bet $5 Get $200 Bonus Instantly Super Bowl 59",
+    "Jungle Boy Wins Casino Battle Royale - Last Word On Sports",
+    "FanDuel Promo Code Unlocks $200 Bonus on Super Bowl ...",
+    "Brad Keselowski - Last Word On Sports",
+    "First Nine Names Announced for ALL OUT Casino Battle Royale",
+    "Bet $5 Get $200 Bonus Bets Chiefs vs. Eagles Super Bowl LIX",
+    "#AllEliteWeek: AEW Casino Battle Royale & The Buy In -",
+    "Mr. Bet Offers Online Gaming Fun and Excitement (Sponsored)"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.gamingtoday.com/ that feel at home on lastwordonsports.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): casino reviews, gamingtoday.com\n\nAnchor operates in: Unspecified\n\nReference titles:\n- The Best Real Money Social Casinos In The US July 2025\n- Best Sweepstakes Casinos - Top Sweeps Bonuses ...\n- No Deposit Casino Bonuses USA July 2025\n- $1 Deposit Casino Canada - Best Minimum Deposit Sites ...\n- Last Word On Betting\n- Fanduel Promo Code: Bet $5 Get $200 Bonus NBA & ...\n- Best California Sports Betting Sites\n- Draftkings Promo Code: Bet $5 Get $200 Bonus NFL ...\n- Managing Your Casino And Sports Betting War Chest -\n- FanDuel Promo Code: Claim $300 Bonus Bets NFL Week 7 ...\n- Best Maryland Sports Betting Sites - Last Word On Sports\n- FanDuel Promo Code for March Madness - Get $200 Bonus if ...\n- BetMGM Bonus Code \"MGM101GG\" Get $1,500 for Super ...\n- Where is DraftKings Legal in the US for NBA Betting?\n- Casino Ladder Match Set for Return at AEW All Out 2022\n- DraftKings Promo Code: $200 Bonus Bills vs Chiefs ...\n- Bet $5 Get $200 Bonus Super Bowl 59 Chiefs vs Eagles\n- Bet $5 Get $200 Bonus Instantly Super Bowl 59\n- Jungle Boy Wins Casino Battle Royale - Last Word On Sports\n- FanDuel Promo Code Unlocks $200 Bonus on Super Bowl ...\n- Brad Keselowski - Last Word On Sports\n- First Nine Names Announced for ALL OUT Casino Battle Royale\n- Bet $5 Get $200 Bonus Bets Chiefs vs. Eagles Super Bowl LIX\n- #AllEliteWeek: AEW Casino Battle Royale & The Buy In -\n- Mr. Bet Offers Online Gaming Fun and Excitement (Sponsored)\n\nGuidance:\n1. Combine your own knowledge of lastwordonsports.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to lastwordonsports.com while naturally justifying a link to https://www.gamingtoday.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude casino reviews, gamingtoday.com and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1093,
+    "completion_tokens": 746
+  },
+  "cost_usd": 0.06662
+}

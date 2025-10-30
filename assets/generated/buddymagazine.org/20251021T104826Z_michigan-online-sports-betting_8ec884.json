@@ -1,0 +1,55 @@
+{
+  "created_at": "2025-10-21T10:48:26Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "buddymagazine.org",
+    "anchor_keyword": "Michigan online sports betting",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/betting/michigan/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "From Rust Belt to Game Day Boomtown: How One State Helped Redraw America\u2019s Betting Map",
+      "rationale": "A culture-and-policy feature for Buddy Magazine that examines a Midwestern pivot to regulated online wagering. Within the piece, a natural mention of Michigan online sports betting can link to Lineups\u2019 Michigan hub for licensing info, rules, markets, and responsible play resources."
+    },
+    {
+      "title": "Sports, Screens, and Saturday Rituals: How Digital Wagering Is Rewriting Game Day",
+      "rationale": "A lifestyle angle on second\u2011screen habits and odds literacy. When discussing state-by-state differences, we can reference Michigan online sports betting and link to Lineups\u2019 Michigan page for current regulations, age requirements, and tax notes."
+    },
+    {
+      "title": "The Midwest Playbook: What Legal Online Wagers Mean for Fans, Wallets, and Communities",
+      "rationale": "A regional explainer that situates regulated markets in everyday life. Use a contextual line like \u201cin states with mature frameworks such as Michigan online sports betting,\u201d then link to Lineups\u2019 Michigan resource for market availability, bet types, and compliance details."
+    },
+    {
+      "title": "Odds Literacy 101: Reading Lines, Avoiding Myths, and Knowing Your Risk",
+      "rationale": "An educational primer that fits Buddy Magazine\u2019s approachable guides. When offering a practical next step, include a line referencing Michigan online sports betting and link to Lineups\u2019 Michigan section for definitions, examples, and responsible gambling tools."
+    },
+    {
+      "title": "What Responsible Play Looks Like in the App Era: Limits, Reality Checks, and Community Support",
+      "rationale": "A wellness-focused piece on guardrails and healthy habits. Cite Michigan online sports betting as a case study and link to Lineups\u2019 Michigan page for state rules, self-exclusion pathways, and verified resources."
+    }
+  ],
+  "titles_context": [
+    "Top Choice On Online Gaming Platforms Today",
+    "How Software Drives the Future of Gaming Online",
+    "Understanding Non GamStop Games: A Comprehensive Guide",
+    "Why Online Bonuses Are So Popular: Regional Trends Explained",
+    "The Hottest Online Gaming Experience At Game",
+    "The Best Trending Online Entertainment to Enjoy in 2025",
+    "918Game Malaysia: Why This Classic App Still Leads in 2025",
+    "How Texas Became the Beating Heart of Game in America",
+    "Ensuring Fair Play and Safety in Gambling Online - Buddy Magazine",
+    "96ACE: The Best Online Game Singapore Platform for Games ...",
+    "Celebrities You Didn't Know Are Hooked on Fishing",
+    "Sharon Stone Age and How She Defies Time in Hollywood",
+    "The Best Co-Op Games to Play with Friends: A Complete Guide"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/betting/michigan/ that feel at home on buddymagazine.org.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Michigan online sports betting\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Top Choice On Online Gaming Platforms Today\n- How Software Drives the Future of Gaming Online\n- Understanding Non GamStop Games: A Comprehensive Guide\n- Why Online Bonuses Are So Popular: Regional Trends Explained\n- The Hottest Online Gaming Experience At Game\n- The Best Trending Online Entertainment to Enjoy in 2025\n- 918Game Malaysia: Why This Classic App Still Leads in 2025\n- How Texas Became the Beating Heart of Game in America\n- Ensuring Fair Play and Safety in Gambling Online - Buddy Magazine\n- 96ACE: The Best Online Game Singapore Platform for Games ...\n- Celebrities You Didn't Know Are Hooked on Fishing\n- Sharon Stone Age and How She Defies Time in Hollywood\n- The Best Co-Op Games to Play with Friends: A Complete Guide\n\nGuidance:\n1. Combine your own knowledge of buddymagazine.org's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to buddymagazine.org while naturally justifying a link to https://www.lineups.com/betting/michigan/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Michigan online sports betting and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 741,
+    "completion_tokens": 951
+  },
+  "cost_usd": 0.07188
+}

@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-30T15:50:06Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "casinolifemagazine.com",
+    "anchor_keyword": "FindMyCasino",
+    "anchor_country": "",
+    "target_url": "https://www.findmycasino.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How to Evaluate Online Casinos: a Player\u2019s Checklist for 2025",
+      "rationale": "Editorial, evergreen guide aligned with casinolifemagazine\u2019s explainer style; naturally links to a directory like FindMyCasino for up-to-date comparisons, licensing info, and safety checks across regions (Unspecified)."
+    },
+    {
+      "title": "Social vs. Real-Money Play: Where Each Casino Format Fits Best",
+      "rationale": "Builds on the magazine\u2019s prior contrasts of formats; a link to FindMyCasino can help readers explore legal availability and options by jurisdiction without naming brands."
+    },
+    {
+      "title": "The Most Accessible Casino Games for Newcomers (and What to Try Next)",
+      "rationale": "Matches beginner-focused pieces in the catalog; a resource like FindMyCasino can be cited for game breakdowns and pathways to verified platforms globally (Unspecified)."
+    },
+    {
+      "title": "Understanding KYC, RTP, and Fair Play: What Today\u2019s Players Should Know",
+      "rationale": "Industry education piece fits the magazine\u2019s tone; FindMyCasino can be referenced for clear definitions, operator standards, and region-aware guidance without brand mentions."
+    },
+    {
+      "title": "Crash, Live, and Beyond: Casino Game Trends Shaping the Next Year",
+      "rationale": "Trend-forward feature aligns with provider and format coverage; linking to FindMyCasino supports readers with curated overviews of emerging games and compliant options by locale (Unspecified)."
+    }
+  ],
+  "titles_context": [
+    "10 facts you probably didn't know about casinos",
+    "Casino Games and Their Difficulty Ranked",
+    "Desert Diamond Casino White Tanks Shines Bright in the ...",
+    "Social Casinos vs. Real Money Casinos",
+    "The 6 Most Popular Online Casino Games",
+    "The best casino experiences around Pennsylvania",
+    "Top 5 Legendary Casino Wins That Shocked the World",
+    "Beginner's Guide: How to Play Popular Casino Games",
+    "Catawba Two Kings Casino Resort Set to Transform ...",
+    "Top Live Casino Game Providers and the Cutting-Edge ...",
+    "Do Online Casinos Track Your Winnings?",
+    "Blog",
+    "Origins of Gambling",
+    "5 Things to Consider When Choosing a Casino App ...",
+    "What I dislike about the casino industry Part 1",
+    "Top 6 Famous Casino Stories",
+    "Things you should look for when choosing an online casino",
+    "Online Casino - why you should play at live casinos",
+    "News",
+    "Can a Casino Bonus Really Help You Win More or Is It Just a ...",
+    "New Casinos Entering the US Market",
+    "The Rise of Independent Casinos Online",
+    "What Does the Future of Online Casinos Look Like?",
+    "Crash Games for Beginners: The Basics of Crash Gambling",
+    "The Essential Guide to Navigating US Online Casinos"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.findmycasino.com/ that feel at home on casinolifemagazine.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): FindMyCasino\n\nAnchor operates in: Unspecified\n\nReference titles:\n- 10 facts you probably didn't know about casinos\n- Casino Games and Their Difficulty Ranked\n- Desert Diamond Casino White Tanks Shines Bright in the ...\n- Social Casinos vs. Real Money Casinos\n- The 6 Most Popular Online Casino Games\n- The best casino experiences around Pennsylvania\n- Top 5 Legendary Casino Wins That Shocked the World\n- Beginner's Guide: How to Play Popular Casino Games\n- Catawba Two Kings Casino Resort Set to Transform ...\n- Top Live Casino Game Providers and the Cutting-Edge ...\n- Do Online Casinos Track Your Winnings?\n- Blog\n- Origins of Gambling\n- 5 Things to Consider When Choosing a Casino App ...\n- What I dislike about the casino industry Part 1\n- Top 6 Famous Casino Stories\n- Things you should look for when choosing an online casino\n- Online Casino - why you should play at live casinos\n- News\n- Can a Casino Bonus Really Help You Win More or Is It Just a ...\n- New Casinos Entering the US Market\n- The Rise of Independent Casinos Online\n- What Does the Future of Online Casinos Look Like?\n- Crash Games for Beginners: The Basics of Crash Gambling\n- The Essential Guide to Navigating US Online Casinos\n\nGuidance:\n1. Combine your own knowledge of casinolifemagazine.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to casinolifemagazine.com while naturally justifying a link to https://www.findmycasino.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude FindMyCasino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 908,
+    "completion_tokens": 742
+  },
+  "cost_usd": 0.06268
+}

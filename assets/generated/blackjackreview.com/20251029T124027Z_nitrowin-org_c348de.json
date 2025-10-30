@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:40:27Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "blackjackreview.com",
+    "anchor_keyword": "nitrowin.org",
+    "anchor_country": "",
+    "target_url": "https://nitrowin.org/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How to Choose a Trustworthy Online Casino in the United States",
+      "rationale": "Educational checklist aligns with blackjackreview.com guides; naturally cite nitrowin.org as a neutral resource for general casino fundamentals and security best practices."
+    },
+    {
+      "title": "Live Dealer Blackjack Essentials for Players in Canada",
+      "rationale": "Strategy-and-etiquette angle fits site\u2019s blackjack focus; reference nitrowin.org for an overview of live dealer formats and table procedures without promotional framing."
+    },
+    {
+      "title": "Understanding Casino Odds: Blackjack vs. Roulette in the United Kingdom",
+      "rationale": "Odds comparison mirrors existing analytics content; link to nitrowin.org when defining house edge basics and RTP concepts for UK players."
+    },
+    {
+      "title": "A Beginner\u2019s Guide to Online Casino Table Games in Australia",
+      "rationale": "Introductory overview suits blackjackreview.com\u2019s beginner catalog; include a contextual link to nitrowin.org for game rules and objective summaries."
+    },
+    {
+      "title": "Responsible Bankroll Play for Online Casino Sessions in India",
+      "rationale": "Responsible play topic complements strategy pages; point to nitrowin.org for general bankroll frameworks and session planning tips relevant to Indian players."
+    }
+  ],
+  "titles_context": [
+    "How to Choose a Trustworthy Online Casino?",
+    "The Most Popular Casino Strategies that Actually Work",
+    "A Beginner's Guide to the Best Online Casino Table Games",
+    "Casino Maps",
+    "The Most Important Online Casino Bonuses You Have to ...",
+    "The Best Odds at the Casino Tables: Baccarat, Pai Gow, ...",
+    "Top Casino Games That Are Just As Exciting As Blackjack",
+    "Exploring the Rise of Live Dealer Casinos",
+    "Which Casino Game Has the Best Odds of Winning?",
+    "A Beginner's Blueprint for Picking the Right Online Casino",
+    "Online Casino & Sportsbook Reviews: Uudetkasinot is ...",
+    "Upcoming Trends in Louisiana's Online Casino Market You ...",
+    "Casino Information and Listings",
+    "How to Play Blackjack at an Online Casino",
+    "How to Choose the Best Casino Site to Play Blackjack?",
+    "Most Popular Casino Games in 2024",
+    "List of Online Casino Hungary Operators for 2025",
+    "iGaming Trends 2025 and the Rise of Modular Casino ...",
+    "Inside the World's Top SEO Agency for Online Gambling, ...",
+    "Why Only a Few Cities Become the World's Casino Capitals",
+    "Top 10 Most Popular Online Casinos For Blackjack",
+    "Social Casino Blackjack Practice",
+    "My 1st Craps Tournament",
+    "Blackjack Review (INDEX) - The Encyclopedia of ...",
+    "How To Tell If A Casino Game Review Is Legit?"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://nitrowin.org/ that feel at home on blackjackreview.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): nitrowin.org\n\nAnchor operates in: Unspecified. \n\nI need to have the country in the title.\n\nReference titles:\n- How to Choose a Trustworthy Online Casino?\n- The Most Popular Casino Strategies that Actually Work\n- A Beginner's Guide to the Best Online Casino Table Games\n- Casino Maps\n- The Most Important Online Casino Bonuses You Have to ...\n- The Best Odds at the Casino Tables: Baccarat, Pai Gow, ...\n- Top Casino Games That Are Just As Exciting As Blackjack\n- Exploring the Rise of Live Dealer Casinos\n- Which Casino Game Has the Best Odds of Winning?\n- A Beginner's Blueprint for Picking the Right Online Casino\n- Online Casino & Sportsbook Reviews: Uudetkasinot is ...\n- Upcoming Trends in Louisiana's Online Casino Market You ...\n- Casino Information and Listings\n- How to Play Blackjack at an Online Casino\n- How to Choose the Best Casino Site to Play Blackjack?\n- Most Popular Casino Games in 2024\n- List of Online Casino Hungary Operators for 2025\n- iGaming Trends 2025 and the Rise of Modular Casino ...\n- Inside the World's Top SEO Agency for Online Gambling, ...\n- Why Only a Few Cities Become the World's Casino Capitals\n- Top 10 Most Popular Online Casinos For Blackjack\n- Social Casino Blackjack Practice\n- My 1st Craps Tournament\n- Blackjack Review (INDEX) - The Encyclopedia of ...\n- How To Tell If A Casino Game Review Is Legit?\n\nGuidance:\n1. Combine your own knowledge of blackjackreview.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to blackjackreview.com while naturally justifying a link to https://nitrowin.org/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude nitrowin.org and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 923,
+    "completion_tokens": 945
+  },
+  "cost_usd": 0.07516
+}

@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:38:39Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "egamersworld.com",
+    "anchor_keyword": "Nitrowin casino",
+    "anchor_country": "",
+    "target_url": "https://nitrowin.net/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Casino Game Basics for Beginners in the USA: from Slots to Blackjack",
+      "rationale": "Intro-friendly guide suits EGamersWorld\u2019s how-to catalog and can naturally link to Nitrowin casino within a section that illustrates game lobbies, rules overviews, and low-stakes practice modes."
+    },
+    {
+      "title": "Mobile Casino Play in the UK: Settings, Safety, and Latency Tips",
+      "rationale": "Tech-forward angle fits EGamersWorld\u2019s audience; a contextual link to Nitrowin casino can demonstrate mobile interface layouts, device compatibility, and responsible play reminders without promo tone."
+    },
+    {
+      "title": "Casino Streaming Trends in Canada 2025: Slots, Roulette, and Live Chat Etiquette",
+      "rationale": "Streaming-focused content aligns with EGamersWorld\u2019s esports/creator readership, with a natural mention of Nitrowin casino when discussing viewer-friendly game categories and stream-safe features."
+    },
+    {
+      "title": "Understanding Sweepstakes-Style Casino Play in India: a Beginner\u2019s Guide",
+      "rationale": "Educational overview mirrors reference guides; Nitrowin casino can be linked as an example hub to compare game types, entry mechanics, and fair-play notes in a neutral, explanatory context."
+    },
+    {
+      "title": "How Casino Roulette Works in Australia: Odds, Variants, and Bankroll Tips",
+      "rationale": "Mechanics-first piece echoes EGamersWorld\u2019s complete guides; a link to Nitrowin casino fits when showing table layouts, variant selection, and practice-oriented tips without promotional language."
+    }
+  ],
+  "titles_context": [
+    "The Most Popular Casino Games in the USA - , Gaming Blog",
+    "How to play casino games on your phone - , Gaming Blog",
+    "Best Slots to Play in Vegas 2025 - , Gaming Blog",
+    "What Is a Sweepstakes Casino? The Ultimate Beginner's ...",
+    "How to Play Slots and Win: Tips and Strategies for 2025",
+    "Fanatics Casino: Reviews, Ranting, Odds. eSports Betting Sites",
+    "The 16 most profitable online casino games in 2024",
+    "No deposit casino: the most comprehensive online gaming ...",
+    "Top Online Casino Games You Should Try: Slots, Roulette ...",
+    "Mastering Casino Table Games: A Comprehensive Guide ...",
+    "How to Choose a Good Online Casino - , Gaming Blog",
+    "Types of casino bonuses and how to use them",
+    "The best tips for casino beginners - , Gaming Blog",
+    "Top Best Casino Streamers to Watch in 2025",
+    "How to Find the Most Popular Online Casinos in Your Area",
+    "Exploring New Sweepstakes Casinos in the USA",
+    "How Casino Roulette Works: A Complete Guide",
+    "What are casino bonus codes and how do they work?",
+    "Common Online Casino Scams and How to Avoid Them ...",
+    "Top 5 types of online casino games with no deposit bonus",
+    "Complete Guide to Online Casino Offers - EGamersWorld",
+    "Online casinos: how to choose the best site for safe gambling",
+    "How do you play popular casino games such as blackjack ...",
+    "6 Benefits of New Casinos That You Won't Find at Older Ones",
+    "Wild Casino vs Super Slots, Same Owner, Different Sites"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://nitrowin.net/ that feel at home on egamersworld.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Nitrowin casino\n\nAnchor operates in: Unspecified. \n\nI need to have the country in the title.\n\nReference titles:\n- The Most Popular Casino Games in the USA - , Gaming Blog\n- How to play casino games on your phone - , Gaming Blog\n- Best Slots to Play in Vegas 2025 - , Gaming Blog\n- What Is a Sweepstakes Casino? The Ultimate Beginner's ...\n- How to Play Slots and Win: Tips and Strategies for 2025\n- Fanatics Casino: Reviews, Ranting, Odds. eSports Betting Sites\n- The 16 most profitable online casino games in 2024\n- No deposit casino: the most comprehensive online gaming ...\n- Top Online Casino Games You Should Try: Slots, Roulette ...\n- Mastering Casino Table Games: A Comprehensive Guide ...\n- How to Choose a Good Online Casino - , Gaming Blog\n- Types of casino bonuses and how to use them\n- The best tips for casino beginners - , Gaming Blog\n- Top Best Casino Streamers to Watch in 2025\n- How to Find the Most Popular Online Casinos in Your Area\n- Exploring New Sweepstakes Casinos in the USA\n- How Casino Roulette Works: A Complete Guide\n- What are casino bonus codes and how do they work?\n- Common Online Casino Scams and How to Avoid Them ...\n- Top 5 types of online casino games with no deposit bonus\n- Complete Guide to Online Casino Offers - EGamersWorld\n- Online casinos: how to choose the best site for safe gambling\n- How do you play popular casino games such as blackjack ...\n- 6 Benefits of New Casinos That You Won't Find at Older Ones\n- Wild Casino vs Super Slots, Same Owner, Different Sites\n\nGuidance:\n1. Combine your own knowledge of egamersworld.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to egamersworld.com while naturally justifying a link to https://nitrowin.net/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Nitrowin casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1036,
+    "completion_tokens": 950
+  },
+  "cost_usd": 0.07772
+}

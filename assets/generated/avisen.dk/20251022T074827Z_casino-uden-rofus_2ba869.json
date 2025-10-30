@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-22T07:48:27Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "avisen.dk",
+    "anchor_keyword": "casino uden rofus",
+    "anchor_country": "",
+    "target_url": "https://www.worldclasstrotting.com/dk/casino-uden-rofus/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Hvad Er ROFUS, Og Hvad Betyder Det for Danskernes Onlinespil?",
+      "rationale": "Avisen.dk-l\u00e6seren f\u00e5r en neutral forklaring af selvudelukkelse; linket kan uddybe regler, muligheder og konsekvenser for dem, der kigger uden for registreringen."
+    },
+    {
+      "title": "Derfor S\u00f8ger Nogle Spillere Mod Udenlandske Spillesider \u2013 Og Hvilke Faldgruber F\u00f8lger Med",
+      "rationale": "Nyhedsvinklet analyse om motivation og risici; linket giver supplerende indsigt i rammerne for spil uden for den danske ordning."
+    },
+    {
+      "title": "S\u00e5dan Tjekker Du Licens, Alderstjek Og Ansvarlige V\u00e6rkt\u00f8jer, F\u00f8r Du Spiller Online",
+      "rationale": "Praktisk forbrugerfokus i Avisen.dk-stil; linket fungerer som ekstra l\u00e6sning om regler, sikkerhed og alternativer uden for danske registre."
+    },
+    {
+      "title": "Er Reglerne Blevet for Stramme? Debatten Om Reklamer, Selvudelukkelse Og Dansk Spillelov",
+      "rationale": "Debatramme, som matcher Avisen.dk; linket kan perspektivere, hvordan selvudelukkelse spiller sammen med adgang til udenlandske tilbud."
+    },
+    {
+      "title": "Fra Streaming Til Mobilapps: Teknologiens Rolle I at Forme Nye Spilvaner",
+      "rationale": "Teknologi- og kulturvinkel i tr\u00e5d med referencerne; linket kan kontekstualisere, hvor nogle brugere orienterer sig uden for nationale ordninger."
+    }
+  ],
+  "titles_context": [
+    "Skal du jagte bonusser eller blive hos \u00e9t casino?",
+    "Hvad er casino bonusser? En forklaring til dig, der er helt ...",
+    "Danske streamere fra Casino Holdet tester nye casinoer live",
+    "Annonce",
+    "Online underholdning for alle: En verden af spil og sjov",
+    "Er online casino blevet en seri\u00f8s udfordrer til streamingtjenester?",
+    "Pr\u00f8v kr\u00e6fter med online casino under Corona",
+    "Hvordan bliver danske casino-sider ved med at v\u00e6re ...",
+    "Casino online Danmark: G\u00f8r sportsv\u00e6ddem\u00e5l mere ...",
+    "Tidligere Bond-babe: Gravid som 47-\u00e5rig - Avisen.dk",
+    "Nyt studie: Spilreklamer f\u00e5r flere til at spille - Avisen.dk",
+    "Fordele og ulemper ved at spille online casino - Avisen.dk",
+    "Avisen.dk - Nyheder fra ind- og udland",
+    "Stort svensk casino kommer til Danmark - Avisen.dk",
+    "Tennis begejstrer verden med tempo, teknik og tradition",
+    "S\u00e5dan f\u00e5r du en sjov og sikker oplevelse hos SpilNu - Avisen.dk",
+    "Sikkerhed og sjov: En guide til online casino gambling i ...",
+    "Nye sanktioner mod Rusland kan vedtages - Avisen.dk",
+    "De bedste strategier til at vinde p\u00e5 online casinoer - Avisen.dk",
+    "To b\u00f8rn fr\u00f8s ihjel i bil - Avisen.dk",
+    "Janni og Jeppe f\u00e5r hj\u00e6lp til et bedre sexliv - Avisen.dk",
+    "Fra det fysiske til det virtuelle - Avisen.dk",
+    "Spilindustrien forts\u00e6tter med at anvende ny teknologi",
+    "Karsten Ree g\u00e5r efter Jannis penge - Avisen.dk",
+    "Pakistan og Afghanistan indg\u00e5r aftale om v\u00e5benhvile - Avisen.dk"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.worldclasstrotting.com/dk/casino-uden-rofus/ that feel at home on avisen.dk.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): casino uden rofus\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Skal du jagte bonusser eller blive hos \u00e9t casino?\n- Hvad er casino bonusser? En forklaring til dig, der er helt ...\n- Danske streamere fra Casino Holdet tester nye casinoer live\n- Annonce\n- Online underholdning for alle: En verden af spil og sjov\n- Er online casino blevet en seri\u00f8s udfordrer til streamingtjenester?\n- Pr\u00f8v kr\u00e6fter med online casino under Corona\n- Hvordan bliver danske casino-sider ved med at v\u00e6re ...\n- Casino online Danmark: G\u00f8r sportsv\u00e6ddem\u00e5l mere ...\n- Tidligere Bond-babe: Gravid som 47-\u00e5rig - Avisen.dk\n- Nyt studie: Spilreklamer f\u00e5r flere til at spille - Avisen.dk\n- Fordele og ulemper ved at spille online casino - Avisen.dk\n- Avisen.dk - Nyheder fra ind- og udland\n- Stort svensk casino kommer til Danmark - Avisen.dk\n- Tennis begejstrer verden med tempo, teknik og tradition\n- S\u00e5dan f\u00e5r du en sjov og sikker oplevelse hos SpilNu - Avisen.dk\n- Sikkerhed og sjov: En guide til online casino gambling i ...\n- Nye sanktioner mod Rusland kan vedtages - Avisen.dk\n- De bedste strategier til at vinde p\u00e5 online casinoer - Avisen.dk\n- To b\u00f8rn fr\u00f8s ihjel i bil - Avisen.dk\n- Janni og Jeppe f\u00e5r hj\u00e6lp til et bedre sexliv - Avisen.dk\n- Fra det fysiske til det virtuelle - Avisen.dk\n- Spilindustrien forts\u00e6tter med at anvende ny teknologi\n- Karsten Ree g\u00e5r efter Jannis penge - Avisen.dk\n- Pakistan og Afghanistan indg\u00e5r aftale om v\u00e5benhvile - Avisen.dk\n\nGuidance:\n1. Combine your own knowledge of avisen.dk's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to avisen.dk while naturally justifying a link to https://www.worldclasstrotting.com/dk/casino-uden-rofus/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude casino uden rofus and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1175,
+    "completion_tokens": 1228
+  },
+  "cost_usd": 0.09718
+}

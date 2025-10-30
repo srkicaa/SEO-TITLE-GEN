@@ -1,0 +1,51 @@
+{
+  "created_at": "2025-10-13T10:39:47Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "eldiariodearteixo.com",
+    "anchor_keyword": "bonos de bienvenida sin deposito",
+    "anchor_country": "",
+    "target_url": "https://www.platincasino.es/promociones-casino",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Ocio Digital En Arteixo: Pautas De Juego Responsable Y Seguridad En El Casino Online",
+      "rationale": "Encaja con el enfoque local y social del medio, aportando gu\u00eda pr\u00e1ctica. El enlace a la p\u00e1gina de promociones de PlatinCasino.es sirve como ejemplo real de condiciones y herramientas de autocontrol disponibles en Espa\u00f1a."
+    },
+    {
+      "title": "Galicia L\u00fadica: De La Regueifa a Los Juegos En La Red, Un Mapa Del Entretenimiento Local",
+      "rationale": "Conecta cultura gallega y ocio digital, habitual en el diario. El v\u00ednculo a PlatinCasino.es ayuda a ilustrar c\u00f3mo se presentan ofertas y t\u00e9rminos en plataformas legales, sin tono comercial."
+    },
+    {
+      "title": "Antes De Jugar: C\u00f3mo Interpretar T\u00e9rminos, L\u00edmites Y Herramientas De Autocontrol En Plataformas De Casino",
+      "rationale": "Contenido educativo y \u00fatil para lectores del \u00e1rea de A Coru\u00f1a. La URL de PlatinCasino.es aporta un caso pr\u00e1ctico de t\u00e9rminos y condiciones en Espa\u00f1a para comprender mejor la letra peque\u00f1a."
+    },
+    {
+      "title": "Una Tarde De Ocio En Casa: Cartas, Mesa, Videojuegos Y Opciones De Casino Online Con Cabeza",
+      "rationale": "Formato lifestyle af\u00edn al medio, integrando el juego responsable. El enlace a PlatinCasino.es funciona como recurso para ver ejemplos de condiciones y l\u00edmites aplicados a las ofertas en el mercado espa\u00f1ol."
+    },
+    {
+      "title": "Regulaci\u00f3n Y H\u00e1bitos En Espa\u00f1a: Qu\u00e9 Dice El BOE Y C\u00f3mo Afecta Al Juego Online En a Coru\u00f1a",
+      "rationale": "Tono informativo y local que el diario suele tratar al citar normativa. La p\u00e1gina de PlatinCasino.es sirve para mostrar c\u00f3mo se adaptan las plataformas a la regulaci\u00f3n vigente y a las exigencias de transparencia."
+    }
+  ],
+  "titles_context": [
+    "Best Casino Games Online in Australia",
+    "Best Live Dealer Casino in Canada",
+    "Presentaci\u00f3n del libro \"Atlas sensorial dunha Costa da ...",
+    "Nace a Escola de Regueifa de Carballo",
+    "Poes\u00eda y teatro, vida y palabras",
+    "\"Juguetes que unen\"",
+    "Desbloquear el Bono de Bienvenida 1Win: Gu\u00eda sencilla ...",
+    "BOE: medidas hacia la fase 3",
+    "One, two, three\u2026 Action !!, un nuevo espacio l\u00fadico para ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.platincasino.es/promociones-casino that feel at home on eldiariodearteixo.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): bonos de bienvenida sin deposito\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Best Casino Games Online in Australia\n- Best Live Dealer Casino in Canada\n- Presentaci\u00f3n del libro \"Atlas sensorial dunha Costa da ...\n- Nace a Escola de Regueifa de Carballo\n- Poes\u00eda y teatro, vida y palabras\n- \"Juguetes que unen\"\n- Desbloquear el Bono de Bienvenida 1Win: Gu\u00eda sencilla ...\n- BOE: medidas hacia la fase 3\n- One, two, three\u2026 Action !!, un nuevo espacio l\u00fadico para ...\n\nGuidance:\n1. Combine your own knowledge of eldiariodearteixo.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to eldiariodearteixo.com while naturally justifying a link to https://www.platincasino.es/promociones-casino.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude bonos de bienvenida sin deposito and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 638,
+    "completion_tokens": 1182
+  },
+  "cost_usd": 0.08368
+}

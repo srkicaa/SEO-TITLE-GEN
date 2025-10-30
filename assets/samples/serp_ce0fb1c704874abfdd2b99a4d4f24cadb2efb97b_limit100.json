@@ -1,0 +1,56 @@
+{
+  "mode": "live",
+  "task_id": "09221714-4117-0121-0000-4e30924982c9",
+  "query": "site:moneymail.fi kasino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Miten kasino bonukset vaikuttavat taloudellisiin p\u00e4\u00e4t\u00f6ksiin",
+      "url": "https://moneymail.fi/miten-kasino-bonukset-vaikuttavat-taloudellisiin-paatoksiin/",
+      "snippet": "Apr 16, 2025 \u2014 Kasino bonukset ovat keskeinen osa pelaajien taloudellisia p\u00e4\u00e4t\u00f6ksi\u00e4, sill\u00e4 ne tarjoavat sek\u00e4 mahdollisuuksia ett\u00e4 riskej\u00e4.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "moneymail.fi",
+      "url": "https://moneymail.fi/",
+      "snippet": "Miten kasino bonukset vaikuttavat taloudellisiin p\u00e4\u00e4t\u00f6ksiin \u00b7 Pikalaina yll\u00e4tt\u00e4viin menoihin \u2013 nopea apu vai taloudellinen riski? Pid\u00e4 taloutesi hallinnassa\u00a0...",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Luotettavien nettikasinoiden valinta: Vastuullisen pelaamisen ...",
+      "url": "https://moneymail.fi/luotettavien-nettikasinoiden-valinta-vastuullisen-pelaamisen-vinkit/",
+      "snippet": "Jul 14, 2025 \u2014 Kasinon pelivalikoima kertoo my\u00f6s paljon sen luotettavuudesta. Vastuulliset kasinot tarjoavat laajan valikoiman pelej\u00e4 tunnetuilta kehitt\u00e4jilt\u00e4,\u00a0...",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Pelaaminen osana suunnitelmallista vapaa-aikaa - moneymail.fi",
+      "url": "https://moneymail.fi/pelaaminen-osana-suunnitelmallista-vapaa-aikaa-nain-valtat-yleiset-sudenkuopat/",
+      "snippet": "Rekister\u00f6itymisvapaat kasinot tarjoavat helpon tavan pelata ilman erikseen rekister\u00f6it\u00e4v\u00e4\u00e4 k\u00e4ytt\u00e4j\u00e4tili\u00e4, mutta t\u00e4m\u00e4 voi my\u00f6s johtaa siihen, ett\u00e4 pelaaminen\u00a0...",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Pay N Play -lupaus: Onko rekister\u00f6im\u00e4tt\u00f6m\u00e4n pelaamisen ...",
+      "url": "https://moneymail.fi/pay-n-play-lupaus-onko-rekisteroimattoman-pelaamisen-turvallisuus-todella-parempi/",
+      "snippet": "7 days ago \u2014 Pelaajat voivat tutustua esimerkiksi 24nettikasino saadakseen lis\u00e4tietoja turvallisista kasinoista, jotka tarjoavat Pay N Play -mahdollisuuden.",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "Kasinobonusten vaikutus pelaajien taloudellisiin p\u00e4\u00e4t\u00f6ksiin",
+      "url": "https://moneymail.fi/kasinobonusten-vaikutus-pelaajien-taloudellisiin-paatoksiin/",
+      "snippet": "T\u00e4ss\u00e4 tekstiss\u00e4 uudetkasinot.comin asiantuntijat tarkastelevat sit\u00e4, miten bonukset muokkaavat pelaajien k\u00e4ytt\u00e4ytymist\u00e4 ja p\u00e4\u00e4t\u00f6ksi\u00e4 taloudellisella tasolla, ja\u00a0...",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    }
+  ]
+}

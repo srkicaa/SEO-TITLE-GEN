@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-13T15:25:03Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "gameindustry.com",
+    "anchor_keyword": "Lunasa",
+    "anchor_country": "",
+    "target_url": "https://www.lunasa.ie/bonus/free-spins-no-deposit/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "No-Deposit Spins Explained: Mechanics, Risks, and Player Value",
+      "rationale": "Educational explainer suited to gameindustry.com readers; a contextual link to Lunasa\u2019s free-spins-without-deposit guide can clarify terms like wagering requirements, RTP impact, caps, and eligibility."
+    },
+    {
+      "title": "From Gacha to Spins: What Free\u2011to\u2011play Designers Can Learn from Casino Onboarding",
+      "rationale": "Bridges game design and iGaming acquisition tactics; linking to Lunasa provides concrete examples of no\u2011deposit spin structures that inform onboarding and conversion ethics."
+    },
+    {
+      "title": "Responsible Ways to Test Real\u2011money Slots Without Funding an Account",
+      "rationale": "Practical, safety\u2011first angle; Lunasa\u2019s page can serve as the neutral resource outlining how no\u2011deposit spins work, common pitfalls, and consumer protections (Unspecified locale)."
+    },
+    {
+      "title": "Micro\u2011rewards and Randomness: How Free Spins Influence Early Retention",
+      "rationale": "Industry\u2011focused analysis of retention mechanics; Lunasa can ground the discussion with real\u2011world parameters for free spins, including limits and fair\u2011play considerations."
+    },
+    {
+      "title": "A Practical Checklist for Evaluating Free\u2011spin Offers Across Regions",
+      "rationale": "Actionable framework for a global audience; a link to Lunasa can supply examples of terms, verification steps, and red flags for no\u2011deposit spins without naming operators."
+    }
+  ],
+  "titles_context": [
+    "Exploring the Emerging Trend of Skill-Based Casino Games",
+    "Top 3 Online Casinos With The Largest Game Selection",
+    "Evaluating the Best Casino Apps for Beginners",
+    "Speed Up Your Casino Withdrawal Process With These Tips",
+    "Roobet Casino: Top Choice for Online Gaming",
+    "Tips for Playing Online Casino Games Without Security Risks",
+    "4 of the Best Non-Gamstop Casinos",
+    "What Online Casino Games Provide You With the Best Odds",
+    "The Rise of Casino-Inspired Games: How Gambling ...",
+    "What Are The Best Slots at Online Casinos",
+    "Looking At The Best Online Casinos in 2023",
+    "How to Find a Social Online Casino You Can Actually Trust",
+    "The Convenience Factor: How Online Gambling is ...",
+    "Cross-Platform and Global Growth in Online Casino Industry",
+    "A Journey from Classic Slots to the Digital Age of Gaming",
+    "Play and Prosper: The Ultimate Guide to Online Casino ...",
+    "Unique Video Game Themed Slots",
+    "Monopoly Slots Game Review",
+    "The Evolution and Impact of Online Casino Game Shows ...",
+    "Is SlotoCash the Real Deal? Honest Review of Its ...",
+    "Differences Between Playing Slot Machines and Video ...",
+    "What Will Online Casinos Be Like by 2030? Emerging ...",
+    "Aviator and the Rise of Crash Gambling in Digital ...",
+    "How Can You Win Real Money at a Sweepstakes Casino?",
+    "Best PC Games with Wheel Spinning Elements from Casinos"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lunasa.ie/bonus/free-spins-no-deposit/ that feel at home on gameindustry.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Lunasa\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Exploring the Emerging Trend of Skill-Based Casino Games\n- Top 3 Online Casinos With The Largest Game Selection\n- Evaluating the Best Casino Apps for Beginners\n- Speed Up Your Casino Withdrawal Process With These Tips\n- Roobet Casino: Top Choice for Online Gaming\n- Tips for Playing Online Casino Games Without Security Risks\n- 4 of the Best Non-Gamstop Casinos\n- What Online Casino Games Provide You With the Best Odds\n- The Rise of Casino-Inspired Games: How Gambling ...\n- What Are The Best Slots at Online Casinos\n- Looking At The Best Online Casinos in 2023\n- How to Find a Social Online Casino You Can Actually Trust\n- The Convenience Factor: How Online Gambling is ...\n- Cross-Platform and Global Growth in Online Casino Industry\n- A Journey from Classic Slots to the Digital Age of Gaming\n- Play and Prosper: The Ultimate Guide to Online Casino ...\n- Unique Video Game Themed Slots\n- Monopoly Slots Game Review\n- The Evolution and Impact of Online Casino Game Shows ...\n- Is SlotoCash the Real Deal? Honest Review of Its ...\n- Differences Between Playing Slot Machines and Video ...\n- What Will Online Casinos Be Like by 2030? Emerging ...\n- Aviator and the Rise of Crash Gambling in Digital ...\n- How Can You Win Real Money at a Sweepstakes Casino?\n- Best PC Games with Wheel Spinning Elements from Casinos\n\nGuidance:\n1. Combine your own knowledge of gameindustry.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to gameindustry.com while naturally justifying a link to https://www.lunasa.ie/bonus/free-spins-no-deposit/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Lunasa and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 972,
+    "completion_tokens": 804
+  },
+  "cost_usd": 0.06768
+}

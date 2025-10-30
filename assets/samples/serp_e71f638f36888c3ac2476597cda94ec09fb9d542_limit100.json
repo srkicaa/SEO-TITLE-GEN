@@ -1,0 +1,40 @@
+{
+  "mode": "live",
+  "task_id": "09231350-4117-0121-0000-bd38a139fccb",
+  "query": "site:bonustutka.fi kasinot",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Bonustutka: Kotiin",
+      "url": "https://bonustutka.fi/",
+      "snippet": "Bonustutka tarjoaa asiantuntevia arvosteluja ja vinkkej\u00e4, jotta voit nauttia turvallisista ja voittavista pelikokemuksista.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Perimm\u00e4inen opas parhaiden l\u00f6yt\u00e4miseen kasinobonukset Online ...",
+      "url": "https://bonustutka.fi/perimmainen-opas-parhaiden-loytamiseen-kasinobonukset-online/",
+      "snippet": "K\u00e4ymme t\u00e4ss\u00e4 oppaassa l\u00e4pi suosituimmat kasinobonukset sek\u00e4 sen, mit\u00e4 kannattaa etsi\u00e4 ja miten voit lis\u00e4t\u00e4 voittomahdollisuuksiasi. Miksi kasinobonukset ovat\u00a0...",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Saako Visalla pelatessa kasinobonuksia? - Bonustutka",
+      "url": "https://bonustutka.fi/saako-visalla-pelatessa-kasinobonuksia/",
+      "snippet": "4 days ago \u2014 Kaikilla nettikasinoiden kassalla olevilla maksutavoilla ei p\u00e4\u00e4se lunastamaan bonuksia, mutta Visalla tallettaessa rajoituksia ei yleens\u00e4 ole.",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Blogi - Bonustutka",
+      "url": "https://bonustutka.fi/blogi/",
+      "snippet": "L\u00f6yd\u00e4 parhaat kasinovinkit ja tarjoukset \u00b7 Saako Visalla pelatessa kasinobonuksia? \u00b7 Mink\u00e4laisia bonuksia uudet kasinot tarjoavat \u00b7 Turvallisempaa pelaamista vai\u00a0...",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    }
+  ]
+}

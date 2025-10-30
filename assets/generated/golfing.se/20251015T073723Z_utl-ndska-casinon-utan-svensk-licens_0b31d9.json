@@ -1,0 +1,46 @@
+{
+  "created_at": "2025-10-15T07:37:23Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "golfing.se",
+    "anchor_keyword": "Utl\u00e4ndska casinon utan svensk licens",
+    "anchor_country": "Sweden",
+    "target_url": "https://www.umamicart.com/sv/casino/utan-bankid/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "S\u00e5 Funkar Registrering Och Verifiering P\u00e5 N\u00e4tcasinon N\u00e4r Du \u00e4R Utomlands \u2013 En Snabbguide F\u00f6r Svenska Golfare",
+      "rationale": "Knyter an till svenska golfares resor under l\u00e5gs\u00e4song och f\u00f6rklarar verifiering/identifiering utanf\u00f6r BankID-milj\u00f6n, vilket naturligt motiverar en l\u00e4nk till en f\u00f6rdjupande guide om spel utan BankID."
+    },
+    {
+      "title": "Golfresan Till Spanien Eller Portugal: Vad B\u00f6r Du Veta Om Casinon Online Och Betalningsmetoder Utan Bankid?",
+      "rationale": "M\u00e5linriktad mot vanliga svenska golfdestinationer och j\u00e4mf\u00f6r betal- och inloggningsmetoder, vilket skapar en relevant ing\u00e5ng till att l\u00e4nka vidare till resurser om alternativ till BankID."
+    },
+    {
+      "title": "Odds, Varians Och Handicap: En Golfares S\u00e4tt Att F\u00f6rst\u00e5 Risk Vid Spel P\u00e5 Casinon",
+      "rationale": "Binder samman golfens handicap och sannolikhetst\u00e4nk med riskhantering i spel, och \u00f6ppnar f\u00f6r en naturlig h\u00e4nvisning till en guide som beskriver regler och registrering utan BankID."
+    },
+    {
+      "title": "Mellan Rundorna: S\u00e4kra Digitala Spelvanor F\u00f6r Svenska Golfare",
+      "rationale": "Fokuserar p\u00e5 ansvarsfullt spelande, gr\u00e4nser och verktyg\u2014ett tema d\u00e4r en l\u00e4nk till en svensk resurs om identitetskontroller och spel utan BankID tillf\u00f6r konkreta r\u00e5d."
+    },
+    {
+      "title": "Mobilspel Med Golftema Eller Casinospel? S\u00e5 Hittar Du R\u00e4tt Tempo Och Fokus P\u00e5 Resan",
+      "rationale": "J\u00e4mf\u00f6r l\u00e4ttsamma golfteman i mobilen med mer riskfyllt n\u00e4tspel, vilket motiverar en faktal\u00e4nk om hur registrering och verifiering fungerar n\u00e4r BankID inte anv\u00e4nds."
+    }
+  ],
+  "titles_context": [
+    "De b\u00e4sta spelen med golfteman",
+    "Mobilspel med golftema",
+    "Per Arne Stahl och G\u00f6ran Fredriksson, Mats Wicklund och Patrik ...",
+    "Glenn Gulld\u00e9n och Lars Gustafsson, Reine Larsson och ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.umamicart.com/sv/casino/utan-bankid/ that feel at home on golfing.se.\n\nReference SERP keyword: casinon\nAnchor keyword (use only if natural): Utl\u00e4ndska casinon utan svensk licens\n\nAnchor operates in: Sweden\n\nReference titles:\n- De b\u00e4sta spelen med golfteman\n- Mobilspel med golftema\n- Per Arne Stahl och G\u00f6ran Fredriksson, Mats Wicklund och Patrik ...\n- Glenn Gulld\u00e9n och Lars Gustafsson, Reine Larsson och ...\n\nGuidance:\n1. Combine your own knowledge of golfing.se's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to golfing.se while naturally justifying a link to https://www.umamicart.com/sv/casino/utan-bankid/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Utl\u00e4ndska casinon utan svensk licens and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Sweden where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 528,
+    "completion_tokens": 1350
+  },
+  "cost_usd": 0.09156
+}

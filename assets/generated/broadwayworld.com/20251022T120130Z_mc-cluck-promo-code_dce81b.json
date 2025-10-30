@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-22T12:01:30Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "broadwayworld.com",
+    "anchor_keyword": "Mc Cluck promo code",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/sweepstakes-casinos/mcluck-promo-code/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Broadway Debates: What Counts as a \u201cCasino\u201d in the Age of Online Sweepstakes",
+      "rationale": "Fits BWW\u2019s ongoing coverage of casino discourse while opening space to explain the sweepstakes model; a natural spot in-copy to reference the Mc Cluck promo code as an example resource for readers curious about how these platforms work (anchor operates Unspecified)."
+    },
+    {
+      "title": "Industry Pro: Theater Audiences and the New Wave of Social Gaming",
+      "rationale": "Matches BWW\u2019s Industry Pro tone and explores how theatergoers interact with online sweepstakes-style gaming; link can illustrate the model with a practical resource, using Mc Cluck promo code contextually in supporting text (Unspecified locale)."
+    },
+    {
+      "title": "Opinion: If Midtown Says No to a Casino, Where Does the Action Go?",
+      "rationale": "Echoes BWW\u2019s Times Square debate pieces and pivots to legal online alternatives; the article can cite a sweepstakes example and include Mc Cluck promo code naturally within explanatory copy (anchor region Unspecified)."
+    },
+    {
+      "title": "Guide: Understanding Sweepstakes-Style Gaming for Entertainment Lovers",
+      "rationale": "A service-style BWW guide that clarifies terminology around \u2018casino\u2019 vs. sweepstakes; ideal to include a contextual link to a how-to page that mentions Mc Cluck promo code for readers seeking more detail (Unspecified)."
+    },
+    {
+      "title": "Pre-Show Talkback: How Gaming Fits Into NYC Nightlife Without Brick-and-Mortar",
+      "rationale": "Aligns with BWW\u2019s NYC nightlife coverage and the ongoing casino conversation; the piece can reference online sweepstakes options and link to a resource where Mc Cluck promo code is discussed within the body text (anchor operates Unspecified)."
+    }
+  ],
+  "titles_context": [
+    "Caesars Palace Casino Denied Approval to Open in ...",
+    "The Avenir Reveals Art & Culture Partnerships For ...",
+    "Broadway Marquees to be Lit With 'No Casino' Message ...",
+    "Casino East Theater: Info & Seating Chart",
+    "Zohran Mamdani Signals He Won't Block Times Square ...",
+    "A Casino in Times Square? - Page 7",
+    "JW Francis Shares New Single 'Casino'",
+    "Chumash Casino Resort Santa Barbara Theater",
+    "War of Words: Broadway Debates the Times Square Casino",
+    "Casino Theatre: Info & Seating Chart - Broadway World",
+    "Industry Pro Newsletter: Times Square Casino Denied ...",
+    "Where Did Las Vegas Go Wrong. - BWW Forum",
+    "Poll Shows Majority of Midtown Voters Are Against the Times ...",
+    "The Entertainment Community Fund Joins No Times Square ...",
+    "Times Square Casino Set Vote to Take Place This Wednesday",
+    "The Casino Girl - 1901 Broadway Musical Revival: Tickets & Info",
+    "Broadway Theatre Marquees To Light Up In Opposition To ...",
+    "Delirious Comedy Club with 2 Las Vegas locations",
+    "Casino Paradise Original Regional (US) Musical Cast 1990",
+    "Theater Community Will Rally to Oppose Times Square Casino",
+    "Broadway Community and Caesars Clash Over Proposed ...",
+    "The Casino Girl - 1900 West End - Creative Team - Theater's",
+    "Deal Casino's Coming Of Age Single BABY TEETH",
+    "The Casino Girl - 1900 Broadway Musical Revival: Tickets & Info",
+    "London Casino Theater: Info & Seating Chart - Broadway World"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/sweepstakes-casinos/mcluck-promo-code/ that feel at home on broadwayworld.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Mc Cluck promo code\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Caesars Palace Casino Denied Approval to Open in ...\n- The Avenir Reveals Art & Culture Partnerships For ...\n- Broadway Marquees to be Lit With 'No Casino' Message ...\n- Casino East Theater: Info & Seating Chart\n- Zohran Mamdani Signals He Won't Block Times Square ...\n- A Casino in Times Square? - Page 7\n- JW Francis Shares New Single 'Casino'\n- Chumash Casino Resort Santa Barbara Theater\n- War of Words: Broadway Debates the Times Square Casino\n- Casino Theatre: Info & Seating Chart - Broadway World\n- Industry Pro Newsletter: Times Square Casino Denied ...\n- Where Did Las Vegas Go Wrong. - BWW Forum\n- Poll Shows Majority of Midtown Voters Are Against the Times ...\n- The Entertainment Community Fund Joins No Times Square ...\n- Times Square Casino Set Vote to Take Place This Wednesday\n- The Casino Girl - 1901 Broadway Musical Revival: Tickets & Info\n- Broadway Theatre Marquees To Light Up In Opposition To ...\n- Delirious Comedy Club with 2 Las Vegas locations\n- Casino Paradise Original Regional (US) Musical Cast 1990\n- Theater Community Will Rally to Oppose Times Square Casino\n- Broadway Community and Caesars Clash Over Proposed ...\n- The Casino Girl - 1900 West End - Creative Team - Theater's\n- Deal Casino's Coming Of Age Single BABY TEETH\n- The Casino Girl - 1900 Broadway Musical Revival: Tickets & Info\n- London Casino Theater: Info & Seating Chart - Broadway World\n\nGuidance:\n1. Combine your own knowledge of broadwayworld.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to broadwayworld.com while naturally justifying a link to https://www.lineups.com/sweepstakes-casinos/mcluck-promo-code/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Mc Cluck promo code and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1051,
+    "completion_tokens": 1060
+  },
+  "cost_usd": 0.08462
+}

@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T11:01:15Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "www.playusa.com",
+    "anchor_keyword": "top casinos online",
+    "anchor_country": "",
+    "target_url": "https://www.playusa.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Free-to-Play Slot Machines: Explore Popular Themes and Features",
+      "rationale": "Aligns with PlayUSA\u2019s extensive library of no-cost slot demos and mechanic explainers; a natural internal link target for readers researching casual play before depositing (anchor can fit in surrounding copy if needed)."
+    },
+    {
+      "title": "US Sweepstakes Casino Basics: How Coins, Redemptions, and Eligibility Work",
+      "rationale": "Matches PlayUSA\u2019s coverage of sweepstakes-style sites and compliance guidance for US readers; supports linking to hub content that compares play formats without naming operators."
+    },
+    {
+      "title": "Where Online Casino Play Is Legal in the US Today",
+      "rationale": "PlayUSA tracks state-by-state legalization and market updates; this title suits a link to legal-state guides and entry points for broader casino education."
+    },
+    {
+      "title": "Understanding RTP, Volatility, and Paylines: a Practical Guide to Online Slots",
+      "rationale": "Educational piece that dovetails with PlayUSA\u2019s slot database and how-to content; justifies linking to slot hubs and learning resources for readers evaluating games."
+    },
+    {
+      "title": "US Gaming Revenue at a Glance: Key Takeaways from Recent Monthly Reports",
+      "rationale": "Reflects PlayUSA\u2019s regular coverage of statewide revenue reports; links naturally to data roundups and analysis pages for readers tracking market performance."
+    }
+  ],
+  "titles_context": [
+    "Cleopatra Slot Machine - Play For Free or Real ... - PlayUSA",
+    "Cash Wizard Slots - Free to Play Bally Casino Games + ...",
+    "Invaders from the Planet Moolah Slots - Play Free & Real ...",
+    "Best US Sweepstakes Casinos | Over 150+ Sweep Coins ...",
+    "Play IGT's King of Macedonia Slot Game Online",
+    "NEVADA GAMING ABSTRACT 2023",
+    "Triple Diamond Slot Machine - Full Game Review & Free ...",
+    "Pixies of the Forest Slots - Play for Free or With Real Money!",
+    "Free to Play Stinkin' Rich Slot Machine",
+    "2023 STATEWIDE CASINO REVENUE",
+    "Dragon Spin Slots - Free / Real Money & How to Win - PlayUSA",
+    "Play Bonanza Megaways Slots by Big Time Gaming - PlayUSA",
+    "January 31, 2024 VIA EMAIL Matthew Schuler Executive ...",
+    "Lucky Tree Slot Machine - Play Bally Slots for Free or Real ...",
+    "$1.19B Bally's Chicago Casino In Progress Ahead ... - PlayUSA",
+    "Atlantis Megaways Slot Game - PlayUSA",
+    "January 2024 Revenue Report",
+    "FanDuel Casino Launches New Rewards Club Program",
+    "Play Old Money Deluxe Slot Online - PlayUSA",
+    "Da Vinci Diamonds Slot Game: Play And Win Real Money!",
+    "November 2023 - Slot Machines Table Games Sports Wagering",
+    "Wild Red Quick Hits Slot Machine - $20 Cash to Play Free!",
+    "Dancing Drum Slots - Play for Free & Win Real Money!",
+    "Goldfish Casino Slots Online - Play for Free or Real Money!",
+    "Play IGT's Cash Eruption Slot Game Online for Free - PlayUSA"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.playusa.com/ that feel at home on www.playusa.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): top casinos online\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Cleopatra Slot Machine - Play For Free or Real ... - PlayUSA\n- Cash Wizard Slots - Free to Play Bally Casino Games + ...\n- Invaders from the Planet Moolah Slots - Play Free & Real ...\n- Best US Sweepstakes Casinos | Over 150+ Sweep Coins ...\n- Play IGT's King of Macedonia Slot Game Online\n- NEVADA GAMING ABSTRACT 2023\n- Triple Diamond Slot Machine - Full Game Review & Free ...\n- Pixies of the Forest Slots - Play for Free or With Real Money!\n- Free to Play Stinkin' Rich Slot Machine\n- 2023 STATEWIDE CASINO REVENUE\n- Dragon Spin Slots - Free / Real Money & How to Win - PlayUSA\n- Play Bonanza Megaways Slots by Big Time Gaming - PlayUSA\n- January 31, 2024 VIA EMAIL Matthew Schuler Executive ...\n- Lucky Tree Slot Machine - Play Bally Slots for Free or Real ...\n- $1.19B Bally's Chicago Casino In Progress Ahead ... - PlayUSA\n- Atlantis Megaways Slot Game - PlayUSA\n- January 2024 Revenue Report\n- FanDuel Casino Launches New Rewards Club Program\n- Play Old Money Deluxe Slot Online - PlayUSA\n- Da Vinci Diamonds Slot Game: Play And Win Real Money!\n- November 2023 - Slot Machines Table Games Sports Wagering\n- Wild Red Quick Hits Slot Machine - $20 Cash to Play Free!\n- Dancing Drum Slots - Play for Free & Win Real Money!\n- Goldfish Casino Slots Online - Play for Free or Real Money!\n- Play IGT's Cash Eruption Slot Game Online for Free - PlayUSA\n\nGuidance:\n1. Combine your own knowledge of www.playusa.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to www.playusa.com while naturally justifying a link to https://www.playusa.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude top casinos online and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1073,
+    "completion_tokens": 846
+  },
+  "cost_usd": 0.07222
+}

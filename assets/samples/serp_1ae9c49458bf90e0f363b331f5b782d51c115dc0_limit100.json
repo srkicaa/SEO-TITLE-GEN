@@ -1,0 +1,16 @@
+{
+  "mode": "live",
+  "task_id": "09221715-4117-0121-0000-4b42a92e51c5",
+  "query": "site:sudokuhelppo.fi kasino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Nopea Huvitus Kuten Helppo Sudoku: Verovapaat ...",
+      "url": "https://sudokuhelppo.fi/nopea-huvitus-kuten-helppo-sudoku-verovapaat-kasinosivustot-ilman-tilia/",
+      "snippet": "3 days ago \u2014 Nopea huvitus on monen suosikki tapa paeta arkea, ja verovapaat kasinot ilman tili\u00e4 tarjoavat juuri sit\u00e4.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    }
+  ]
+}

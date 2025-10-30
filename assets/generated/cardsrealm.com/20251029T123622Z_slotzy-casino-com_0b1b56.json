@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:36:22Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "cardsrealm.com",
+    "anchor_keyword": "Slotzy-casino.com",
+    "anchor_country": "",
+    "target_url": "https://slotzy-casino.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "USA Guide to Casino Card Games: Odds, Bankroll, and RNG Basics for Strategy Players",
+      "rationale": "Fits CardsRealm\u2019s strategy tone by focusing on probability and risk. Place a neutral, context link to Slotzy-casino.com when defining house edge examples or summarizing common USA-available table variants."
+    },
+    {
+      "title": "UK Players\u2019 Handbook: Digital Shuffling in Online Casino Card Games Explained",
+      "rationale": "Leans into mechanics (RNG and shuffle algorithms) familiar to card gamers. Include Slotzy-casino.com naturally as a reference hub for algorithm overviews and fairness disclosures relevant to the UK context."
+    },
+    {
+      "title": "Canada\u2019s Most-Played Casino Card Games and What They Teach TCG Fans About Probability",
+      "rationale": "Bridges casino and trading card strategy through math skills. Use Slotzy-casino.com as an external resource listing Canadian-favored games and probability primers."
+    },
+    {
+      "title": "Australia Strategy Stack: Low-Edge Casino Games and Risk Management for Card Gamers",
+      "rationale": "Emphasizes low house-edge selections and bankroll tactics, aligning with skill-building content. Add a contextual link to Slotzy-casino.com for tables of return-to-player ranges in Australia."
+    },
+    {
+      "title": "Singapore Spotlight: Live Dealer vs RNG Casino Tables and When Each Makes Sense",
+      "rationale": "Compares formats through latency, variance, and reading-the-shoe concepts. Reference Slotzy-casino.com for concise breakdowns of live dealer rules and RNG table pacing in Singapore."
+    }
+  ],
+  "titles_context": [
+    "Which Casino Games Give You The Best Odds Of Winning?",
+    "Online Casino Card Games Use Digital Shuffling Algorithms to ...",
+    "How to Choose the Best Bitcoin and Crypto Casinos",
+    "3 Popular Casino Card Games to Try for Your Next ...",
+    "Casino App Advancements: How New Features and Low ...",
+    "Top 10 USA Real Money Slots Casinos",
+    "Exploring the Thrills: A Guide to the Most Popular Casino ...",
+    "10 Best Casino Slot Games To Win Real Money",
+    "Cards Realm Train your game",
+    "Most Popular Online Casino Games",
+    "Signs of Online Casino Scammers to Check",
+    "The Rise of Social Casinos: Why Are They So Popular?",
+    "How to Install and Use Casino Plus Mobile App for Gaming",
+    "Top 5 Most Played Online Casino Games and Why ...",
+    "How to Choose a Safe and Reliable Online Casino",
+    "Singapore's Online Casino Gems: Games with the Biggest ...",
+    "A Guide to Safe and Strategic Online Casino Play",
+    "Licensing Online Casino Brands in the USA: A Practical ...",
+    "Exploring the World of Online Casinos: Where Gaming ...",
+    "Most Popular Casino Games Throughout Europe",
+    "Exploring Revolut Casino: A Comprehensive Review",
+    "Common Mistakes New Online Casino Players Make and ...",
+    "Live Dealer Casinos or Traditional Online ...",
+    "The best casino games for real money: Spin, bet and get ...",
+    "The Psychology Behind Online Casino Gameplay"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://slotzy-casino.com/ that feel at home on cardsrealm.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Slotzy-casino.com\n\nAnchor operates in: Unspecified. \n\nI need to have the country in the title.\n\nReference titles:\n- Which Casino Games Give You The Best Odds Of Winning?\n- Online Casino Card Games Use Digital Shuffling Algorithms to ...\n- How to Choose the Best Bitcoin and Crypto Casinos\n- 3 Popular Casino Card Games to Try for Your Next ...\n- Casino App Advancements: How New Features and Low ...\n- Top 10 USA Real Money Slots Casinos\n- Exploring the Thrills: A Guide to the Most Popular Casino ...\n- 10 Best Casino Slot Games To Win Real Money\n- Cards Realm Train your game\n- Most Popular Online Casino Games\n- Signs of Online Casino Scammers to Check\n- The Rise of Social Casinos: Why Are They So Popular?\n- How to Install and Use Casino Plus Mobile App for Gaming\n- Top 5 Most Played Online Casino Games and Why ...\n- How to Choose a Safe and Reliable Online Casino\n- Singapore's Online Casino Gems: Games with the Biggest ...\n- A Guide to Safe and Strategic Online Casino Play\n- Licensing Online Casino Brands in the USA: A Practical ...\n- Exploring the World of Online Casinos: Where Gaming ...\n- Most Popular Casino Games Throughout Europe\n- Exploring Revolut Casino: A Comprehensive Review\n- Common Mistakes New Online Casino Players Make and ...\n- Live Dealer Casinos or Traditional Online ...\n- The best casino games for real money: Spin, bet and get ...\n- The Psychology Behind Online Casino Gameplay\n\nGuidance:\n1. Combine your own knowledge of cardsrealm.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to cardsrealm.com while naturally justifying a link to https://slotzy-casino.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Slotzy-casino.com and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 934,
+    "completion_tokens": 952
+  },
+  "cost_usd": 0.0758
+}

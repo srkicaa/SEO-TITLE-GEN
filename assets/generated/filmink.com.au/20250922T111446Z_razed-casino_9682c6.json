@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-22T11:14:46Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "filmink.com.au",
+    "anchor_keyword": "Razed casino",
+    "anchor_country": "",
+    "target_url": "https://razedcasino.com",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Crypto, Cinema and the House Edge: How Australians Are Playing Online in 2025",
+      "rationale": "FilmInk-friendly feature connecting local viewing culture with crypto-enabled play; can cite Razed casino in-body for neutral insights on wallets, speed, and security of crypto casinos."
+    },
+    {
+      "title": "Rewatching Casino Classics in the Era of Digital Chips",
+      "rationale": "A retrospective angle that compares iconic gambling films with today\u2019s crypto-first platforms; link to Razed casino for an explainer on how crypto wagering actually works versus movie myths."
+    },
+    {
+      "title": "From Avcon Buzz to Browser Play: Blockchain Gaming\u2019s Aussie Moment",
+      "rationale": "Leverages Australian event culture to discuss blockchain gaming and adjacent casino mechanics; Razed casino can be referenced for practical examples of on-chain payments and player protections."
+    },
+    {
+      "title": "Ten Movies That Foreshadowed Today\u2019s Crypto\u2011casino Boom",
+      "rationale": "A listicle native to FilmInk that bridges cinema themes with modern crypto gambling; include a contextual link to Razed casino for definitions and current market context."
+    },
+    {
+      "title": "Explainer: What Sets Crypto Gambling Apart (and What Films Get Wrong)",
+      "rationale": "An educational piece debunking film tropes about odds, anonymity, and volatility; Razed casino can be cited in-body for unbiased details on transaction times, tokens, and responsible play notes."
+    }
+  ],
+  "titles_context": [
+    "How Crypto Is Reshaping Indie Gaming and Online Play",
+    "The Rise of Bitcoin and Crypto Casinos in 2022",
+    "Blockchain Casinos: the Future of Online Gambling or a Passing ...",
+    "What Determines the Crypto Price?",
+    "Exploring the World of Film, Entertainment, and ...",
+    "Crypto and Blockchain Gaming at the AVCon 2025 Event",
+    "Top Things Casino Gambling Fans Don't Want to Hear ...",
+    "Top 5 Cryptocurrency Investment Advice For Beginners",
+    "Market Trends in the Global Online Gaming Industry",
+    "Popular Casino Games Inspired by Movies",
+    "How Movies and Gaming Are Merging into Interactive ...",
+    "Walter Salles Has Not Gone Away",
+    "Best 7 Crypto Movies and Documentaries You Should Watch",
+    "What are the Billionaires Doing with their Cryptocurrency?",
+    "Untitled",
+    "Crypto Futures: Questions to Ask",
+    "The Groundbreaking Intersection of American Cinema and ...",
+    "Missing Millions: \u201cTrust No One: The Hunt for the Crypto King\u201d",
+    "Who Became Bitcoin Millionaires and How It Works?",
+    "The 10 Best Movies About Gambling",
+    "YOJU casino review",
+    "How classic casino movies might look today",
+    "How Digital Finance Is Changing The Way Australians Pay",
+    "Jana McKinnon: On Her Bad Behaviour",
+    "Gambling Movies You Need to Watch"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://razedcasino.com that feel at home on filmink.com.au.\n\nReference SERP keyword: casino crypto\nAnchor keyword (use only if natural): Razed casino\n\nAnchor operates in: Unspecified\n\nReference titles:\n- How Crypto Is Reshaping Indie Gaming and Online Play\n- The Rise of Bitcoin and Crypto Casinos in 2022\n- Blockchain Casinos: the Future of Online Gambling or a Passing ...\n- What Determines the Crypto Price?\n- Exploring the World of Film, Entertainment, and ...\n- Crypto and Blockchain Gaming at the AVCon 2025 Event\n- Top Things Casino Gambling Fans Don't Want to Hear ...\n- Top 5 Cryptocurrency Investment Advice For Beginners\n- Market Trends in the Global Online Gaming Industry\n- Popular Casino Games Inspired by Movies\n- How Movies and Gaming Are Merging into Interactive ...\n- Walter Salles Has Not Gone Away\n- Best 7 Crypto Movies and Documentaries You Should Watch\n- What are the Billionaires Doing with their Cryptocurrency?\n- Untitled\n- Crypto Futures: Questions to Ask\n- The Groundbreaking Intersection of American Cinema and ...\n- Missing Millions: \u201cTrust No One: The Hunt for the Crypto King\u201d\n- Who Became Bitcoin Millionaires and How It Works?\n- The 10 Best Movies About Gambling\n- YOJU casino review\n- How classic casino movies might look today\n- How Digital Finance Is Changing The Way Australians Pay\n- Jana McKinnon: On Her Bad Behaviour\n- Gambling Movies You Need to Watch\n\nGuidance:\n1. Combine your own knowledge of filmink.com.au's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to filmink.com.au while naturally justifying a link to https://razedcasino.com.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Razed casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 912,
+    "completion_tokens": 928
+  },
+  "cost_usd": 0.07392
+}

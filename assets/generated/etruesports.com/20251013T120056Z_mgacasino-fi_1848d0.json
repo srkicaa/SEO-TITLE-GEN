@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-13T12:00:56Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "etruesports.com",
+    "anchor_keyword": "mgacasino.fi",
+    "anchor_country": "Finland",
+    "target_url": "https://mgacasino.fi/mga-kasinot/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Finland\u2019s Safe\u2011play Checklist for Mga\u2011licensed Online Casinos",
+      "rationale": "Fits eTrueSports\u2019 practical tone with a compliance angle; supporting copy can link to mgacasino.fi for a Finland\u2011focused rundown of MGA standards and vetted sites."
+    },
+    {
+      "title": "From Sportsbook to Slots: a Finnish Player\u2019s Guide to Evaluating Casino Platforms",
+      "rationale": "Bridges sports betting and casino\u2014core to eTrueSports\u2014while a contextual link to mgacasino.fi can provide Finnish readers with MGA\u2011licensed options and evaluation criteria."
+    },
+    {
+      "title": "How MGA Rules Protect Finnish Players: Security, Fair Rtps, and Dispute Paths",
+      "rationale": "Educational and brand\u2011free; mgacasino.fi can be cited for details on MGA protections, complaint processes, and compliant operators serving Finland."
+    },
+    {
+      "title": "Casino Banking in Finland: Fast Payouts, Verification Steps, and Eu\u2011license Signals",
+      "rationale": "Banking and KYC guidance resonates with eTrueSports\u2019 audience; mgacasino.fi offers a Finland\u2011centric guide to MGA\u2011licensed sites with payout and verification expectations."
+    },
+    {
+      "title": "Esports Fans, Meet Live Casino: Low\u2011risk Formats and Bankroll Pacing That Translate",
+      "rationale": "Targets eTrueSports\u2019 esports readership with responsible crossover tips; mgacasino.fi can support with a Finland\u2011relevant list of MGA\u2011licensed options and safer play tools."
+    }
+  ],
+  "titles_context": [
+    "eTrueSports: Home",
+    "Expert Tips To Find The Right Online Casino For You",
+    "Juwa: A Modern Take on Classic Casino Games with ...",
+    "10 Modern Online Casinos in 2025: WooCasino Among ...",
+    "3 Trusted Casino Comparisons Sites For Finding Live ...",
+    "Exciting Slot Themes at Wazamba casino in 2025",
+    "Win Big on Stake Original Games: Picks & Proven Strategies",
+    "Slot Game App Download and Start Spinning Instantly",
+    "Pinco Casino Security Measures: Your Data is Safe with Us",
+    "The Most Popular Casino Games Among Celebrities",
+    "Why Fortune Wheelz Casino Is Ideal for Casual Gamblers ...",
+    "Alternatives to Sports Betting? Casino Games on the Rise",
+    "How Can You Verify the Legitimacy of a Crypto Casino ...",
+    "The Most Popular Sports for Betting in Online Casinos and ...",
+    "How Do Online Casino Scratch Cards Work?",
+    "Maximizing ROI with the Right Online Casino Software ...",
+    "Casinos That Accept Crypto for 2025: Safe, Fast, and Exciting",
+    "Which No-Deposit Bonus is More Worthwhile in 2025?",
+    "How Online Casino Sites are Betting Big by Making Their ...",
+    "5 Games to Play at Hellspin Casino",
+    "Stay Casino Canada - Detailed Analysis of the Online Casino",
+    "How Casino Bonuses Influence Player Strategy in Online ...",
+    "4RaBet Overview",
+    "The Online Casino Games Loved by Aussies: From Pokies ...",
+    "How to Play Roulette at the Perfect Online Casino NZ"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://mgacasino.fi/mga-kasinot/ that feel at home on etruesports.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): mgacasino.fi\n\nAnchor operates in: Finland\n\nReference titles:\n- eTrueSports: Home\n- Expert Tips To Find The Right Online Casino For You\n- Juwa: A Modern Take on Classic Casino Games with ...\n- 10 Modern Online Casinos in 2025: WooCasino Among ...\n- 3 Trusted Casino Comparisons Sites For Finding Live ...\n- Exciting Slot Themes at Wazamba casino in 2025\n- Win Big on Stake Original Games: Picks & Proven Strategies\n- Slot Game App Download and Start Spinning Instantly\n- Pinco Casino Security Measures: Your Data is Safe with Us\n- The Most Popular Casino Games Among Celebrities\n- Why Fortune Wheelz Casino Is Ideal for Casual Gamblers ...\n- Alternatives to Sports Betting? Casino Games on the Rise\n- How Can You Verify the Legitimacy of a Crypto Casino ...\n- The Most Popular Sports for Betting in Online Casinos and ...\n- How Do Online Casino Scratch Cards Work?\n- Maximizing ROI with the Right Online Casino Software ...\n- Casinos That Accept Crypto for 2025: Safe, Fast, and Exciting\n- Which No-Deposit Bonus is More Worthwhile in 2025?\n- How Online Casino Sites are Betting Big by Making Their ...\n- 5 Games to Play at Hellspin Casino\n- Stay Casino Canada - Detailed Analysis of the Online Casino\n- How Casino Bonuses Influence Player Strategy in Online ...\n- 4RaBet Overview\n- The Online Casino Games Loved by Aussies: From Pokies ...\n- How to Play Roulette at the Perfect Online Casino NZ\n\nGuidance:\n1. Combine your own knowledge of etruesports.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to etruesports.com while naturally justifying a link to https://mgacasino.fi/mga-kasinot/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude mgacasino.fi and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Finland where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1018,
+    "completion_tokens": 876
+  },
+  "cost_usd": 0.07292
+}

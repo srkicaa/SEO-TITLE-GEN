@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-26T14:08:25Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "businessabc.net",
+    "anchor_keyword": "cancel timeshare",
+    "anchor_country": "",
+    "target_url": "https://howtocancelmytimeshare.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "When Travel Perks Become Liabilities: Managing Vacation Property Commitments in Corporate Life",
+      "rationale": "Fits businessabc.net\u2019s executive travel and management focus by exploring how fixed vacation obligations can impact professionals; naturally supports a contextual link to guidance on exiting long-term vacation agreements."
+    },
+    {
+      "title": "Flexible Benefits Over Fixed Assets: Rethinking Travel Perks for a Remote\u2011first Workforce",
+      "rationale": "Aligns with HR and future\u2011of\u2011work content on businessabc.net; a link to a resource on leaving rigid vacation property commitments helps illustrate why flexible perks scale better globally (Anchor market: Unspecified)."
+    },
+    {
+      "title": "Cost Control for Travel Programs: Cutting Leisure Overheads Without Harming Employee Experience",
+      "rationale": "Matches businessabc.net\u2019s cost\u2011optimization and travel management themes; a link to steps for unwinding long\u2011term vacation liabilities offers a practical lever for reducing non\u2011essential spend."
+    },
+    {
+      "title": "Global Mobility and Relocation: Policy Tips for Staff Moving Within the Schengen Area",
+      "rationale": "Leverages businessabc.net\u2019s relocation and policy coverage with a Europe\u2011relevant angle; a link to resources on concluding vacation property obligations can help relocating employees avoid lingering liabilities."
+    },
+    {
+      "title": "Risk Management for Frequent Flyers: Legal and Financial Pitfalls of Long\u2011term Vacation Commitments",
+      "rationale": "Sits comfortably in businessabc.net\u2019s risk and compliance catalog; linking to an authoritative exit guide provides actionable pathways to mitigate exposure from fixed vacation arrangements (globally applicable)."
+    }
+  ],
+  "titles_context": [
+    "Travel + Leisure",
+    "What Are the Top 5 Business Travel Destinations in the USA?",
+    "Japan Airlines Business Class: Guide to Luxury Travel",
+    "Why Business Travelers Prefer Business Class Airlines Over",
+    "Turkish Airlines Business Class: A Detailed Guide to Premium ...",
+    "Aer Lingus Business Class: Ground vs Travel Experience",
+    "Copa Airlines Business Class: Everything You Need to Know",
+    "Lufthansa Business Class Seats: What to Expect on Flight",
+    "WeTime",
+    "Tips for Managing Your Fantasy Team While Traveling ...",
+    "Expedia Group",
+    "Lion Travel Service",
+    "Beginner's Guide to Implementing Travel Management ...",
+    "Spirit Airlines",
+    "How Digital Marketing Can Transform Your Travel Business",
+    "Philippine Airlines Business Class: Seats, Service, Lounges",
+    "Spring Airlines",
+    "What Makes Corporate Travel Management Unique?",
+    "Etihad Business Class: A Comprehensive Overview",
+    "Copa Airlines",
+    "Relocating to Cyprus after Schengen admission: 8 things ...",
+    "Korean Air Lines",
+    "ANA Holdings",
+    "Darya Shaterloo - Businessabc AI Global Summit",
+    "Delta Air Lines"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://howtocancelmytimeshare.com/ that feel at home on businessabc.net.\n\nReference SERP keyword: travel\nAnchor keyword (use only if natural): cancel timeshare\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Travel + Leisure\n- What Are the Top 5 Business Travel Destinations in the USA?\n- Japan Airlines Business Class: Guide to Luxury Travel\n- Why Business Travelers Prefer Business Class Airlines Over\n- Turkish Airlines Business Class: A Detailed Guide to Premium ...\n- Aer Lingus Business Class: Ground vs Travel Experience\n- Copa Airlines Business Class: Everything You Need to Know\n- Lufthansa Business Class Seats: What to Expect on Flight\n- WeTime\n- Tips for Managing Your Fantasy Team While Traveling ...\n- Expedia Group\n- Lion Travel Service\n- Beginner's Guide to Implementing Travel Management ...\n- Spirit Airlines\n- How Digital Marketing Can Transform Your Travel Business\n- Philippine Airlines Business Class: Seats, Service, Lounges\n- Spring Airlines\n- What Makes Corporate Travel Management Unique?\n- Etihad Business Class: A Comprehensive Overview\n- Copa Airlines\n- Relocating to Cyprus after Schengen admission: 8 things ...\n- Korean Air Lines\n- ANA Holdings\n- Darya Shaterloo - Businessabc AI Global Summit\n- Delta Air Lines\n\nGuidance:\n1. Combine your own knowledge of businessabc.net's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to businessabc.net while naturally justifying a link to https://howtocancelmytimeshare.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude cancel timeshare and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 835,
+    "completion_tokens": 890
+  },
+  "cost_usd": 0.0701
+}

@@ -1,0 +1,62 @@
+{
+  "created_at": "2025-10-21T10:48:42Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "casinobonus2.co",
+    "anchor_keyword": "online sports betting Michigan",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/betting/michigan/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Michigan Game\u2011day Wagering Guide for Casino\u2011first Players",
+      "rationale": "Pairs naturally with a link explaining online sports betting Michigan rules, apps, and eligibility on the Lineups Michigan hub, giving casino\u2011oriented readers a compliant path to place game\u2011day bets."
+    },
+    {
+      "title": "Great Lakes Playbook: Connecting Casino Action With Legal Sports Lines in Michigan",
+      "rationale": "Supports a contextual link to Lineups\u2019 Michigan page for online sports betting Michigan, covering licensing, age limits, taxes, and how to bet legally alongside casino play."
+    },
+    {
+      "title": "From Tribal Floors to Mobile Bet Slips: Michigan Rules and Limits at a Glance",
+      "rationale": "Justifies linking to the Michigan overview on Lineups, where readers find authoritative details on online sports betting Michigan, including approved platforms and statewide restrictions."
+    },
+    {
+      "title": "Detroit to the U.P.: When and Where Real\u2011money Wagering Is Allowed in Michigan",
+      "rationale": "Anchors a geographic\u2011friendly link to Lineups\u2019 Michigan resource, clarifying legal venues, mobile availability, and compliance for online sports betting Michigan across the state."
+    },
+    {
+      "title": "Midwest Bankroll Basics: Responsible Wagering Tips Tailored to Michigan",
+      "rationale": "Leads into a compliance\u2011minded link to Lineups\u2019 Michigan guide for online sports betting Michigan, outlining legal frameworks, limits, and resources that complement casino play."
+    }
+  ],
+  "titles_context": [
+    "No Deposit Bonus - Casino Bonus #1 2025",
+    "AC Casino | $55 No deposit bonus",
+    "Casino with Real Money: A Beginner's Guide Group",
+    "RTG Casinos List 2025",
+    "Free casino games",
+    "Club USA Casino | RTG Casino",
+    "Best USA Casinos Online 2019 2025",
+    "No deposit casino and bingo bonuses",
+    "RTG - Casino Bonus Codes 2025 #1",
+    "Best Online Casinos | TOP 50 BEST CASINOS LIST 2025",
+    "Liberty Slots Casino 2025 | Review | No Deposit Bonus Codes",
+    "Everygame Casino No Deposit Bonus Codes 2025 #1",
+    "5 Casino Games To Play If You're New To The Casino Group",
+    "For new players - Casino Bonus Codes 2025 #1",
+    "RTG Casino - iNetBet Casino | No deposit bonus codes",
+    "WGS Tech - Casino Bonus Codes 2025 #1",
+    "The Rise of Social and Demo Casinos Group",
+    "Lincoln Casino 2025 | Review | No Deposit Bonus Codes",
+    "Slots Jungle Casino | RTG Casino | No deposit bonus codes",
+    "Aladdins Gold Casino | No deposit bonus | RTG Casino"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/betting/michigan/ that feel at home on casinobonus2.co.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): online sports betting Michigan\n\nAnchor operates in: Unspecified\n\nReference titles:\n- No Deposit Bonus - Casino Bonus #1 2025\n- AC Casino | $55 No deposit bonus\n- Casino with Real Money: A Beginner's Guide Group\n- RTG Casinos List 2025\n- Free casino games\n- Club USA Casino | RTG Casino\n- Best USA Casinos Online 2019 2025\n- No deposit casino and bingo bonuses\n- RTG - Casino Bonus Codes 2025 #1\n- Best Online Casinos | TOP 50 BEST CASINOS LIST 2025\n- Liberty Slots Casino 2025 | Review | No Deposit Bonus Codes\n- Everygame Casino No Deposit Bonus Codes 2025 #1\n- 5 Casino Games To Play If You're New To The Casino Group\n- For new players - Casino Bonus Codes 2025 #1\n- RTG Casino - iNetBet Casino | No deposit bonus codes\n- WGS Tech - Casino Bonus Codes 2025 #1\n- The Rise of Social and Demo Casinos Group\n- Lincoln Casino 2025 | Review | No Deposit Bonus Codes\n- Slots Jungle Casino | RTG Casino | No deposit bonus codes\n- Aladdins Gold Casino | No deposit bonus | RTG Casino\n\nGuidance:\n1. Combine your own knowledge of casinobonus2.co's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to casinobonus2.co while naturally justifying a link to https://www.lineups.com/betting/michigan/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude online sports betting Michigan and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 907,
+    "completion_tokens": 926
+  },
+  "cost_usd": 0.0737
+}

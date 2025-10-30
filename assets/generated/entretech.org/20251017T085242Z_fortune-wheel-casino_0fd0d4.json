@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-17T08:52:42Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "entretech.org",
+    "anchor_keyword": "fortune wheel casino",
+    "anchor_country": "",
+    "target_url": "https://500.casino/wheel",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Why Wheel\u2011based Game Mechanics Keep Users Spinning: UX and Retention Insights",
+      "rationale": "Entretech.org readers get a product\u2011design angle; linking to a live wheel experience illustrates event loops, feedback timing, and engagement patterns in a globally applicable (locale: Unspecified) context."
+    },
+    {
+      "title": "Provably Fair on the Spin: Cryptographic RNG for Wheel Games Explained",
+      "rationale": "A wheel interface provides a concrete demo of server/client seeds, hashes, and outcome verification, helping technologists see fairness principles applied in a real interaction flow."
+    },
+    {
+      "title": "Modeling Payout Curves for Digital Wheels of Chance",
+      "rationale": "A wheel page visually maps segments to probabilities and returns, making it easy to discuss RTP, variance, and edge modeling with an embedded, practical example."
+    },
+    {
+      "title": "Micro\u2011interactions That Matter: Designing Real\u2011time Spin Animations for Mobile",
+      "rationale": "Linking to a performant wheel demonstrates easing, haptics, latency handling, and frame stability\u2014key lessons for mobile product teams on Entretech.org."
+    },
+    {
+      "title": "Responsible Chance: Nudges, Limits, and Transparency in Wheel\u2011style Experiences",
+      "rationale": "A live wheel example can showcase odds disclosure, session pacing, and budget controls, supporting a discussion of ethical and compliant design for chance\u2011based interfaces (locale: Unspecified)."
+    }
+  ],
+  "titles_context": [
+    "Perfect Slots To Play Online For Real Money",
+    "How Live Casino Games Deliver an Authentic Betting Experience",
+    "Casino Archives",
+    "The Role of Classic Slots in Casino Culture",
+    "7 Bitcoin Casinos Analysed by Bitedge.com",
+    "Future Payment Trends in Online Casinos: What's Next?",
+    "How To Keep Your Money Safe In Online Casinos",
+    "How Artificial Intelligence Affects Online Casinos",
+    "Are Casino Apps Safe to Use?",
+    "Features Behind the Popularity of Online Slots",
+    "96ace Malaysia Online Casino Overview",
+    "betting Archives - Page 2 of 2",
+    "The Choice for Online Casino Singapore Real Money Games",
+    "Effective Strategies for Dominating Slot Tournaments",
+    "Popular Slot Machine Themes: Appealing to Diverse Players",
+    "Tips for Managing Your Bankroll When Gambling Online",
+    "Games Archives",
+    "Games Archives - Page 4 of 7",
+    "What Are New Zealand's Authorities And Casinos Doing To ...",
+    "The Rise of Game Top\u2011Up Industry: A Deep Dive into Direct ...",
+    "The Strong Competition of Gaming Platforms \u2013 What's in It ...",
+    "Mobile vs Desktop Blackjack: Which Platform Has the Edge?",
+    "Xandrilianth Vexendyl, Author at Entretech.org",
+    "Spin and Sow: The Growing Popularity of Garden-Themed ...",
+    "6 Baccarat Apps for iPhone in 2025 (Baccarat.Wiki Rated)"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://500.casino/wheel that feel at home on entretech.org.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): fortune wheel casino\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Perfect Slots To Play Online For Real Money\n- How Live Casino Games Deliver an Authentic Betting Experience\n- Casino Archives\n- The Role of Classic Slots in Casino Culture\n- 7 Bitcoin Casinos Analysed by Bitedge.com\n- Future Payment Trends in Online Casinos: What's Next?\n- How To Keep Your Money Safe In Online Casinos\n- How Artificial Intelligence Affects Online Casinos\n- Are Casino Apps Safe to Use?\n- Features Behind the Popularity of Online Slots\n- 96ace Malaysia Online Casino Overview\n- betting Archives - Page 2 of 2\n- The Choice for Online Casino Singapore Real Money Games\n- Effective Strategies for Dominating Slot Tournaments\n- Popular Slot Machine Themes: Appealing to Diverse Players\n- Tips for Managing Your Bankroll When Gambling Online\n- Games Archives\n- Games Archives - Page 4 of 7\n- What Are New Zealand's Authorities And Casinos Doing To ...\n- The Rise of Game Top\u2011Up Industry: A Deep Dive into Direct ...\n- The Strong Competition of Gaming Platforms \u2013 What's in It ...\n- Mobile vs Desktop Blackjack: Which Platform Has the Edge?\n- Xandrilianth Vexendyl, Author at Entretech.org\n- Spin and Sow: The Growing Popularity of Garden-Themed ...\n- 6 Baccarat Apps for iPhone in 2025 (Baccarat.Wiki Rated)\n\nGuidance:\n1. Combine your own knowledge of entretech.org's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to entretech.org while naturally justifying a link to https://500.casino/wheel.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude fortune wheel casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 953,
+    "completion_tokens": 863
+  },
+  "cost_usd": 0.07084
+}

@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-13T15:24:10Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "westlondonsport.com",
+    "anchor_keyword": "Lunasa",
+    "anchor_country": "",
+    "target_url": "https://www.lunasa.ie/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "From the Pitch to the Pit: Why Sport\u2011themed Games Click With UK Fans",
+      "rationale": "Sports-first angle suits West London readers; a contextual link to Lunasa.ie can add an Irish cultural note on themes and design influences that often inspire game aesthetics, offering broader entertainment context."
+    },
+    {
+      "title": "Matchweek Money Sense: a West London Guide to Playing It Safe Online",
+      "rationale": "Responsible play content aligns with a local sports audience; linking to Lunasa.ie provides an alternative culture-and-leisure touchpoint for readers seeking balanced downtime beyond gaming."
+    },
+    {
+      "title": "Live Dealer Trends UK Players Are Talking About in 2025",
+      "rationale": "Timely tech-and-experience piece fits site coverage; Lunasa.ie can be referenced as a quality Irish culture resource to broaden readers\u2019 view of how live entertainment intersects with digital experiences."
+    },
+    {
+      "title": "Xg to RTP: Using Sports Stats Smarts Before You Play",
+      "rationale": "Data-led crossover resonates with analytics-minded fans; Lunasa.ie can offer a complementary Irish perspective on entertainment and culture for readers exploring context beyond the numbers."
+    },
+    {
+      "title": "Big Nights, Better Habits: Bankroll Tips for Derby-Day Excitement",
+      "rationale": "Localised to high-stakes London fixtures with a focus on safer play; Lunasa.ie can serve as a culture-first link suggesting mindful, non-gaming ways to round out a night\u2019s plans."
+    }
+  ],
+  "titles_context": [
+    "The best online casino to play for real money: TOP 3 sites ...",
+    "Navigating the Fundamentals of Popular Casino Games",
+    "Sport-Themed Games at Golden Crown Casino",
+    "Behind-the-Scenes of Online Casino: How Do Things Work?",
+    "Top Live Dealer Casino Games in 2025",
+    "Roobet Casino Review: Is It Safe for Betting?",
+    "From Football to Poker - How Sport Influences Online ...",
+    "How to protect Your Money and Information on Online ...",
+    "Fast Payout UK Casinos: Cash Out Your Wins Instantly",
+    "Exclusive Rocketplay Casino Promotions You Need to Know About",
+    "How to Find Online Slot Machines Most Likely to Hit",
+    "Online Betting Games vs. Real Casinos",
+    "Ranking the Best Online Casino Sites",
+    "Plinko in the UK: A Modern Casino Game with Classic ...",
+    "Why Springbok Casino Remains a Top Choice for South ...",
+    "How to enjoy casino games using safe betting techniques?",
+    "A step-by-step guide to playing Blackjack online",
+    "BitStarz Casino Review 2023: Legit and Safe USA Casino",
+    "Exploring the Exciting Features of Plinko Casino Games",
+    "Football Themed Slots Worth Playing? Discover the Fun",
+    "6 Things Every First-Time Online Casino Player Should Know",
+    "TOP 3 Online Casinos with Exclusive Bonus Codes",
+    "Casino in NZ Table Games: A Look at Digital Adaptations",
+    "Explore the Best Australian $10 Deposit Pokies",
+    "The Influence of Major Football Tournaments on Online ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lunasa.ie/ that feel at home on westlondonsport.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Lunasa\n\nAnchor operates in: Unspecified\n\nReference titles:\n- The best online casino to play for real money: TOP 3 sites ...\n- Navigating the Fundamentals of Popular Casino Games\n- Sport-Themed Games at Golden Crown Casino\n- Behind-the-Scenes of Online Casino: How Do Things Work?\n- Top Live Dealer Casino Games in 2025\n- Roobet Casino Review: Is It Safe for Betting?\n- From Football to Poker - How Sport Influences Online ...\n- How to protect Your Money and Information on Online ...\n- Fast Payout UK Casinos: Cash Out Your Wins Instantly\n- Exclusive Rocketplay Casino Promotions You Need to Know About\n- How to Find Online Slot Machines Most Likely to Hit\n- Online Betting Games vs. Real Casinos\n- Ranking the Best Online Casino Sites\n- Plinko in the UK: A Modern Casino Game with Classic ...\n- Why Springbok Casino Remains a Top Choice for South ...\n- How to enjoy casino games using safe betting techniques?\n- A step-by-step guide to playing Blackjack online\n- BitStarz Casino Review 2023: Legit and Safe USA Casino\n- Exploring the Exciting Features of Plinko Casino Games\n- Football Themed Slots Worth Playing? Discover the Fun\n- 6 Things Every First-Time Online Casino Player Should Know\n- TOP 3 Online Casinos with Exclusive Bonus Codes\n- Casino in NZ Table Games: A Look at Digital Adaptations\n- Explore the Best Australian $10 Deposit Pokies\n- The Influence of Major Football Tournaments on Online ...\n\nGuidance:\n1. Combine your own knowledge of westlondonsport.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to westlondonsport.com while naturally justifying a link to https://www.lunasa.ie/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Lunasa and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1004,
+    "completion_tokens": 1318
+  },
+  "cost_usd": 0.09916
+}

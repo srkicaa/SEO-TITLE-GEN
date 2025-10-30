@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:49:03Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "realitysteve.com",
+    "anchor_keyword": "Michigan sportsbook promos",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/betting/michigan/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Daily Roundup \u2013 Detroit Weekend Sightings, Bachelor Nation Notes, and Michigan Betting Q&A",
+      "rationale": "Mirrors Reality Steve\u2019s Daily Roundup cadence with a Michigan angle. In the body, a brief Q&A can explain where betting stands in the state and link \u201cMichigan sportsbook promos\u201d naturally to Lineups\u2019 Michigan page for context and regulations without naming operators."
+    },
+    {
+      "title": "The \u201cBachelorette\u201d Hometowns \u2013 from Detroit to Meet-the-Parents, Plus What Michigan Viewers Should Know About Betting",
+      "rationale": "Fits the site\u2019s hometowns preview style and uses Detroit/Michigan localization. The supporting copy can reference legal wagering basics and link the phrase \u201cMichigan sportsbook promos\u201d to the Lineups Michigan resource as a non-branded explainer."
+    },
+    {
+      "title": "Podcast Mailbag \u2013 BIP Rumors, NFL Talk, and Navigating Michigan\u2019s Betting Landscape",
+      "rationale": "Matches Reality Steve\u2019s podcast/mailbag tone, blending reality TV with sports chat. The episode notes can include a neutral explainer on state rules and link \u201cMichigan sportsbook promos\u201d to the Lineups Michigan page for readers seeking details."
+    },
+    {
+      "title": "Episode Recap Thoughts \u2013 Vegas Drama vs. Motor City Reality, and How Michigan Handles Betting Differently",
+      "rationale": "Echoes his recap headline style while contrasting common Vegas mentions with a Michigan-centric note. The body can briefly outline Michigan-specific betting nuances and link \u201cMichigan sportsbook promos\u201d to Lineups for further reading."
+    },
+    {
+      "title": "Reality TV Travel Log \u2013 DWTS Tour Stops, Lions Home Games, and a Quick Michigan Betting Primer",
+      "rationale": "Combines tour and sports crossover content common on the site with a localized primer. The copy can anchor \u201cMichigan sportsbook promos\u201d to the Lineups Michigan page to guide interested Michigan readers without brand mentions."
+    }
+  ],
+  "titles_context": [
+    "A Guide to Choosing an Online Casino",
+    "Podcast #422 \u2013 Interview with Leslie Fhima (incl transcripts)",
+    "Daily Roundup 5/16 \u2013 Yesterday's Kate Casey Interview & ...",
+    "BIP Stuff, Updates on Contestants ...",
+    "Podcast #421 \u2013 Interview with Olivia Caridi",
+    "Official Announcement Of The 2025 Fan Appreciation Party ...",
+    "Yesterday's Podcast With Leslie Fhima, James Kennedy ...",
+    "realitysteve.com",
+    "Grant's Bachelor Tagline, Ally Lewber Moving Out ...",
+    "The Valley Ep #3, Why I Have Newfound Respect for Janet ...",
+    "The \u201cBachelor\u201d Colton \u2013 Episode 1 Recap Including Vegas ...",
+    "Ep 1 Thoughts, Chris Harrison Out as Host, BIP Cast Rumors ...",
+    "Aaron Rodgers Speaks On Brother Jordan, James Kennedy's ...",
+    "Grant's Birthday Weekend, Ally Lewber Releases A Statement ...",
+    "The \u201cBachelorette\u201d Hannah \u2013 Mini \u201cMen Tell All ... - Reality Steve",
+    "The \u201cBachelorette\u201d Jenn \u2013 Hometown Dates, TV Schedule for ...",
+    "Episode 2 Recap, More BIP Contestants, & All That Greg Stuff",
+    "The \u201cBachelor\u201d Colton \u2013 Episode 2 Recap, My Podcast Screw ...",
+    "Daily Roundup 12/9 \u2013 The Eras Tour Comes To An End And ...",
+    "Another Possible Bachelor Nation/DWTS Love Connection ...",
+    "The \u201cBachelorette\u201d Becca \u2013 Episode 4 Recap, The Proposal ...",
+    "The \u201cBachelor\u201d Colton Finale \u2013 Part 1 Recap & (EXCLUSIVE ...",
+    "Survivor Finale Talk, James Kennedy Arrested For Domestic ...",
+    "Clare's Filming Possibilities, Peter & Madison Break Up ...",
+    "REAL HOUSEWIVES OF BEVERLY HILLS \u2013 12/12/11 | The Real ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/betting/michigan/ that feel at home on realitysteve.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Michigan sportsbook promos\n\nAnchor operates in: Unspecified\n\nReference titles:\n- A Guide to Choosing an Online Casino\n- Podcast #422 \u2013 Interview with Leslie Fhima (incl transcripts)\n- Daily Roundup 5/16 \u2013 Yesterday's Kate Casey Interview & ...\n- BIP Stuff, Updates on Contestants ...\n- Podcast #421 \u2013 Interview with Olivia Caridi\n- Official Announcement Of The 2025 Fan Appreciation Party ...\n- Yesterday's Podcast With Leslie Fhima, James Kennedy ...\n- realitysteve.com\n- Grant's Bachelor Tagline, Ally Lewber Moving Out ...\n- The Valley Ep #3, Why I Have Newfound Respect for Janet ...\n- The \u201cBachelor\u201d Colton \u2013 Episode 1 Recap Including Vegas ...\n- Ep 1 Thoughts, Chris Harrison Out as Host, BIP Cast Rumors ...\n- Aaron Rodgers Speaks On Brother Jordan, James Kennedy's ...\n- Grant's Birthday Weekend, Ally Lewber Releases A Statement ...\n- The \u201cBachelorette\u201d Hannah \u2013 Mini \u201cMen Tell All ... - Reality Steve\n- The \u201cBachelorette\u201d Jenn \u2013 Hometown Dates, TV Schedule for ...\n- Episode 2 Recap, More BIP Contestants, & All That Greg Stuff\n- The \u201cBachelor\u201d Colton \u2013 Episode 2 Recap, My Podcast Screw ...\n- Daily Roundup 12/9 \u2013 The Eras Tour Comes To An End And ...\n- Another Possible Bachelor Nation/DWTS Love Connection ...\n- The \u201cBachelorette\u201d Becca \u2013 Episode 4 Recap, The Proposal ...\n- The \u201cBachelor\u201d Colton Finale \u2013 Part 1 Recap & (EXCLUSIVE ...\n- Survivor Finale Talk, James Kennedy Arrested For Domestic ...\n- Clare's Filming Possibilities, Peter & Madison Break Up ...\n- REAL HOUSEWIVES OF BEVERLY HILLS \u2013 12/12/11 | The Real ...\n\nGuidance:\n1. Combine your own knowledge of realitysteve.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to realitysteve.com while naturally justifying a link to https://www.lineups.com/betting/michigan/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Michigan sportsbook promos and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1140,
+    "completion_tokens": 1274
+  },
+  "cost_usd": 0.09924
+}

@@ -1,0 +1,16 @@
+{
+  "mode": "live",
+  "task_id": "10131810-4117-0121-0000-fdcad507c858",
+  "query": "site:thesmallbizexpert.co.uk crypto",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "How You Can Enhance Your Small Business In 3 Steps",
+      "url": "https://www.thesmallbizexpert.co.uk/blog/how-you-can-enhance-your-small-business-in-3-steps?format=amp",
+      "snippet": "In some cases, some small businesses even accept crypto as payment. By offering multiple payment options, you're able to cater to the preferences of\u00a0...",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    }
+  ]
+}

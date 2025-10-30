@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-13T10:41:09Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "laverdadnoticias.com",
+    "anchor_keyword": "casino online dinero real",
+    "anchor_country": "",
+    "target_url": "https://www.platincasino.es/dinero-real",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Casinos En L\u00ednea: Se\u00f1ales De Seguridad Que Debes Revisar Antes De Apostar",
+      "rationale": "Encaja en la secci\u00f3n de servicio de La Verdad Noticias. El enlace aporta una gu\u00eda sobre verificaci\u00f3n de licencias, RTP, m\u00e9todos de pago y pautas para jugar con dinero real; en el cuerpo puede usarse naturalmente la frase ancla al explicar d\u00f3nde informarse antes de depositar."
+    },
+    {
+      "title": "Gesti\u00f3n De Bankroll: Estrategias Simples Para Jugar Sin Excederse",
+      "rationale": "Contenido \u00fatil y atemporal para audiencia en M\u00e9xico y LatAm. El enlace respalda con ejemplos de l\u00edmites, tama\u00f1os de apuesta y retiros responsables en juegos con dinero real; la ancla puede integrarse al recomendar recursos confiables."
+    },
+    {
+      "title": "Juegos En Vivo: C\u00f3mo Elegir Mesas Y Horarios Que Te Favorezcan",
+      "rationale": "Tema atractivo que refleja tendencias actuales. El enlace complementa con criterios de selecci\u00f3n, latencia, reglas y variaciones disponibles al jugar con dinero real; la ancla puede aparecer de forma natural al sugerir una gu\u00eda pr\u00e1ctica."
+    },
+    {
+      "title": "Pagos En Casinos Digitales: Dep\u00f3sitos, Retiros Y Comisiones Explicados",
+      "rationale": "\u00datil para lectores que comparan medios de pago comunes en la regi\u00f3n. El enlace agrega detalles sobre l\u00edmites, verificaci\u00f3n de identidad y tiempos de procesamiento al jugar con dinero real; la ancla encaja al citar una fuente detallada."
+    },
+    {
+      "title": "Juego Responsable En M\u00e9xico Y Latam: Se\u00f1ales De Alerta Y D\u00f3nde Pedir Ayuda",
+      "rationale": "Alineado con el enfoque social del medio. El enlace aporta recomendaciones para autoexclusi\u00f3n, l\u00edmites y herramientas al apostar con dinero real; la ancla puede incluirse al derivar a una gu\u00eda informativa sin tono promocional."
+    }
+  ],
+  "titles_context": [
+    "La apuesta de billones: La guerra por los 3 casinos de Nueva ...",
+    "Misterios del casino: an\u00e9cdotas y secretos que pocos conocen",
+    "Casinos con Mejor Selecci\u00f3n de Juegos en Vivo en 2025",
+    "14 a\u00f1os del ataque al Casino Royale: justicia pendiente en ...",
+    "Betiton Chile: Tu Casino Online Seguro con Juegos en Vivo",
+    "Tiroteo en casino de Reno deja varios heridos; un sospechoso fue ...",
+    "Alerta en Miami: Incendio forestal cierra v\u00edas clave en Miami ...",
+    "Casinos online en M\u00e9xico : Caracter\u00edsticas y ventajas",
+    "Comienza a gestarse una aut\u00e9ntica pol\u00edtica de Estado sobre ...",
+    "Clausura del casino Winpot en Pachuca: \u00bfTransparencia o ...",
+    "\u00a1ARRANCA MICHIGAN! Briscoe en Pole; \u00bfPodr\u00e1 Dominar ...",
+    "Rese\u00f1a de 1Win Casino Chile: aspectos destacados, bonificaciones ...",
+    "casinos online - La Verdad Noticias",
+    "Conociendo qu\u00e9 hace que una plataforma de juegos de azar ...",
+    "Casinos en l\u00ednea: \u00bfc\u00f3mo elegir sin fracasar en el intento?",
+    "C\u00f3mo los videojuegos se est\u00e1n apoderando de la televisi\u00f3n",
+    "Isla Mujeres honra a sus ra\u00edces en su 175 aniversario",
+    "C\u00f3mo Comprar tu Primera Acci\u00f3n en M\u00e9xico: Gu\u00eda Paso a ...",
+    "Casinos en M\u00e9xico: \u00bfEl fin de la corrupci\u00f3n y un nuevo inicio?",
+    "\u00bfC\u00f3mo funcionan los bonos de casino sin deposito?",
+    "Por qu\u00e9 Pin Up M\u00e9xico es el mejor casino online 2024 para ...",
+    "FOMO: El miedo a perderse todo y su impacto en la salud ...",
+    "7.072 - P\u00e1gina no encontrada - La Verdad Noticias",
+    "El Multifamiliar Presidente Alem\u00e1n: un \u00edcono de la vivienda ...",
+    "7.300 - P\u00e1gina no encontrada - La Verdad Noticias"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.platincasino.es/dinero-real that feel at home on laverdadnoticias.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): casino online dinero real\n\nAnchor operates in: Unspecified\n\nReference titles:\n- La apuesta de billones: La guerra por los 3 casinos de Nueva ...\n- Misterios del casino: an\u00e9cdotas y secretos que pocos conocen\n- Casinos con Mejor Selecci\u00f3n de Juegos en Vivo en 2025\n- 14 a\u00f1os del ataque al Casino Royale: justicia pendiente en ...\n- Betiton Chile: Tu Casino Online Seguro con Juegos en Vivo\n- Tiroteo en casino de Reno deja varios heridos; un sospechoso fue ...\n- Alerta en Miami: Incendio forestal cierra v\u00edas clave en Miami ...\n- Casinos online en M\u00e9xico : Caracter\u00edsticas y ventajas\n- Comienza a gestarse una aut\u00e9ntica pol\u00edtica de Estado sobre ...\n- Clausura del casino Winpot en Pachuca: \u00bfTransparencia o ...\n- \u00a1ARRANCA MICHIGAN! Briscoe en Pole; \u00bfPodr\u00e1 Dominar ...\n- Rese\u00f1a de 1Win Casino Chile: aspectos destacados, bonificaciones ...\n- casinos online - La Verdad Noticias\n- Conociendo qu\u00e9 hace que una plataforma de juegos de azar ...\n- Casinos en l\u00ednea: \u00bfc\u00f3mo elegir sin fracasar en el intento?\n- C\u00f3mo los videojuegos se est\u00e1n apoderando de la televisi\u00f3n\n- Isla Mujeres honra a sus ra\u00edces en su 175 aniversario\n- C\u00f3mo Comprar tu Primera Acci\u00f3n en M\u00e9xico: Gu\u00eda Paso a ...\n- Casinos en M\u00e9xico: \u00bfEl fin de la corrupci\u00f3n y un nuevo inicio?\n- \u00bfC\u00f3mo funcionan los bonos de casino sin deposito?\n- Por qu\u00e9 Pin Up M\u00e9xico es el mejor casino online 2024 para ...\n- FOMO: El miedo a perderse todo y su impacto en la salud ...\n- 7.072 - P\u00e1gina no encontrada - La Verdad Noticias\n- El Multifamiliar Presidente Alem\u00e1n: un \u00edcono de la vivienda ...\n- 7.300 - P\u00e1gina no encontrada - La Verdad Noticias\n\nGuidance:\n1. Combine your own knowledge of laverdadnoticias.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to laverdadnoticias.com while naturally justifying a link to https://www.platincasino.es/dinero-real.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude casino online dinero real and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1170,
+    "completion_tokens": 1008
+  },
+  "cost_usd": 0.08388
+}

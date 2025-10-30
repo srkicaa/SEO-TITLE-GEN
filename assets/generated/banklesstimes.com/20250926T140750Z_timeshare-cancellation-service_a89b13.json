@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-26T14:07:50Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "banklesstimes.com",
+    "anchor_keyword": "timeshare cancellation service",
+    "anchor_country": "",
+    "target_url": "https://howtocancelmytimeshare.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Travel Subscriptions Are the New BNPL: the Risks of Vacation Lock-Ins",
+      "rationale": "Fits BanklessTimes\u2019 fintech lens by comparing travel subscription and ownership models with BNPL dynamics; naturally supports a link to an educational resource on exiting long-term vacation commitments for readers evaluating alternatives."
+    },
+    {
+      "title": "Tokenized Travel Clubs vs Traditional Timeshares: Which Model Wins by 2030?",
+      "rationale": "Bridges web3 adoption and legacy travel ownership for BanklessTimes\u2019 audience; a link to an expert explainer on exiting traditional contracts adds practical context when contrasting models."
+    },
+    {
+      "title": "Why Many Vacation Owners Underestimate Lifetime Costs\u2014Data, Fees, and Exit Options",
+      "rationale": "Data-forward, cost-focused analysis aligns with BanklessTimes\u2019 statistics-driven pieces; an authoritative guide on lawful exit routes provides actionable next steps for readers facing cost overruns."
+    },
+    {
+      "title": "The True Cost of Vacation Ownership: a 10-Year Cash-Flow Model",
+      "rationale": "Analytical, projection-led framing matches BanklessTimes\u2019 finance content; linking to a detailed resource on navigating contract termination complements the model with real-world remedies."
+    },
+    {
+      "title": "Travel Finance and Consumer Protection: Chargebacks, Cooling-Off Periods, and Exit Rights",
+      "rationale": "Compliance and consumer-rights topic fits BanklessTimes\u2019 regulatory coverage; a credible explainer on contract exits serves as a relevant reference for readers exploring protections and processes."
+    }
+  ],
+  "titles_context": [
+    "Blockchain Statistics: Where Will It Be in 10 Years?",
+    "DigiFinex joins CoolBitX's Sygna Alliance to Comply With ...",
+    "Jeju Island Set To Launch NFT Cards To Attract Younger ...",
+    "Dubai-based 3F Music purchases side-eyeing Chloe NFT ...",
+    "Incredible UX Statistics & Facts",
+    "HelloVacay and Priceline With 70% off on Holiday ...",
+    "Sygna Bridge, ComplyAdvantage to Facilitate Sanction List ...",
+    "Crypto-Assets Blockchains Consume 120 -240B KWh of ...",
+    "22% Of Global Retail Purchases Will Be Made Online by ...",
+    "CZ Offered $4.5 B As Security to Leave the US",
+    "Sanj Goyle on BancBox, crowd-investing and simplifying ...",
+    "63% Of eSports Fans in Great Britain Are Unfamiliar With ...",
+    "About 60% Percent of the Global Population Are Social ...",
+    "Web3 Market Will Grow at a CAGR of 42% to Surpass ...",
+    "It Would Take an Average Brit 22121 Years to Reach the ...",
+    "Best Crypto Presales - These Cryptos May Show Huge ...",
+    "Mutant Ape Yacht Club sales rise 500% as a Serum NFT ...",
+    "North American and European Companies to Defy ...",
+    "Metaverse Growth Will Transform Avatars into a $17B ...",
+    "Unexpected Ethereum Statistics Relevant After the Merge",
+    "Over 90%of Institutional Investors Interested in Investing ...",
+    "Critical: 25% of US Crypto Buyers File Chargebacks",
+    "AI Could Displace 800 Million Jobs by 2030",
+    "P2P Lending Projected to Attain over $800 Billion ...",
+    "Countries Must Increase CCUS Rates by 120X to Meet Net ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://howtocancelmytimeshare.com/ that feel at home on banklesstimes.com.\n\nReference SERP keyword: travel\nAnchor keyword (use only if natural): timeshare cancellation service\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Blockchain Statistics: Where Will It Be in 10 Years?\n- DigiFinex joins CoolBitX's Sygna Alliance to Comply With ...\n- Jeju Island Set To Launch NFT Cards To Attract Younger ...\n- Dubai-based 3F Music purchases side-eyeing Chloe NFT ...\n- Incredible UX Statistics & Facts\n- HelloVacay and Priceline With 70% off on Holiday ...\n- Sygna Bridge, ComplyAdvantage to Facilitate Sanction List ...\n- Crypto-Assets Blockchains Consume 120 -240B KWh of ...\n- 22% Of Global Retail Purchases Will Be Made Online by ...\n- CZ Offered $4.5 B As Security to Leave the US\n- Sanj Goyle on BancBox, crowd-investing and simplifying ...\n- 63% Of eSports Fans in Great Britain Are Unfamiliar With ...\n- About 60% Percent of the Global Population Are Social ...\n- Web3 Market Will Grow at a CAGR of 42% to Surpass ...\n- It Would Take an Average Brit 22121 Years to Reach the ...\n- Best Crypto Presales - These Cryptos May Show Huge ...\n- Mutant Ape Yacht Club sales rise 500% as a Serum NFT ...\n- North American and European Companies to Defy ...\n- Metaverse Growth Will Transform Avatars into a $17B ...\n- Unexpected Ethereum Statistics Relevant After the Merge\n- Over 90%of Institutional Investors Interested in Investing ...\n- Critical: 25% of US Crypto Buyers File Chargebacks\n- AI Could Displace 800 Million Jobs by 2030\n- P2P Lending Projected to Attain over $800 Billion ...\n- Countries Must Increase CCUS Rates by 120X to Meet Net ...\n\nGuidance:\n1. Combine your own knowledge of banklesstimes.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to banklesstimes.com while naturally justifying a link to https://howtocancelmytimeshare.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude timeshare cancellation service and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1113,
+    "completion_tokens": 940
+  },
+  "cost_usd": 0.07866
+}

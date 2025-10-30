@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:56:45Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "tronweekly.com",
+    "anchor_keyword": "online gambling",
+    "anchor_country": "",
+    "target_url": "https://www.gamingtoday.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Blockchain Wallets and Bankroll Management: Practical Tips for Casino Players",
+      "rationale": "Fits TronWeekly\u2019s crypto-first angle while allowing a contextual link to Gaming Today\u2019s educational pages on payment methods, bankroll basics, and cashier processes."
+    },
+    {
+      "title": "Instant Withdrawals, Explained: the Rails Powering Faster Casino Cashouts",
+      "rationale": "Tech-forward explainer suited to TronWeekly readers; links naturally to Gaming Today\u2019s guidance on payouts, processing times, and banking options."
+    },
+    {
+      "title": "KYC-Light Gaming in 2025: Navigating Privacy, Compliance, and Player Safety",
+      "rationale": "Addresses privacy-savvy audiences; Gaming Today can provide jurisdictional overviews, ID requirements, and safer play resources."
+    },
+    {
+      "title": "From RNG Certificates to On\u2011chain Proofs: Verifying Fair Play in Digital Casino Games",
+      "rationale": "Crypto and transparency focus aligns with TronWeekly; Gaming Today can supply foundational primers on game testing, fairness audits, and player protections."
+    },
+    {
+      "title": "The 2025 Payments Stack for Igaming: Cards, Crypto, and Alternative Rails",
+      "rationale": "Industry trend piece that suits TronWeekly\u2019s fintech lens; Gaming Today can deepen the discussion with comparisons of deposit/withdrawal methods and practical how\u2011tos."
+    }
+  ],
+  "titles_context": [
+    "Best Mastercard Casinos Online (Updated Rankings)",
+    "5 Best Crypto Casinos | Top Trusted Bitcoin Gambling Sites ...",
+    "5 Best Crypto Casinos (No KYC): Top-Rated Bitcoin ...",
+    "Best Online Gambling Sites In Texas (2025)",
+    "The Real Online Casino Experience In 2025: Tips & Picks",
+    "5 Best No Deposit Bonuses USA - Free Spins & Casino ...",
+    "Fast Payout Casinos: Top 5 Instant Withdrawal ...",
+    "Crypto Casinos Online (How To Get Started And What To ...",
+    "The Rise Of Instant Casino Gaming: How Technology Is ...",
+    "10 Best No Deposit Casino Bonus And Free Spins In US ...",
+    "10 Best No Deposit Casino Bonus And Free Spins In US 2025",
+    "The Reasons Behind The Success Of Crypto Casinos",
+    "The Ultimate Guide To Crypto Casino Bonuses - TronWeekly",
+    "5 Best Crypto Casinos Of 2025: Top Bitcoin ... - TronWeekly",
+    "Best Real Money Online Casinos In 2025 - TronWeekly",
+    "5 Best Online Casino Bonuses | Latest Promo Codes For Free ...",
+    "Best Amex Casinos USA - Top American Express Online ...",
+    "Which Is The Best New Online Casino? Listed 5 ... - TronWeekly",
+    "Rated Top Bitcoin Casinos Based On Honest User Feedback!",
+    "5 Best No Deposit Bonus: Best New Online Casinos With No ...",
+    "5 Best Crypto Casinos May 2025: List Of Top Bitcoin Gambling ...",
+    "Listed Instant Withdrawal No ID Verification Online Casinos",
+    "Safe Online Casinos Australia 2025 \u2013 10 Safest ... - TronWeekly",
+    "What Canadian Online Casino Pays Out The Most?",
+    "5 Best Crypto Casinos 2025: Top Bitcoin Online ... - TronWeekly"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.gamingtoday.com/ that feel at home on tronweekly.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): online gambling\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Best Mastercard Casinos Online (Updated Rankings)\n- 5 Best Crypto Casinos | Top Trusted Bitcoin Gambling Sites ...\n- 5 Best Crypto Casinos (No KYC): Top-Rated Bitcoin ...\n- Best Online Gambling Sites In Texas (2025)\n- The Real Online Casino Experience In 2025: Tips & Picks\n- 5 Best No Deposit Bonuses USA - Free Spins & Casino ...\n- Fast Payout Casinos: Top 5 Instant Withdrawal ...\n- Crypto Casinos Online (How To Get Started And What To ...\n- The Rise Of Instant Casino Gaming: How Technology Is ...\n- 10 Best No Deposit Casino Bonus And Free Spins In US ...\n- 10 Best No Deposit Casino Bonus And Free Spins In US 2025\n- The Reasons Behind The Success Of Crypto Casinos\n- The Ultimate Guide To Crypto Casino Bonuses - TronWeekly\n- 5 Best Crypto Casinos Of 2025: Top Bitcoin ... - TronWeekly\n- Best Real Money Online Casinos In 2025 - TronWeekly\n- 5 Best Online Casino Bonuses | Latest Promo Codes For Free ...\n- Best Amex Casinos USA - Top American Express Online ...\n- Which Is The Best New Online Casino? Listed 5 ... - TronWeekly\n- Rated Top Bitcoin Casinos Based On Honest User Feedback!\n- 5 Best No Deposit Bonus: Best New Online Casinos With No ...\n- 5 Best Crypto Casinos May 2025: List Of Top Bitcoin Gambling ...\n- Listed Instant Withdrawal No ID Verification Online Casinos\n- Safe Online Casinos Australia 2025 \u2013 10 Safest ... - TronWeekly\n- What Canadian Online Casino Pays Out The Most?\n- 5 Best Crypto Casinos 2025: Top Bitcoin Online ... - TronWeekly\n\nGuidance:\n1. Combine your own knowledge of tronweekly.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to tronweekly.com while naturally justifying a link to https://www.gamingtoday.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude online gambling and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1076,
+    "completion_tokens": 771
+  },
+  "cost_usd": 0.06778
+}

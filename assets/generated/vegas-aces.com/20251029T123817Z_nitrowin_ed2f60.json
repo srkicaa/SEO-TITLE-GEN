@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:38:17Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "vegas-aces.com",
+    "anchor_keyword": "Nitrowin",
+    "anchor_country": "",
+    "target_url": "https://nitrowin.net/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Fast Payout Casinos Online 2025 \u2014 United States",
+      "rationale": "Fits Vegas Aces\u2019 banking and payout topics. Naturally links to Nitrowin as a contemporary example destination for U.S. readers comparing quick-withdrawal options."
+    },
+    {
+      "title": "How to Spot a High-Paying Online Casino: Key Metrics & Red Flags \u2014 United States",
+      "rationale": "Aligns with Vegas Aces\u2019 analytical guides. A contextual mention of Nitrowin supports a real-world illustration of RTP transparency and payout speed."
+    },
+    {
+      "title": "Casino Sites That Accept Credit Cards \u2014 United States Players\u2019 Checklist",
+      "rationale": "Mirrors existing card-deposit articles on Vegas Aces. Nitrowin can be referenced as an example platform when discussing card acceptance and limits."
+    },
+    {
+      "title": "Short vs Long Casino Games: Which Style Suits You Best? \u2014 United States",
+      "rationale": "Matches Vegas Aces\u2019 strategy pieces on game selection. Nitrowin can be cited to show libraries that include both quick and extended-play titles."
+    },
+    {
+      "title": "Understanding How Prizes Work in Sweepstakes Casinos \u2014 United States Guide",
+      "rationale": "Complements Vegas Aces\u2019 educational focus on sweepstakes mechanics. Nitrowin can be mentioned as a comparative touchpoint when explaining prize redemption flows."
+    }
+  ],
+  "titles_context": [
+    "Best Instant Bank Transfer Casino Sites in 2025",
+    "Wild Casino Review: The Unfiltered Truth Before You Play",
+    "Best Payout Casinos Online in 2025: Play Highest Paying ...",
+    "Casino Terminology, Gambling Terms, and Betting Terms",
+    "Louisiana Toke Reports & Casino Reviews - Vegas Aces",
+    "Which Online Casino Features are the Most Sought After by ...",
+    "Vegas Aces \u2014 Free Online Casino Dealer Trade School ...",
+    "How to Spot a High-Paying Casino: Key Metrics and Red Flags",
+    "10 Best Real Money Las Vegas Online Casinos in 2025",
+    "Casino Sites That Accept Credit Cards - Vegas Aces",
+    "5 Myths You've Heard About Online Casino Games",
+    "The Hidden Mathematics That Powers Modern Casino Favorites",
+    "Washington Toke Board - Vegas Aces",
+    "AMA: How to Invent a Casino Game (Setting up LLCs)",
+    "Top Reputable Sites for Online Casino Reviews",
+    "Casino & Card Game Articles - Vegas Aces",
+    "Understanding How Prizes Work in Sweepstakes Casinos",
+    "Fast Payout Casinos Online 2025 \u2013 Instant Withdrawals",
+    "Best Sweepstakes Casinos 2025 - Vegas Aces",
+    "Short vs Long Casino Games: Which Type Suits Your ...",
+    "Casino Articles on the Topic: Las Vegas",
+    "Effective Tips for Winning at Casino Card Games",
+    "Free Casino Dealer & Game Courses | Learn to Play & Deal",
+    "How to Find the Best Casino Offers - Vegas Aces",
+    "Casino Dealer Flashcards - Values, Jargon, and Math"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://nitrowin.net/ that feel at home on vegas-aces.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Nitrowin\n\nAnchor operates in: Unspecified. \n\nI need to have the country in the title.\n\nReference titles:\n- Best Instant Bank Transfer Casino Sites in 2025\n- Wild Casino Review: The Unfiltered Truth Before You Play\n- Best Payout Casinos Online in 2025: Play Highest Paying ...\n- Casino Terminology, Gambling Terms, and Betting Terms\n- Louisiana Toke Reports & Casino Reviews - Vegas Aces\n- Which Online Casino Features are the Most Sought After by ...\n- Vegas Aces \u2014 Free Online Casino Dealer Trade School ...\n- How to Spot a High-Paying Casino: Key Metrics and Red Flags\n- 10 Best Real Money Las Vegas Online Casinos in 2025\n- Casino Sites That Accept Credit Cards - Vegas Aces\n- 5 Myths You've Heard About Online Casino Games\n- The Hidden Mathematics That Powers Modern Casino Favorites\n- Washington Toke Board - Vegas Aces\n- AMA: How to Invent a Casino Game (Setting up LLCs)\n- Top Reputable Sites for Online Casino Reviews\n- Casino & Card Game Articles - Vegas Aces\n- Understanding How Prizes Work in Sweepstakes Casinos\n- Fast Payout Casinos Online 2025 \u2013 Instant Withdrawals\n- Best Sweepstakes Casinos 2025 - Vegas Aces\n- Short vs Long Casino Games: Which Type Suits Your ...\n- Casino Articles on the Topic: Las Vegas\n- Effective Tips for Winning at Casino Card Games\n- Free Casino Dealer & Game Courses | Learn to Play & Deal\n- How to Find the Best Casino Offers - Vegas Aces\n- Casino Dealer Flashcards - Values, Jargon, and Math\n\nGuidance:\n1. Combine your own knowledge of vegas-aces.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to vegas-aces.com while naturally justifying a link to https://nitrowin.net/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Nitrowin and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1003,
+    "completion_tokens": 973
+  },
+  "cost_usd": 0.07844
+}

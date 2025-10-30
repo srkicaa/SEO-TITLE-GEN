@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-26T14:10:33Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "resident.com",
+    "anchor_keyword": "https://howtocancelmytimeshare.com/learn/how-to-cancel-vidanta-timeshare/",
+    "anchor_country": "",
+    "target_url": "https://howtocancelmytimeshare.com/learn/how-to-cancel-vidanta-timeshare/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Luxury Travel, Unlocked: Flexibility Strategies for the Modern Jetsetter",
+      "rationale": "Positions a feature on maximizing trip flexibility and avoiding rigid commitments; a sidebar can cover exiting unwanted timeshares and link to a step\u2011by\u2011step Vidanta cancellation guide for readers seeking relief."
+    },
+    {
+      "title": "The New Rules of Vacation Flexibility: Plan, Pivot, and Protect Your Getaways",
+      "rationale": "Resident.com readers value control and protection; an embedded section on navigating and cancelling timeshare obligations can naturally point to a detailed Vidanta cancellation resource."
+    },
+    {
+      "title": "From Ownership to Access: Smarter Ways to Curate Your Next Escape",
+      "rationale": "Explores the shift from long\u2011term commitments to on\u2011demand luxury; includes guidance on transitioning out of timeshares with a practical link to a Vidanta cancellation how\u2011to."
+    },
+    {
+      "title": "Travel Fine Print Decoded: Contracts, Credits, and Commitment Traps",
+      "rationale": "A service\u2011oriented piece decoding travel agreements; a dedicated segment on timeshare clauses can direct readers to a clear Vidanta cancellation walkthrough."
+    },
+    {
+      "title": "Elevated Travel Planning 2025: Ensure Freedom Without Long-Term Lock-Ins",
+      "rationale": "Future\u2011focused planning advice for luxury travelers; integrates a resource box on exiting timeshares, with a natural link to a comprehensive Vidanta cancellation guide."
+    }
+  ],
+  "titles_context": [
+    "Luxury Travel 2025: Top USA Destinations for Discerning ...",
+    "Getting the Most Out of the Nightlife When You Travel",
+    "Why Travel Insurance is a Necessity for International Trips",
+    "Luxury Travel: Destinations, Experiences, and Insider Tips",
+    "AI Travel Apps: Smarter Tools for Global Travelers in 2025",
+    "Making Travel Effortless: A New Kind of Luxury",
+    "Luxury Travel: Embark on Extraordinary Journeys",
+    "Luxury Travel Essentials: How to Make Your Getaway ...",
+    "10 Ways to Enhance Your Travel Experience",
+    "Mastering Holiday Travel: Tips to Save Money and Avoid ...",
+    "Luxury Destinations: Travel Guides and Exclusive Getaways",
+    "Essential Travel Gear: Navigate Extreme Destinations Safely",
+    "Privacy-First Travel: The Rise of Effortless Anonymity",
+    "Discover the Allure of Sustainable Luxury Travel",
+    "Top 5 Luxury Travel Trends Elevating Experiences in 2024",
+    "Always Compare Multiple Sites Before Booking Travel ...",
+    "Luxury Travel Apps: Curated Experiences for Seamless ...",
+    "Do You Really Need Cruise Travel Insurance?",
+    "How Technology Is Revolutionizing Luxury Travel Planning",
+    "Your Ultimate September Travel Guide: Luxe Destinations ...",
+    "Travel Games: Top Free Picks for Airports and Hotels",
+    "How AI Is Revolutionizing Luxury Travel Experiences",
+    "Luxury Travel Redefined: Safety and Security as the ...",
+    "Top 10 Hawaiian Sports Events: Luxury Travel 2025\u20132026",
+    "Digital Privacy: The New Luxury in Modern Travel"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://howtocancelmytimeshare.com/learn/how-to-cancel-vidanta-timeshare/ that feel at home on resident.com.\n\nReference SERP keyword: travel\nAnchor keyword (use only if natural): https://howtocancelmytimeshare.com/learn/how-to-cancel-vidanta-timeshare/\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Luxury Travel 2025: Top USA Destinations for Discerning ...\n- Getting the Most Out of the Nightlife When You Travel\n- Why Travel Insurance is a Necessity for International Trips\n- Luxury Travel: Destinations, Experiences, and Insider Tips\n- AI Travel Apps: Smarter Tools for Global Travelers in 2025\n- Making Travel Effortless: A New Kind of Luxury\n- Luxury Travel: Embark on Extraordinary Journeys\n- Luxury Travel Essentials: How to Make Your Getaway ...\n- 10 Ways to Enhance Your Travel Experience\n- Mastering Holiday Travel: Tips to Save Money and Avoid ...\n- Luxury Destinations: Travel Guides and Exclusive Getaways\n- Essential Travel Gear: Navigate Extreme Destinations Safely\n- Privacy-First Travel: The Rise of Effortless Anonymity\n- Discover the Allure of Sustainable Luxury Travel\n- Top 5 Luxury Travel Trends Elevating Experiences in 2024\n- Always Compare Multiple Sites Before Booking Travel ...\n- Luxury Travel Apps: Curated Experiences for Seamless ...\n- Do You Really Need Cruise Travel Insurance?\n- How Technology Is Revolutionizing Luxury Travel Planning\n- Your Ultimate September Travel Guide: Luxe Destinations ...\n- Travel Games: Top Free Picks for Airports and Hotels\n- How AI Is Revolutionizing Luxury Travel Experiences\n- Luxury Travel Redefined: Safety and Security as the ...\n- Top 10 Hawaiian Sports Events: Luxury Travel 2025\u20132026\n- Digital Privacy: The New Luxury in Modern Travel\n\nGuidance:\n1. Combine your own knowledge of resident.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to resident.com while naturally justifying a link to https://howtocancelmytimeshare.com/learn/how-to-cancel-vidanta-timeshare/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude https://howtocancelmytimeshare.com/learn/how-to-cancel-vidanta-timeshare/ and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1064,
+    "completion_tokens": 991
+  },
+  "cost_usd": 0.08074
+}

@@ -1,0 +1,51 @@
+{
+  "created_at": "2025-09-26T14:10:54Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "gardencenterguide.com",
+    "anchor_keyword": "cancel Villa group timeshare",
+    "anchor_country": "",
+    "target_url": "https://howtocancelmytimeshare.com/cancel-your-villa-group-timeshare/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Traveling This Summer? Keep Your Houseplants Happy While You\u2019re Away",
+      "rationale": "Plant-lovers planning trips from our garden center directory may also be rethinking recurring travel commitments; a contextual link can guide readers to cancel a Villa Group timeshare if they want to travel less and focus on home horticulture."
+    },
+    {
+      "title": "Staycation Garden Ideas: Turn Your Backyard Into a Relaxing Retreat",
+      "rationale": "A stay-at-home oasis reduces the need for frequent trips; linking to instructions on how to cancel a Villa Group timeshare supports readers shifting budgets from travel to garden projects."
+    },
+    {
+      "title": "Snowbird Garden Checklist: Preparing Beds, Lawns, and Containers Before Extended Travel",
+      "rationale": "Extended travel requires careful garden prep; some readers may also wish to end ongoing vacation obligations, so a link to cancel a Villa Group timeshare is a practical resource."
+    },
+    {
+      "title": "Portable Patio Gear for Outdoor Fun at Home and on the Road",
+      "rationale": "This travel-adjacent gear roundup fits garden enthusiasts who split time between home and trips; include a helpful link for those considering whether to cancel a Villa Group timeshare."
+    },
+    {
+      "title": "Before You Book Another Getaway: Budget-Friendly Plant Projects That Bring the Resort Vibe Home",
+      "rationale": "For readers choosing garden upgrades over frequent travel, it\u2019s relevant to offer guidance on how to cancel a Villa Group timeshare to realign spending with backyard improvements."
+    }
+  ],
+  "titles_context": [
+    "Portable Summer Gear for Outdoor Fun & Travel",
+    "Fair View Nursery",
+    "Garden center Russell's Garden Center in Wayland opening ...",
+    "Garden center Cedar Falls Nursery in Hoquiam opening ...",
+    "Dan West Garden Center",
+    "Stein's Garden & Home Oshkosh",
+    "Under The Sun Garden Center Stillwater",
+    "Stein's Garden & Home Racine",
+    "Harmony Nursery & Garden Center"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://howtocancelmytimeshare.com/cancel-your-villa-group-timeshare/ that feel at home on gardencenterguide.com.\n\nReference SERP keyword: travel\nAnchor keyword (use only if natural): cancel Villa group timeshare\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Portable Summer Gear for Outdoor Fun & Travel\n- Fair View Nursery\n- Garden center Russell's Garden Center in Wayland opening ...\n- Garden center Cedar Falls Nursery in Hoquiam opening ...\n- Dan West Garden Center\n- Stein's Garden & Home Oshkosh\n- Under The Sun Garden Center Stillwater\n- Stein's Garden & Home Racine\n- Harmony Nursery & Garden Center\n\nGuidance:\n1. Combine your own knowledge of gardencenterguide.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to gardencenterguide.com while naturally justifying a link to https://howtocancelmytimeshare.com/cancel-your-villa-group-timeshare/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude cancel Villa group timeshare and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 587,
+    "completion_tokens": 941
+  },
+  "cost_usd": 0.0682
+}

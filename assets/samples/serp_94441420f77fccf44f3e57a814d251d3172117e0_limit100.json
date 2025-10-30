@@ -1,0 +1,800 @@
+{
+  "mode": "live",
+  "task_id": "09261442-4117-0121-0000-e0ae1b98a3f7",
+  "query": "site:talkmarkets.com travel",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "MicroSectors Travel 3X Leveraged FLYU:NYSE Arca",
+      "url": "https://talkmarkets.com/symbol/flyu/portal-widgets/redirect/earnings",
+      "snippet": "Get MicroSectors Travel 3X Leveraged (FLYU:NYSE Arca) real-time stock quotes, news, price and financial information from CNBC.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Travel Industry Fundamentals Remain Strong, Bucking Negative ...",
+      "url": "https://talkmarkets.com/content/services/travel-industry-fundamentals-remain-strong-bucking-negative-headlines?post=500316",
+      "snippet": "You've probably seen the same bearish takes I have\u2014reports of slumping business travel to the U.S., falling international visitor spending and weak demand.",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "EXPE: Expedia Group Inc - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/expe/portal-widgets/redirect/earnings",
+      "snippet": "Expedia Group, Inc. is an online travel company. The Company's segments include B2C, B2B, and trivago.",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "TCOM: Trip.com Group Ltd - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/tcom/portal-widgets/redirect/earnings",
+      "snippet": "Trip.com Group Ltd is a China-based company mainly engaged in the operation of one-stop travel platform. The Company's platform integrates a comprehensive\u00a0...",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "FGETF: Flight Centre Travel Group Ltd - Stock Price, Quote ...",
+      "url": "https://talkmarkets.com/symbol/fgetf/portal-widgets/redirect/earnings",
+      "snippet": "Flight Centre Travel Group Limited is a travel retailer and corporate travel manager. The Company's principal activities consist of leisure travel retailing\u00a0...",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "AWAY: Amplify Travel Tech ETF - Stock Price, Quote and ...",
+      "url": "https://talkmarkets.com/symbol/away/portal-widgets/redirect/ownership",
+      "snippet": "Get Amplify Travel Tech ETF (AWAY:NYSE Arca) real-time stock quotes, news, price and financial information from CNBC.",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "NextTrip Inc NTRP:NASDAQ - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/ntrp/portal-widgets/redirect/earnings",
+      "snippet": "NextTrip, Inc. is a technology-driven travel company. By combining modern booking tools with immersive media and content, the Company offers a comprehensive\u00a0...",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Airlines Are Booming While Wall Street Naps",
+      "url": "https://talkmarkets.com/content/services/airlines-are-booming-while-wall-street-naps?post=508073",
+      "snippet": "Jul 8, 2025 \u2014 The TSA confirmed that six of the 10 busiest travel days in its entire 24-year history have happened this year.",
+      "rank_absolute": 8,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "WH: Wyndham Hotels & Resorts Inc - Stock Price, Quote ...",
+      "url": "https://talkmarkets.com/symbol/wh/portal-widgets/redirect/earnings",
+      "snippet": "Wyndham Hotels & Resorts, Inc. is a hotel franchising company. The Company operates through one segment: Hotel Franchising.",
+      "rank_absolute": 9,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "Travel Slump Hits Airlines: Should You Buy The Dip With ...",
+      "url": "https://talkmarkets.com/content/etfs/travel-slump-hits-airlines-should-you-buy-the-dip-with-this-etf?post=494616",
+      "snippet": "Apr 26, 2025 \u2014 Airlines have been struggling due to low domestic and international travel demand and low consumer confidence. The lower demand is due to a\u00a0...",
+      "rank_absolute": 10,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "Allegiant Travel Company - Common Stock (NQ:ALGT)",
+      "url": "https://www.talkmarkets.com/symbol/ALGT",
+      "snippet": "The ticker symbol for Allegiant Travel Company - Common Stock is ALGT on the Nasdaq Stock Market. What is the current price of Allegiant Travel Company\u00a0...",
+      "rank_absolute": 11,
+      "rank_group": 11,
+      "result_type": "items"
+    },
+    {
+      "title": "ISPO: Inspirato Inc - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/ispo/portal-widgets/redirect/earnings",
+      "snippet": "Inspirato Incorporated is a subscription-based luxury travel company. The Company provides access to a managed and controlled portfolio of curated vacation\u00a0...",
+      "rank_absolute": 12,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "JetBlue's Stock Declines As Airliner to Reduce Flights Amid ...",
+      "url": "https://talkmarkets.com/content/stocks--equities/jetblues-stock-declines-as-airliner-to-reduce-flights-amid-tough-conditions?post=504025",
+      "snippet": "Jun 17, 2025 \u2014 JetBlue's Stock Declines As Airliner To Reduce Flights Amid Tough Conditions ... JetBlue Airways Corporation (Nasdaq: JBLU) faces mounting\u00a0...",
+      "rank_absolute": 13,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "ONVC: Online Vacation Center Holdings Corp",
+      "url": "https://talkmarkets.com/symbol/onvc/portal-widgets/redirect/earnings",
+      "snippet": "Online Vacation Center Holdings Corp ONVC:OTCQX \u00b7 Open0.00 \u00b7 Day High0.00 \u00b7 Day Low0.00 \u00b7 Prev Close1.95 \u00b7 52 Week High2.58 \u00b7 52 Week High Date02/24/25 \u00b7 52\u00a0...",
+      "rank_absolute": 14,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "PARL: Parlo Bhd - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/parl/portal-widgets/redirect/earnings",
+      "snippet": "Parlo Berhad is an investment holding company. The Company's segments include Travel and Tours, Trading - V Care, Investment holding and Others.",
+      "rank_absolute": 15,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "HTZ: Hertz Global Holdings Inc - Stock Price, Quote ...",
+      "url": "https://talkmarkets.com/symbol/htz/portal-widgets/redirect/ownership",
+      "snippet": "Latest On Hertz Global Holdings Inc \u00b7 Stocks making the biggest premarket moves: Intel, Oracle, Lithium Americas 19 Hours Ago CNBC.com \u00b7 Best Travel Credit Cards\u00a0...",
+      "rank_absolute": 16,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "Trip.com Opens Over 1100 Overseas Positions In 75 Cities ...",
+      "url": "https://talkmarkets.com/content/global-markets/tripcom-opens-over-1100-overseas-positions-in-75-cities-across-23-countries?post=502948",
+      "snippet": "Jun 14, 2025 \u2014 Recently, Trip.com opened over 1100 overseas positions in 75 cities across 23 countries, including London and Tokyo, covering business lines\u00a0...",
+      "rank_absolute": 17,
+      "rank_group": 17,
+      "result_type": "items"
+    },
+    {
+      "title": "4 Airline Stocks To Invest Now As Air Travel Demand Surges",
+      "url": "https://talkmarkets.com/content/stocks--equities/4-airline-stocks-to-invest-now-as-air-travel-demand-surges?post=451294",
+      "snippet": "Jun 22, 2024 \u2014 United Airlines. This Chicago, IL-based company provides air transportation services in North America, Asia, Europe, Africa, the Pacific, the\u00a0...",
+      "rank_absolute": 18,
+      "rank_group": 18,
+      "result_type": "items"
+    },
+    {
+      "title": "SMSOF: Samsonite Group SA - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/smsof/portal-widgets/redirect/earnings",
+      "snippet": "... travel accessories and slim protective cases for personal electronic devices. The Company operates its business through three segments. The Travel Bag\u00a0...",
+      "rank_absolute": 19,
+      "rank_group": 19,
+      "result_type": "items"
+    },
+    {
+      "title": "Bear Of The Day: Delta Air Lines",
+      "url": "https://talkmarkets.com/content/stocks--equities/bear-of-the-day-delta-air-lines?post=458928",
+      "snippet": "Aug 20, 2024 \u2014 Delta Airlines Company Overview. Zacks Rank #5 (Strong Sell) stock Delta Air Lines (DAL) is known for its travel services for both\u00a0...",
+      "rank_absolute": 20,
+      "rank_group": 20,
+      "result_type": "items"
+    },
+    {
+      "title": "MicroSectors Travel 3X Leveraged ETNs",
+      "url": "https://www.talkmarkets.com/symbol/FLYU",
+      "snippet": "Bank of Montreal MicroSectors Travel 3x Leveraged ETN (NY:FLYU). 58.86 -0.42 (-0.72%). Streaming Delayed Price 8:00:00 PM EDT, Sep 12, 2025 Add to My\u00a0...",
+      "rank_absolute": 21,
+      "rank_group": 21,
+      "result_type": "items"
+    },
+    {
+      "title": "Memorial Day Weekend Travel To Break Records: 5 ETF Picks",
+      "url": "https://talkmarkets.com/content/etfs/memorial-day-weekend-travel-to-break-records-5-etf-picks?post=499404",
+      "snippet": "This Memorial Day holiday weekend is poised to set a new benchmark in American travel history, fueled by lower gasoline prices, increased consumer\u00a0...",
+      "rank_absolute": 22,
+      "rank_group": 22,
+      "result_type": "items"
+    },
+    {
+      "title": "Booking, Airbnb, And Expedia Stocks Forecasts Ahead Of ...",
+      "url": "https://talkmarkets.com/content/stocks--equities/booking-airbnb-and-expedia-stocks-forecasts-ahead-of-earnings?post=494650",
+      "snippet": "Apr 28, 2025 \u2014 Airbnb stock price analysis. Airbnb is a top player in the travel and hospitality industry, where it offers vacation rentals around the world.",
+      "rank_absolute": 23,
+      "rank_group": 23,
+      "result_type": "items"
+    },
+    {
+      "title": "Something Unusual Is Happening With American Express ...",
+      "url": "https://talkmarkets.com/content/stocks--equities/something-unusual-is-happening-with-american-express-stock-are-investors-overlooking-it?post=519193",
+      "snippet": "Aug 31, 2025 \u2014 But lately, something unusual is happening with American Express stock (AXP). Beyond the surface of card fees and travel perks, Amex is quietly\u00a0...",
+      "rank_absolute": 24,
+      "rank_group": 24,
+      "result_type": "items"
+    },
+    {
+      "title": "Copa Holdings: A Higher-Yielding Airline In A Group Not ...",
+      "url": "https://talkmarkets.com/content/stocks--equities/copa-holdings-a-higher-yielding-airline-in-agroup-not-known-for-juicy-dividends?post=469433",
+      "snippet": "Nov 16, 2024 \u2014 ... travel from one place to another. Copa Holdings SA (CPA) Chart. A graph showing the growth of the stock market Description automatically\u00a0...",
+      "rank_absolute": 25,
+      "rank_group": 25,
+      "result_type": "items"
+    },
+    {
+      "title": "Booking Vs. Airbnb: Which Is The Better Travel Stock?",
+      "url": "https://talkmarkets.com/content/stocks--equities/booking-vs-airbnb-which-is-the-better-travel-stock?post=425945",
+      "snippet": "Jan 6, 2024 \u2014 Booking has another advantage than Airbnb in that it makes money from hotels and airlines. It has also started to benefit from the vacation\u00a0...",
+      "rank_absolute": 26,
+      "rank_group": 26,
+      "result_type": "items"
+    },
+    {
+      "title": "ECB Cuts Rates By 25bp But Direction Of Travel No ...",
+      "url": "https://talkmarkets.com/content/global-markets/ecb-cuts-rates-by-25bp-but-direction-of-travel-no-longer-that-clear?post=485546",
+      "snippet": "Mar 6, 2025 \u2014 At 2.75%, the deposit rate was still too restrictive for a eurozone economy showing signs of bottoming out but not yet recovery. And with\u00a0...",
+      "rank_absolute": 27,
+      "rank_group": 27,
+      "result_type": "items"
+    },
+    {
+      "title": "Airline Industry Expected To Soar With Record Summer Travel",
+      "url": "https://talkmarkets.com/content/stocks--equities/airline-industry-expected-to-soar-with-record-summer-travel?post=442762",
+      "snippet": "The airline industry is gearing up for what could be a record-breaking summer travel season, if forecasts turn out to be correct.",
+      "rank_absolute": 28,
+      "rank_group": 28,
+      "result_type": "items"
+    },
+    {
+      "title": "Airline Passenger Volume Is Down Amid Falling Demand ...",
+      "url": "https://talkmarkets.com/content/services/airline-passenger-volume-is-down-amid-falling-demand-and-slowing-economy?post=504438",
+      "snippet": "Jun 18, 2025 \u2014 JetBlue Airways (JBLU) reported yesterday that it is reducing flights and parking aircraft as \u201csoft travel demand\u201d is impacting the airline's revenue.",
+      "rank_absolute": 29,
+      "rank_group": 29,
+      "result_type": "items"
+    },
+    {
+      "title": "Three Travel Stocks To Pay For Your Next Trip",
+      "url": "https://talkmarkets.com/content/stocks--equities/three-travel-stocks-to-pay-for-your-next-trip?post=439428",
+      "snippet": "Apr 2, 2024 \u2014 Airbnb (ABNB) is a great option for this kind of travel, and the stock is certainly benefiting as vacations are booked. A wisteria arbor in the\u00a0...",
+      "rank_absolute": 30,
+      "rank_group": 30,
+      "result_type": "items"
+    },
+    {
+      "title": "Why United Airlines Stock Is Soaring And Could Stay ...",
+      "url": "https://talkmarkets.com/content/stocks--equities/why-united-airlines-stock-is-soaring-and-could-stay-buoyant?post=478780",
+      "snippet": "Jan 22, 2025 \u2014 \u201cUnited is navigating the higher operating cost environment well and making the right investments.\u201d Key growth segments included premium travel-\u00a0...",
+      "rank_absolute": 31,
+      "rank_group": 31,
+      "result_type": "items"
+    },
+    {
+      "title": "CSWC: Capital Southwest Corp - Stock Price, Quote and ...",
+      "url": "https://talkmarkets.com/symbol/cswc/portal-widgets/redirect/ownership",
+      "snippet": "Best family travel credit cards May 29, 2024 CNBC.com. Southwest cards launch new welcome bonus October 26, 2023 CNBC.com. Best business credit cards for travel ...",
+      "rank_absolute": 32,
+      "rank_group": 32,
+      "result_type": "items"
+    },
+    {
+      "title": "3 Airline Stocks That Could Fly Higher In 2024",
+      "url": "https://talkmarkets.com/content/stocks--equities/3-airline-stocks-that-could-fly-higher-in-2024?post=425512",
+      "snippet": "Jan 3, 2024 \u2014 On Wednesday the U.S. Department of Transportation stated travel around Christmas and New Year's was notably smooth with the cancellation rate\u00a0...",
+      "rank_absolute": 33,
+      "rank_group": 33,
+      "result_type": "items"
+    },
+    {
+      "title": "Value Investors: Are Stocks Cheap Or Not?",
+      "url": "https://talkmarkets.com/content/stocks--equities/value-investors-are-stocks-cheap-or-not?post=494512",
+      "snippet": "Apr 25, 2025 \u2014 Booking Holdings is the global leader in online travel and it includes brands such as Priceline. Shares of Booking are down 8% year-to-date\u00a0...",
+      "rank_absolute": 34,
+      "rank_group": 34,
+      "result_type": "items"
+    },
+    {
+      "title": "Which Airlines Are Ordering The Most Commercial Jets?",
+      "url": "https://talkmarkets.com/content/services/which-airlines-are-ordering-the-most-commercial-jets?post=427434",
+      "snippet": "Jan 16, 2024 \u2014 Commercial jet orders hit records in 2023 as travel demand soared. India's IndiGo airline ordered 500 jets in June, estimated to be valued at a $55 billion\u00a0...",
+      "rank_absolute": 35,
+      "rank_group": 35,
+      "result_type": "items"
+    },
+    {
+      "title": "Airlines Likely To Fly High In 2024 On Rosy Passenger ...",
+      "url": "https://talkmarkets.com/content/stocks--equities/airlines-likely-to-fly-high-in-2024-on-rosy-passenger-revenues?post=425006",
+      "snippet": "Dec 31, 2023 \u2014 The scenario with respect to air travel demand is expected to improve further in 2024. Per IATA, the net profit of airlines across the globe is\u00a0...",
+      "rank_absolute": 36,
+      "rank_group": 36,
+      "result_type": "items"
+    },
+    {
+      "title": "Hot Stocks For The Hot Summer",
+      "url": "https://talkmarkets.com/content/stocks--equities/hot-stocks-for-the-hot-summer?post=451828",
+      "snippet": "Jun 26, 2024 \u2014 Summer is here! While you may have planned your vacation and trips to the beach, have you thought about your investments?",
+      "rank_absolute": 37,
+      "rank_group": 37,
+      "result_type": "items"
+    },
+    {
+      "title": "Delta Airlines: More Fuel In The Tank?",
+      "url": "https://talkmarkets.com/content/stocks--equities/delta-airlines-more-fuel-in-the-tank?post=406760",
+      "snippet": "Aug 10, 2023 \u2014 ... travel market. We use EarningsEdge.ai 's sentiment and behavioral analysis models to analyze DAL's Q2 2023 earnings report (reported on July\u00a0...",
+      "rank_absolute": 38,
+      "rank_group": 38,
+      "result_type": "items"
+    },
+    {
+      "title": "Rally in Travel and Tourism ETFs Set to Continue",
+      "url": "https://talkmarkets.com/content/etfs/rally-in-travel-and-tourism-etfs-set-to-continue?post=333772",
+      "snippet": "Nov 8, 2021 \u2014 The travel and tourism industry, which was hit by the Delta variant of COVID-19 for months, staged a nice comeback last week.",
+      "rank_absolute": 39,
+      "rank_group": 39,
+      "result_type": "items"
+    },
+    {
+      "title": "Vacation Plans Shrink With Consumer Confidence",
+      "url": "https://talkmarkets.com/content/vacation-plans-shrink-with-consumer-confidence?post=499213",
+      "snippet": "May 23, 2025 \u2014 ... vacation plans; many are swapping air travel and extravagant holidays for road trips and shorter vacations. According to a Deloitte report\u00a0...",
+      "rank_absolute": 40,
+      "rank_group": 40,
+      "result_type": "items"
+    },
+    {
+      "title": "4 ETFs To Ride On Busy Labor Day Weekend Travel",
+      "url": "https://talkmarkets.com/content/etfs/4-etfs-to-ride-on-busy-labor-day-weekend-travel?post=366509",
+      "snippet": "Sep 3, 2022 \u2014 As such, ETFMG Travel Tech ETF (AWAY - Free Report), Defiance Hotel, Airline, and Cruise ETF (CRUZ - Free Report), ALPS Global Travel ...",
+      "rank_absolute": 41,
+      "rank_group": 41,
+      "result_type": "items"
+    },
+    {
+      "title": "2 Top Summer Travel Stocks to Buy Now",
+      "url": "https://talkmarkets.com/content/us-markets/2-top-summer-travel-stocks-to-buy-now?post=314915",
+      "snippet": "Jun 6, 2021 \u2014 The pent-up demand for travel should benefit travel companies Winnebago Industries, Inc. and Travelzoo with summer kicking in.",
+      "rank_absolute": 42,
+      "rank_group": 42,
+      "result_type": "items"
+    },
+    {
+      "title": "Airline Deregulation In The U.S.",
+      "url": "https://talkmarkets.com/content/airline-deregulation-in-the-us?post=383547",
+      "snippet": "Jan 31, 2023 \u2014 This has allowed millions more people to afford the cost of commercial air travel than ever before\u2014and the number continues to grow.",
+      "rank_absolute": 43,
+      "rank_group": 43,
+      "result_type": "items"
+    },
+    {
+      "title": "5 ETF Gateways For This Memorial Day",
+      "url": "https://talkmarkets.com/content/etfs/5-etf-gateways-for-this-memorial-day?post=397356",
+      "snippet": "May 27, 2023 \u2014 According to travel service provider American Automobile Association (\u201cAAA\u201d), this summer travel season could be one for the record books,\u00a0...",
+      "rank_absolute": 44,
+      "rank_group": 44,
+      "result_type": "items"
+    },
+    {
+      "title": "Chair Powell Affirms: 'The Direction Of Travel Is Clear' Rate ...",
+      "url": "https://talkmarkets.com/content/us-markets/chair-powell-affirms-the-direction-of-travel-is-clear-rate-cuts-are-on-the-way?post=459512",
+      "snippet": "Aug 23, 2024 \u2014 Stocks rocketed higher, and bond yields slipped as Jerome Powell confirmed a September rate cut while dropping tantalizing hints about more\u00a0...",
+      "rank_absolute": 45,
+      "rank_group": 45,
+      "result_type": "items"
+    },
+    {
+      "title": "Danish Travel Startup Momondo Group Receives \u20ac100 ...",
+      "url": "https://talkmarkets.com/content/danish-travel-startup-momondo-group-receives-100-million-investment?post=51337",
+      "snippet": "Oct 20, 2014 \u2014 Great Hill Partners invests \u20ac100 million in the company to help it grow \u2013 and take it over.",
+      "rank_absolute": 46,
+      "rank_group": 46,
+      "result_type": "items"
+    },
+    {
+      "title": "Expedia Stumbles on Bookings Despite Earnings Beat ...",
+      "url": "https://talkmarkets.com/content/stocks--equities/expedia-stumbles-on-bookings-despite-earnings-beat-drags-down-travel-stocks?post=431258",
+      "snippet": "Feb 9, 2024 \u2014 Expedia Stock Drops, Travel Peers Follow Suit. Expedia's stock fell in after-hours trading following the mixed earnings report. Investor\u00a0...",
+      "rank_absolute": 48,
+      "rank_group": 47,
+      "result_type": "items"
+    },
+    {
+      "title": "Tourist Arrivals In Spain Reach 90% Of Pre-Pandemic Levels",
+      "url": "https://talkmarkets.com/content/global-markets/tourist-arrivals-in-spain-reach-90-of-pre-pandemic-levels?post=367555",
+      "snippet": "Sep 12, 2022 \u2014 Spanish tourism is reaching pre-pandemic levels thanks to a strong rebound in domestic tourism, compensating for the drop in the number of\u00a0...",
+      "rank_absolute": 49,
+      "rank_group": 48,
+      "result_type": "items"
+    },
+    {
+      "title": "Canadian Airline Stocks \u2013 Which Rebound Play Is Best In ...",
+      "url": "https://talkmarkets.com/content/global-markets/canadian-airline-stocks--which-rebound-play-is-best-in-2021?post=318929",
+      "snippet": "Jul 5, 2021 \u2014 You'd be hard-pressed to find an industry harder hit by the COVID-19 pandemic than Canadian airline companies. For one, travel came to a\u00a0...",
+      "rank_absolute": 50,
+      "rank_group": 49,
+      "result_type": "items"
+    },
+    {
+      "title": "An Overview Of Outdoor Sports Industry In China",
+      "url": "https://talkmarkets.com/content/global-markets/an-overview-of-outdoor-sports-industry-in-china?post=367351",
+      "snippet": "Sep 9, 2022 \u2014 The second category is the outdoor travel products provided by travel platforms, which include outdoor sports in the travel itinerary as a\u00a0...",
+      "rank_absolute": 51,
+      "rank_group": 50,
+      "result_type": "items"
+    },
+    {
+      "title": "Will Airbnb Ever Pay A Dividend?",
+      "url": "https://talkmarkets.com/content/will-airbnb-ever-pay-a-dividend?post=289649",
+      "snippet": "Dec 16, 2020 \u2014 While some travel stocks like airlines and cruise operators have historically paid dividends \u2013 and significant ones at that \u2013 growth stocks in\u00a0...",
+      "rank_absolute": 52,
+      "rank_group": 51,
+      "result_type": "items"
+    },
+    {
+      "title": "Three Travel Stocks For Summer Profits",
+      "url": "https://talkmarkets.com/content/stocks--equities/three-travel-stocks-for-summer-profits?post=397757",
+      "snippet": "May 30, 2023 \u2014 Families are heading out for casual day trips, luxurious international vacations and just about every kind of trip in between. And this sets up\u00a0...",
+      "rank_absolute": 53,
+      "rank_group": 52,
+      "result_type": "items"
+    },
+    {
+      "title": "The Option To Book Short Term Hotel Stays For Less",
+      "url": "https://talkmarkets.com/content/hotels-by-day-the-option-to-book-short-term-hotel-stays-for-less?post=256447",
+      "snippet": "Mar 30, 2020 \u2014 Without giving away too much of my age, I can safely say that I am a 20 year veteran of planning travel arrangements in Europe, before\u00a0...",
+      "rank_absolute": 54,
+      "rank_group": 53,
+      "result_type": "items"
+    },
+    {
+      "title": "China's Rebound Starts With Consumption",
+      "url": "https://talkmarkets.com/content/global-markets/chinas-rebound-starts-with-consumption?post=384113",
+      "snippet": "Feb 4, 2023 \u2014 This data reflects the fact that Chinese consumers are generally engaging in travel close to home rather than taking long-distance trips within\u00a0...",
+      "rank_absolute": 55,
+      "rank_group": 54,
+      "result_type": "items"
+    },
+    {
+      "title": "There's Always Another Side to the Economic Story",
+      "url": "https://talkmarkets.com/content/real-estate--reits/theres-always-another-side-to-the-economic-story?post=313815",
+      "snippet": "May 28, 2021 \u2014 Here's the bad news for anyone planning to travel over Memorial Day weekend. Demand for gas \u201chas come roaring back,\u201d according to GasBuddy\u00a0...",
+      "rank_absolute": 56,
+      "rank_group": 55,
+      "result_type": "items"
+    },
+    {
+      "title": "5 Must-Watch Earnings Charts This Week",
+      "url": "https://talkmarkets.com/content/stocks--equities/5-must-watch-earnings-charts-this-week?post=353438",
+      "snippet": "May 3, 2022 \u2014 They may not be the FANGMAN stocks, but that doesn't make them less important. Semiconductors and travel stocks are popular with investors.",
+      "rank_absolute": 57,
+      "rank_group": 56,
+      "result_type": "items"
+    },
+    {
+      "title": "Slate Money Travel: Maybe We Should Walk",
+      "url": "https://talkmarkets.com/content/interviews/slate-money-travel-maybe-we-should-walk?post=420435",
+      "snippet": "Nov 27, 2023 \u2014 In this episode of Slate Money Travel, Felix Salmon speaks with Craig Mod about why he loves to walk on vacation.",
+      "rank_absolute": 58,
+      "rank_group": 57,
+      "result_type": "items"
+    },
+    {
+      "title": "Investors Return to ETFs: 5 Hot Picks of Last Week",
+      "url": "https://talkmarkets.com/content/etfs/investors-return-to-etfs-5-hot-picks-of-last-week?post=331590",
+      "snippet": "Oct 18, 2021 \u2014 A surprise rise in retail sales for September has raised optimism about an economic recovery. Airlines and other travel-related company also\u00a0...",
+      "rank_absolute": 59,
+      "rank_group": 58,
+      "result_type": "items"
+    },
+    {
+      "title": "Airbnb slides as IPO lock-Up period expires",
+      "url": "https://talkmarkets.com/content/stocks--equities/airbnb-slides-as-ipo-lock-up-period-expires?post=312244",
+      "snippet": "May 17, 2021 \u2014 ... travel, nearby travel, and long-term stays,\" the company stated. Looking ahead, Airbnb said in its Q1 investor letter than it expects Q2\u00a0...",
+      "rank_absolute": 60,
+      "rank_group": 59,
+      "result_type": "items"
+    },
+    {
+      "title": "Russia-Ukraine Crisis: Here's How Global Air Travel Is ...",
+      "url": "https://talkmarkets.com/content/global-markets/russia-ukraine-crisis-heres-how-global-air-travel-is-being-scrambled-by-the-invasion?post=346250",
+      "snippet": "Feb 26, 2022 \u2014 The global aviation industry seems to be bearing the brunt after Russia invaded Ukraine. No-fly zones, cancelled flights, and global air\u00a0...",
+      "rank_absolute": 61,
+      "rank_group": 60,
+      "result_type": "items"
+    },
+    {
+      "title": "Inflation Is Worse Than The Government Data Reveals",
+      "url": "https://talkmarkets.com/content/shocker-inflation-is-worse-than-the-government-data-reveals?post=524786",
+      "snippet": "21 hours ago \u2014 The CPI includes many items beyond the reach of working families, such as sports tickets, air travel, second homes and golf carts. If the\u00a0...",
+      "rank_absolute": 62,
+      "rank_group": 61,
+      "result_type": "items"
+    },
+    {
+      "title": "Sensex, Nifty End Volatile Day on a Flat Note; ONGC, Hero ...",
+      "url": "https://talkmarkets.com/content/global-markets/sensex-nifty-end-volatile-day-on-a-flat-note-ongc-hero-motocorp-among-top-losers?post=345787",
+      "snippet": "Feb 23, 2022 \u2014 In news from the travel support services sector, Easy Trip Planners was among the top buzzing stocks today. EaseMyTrip, an online travel ...",
+      "rank_absolute": 63,
+      "rank_group": 62,
+      "result_type": "items"
+    },
+    {
+      "title": "Celebrate Fourth of July With These ETFs",
+      "url": "https://talkmarkets.com/content/etfs/celebrate-fourth-of-july-with-these-etfs?post=318575",
+      "snippet": "Jul 2, 2021 \u2014 This, coupled with strong demand for travel around Memorial Day, point toward a busy Independence Day. As such, AAA projects near-record traffic\u00a0...",
+      "rank_absolute": 64,
+      "rank_group": 63,
+      "result_type": "items"
+    },
+    {
+      "title": "Airline Stocks Have Shown Seasonal Strength In The Final ...",
+      "url": "https://talkmarkets.com/content/services/airline-stocks-have-shown-seasonal-strength-in-the-final-quarter?post=521130",
+      "snippet": "Sep 8, 2025 \u2014 Restructuring and Consolidation Continue to Reshape U.S. Aviation \u00b7 Can the ULCC Model Survive? \u00b7 The Nickel-and-Diming Backlash \u00b7 Air Travel ...",
+      "rank_absolute": 65,
+      "rank_group": 64,
+      "result_type": "items"
+    },
+    {
+      "title": "AVOL: Avolta AG - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/avol/portal-widgets/redirect/earnings",
+      "snippet": "Avolta AG, formerly Dufry AG is a Switzerland-based company engaged in the travel retail sector. The Company operates shops located at airports, cruise liners,\u00a0...",
+      "rank_absolute": 66,
+      "rank_group": 65,
+      "result_type": "items"
+    },
+    {
+      "title": "SSPPF: SSP Group PLC - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/ssppf/portal-widgets/redirect/earnings",
+      "snippet": "SSP Group plc is a United Kingdom-based operator of food and beverage outlets in travel locations. The Company specializes in designing, creating and operating\u00a0...",
+      "rank_absolute": 67,
+      "rank_group": 66,
+      "result_type": "items"
+    },
+    {
+      "title": "SKVY: Sentry Technology Corp - Stock Price, Quote and ...",
+      "url": "https://talkmarkets.com/symbol/skvy/portal-widgets/redirect/earnings",
+      "snippet": "Sentry Technology Corporation designs, manufactures, markets and services traveling closed-circuit television (CCTV) technology products.",
+      "rank_absolute": 68,
+      "rank_group": 67,
+      "result_type": "items"
+    },
+    {
+      "title": "CCRN: Cross Country Healthcare Inc - Stock Price, Quote ...",
+      "url": "https://talkmarkets.com/symbol/ccrn/portal-widgets/redirect/earnings",
+      "snippet": "... travel and local nurse and allied professionals, and healthcare leaders within nursing, allied, physician, and human resources; vendor... More. Kevin Clark.",
+      "rank_absolute": 69,
+      "rank_group": 68,
+      "result_type": "items"
+    },
+    {
+      "title": "ISTA: Issta Ltd - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/ista/portal-widgets/redirect/ownership",
+      "snippet": "Issta Ltd (formerly Issta Lines Israel Students Travel Company Ltd and Issta Lines Ltd) is an Israel-based company engaged in the leisure and recreation\u00a0...",
+      "rank_absolute": 70,
+      "rank_group": 69,
+      "result_type": "items"
+    },
+    {
+      "title": "WETO: Webus International Ltd - Stock Price, Quote and ...",
+      "url": "https://talkmarkets.com/symbol/weto/portal-widgets/redirect/earnings",
+      "snippet": "Webus International Ltd is a holding company principally engaged in the provision of customized commuter shuttle, charted car and bus, and travel services.",
+      "rank_absolute": 71,
+      "rank_group": 70,
+      "result_type": "items"
+    },
+    {
+      "title": "FRX: FLEXIROAM Ltd - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/frx/portal-widgets/redirect/earnings",
+      "snippet": "... Travel and Solutions. Its Travel segment consists of different routes to market via direct to consumers, corporate loyalty and... More. Tat Seng Koh. Non\u00a0...",
+      "rank_absolute": 72,
+      "rank_group": 71,
+      "result_type": "items"
+    },
+    {
+      "title": "VIK: Viking Holdings Ltd - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/vik/portal-widgets/redirect/earnings",
+      "snippet": "Viking Holdings Ltd provides destination-focused journeys on rivers, oceans, and lakes around the world. The Company offers travel experiences on all seven\u00a0...",
+      "rank_absolute": 73,
+      "rank_group": 72,
+      "result_type": "items"
+    },
+    {
+      "title": "TNLIF: Trainline PLC - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/tnlif/portal-widgets/redirect/earnings",
+      "snippet": "Trainline plc is a United Kingdom-based company engaged in operating an independent rail and coach travel platform selling rail and coach tickets to\u00a0...",
+      "rank_absolute": 74,
+      "rank_group": 73,
+      "result_type": "items"
+    },
+    {
+      "title": "GJNSF: Gjensidige Forsikring ASA - Stock Price, Quote ...",
+      "url": "https://talkmarkets.com/symbol/gjnsf/portal-widgets/redirect/earnings",
+      "snippet": "... vacation home, personal property, boat, valuables, life and health, pet, travel, student abroad and youth insurance. The Company has general insurance\u00a0...",
+      "rank_absolute": 75,
+      "rank_group": 74,
+      "result_type": "items"
+    },
+    {
+      "title": "Membership Sign-Up - Best Weather, Inc | Jim Roemer",
+      "url": "https://talkmarkets.com/contributor/james-roemer/portal-widgets/applicatonbannerswidget/increasenumberofclicks?id=441",
+      "snippet": "Know months in advance where to ski or travel. \u201cOver the last year, it has occurred to me that your short/near term calls have a very high win percentage\u00a0...",
+      "rank_absolute": 76,
+      "rank_group": 75,
+      "result_type": "items"
+    },
+    {
+      "title": "Brett Hershman - Profile",
+      "url": "https://talkmarkets.com/contributor/brett-hershman/?page=2",
+      "snippet": "6 days ago \u2014 ... travel. He has conducted interviews with numerous CEOs, celebrities & sports figures. Brett has written for The Sun, Benzinga, Golf Magazine\u00a0...",
+      "rank_absolute": 77,
+      "rank_group": 76,
+      "result_type": "items"
+    },
+    {
+      "title": "AMN Healthcare Services Inc - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/amn/portal-widgets/redirect/earnings",
+      "snippet": "... travel nurse... More. Mark Foletta. Independent Chairman of the Board. Douglas Wheat. Chairman Emeritus of the Board. Cary Grace. President, Chief Executive\u00a0...",
+      "rank_absolute": 78,
+      "rank_group": 77,
+      "result_type": "items"
+    },
+    {
+      "title": "YTRA: Yatra Online Inc - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/ytra/portal-widgets/redirect/ownership",
+      "snippet": "Yatra Online, Inc. is an India-based corporate travel services and online travel company. The Company provides services to over 1,200 corporate customers\u00a0...",
+      "rank_absolute": 79,
+      "rank_group": 78,
+      "result_type": "items"
+    },
+    {
+      "title": "RustyBrick, Inc.",
+      "url": "https://talkmarkets.com/member/barry-schwartz/portal-widgets/applicatonbannerswidget/increasenumberofclicks?id=72",
+      "snippet": "Web site design and web development services in New York. Web Construction at its Best! - Click For More Information.",
+      "rank_absolute": 80,
+      "rank_group": 79,
+      "result_type": "items"
+    },
+    {
+      "title": "Is American Airlines Stock Too Cheap To Ignore After ...",
+      "url": "https://talkmarkets.com/content/stocks--equities/is-american-airlines-stock-too-cheap-to-ignore-after-beating-q2-expectations?post=511330",
+      "snippet": "Jul 24, 2025 \u2014 ... travel demand. That said, American Airlines stated it has moved past the brunt of the economic impact, which begs the question of whether\u00a0...",
+      "rank_absolute": 81,
+      "rank_group": 80,
+      "result_type": "items"
+    },
+    {
+      "title": "Mastercard Inc MA:NYSE - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/ma/portal-widgets/redirect/earnings",
+      "snippet": "Where Asians want to travel in Asia in 2025 September 9, 2025 CNBC.com. Klarna's IPO will test if it's more than just a one-trick 'buy now, pay later' pony\u00a0...",
+      "rank_absolute": 82,
+      "rank_group": 81,
+      "result_type": "items"
+    },
+    {
+      "title": "American Express - Our Calculation Of Intrinsic Value",
+      "url": "https://talkmarkets.com/content/stocks--equities/american-express-our-calculation-of-intrinsic-value?post=511470",
+      "snippet": "Jul 25, 2025 \u2014 American Express is one of the world's most recognized financial services brands, known for its premium credit cards, charge cards, and travel-",
+      "rank_absolute": 83,
+      "rank_group": 82,
+      "result_type": "items"
+    },
+    {
+      "title": "AMIGF: Admiral Group PLC - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/amigf/portal-widgets/redirect/earnings",
+      "snippet": "Admiral Group plc is a United Kingdom-based financial services company. The Company is engaged in offering motor, household, travel and pet insurance,\u00a0...",
+      "rank_absolute": 84,
+      "rank_group": 83,
+      "result_type": "items"
+    },
+    {
+      "title": "GMALY: Genting Malaysia Bhd - Stock Price, Quote and ...",
+      "url": "https://talkmarkets.com/symbol/gmaly/portal-widgets/redirect/earnings",
+      "snippet": "... tours and travel related services and other supporting... More. Mohd. Zahidi Bin Haji Zainuddin. Non-Independent Non-Executive Chairman of the Board. Kok Thay\u00a0...",
+      "rank_absolute": 85,
+      "rank_group": 84,
+      "result_type": "items"
+    },
+    {
+      "title": "FUNC: First United Corp - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/func/portal-widgets/redirect/earnings",
+      "snippet": "Latest On First United Corp. ALL CNBC INVESTING CLUB PRO. Best Chase travel rewards credit cards July 2, 2024 CNBC.com. Key Stats. Market Cap244.002M; Shares\u00a0...",
+      "rank_absolute": 86,
+      "rank_group": 85,
+      "result_type": "items"
+    },
+    {
+      "title": "Leslie Cassar - Following",
+      "url": "https://talkmarkets.com/member/leslie1/following",
+      "snippet": "... Travel and World Aviation Systems. In 2002 Leslie successfully negotiated the sale of his Concorde/World Aviation Australia ...more. Leslie Cassar is the\u00a0...",
+      "rank_absolute": 87,
+      "rank_group": 86,
+      "result_type": "items"
+    },
+    {
+      "title": "META & GOOGL: Beneficiaries Of Strong Digital Ad Growth",
+      "url": "https://talkmarkets.com/content/stocks--equities/meta--googl-beneficiaries-of-strong-digital-ad-growth?post=522587",
+      "snippet": "Sep 13, 2025 \u2014 Challenges from verticals more tied to cyclical/economically sensitive industries (e.g., travel) could pull back digital ad spend. But\u00a0...",
+      "rank_absolute": 88,
+      "rank_group": 87,
+      "result_type": "items"
+    },
+    {
+      "title": "CPA: A Higher-Yielding Airline In A Group Not Known For ...",
+      "url": "https://talkmarkets.com/content/stocks--equities/cpa-a-higher-yielding-airline-in-a-group-not-known-for-juicy-dividends?post=469838",
+      "snippet": "Nov 19, 2024 \u2014 And it's definitely the best opportunity I've seen to collect a dividend from air travel. In sum, make sure transportation stocks aren't a\u00a0...",
+      "rank_absolute": 89,
+      "rank_group": 88,
+      "result_type": "items"
+    },
+    {
+      "title": "MMYT: MakeMyTrip Ltd - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/mmyt/portal-widgets/redirect/ownership",
+      "snippet": "MakeMyTrip Limited is an online travel provider. The Company's segments include Air Ticketing, Hotels and Packages, and Bus Ticketing.",
+      "rank_absolute": 90,
+      "rank_group": 89,
+      "result_type": "items"
+    },
+    {
+      "title": "SMSEY: Samsonite Group SA - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/smsey/portal-widgets/redirect/earnings",
+      "snippet": "... travel accessories and slim protective cases for personal electronic devices. The Company operates its business through three segments. The Travel Bag\u00a0...",
+      "rank_absolute": 91,
+      "rank_group": 90,
+      "result_type": "items"
+    },
+    {
+      "title": "United Airlines Stock Surges On Strong Q2 Results And ...",
+      "url": "https://talkmarkets.com/content/stocks--equities/united-airlines-stock-surges-on-strong-q2-results-and-rising-demand-outlook?post=509942",
+      "snippet": "Jul 17, 2025 \u2014 ... travel demand compared with the second quarter. This suggests improving sentiment around travel as geopolitical and economic uncertainties\u00a0...",
+      "rank_absolute": 92,
+      "rank_group": 91,
+      "result_type": "items"
+    },
+    {
+      "title": "General Electric Stock Tank 5% Today, But Here's Why ...",
+      "url": "https://talkmarkets.com/content/stocks--equities/general-electric-stock-tank-5-today-but-heres-why-you-should-press-buy?post=515357",
+      "snippet": "Aug 13, 2025 \u2014 Before the recent drop, GE's shares had climbed more than 68% year-to-date, helped by strong demand in its aerospace division as airline travel ...",
+      "rank_absolute": 93,
+      "rank_group": 92,
+      "result_type": "items"
+    },
+    {
+      "title": "Is MGM Stock A Buy?",
+      "url": "https://talkmarkets.com/content/stocks--equities/is-mgm-stock-a-buy?post=501461",
+      "snippet": "Jun 5, 2025 \u2014 Investors might want to wait a quarter for more visibility on travel and a better entry point. One potential catalyst later in the year for\u00a0...",
+      "rank_absolute": 94,
+      "rank_group": 93,
+      "result_type": "items"
+    },
+    {
+      "title": "CCL: Carnival Corp - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/ccl/portal-widgets/redirect/earnings",
+      "snippet": "Carnival Corporation is a global cruise and leisure travel company. The Company has a portfolio of cruise lines, including AIDA Cruises, Carnival Cruise Line,\u00a0...",
+      "rank_absolute": 95,
+      "rank_group": 94,
+      "result_type": "items"
+    },
+    {
+      "title": "The Top 10 Airlines Ranked By The Number Of Employees",
+      "url": "https://talkmarkets.com/content/stocks--equities/the-top-10-airlines-ranked-by-the-number-of-employees?post=407855",
+      "snippet": "Aug 18, 2023 \u2014 ... Travel Data by IdeaWorks, here are the top 10 airlines, ranked in descending order by their number of employees at the end of 2022: 10\u00a0...",
+      "rank_absolute": 96,
+      "rank_group": 95,
+      "result_type": "items"
+    },
+    {
+      "title": "Renaissance IPO ETF - Stock Price, Quote and News",
+      "url": "https://talkmarkets.com/symbol/ipo/portal-widgets/redirect/earnings",
+      "snippet": "Latest On Renaissance IPO ETF \u00b7 Business travel and expense startup Navan files for IPO in booming deal market September 19, 2025 CNBC.com \u00b7 Friday's big stock\u00a0...",
+      "rank_absolute": 97,
+      "rank_group": 96,
+      "result_type": "items"
+    },
+    {
+      "title": "EJPRY: East Japan Railway Co - Stock Price, Quote ...",
+      "url": "https://talkmarkets.com/symbol/ejpry/portal-widgets/redirect/earnings",
+      "snippet": "... travel, cleaning and maintenance, station operations, facility maintenance, railway vehicle manufacturing, and railway vehicle maintenance. The Distribution\u00a0...",
+      "rank_absolute": 98,
+      "rank_group": 97,
+      "result_type": "items"
+    },
+    {
+      "title": "Everything Economically Is Up To The Consumer",
+      "url": "https://talkmarkets.com/content/us-markets/everything-economically-is-up-to-the-consumer?post=481581",
+      "snippet": "Feb 10, 2025 \u2014 ... travel or vacation space.\u201d Stagwell Marketing Cloud. The survey fits well into the vanity or \u201cwe to me\u201d trade as 72% said they were planning\u00a0...",
+      "rank_absolute": 99,
+      "rank_group": 98,
+      "result_type": "items"
+    },
+    {
+      "title": "EJPRF: East Japan Railway Co - Stock Price, Quote and ...",
+      "url": "https://talkmarkets.com/symbol/ejprf/portal-widgets/redirect/earnings",
+      "snippet": "... travel, cleaning and maintenance, station operations, facility maintenance, railway vehicle manufacturing, and railway vehicle maintenance. The Distribution\u00a0...",
+      "rank_absolute": 100,
+      "rank_group": 99,
+      "result_type": "items"
+    }
+  ]
+}

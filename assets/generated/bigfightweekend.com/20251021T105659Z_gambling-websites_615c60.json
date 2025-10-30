@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:56:59Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "bigfightweekend.com",
+    "anchor_keyword": "gambling websites",
+    "anchor_country": "",
+    "target_url": "https://www.gamingtoday.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "From Weigh-in to Wagers: Boxing\u2019s Deep Ties to Casino Culture",
+      "rationale": "Explores the fight-week overlap between the ring and casino floors, naturally supporting a link to GamingToday for odds education, table-game bankroll tips, and responsible wagering resources."
+    },
+    {
+      "title": "Fight Night Bankrolls: Balancing Ringside Action With Casino Play",
+      "rationale": "Discusses budgeting for bets and casino sessions during big cards, justifying a link to GamingToday\u2019s bankroll guidance, odds explainers, and legal betting overviews."
+    },
+    {
+      "title": "Las Vegas Fight Weeks: Why the Ring and the Roulette Wheel Keep Meeting",
+      "rationale": "Looks at the enduring synergy between desert fight cards and casino entertainment, allowing a contextual link to GamingToday for casino game primers and fight-betting fundamentals."
+    },
+    {
+      "title": "Boxing Betting 101: Props, Parlays, and Pitfalls Ahead of Any Main Event",
+      "rationale": "Breaks down common wager types fans see on fight week and points to GamingToday for deeper tutorials, glossary terms, and jurisdictional guidance without naming operators."
+    },
+    {
+      "title": "Five Ways Combat Sports Fans Plan a Casino-Focused Fight Weekend",
+      "rationale": "Outlines itineraries that blend viewing parties with smart casino time, opening a natural path to GamingToday\u2019s strategy guides, odds insights, and responsible gambling tools."
+    }
+  ],
+  "titles_context": [
+    "How Boxers Look to Increase Legacies Through Online ...",
+    "How Combat Sports Fans Are Finding New Ways To ...",
+    "Oscar Collazo vs Jayson Vayson: stream, odds, fight card ...",
+    "Caleb Plant vs. Armando Res\u00e9ndiz: Quotes and ...",
+    "Las Vegas Boxing: Revisting Iconic Fights",
+    "Richard Torrez Jr. vs. Guido Vianello",
+    "Cache Creek Casino Hosts Another ShoBox Card on April 7",
+    "Five Boxers Who Love to Gamble",
+    "How Streaming Platforms Are Changing Boxing",
+    "Vergil Ortiz Jr. vs. Serhii Bohachuk: How to Stream, Betting ...",
+    "Vergil Ortiz Jr. vs. Serhii Bohachuk - Big Fight Weekend",
+    "Oscar Collazo vs. Jayson Vayson quotes and fight prediction ...",
+    "Richard Torrez Jr. vs. Guido Vianello: How to Stream, Betting ...",
+    "Boxing Betting: Prop Bets for Benavidez vs. Morrell on Feb. 1",
+    "Roy Jones Jr Teases Shock Return Naming Opponent",
+    "Boxing Sponsorships and Endorsements - Big Fight Weekend",
+    "Carl Froch Questions Deontay Wilder June 27 Return",
+    "Canelo Alvarez Warns William Scull Ahead of May 3",
+    "How Did the Eight-Count Rule Change Boxing Forever?",
+    "Ex-World Champion Slams Jake Paul With 3 Harsh Truths",
+    "Beterbiev vs Bivol 2: George Groves Predicts Feb. 22 Main ...",
+    "Hamzah Sheeraz vs Carlos Adames: George Groves Predicts ...",
+    "How to Stream, Odds and Fight Card for Broner vs. Cobbs",
+    "Two 154 Knockout Artists Set to Collide on Golden Boy Show",
+    "Darren Till Praises Jake Paul, Hints at Future Fight"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.gamingtoday.com/ that feel at home on bigfightweekend.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): gambling websites\n\nAnchor operates in: Unspecified\n\nReference titles:\n- How Boxers Look to Increase Legacies Through Online ...\n- How Combat Sports Fans Are Finding New Ways To ...\n- Oscar Collazo vs Jayson Vayson: stream, odds, fight card ...\n- Caleb Plant vs. Armando Res\u00e9ndiz: Quotes and ...\n- Las Vegas Boxing: Revisting Iconic Fights\n- Richard Torrez Jr. vs. Guido Vianello\n- Cache Creek Casino Hosts Another ShoBox Card on April 7\n- Five Boxers Who Love to Gamble\n- How Streaming Platforms Are Changing Boxing\n- Vergil Ortiz Jr. vs. Serhii Bohachuk: How to Stream, Betting ...\n- Vergil Ortiz Jr. vs. Serhii Bohachuk - Big Fight Weekend\n- Oscar Collazo vs. Jayson Vayson quotes and fight prediction ...\n- Richard Torrez Jr. vs. Guido Vianello: How to Stream, Betting ...\n- Boxing Betting: Prop Bets for Benavidez vs. Morrell on Feb. 1\n- Roy Jones Jr Teases Shock Return Naming Opponent\n- Boxing Sponsorships and Endorsements - Big Fight Weekend\n- Carl Froch Questions Deontay Wilder June 27 Return\n- Canelo Alvarez Warns William Scull Ahead of May 3\n- How Did the Eight-Count Rule Change Boxing Forever?\n- Ex-World Champion Slams Jake Paul With 3 Harsh Truths\n- Beterbiev vs Bivol 2: George Groves Predicts Feb. 22 Main ...\n- Hamzah Sheeraz vs Carlos Adames: George Groves Predicts ...\n- How to Stream, Odds and Fight Card for Broner vs. Cobbs\n- Two 154 Knockout Artists Set to Collide on Golden Boy Show\n- Darren Till Praises Jake Paul, Hints at Future Fight\n\nGuidance:\n1. Combine your own knowledge of bigfightweekend.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to bigfightweekend.com while naturally justifying a link to https://www.gamingtoday.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude gambling websites and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1148,
+    "completion_tokens": 861
+  },
+  "cost_usd": 0.07462
+}

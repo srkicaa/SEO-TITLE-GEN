@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:40:06Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "rakeback.com",
+    "anchor_keyword": "Nitrowin casino",
+    "anchor_country": "",
+    "target_url": "https://nitrowin.org/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Crypto-Friendly Casino Banking Explained for Players in the United States (2025)",
+      "rationale": "Fits rakeback.com\u2019s educational tone on payments and bankroll management. A natural in-text mention like \u201cplatforms such as Nitrowin casino\u201d can illustrate crypto rails and cashout flow without making promotional claims."
+    },
+    {
+      "title": "RTP vs. Volatility: How Casino Game Selection Impacts Your Bankroll in Canada",
+      "rationale": "Data-forward guide aligned with rakeback.com\u2019s strategy content. A contextual link to Nitrowin casino can appear where readers compare game libraries and test RTP/variance preferences."
+    },
+    {
+      "title": "Live Dealer Table Etiquette and Smart Seat Selection for the United Kingdom",
+      "rationale": "Practical play guidance that feels native to rakeback.com. A subtle reference to Nitrowin casino can anchor a sentence about exploring live dealer lobbies and table filters."
+    },
+    {
+      "title": "KYC, Anonymity, and Risk Controls at Online Casinos in Australia",
+      "rationale": "Compliance- and safety-focused content common on rakeback.com. A neutral mention of Nitrowin casino can support a section on account setup and privacy considerations."
+    },
+    {
+      "title": "Crash, Plinko, and Other Instant-Win Casino Games: a Strategy Primer for India",
+      "rationale": "Topical gameplay piece consistent with rakeback.com\u2019s catalog. A brief nod to Nitrowin casino works when directing readers to explore instant-win titles and pacing strategies."
+    }
+  ],
+  "titles_context": [
+    "Instant Casino Review - Games, Bonuses, and Other ...",
+    "The Best Online Casinos in Michigan",
+    "2025 Online Poker Rakeback Deals",
+    "Poker Odds vs Other Casino Games: A Deep Dive into ...",
+    "Best Bitcoin Casinos to Play at in 2025 - Crypto Betting Sites",
+    "The Thrill of Live Dealer Casinos: Your Ultimate Guide",
+    "Top 5 Online Casino Bonuses In 2022",
+    "Winning Poker Network Casino",
+    "5 Legendary Game Developers That Shaped Online ...",
+    "Lucky Block Casino Review - New Crypto Gambling Site",
+    "Here's How To Play Casino Games Anonymously",
+    "TG.Casino Review - Telegram Gambling Site",
+    "Exploring the Differences Between Social Casinos and ...",
+    "Popular Games with the Best Payouts and Player Rewards",
+    "Mega Dice Casino Review - New Crypto Gambling Site ...",
+    "Best New Poker Casinos to Choose in 2024",
+    "The Most Popular Casino Games Online: Data Reveals",
+    "Bovada Casino",
+    "Sweepstakes casinos: a guide to bonuses and gaming ...",
+    "10+ Best Crypto Crash Gambling Sites of 2025",
+    "Online Casinos in the US - Early vs. Recent-Legalizing States",
+    "High Roller Casino Review - Games, Bonuses, and Other ...",
+    "Top Casino Platform Software Providers for 2025",
+    "Using rakeback to improve casino game strategies",
+    "How to Build a Winning Strategy for Online Casino Card ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://nitrowin.org/ that feel at home on rakeback.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Nitrowin casino\n\nAnchor operates in: Unspecified. \n\nI need to have the country in the title.\n\nReference titles:\n- Instant Casino Review - Games, Bonuses, and Other ...\n- The Best Online Casinos in Michigan\n- 2025 Online Poker Rakeback Deals\n- Poker Odds vs Other Casino Games: A Deep Dive into ...\n- Best Bitcoin Casinos to Play at in 2025 - Crypto Betting Sites\n- The Thrill of Live Dealer Casinos: Your Ultimate Guide\n- Top 5 Online Casino Bonuses In 2022\n- Winning Poker Network Casino\n- 5 Legendary Game Developers That Shaped Online ...\n- Lucky Block Casino Review - New Crypto Gambling Site\n- Here's How To Play Casino Games Anonymously\n- TG.Casino Review - Telegram Gambling Site\n- Exploring the Differences Between Social Casinos and ...\n- Popular Games with the Best Payouts and Player Rewards\n- Mega Dice Casino Review - New Crypto Gambling Site ...\n- Best New Poker Casinos to Choose in 2024\n- The Most Popular Casino Games Online: Data Reveals\n- Bovada Casino\n- Sweepstakes casinos: a guide to bonuses and gaming ...\n- 10+ Best Crypto Crash Gambling Sites of 2025\n- Online Casinos in the US - Early vs. Recent-Legalizing States\n- High Roller Casino Review - Games, Bonuses, and Other ...\n- Top Casino Platform Software Providers for 2025\n- Using rakeback to improve casino game strategies\n- How to Build a Winning Strategy for Online Casino Card ...\n\nGuidance:\n1. Combine your own knowledge of rakeback.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to rakeback.com while naturally justifying a link to https://nitrowin.org/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Nitrowin casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 947,
+    "completion_tokens": 1199
+  },
+  "cost_usd": 0.09088
+}

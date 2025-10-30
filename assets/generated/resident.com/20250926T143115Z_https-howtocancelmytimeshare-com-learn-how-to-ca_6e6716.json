@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-26T14:31:15Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "resident.com",
+    "anchor_keyword": "https://howtocancelmytimeshare.com/learn/how-to-cancel-vidanta-timeshare/",
+    "anchor_country": "",
+    "target_url": "https://howtocancelmytimeshare.com/learn/how-to-cancel-vidanta-timeshare/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Rethinking Vacation Ownership: a Luxury Traveler\u2019s Guide to Flexible Alternatives",
+      "rationale": "Aligns with upscale travel content and provides context to link to a resource on exiting existing commitments without naming brands."
+    },
+    {
+      "title": "Before You Sign: What Every Jetsetter Should Know About Timeshare Contracts",
+      "rationale": "Pre-purchase education fits resident-style service journalism and allows a natural link to detailed guidance on cancellations."
+    },
+    {
+      "title": "Upgrade Your Getaway: High-End Stays Without Long\u2011term Commitments",
+      "rationale": "Showcases luxury options beyond ownership, creating a relevant spot to reference cancellation information for readers reconsidering commitments."
+    },
+    {
+      "title": "Travel Smart: How to Exit a Timeshare Responsibly and Protect Your Finances",
+      "rationale": "Direct, consumer-protective angle suited to a lifestyle audience and a clear context for linking to a step-by-step cancellation resource."
+    },
+    {
+      "title": "From Ownership to Freedom: Strategies for Simplifying Your Vacation Portfolio",
+      "rationale": "Speaks to affluent readers optimizing travel assets, offering a natural segue to expert guidance on ending unwanted obligations without brand mentions."
+    }
+  ],
+  "titles_context": [
+    "Luxury Travel 2025: Top USA Destinations for Discerning ...",
+    "Getting the Most Out of the Nightlife When You Travel",
+    "Why Travel Insurance is a Necessity for International Trips",
+    "Luxury Travel: Destinations, Experiences, and Insider Tips",
+    "AI Travel Apps: Smarter Tools for Global Travelers in 2025",
+    "Making Travel Effortless: A New Kind of Luxury",
+    "Luxury Travel: Embark on Extraordinary Journeys",
+    "Luxury Travel Essentials: How to Make Your Getaway ...",
+    "10 Ways to Enhance Your Travel Experience",
+    "Mastering Holiday Travel: Tips to Save Money and Avoid ...",
+    "Luxury Destinations: Travel Guides and Exclusive Getaways",
+    "Essential Travel Gear: Navigate Extreme Destinations Safely",
+    "Privacy-First Travel: The Rise of Effortless Anonymity",
+    "Discover the Allure of Sustainable Luxury Travel",
+    "Top 5 Luxury Travel Trends Elevating Experiences in 2024",
+    "Always Compare Multiple Sites Before Booking Travel ...",
+    "Luxury Travel Apps: Curated Experiences for Seamless ...",
+    "Do You Really Need Cruise Travel Insurance?",
+    "How Technology Is Revolutionizing Luxury Travel Planning",
+    "Your Ultimate September Travel Guide: Luxe Destinations ...",
+    "Travel Games: Top Free Picks for Airports and Hotels",
+    "How AI Is Revolutionizing Luxury Travel Experiences",
+    "Luxury Travel Redefined: Safety and Security as the ...",
+    "Top 10 Hawaiian Sports Events: Luxury Travel 2025\u20132026",
+    "Digital Privacy: The New Luxury in Modern Travel"
+  ],
+  "prompt_text": "You are drafting 5 potential article titles for resident.com.\nThey should make sense for linking to https://howtocancelmytimeshare.com/learn/how-to-cancel-vidanta-timeshare/.\nAnchor keyword to use only if it fits in surrounding copy, never inside the title itself: https://howtocancelmytimeshare.com/learn/how-to-cancel-vidanta-timeshare/.\nBlend what you already know about resident.com's content with the SERP list to stay on-brand.\nAnchor operates in: Unspecified.\nUse any locale cues from the prompt or your knowledge of resident.com; when Unspecified is relevant, acknowledge it without adding brand names.\nNever mention resident.com, https://howtocancelmytimeshare.com/learn/how-to-cancel-vidanta-timeshare/, or any casino/operator brand name inside a title, and avoid review-style phrasing.\nSearch context keyword: travel.\nReference titles:\n- Luxury Travel 2025: Top USA Destinations for Discerning ...\n- Getting the Most Out of the Nightlife When You Travel\n- Why Travel Insurance is a Necessity for International Trips\n- Luxury Travel: Destinations, Experiences, and Insider Tips\n- AI Travel Apps: Smarter Tools for Global Travelers in 2025\n- Making Travel Effortless: A New Kind of Luxury\n- Luxury Travel: Embark on Extraordinary Journeys\n- Luxury Travel Essentials: How to Make Your Getaway ...\n- 10 Ways to Enhance Your Travel Experience\n- Mastering Holiday Travel: Tips to Save Money and Avoid ...\n- Luxury Destinations: Travel Guides and Exclusive Getaways\n- Essential Travel Gear: Navigate Extreme Destinations Safely\n- Privacy-First Travel: The Rise of Effortless Anonymity\n- Discover the Allure of Sustainable Luxury Travel\n- Top 5 Luxury Travel Trends Elevating Experiences in 2024\n- Always Compare Multiple Sites Before Booking Travel ...\n- Luxury Travel Apps: Curated Experiences for Seamless ...\n- Do You Really Need Cruise Travel Insurance?\n- How Technology Is Revolutionizing Luxury Travel Planning\n- Your Ultimate September Travel Guide: Luxe Destinations ...\n- Travel Games: Top Free Picks for Airports and Hotels\n- How AI Is Revolutionizing Luxury Travel Experiences\n- Luxury Travel Redefined: Safety and Security as the ...\n- Top 10 Hawaiian Sports Events: Luxury Travel 2025\u20132026\n- Digital Privacy: The New Luxury in Modern Travel\n\n",
+  "usage": {
+    "prompt_tokens": 905,
+    "completion_tokens": 682
+  },
+  "cost_usd": 0.05902
+}

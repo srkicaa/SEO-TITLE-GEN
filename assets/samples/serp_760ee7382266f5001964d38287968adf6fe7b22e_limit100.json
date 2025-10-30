@@ -1,0 +1,56 @@
+{
+  "mode": "live",
+  "task_id": "09231349-4117-0121-0000-806bd5c6b031",
+  "query": "site:eurojackpotarvonta.fi kasinot",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Mill\u00e4 Maksutavoilla Eurojackpotin Pelaaminen Onnistuu?",
+      "url": "https://eurojackpotarvonta.fi/uutiset/milla-maksutavoilla-eurojackpotin-pelaaminen-onnistuu/",
+      "snippet": "Aug 13, 2025 \u2014 Kasinot netiss\u00e4 hyv\u00e4ksyv\u00e4t my\u00f6s muita maksutapoja ... Eurojackpot pelaaminen onnistuu vain kahdella eri maksutavalla, eik\u00e4 muita vaihtoehtoja ole.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Mist\u00e4 Lotoista Voittaa Eniten? - EuroJackpotArvonta",
+      "url": "https://eurojackpotarvonta.fi/uutiset/mista-lotoista-voittaa-eniten/",
+      "snippet": "Jul 22, 2025 \u2014 Powerball pit\u00e4\u00e4 hallussaan enn\u00e4tyksi\u00e4 \u00b7 Mega Millions on toinen Yhdysvaltojen suurista lotoista \u00b7 SuperEnalotto jakanut Euroopan suurimman potin.",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Jackpot-Faneille: Pelaa N\u00e4it\u00e4 Bonusosto Slottipelej\u00e4",
+      "url": "https://eurojackpotarvonta.fi/uutiset/jackpot-faneille-pelaa-naita-bonusosto-slottipeleja/",
+      "snippet": "Jul 7, 2025 \u2014 Jackpot-slotit eroavat tavallisista kolikkopeleist\u00e4 erityisesti siin\u00e4, ett\u00e4 ne tarjoavat mahdollisuuden voittaa progressiivisen j\u00e4ttipotin.",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Uhkapelaajan Muistilista: Huomioi N\u00e4m\u00e4 Asiat Ennen Kuin Pelaat ...",
+      "url": "https://eurojackpotarvonta.fi/uutiset/uhkapelaajan-muistilista-huomioi-nama-asiat-ennen-kuin-pelaat/",
+      "snippet": "Lisenssi on helppo tarkistaa kasinon sivujen alareunasta. Se kannattaakin tehd\u00e4 ensimm\u00e4isen\u00e4, ja suosia Euroopan maiden viranomaisten lisensoimia pelisivustoja.",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Parhaat J\u00e4ttipottipelit Eurojackpotin Lis\u00e4ksi",
+      "url": "https://eurojackpotarvonta.fi/uutiset/parhaat-jattipottipelit-eurojackpotin-lisaksi/",
+      "snippet": "Aug 7, 2025 \u2014 Parhaat Brite kasinot kuitenkin ovat t\u00e4ynn\u00e4 toinen toistaan hauskempia pelej\u00e4, joiden korkeimmat voitot voivat kohta varsin kohtuullisiksi.",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "Perjantaina Jaossa Huimat 72 Miljoonaa - Eurojackpot Tulokset",
+      "url": "https://eurojackpotarvonta.fi/uutiset/eurojackpot-jatkaa-kasvuaan-perjantaina-jaossa-huimat-72-miljoonaa-e/",
+      "snippet": "Jul 15, 2025 \u2014 EuroJackpot on monikansallinen peli, jota pelataan yli 15 maassa. Joka viikko arvotaan viisi p\u00e4\u00e4numeroa ja kaksi t\u00e4htinumeroa, ja vaikka voitto\u00a0...",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    }
+  ]
+}

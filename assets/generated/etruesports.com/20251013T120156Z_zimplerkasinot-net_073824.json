@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-13T12:01:56Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "etruesports.com",
+    "anchor_keyword": "zimplerkasinot.net",
+    "anchor_country": "Finland",
+    "target_url": "https://zimplerkasinot.net/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "From the Rink to the Reels: Why Finnish Sports Fans Are Turning to Fast\u2011deposit Casino Sites",
+      "rationale": "Targets eTrueSports readers who follow Finnish hockey/football and sample casino games; links naturally to zimplerkasinot.net for Finnish\u2011language guidance on fast banking options and compliant operators."
+    },
+    {
+      "title": "Finland\u2019s Online Casino Banking Checklist: Safe Deposits, Swift Withdrawals, and Strong ID",
+      "rationale": "Practical, non\u2011promo service piece for a sports audience; zimplerkasinot.net can provide localized comparisons of payment flows, KYC, and fees relevant to Finnish players."
+    },
+    {
+      "title": "Off\u2011season Entertainment: Live Dealer or Slots? a Finland\u2011focused Decision Guide",
+      "rationale": "Fits eTrueSports\u2019 crossover content on alternatives to betting; zimplerkasinot.net offers Finnish insights on game formats, table limits, and RTP info to inform choices."
+    },
+    {
+      "title": "Mobile\u2011first Casino Play in Finland: How Instant Bank Transfers Change the Game",
+      "rationale": "Tech and UX angle suits eTrueSports readers; zimplerkasinot.net can supply up\u2011to\u2011date Finnish options for instant transfers, limits, and verification steps."
+    },
+    {
+      "title": "Bankroll Basics for 2025: Simple Limit\u2011setting Rules Finnish Players Actually Use",
+      "rationale": "Responsible\u2011play framing aligns with editorial standards; zimplerkasinot.net adds local context on deposit caps, session tools, and payment method constraints in Finland."
+    }
+  ],
+  "titles_context": [
+    "Juwa: A Modern Take on Classic Casino Games with ...",
+    "10 Modern Online Casinos in 2025: WooCasino Among ...",
+    "Exciting Slot Themes at Wazamba casino in 2025",
+    "3 Trusted Casino Comparisons Sites For Finding Live ...",
+    "Expert Tips To Find The Right Online Casino For You",
+    "eTrueSports: Home",
+    "Why Fortune Wheelz Casino Is Ideal for Casual Gamblers ...",
+    "5 Games to Play at Hellspin Casino",
+    "Alternatives to Sports Betting? Casino Games on the Rise",
+    "The Most Popular Sports for Betting in Online Casinos and ...",
+    "Pinco Casino Security Measures: Your Data is Safe with Us",
+    "How Do Online Casino Scratch Cards Work?",
+    "How Can You Verify the Legitimacy of a Crypto Casino ...",
+    "How to Play Roulette at the Perfect Online Casino NZ",
+    "Casinos That Accept Crypto for 2025: Safe, Fast, and Exciting",
+    "Stay Casino Canada - Detailed Analysis of the Online Casino",
+    "The Most Popular Casino Games Among Celebrities",
+    "Ultimate Table Games to Try at 1xBet Casino",
+    "Maximizing ROI with the Right Online Casino Software ...",
+    "7 Casino-Themed Movies from the '80s Every Fan Should ...",
+    "How Online Casino Sites are Betting Big by Making Their ...",
+    "How Casino Bonuses Influence Player Strategy in Online ...",
+    "Explore Mostbet CZ \u2013 Bonuses, Casino Games and Sports ...",
+    "The Online Casino Games Loved by Aussies: From Pokies ...",
+    "Exploring the Different Variants of Blackjack in Online ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://zimplerkasinot.net/ that feel at home on etruesports.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): zimplerkasinot.net\n\nAnchor operates in: Finland\n\nReference titles:\n- Juwa: A Modern Take on Classic Casino Games with ...\n- 10 Modern Online Casinos in 2025: WooCasino Among ...\n- Exciting Slot Themes at Wazamba casino in 2025\n- 3 Trusted Casino Comparisons Sites For Finding Live ...\n- Expert Tips To Find The Right Online Casino For You\n- eTrueSports: Home\n- Why Fortune Wheelz Casino Is Ideal for Casual Gamblers ...\n- 5 Games to Play at Hellspin Casino\n- Alternatives to Sports Betting? Casino Games on the Rise\n- The Most Popular Sports for Betting in Online Casinos and ...\n- Pinco Casino Security Measures: Your Data is Safe with Us\n- How Do Online Casino Scratch Cards Work?\n- How Can You Verify the Legitimacy of a Crypto Casino ...\n- How to Play Roulette at the Perfect Online Casino NZ\n- Casinos That Accept Crypto for 2025: Safe, Fast, and Exciting\n- Stay Casino Canada - Detailed Analysis of the Online Casino\n- The Most Popular Casino Games Among Celebrities\n- Ultimate Table Games to Try at 1xBet Casino\n- Maximizing ROI with the Right Online Casino Software ...\n- 7 Casino-Themed Movies from the '80s Every Fan Should ...\n- How Online Casino Sites are Betting Big by Making Their ...\n- How Casino Bonuses Influence Player Strategy in Online ...\n- Explore Mostbet CZ \u2013 Bonuses, Casino Games and Sports ...\n- The Online Casino Games Loved by Aussies: From Pokies ...\n- Exploring the Different Variants of Blackjack in Online ...\n\nGuidance:\n1. Combine your own knowledge of etruesports.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to etruesports.com while naturally justifying a link to https://zimplerkasinot.net/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude zimplerkasinot.net and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Finland where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1029,
+    "completion_tokens": 955
+  },
+  "cost_usd": 0.07788
+}

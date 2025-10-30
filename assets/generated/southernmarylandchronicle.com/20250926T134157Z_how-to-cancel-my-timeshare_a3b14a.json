@@ -1,0 +1,81 @@
+{
+  "created_at": "2025-09-26T13:41:57Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "southernmarylandchronicle.com",
+    "anchor_keyword": "how to cancel my timeshare",
+    "anchor_country": "",
+    "target_url": "https://howtocancelmytimeshare.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Before You Book Ocean City, Read the Fine Print: What Southern Maryland Travelers Should Know About Timeshares",
+      "rationale": "Fits SMC\u2019s Maryland travel beat with seasonal trips to Ocean City; article can include consumer guidance and a natural in-text link to a resource explaining how to exit an unwanted timeshare if plans change."
+    },
+    {
+      "title": "Spring Road Trips from St. Mary\u2019s and Calvert: Affordable Alternatives to Long\u2011term Vacation Contracts",
+      "rationale": "Matches local road\u2011trip content and cost\u2011saving angles; supports an in-article mention of a reputable guide on canceling a vacation ownership agreement for readers weighing options."
+    },
+    {
+      "title": "Maryland Holiday Travel Outlook: Avoiding High\u2011pressure Vacation Sales While You\u2019re on the Go",
+      "rationale": "Aligns with SMC\u2019s holiday travel advisories; allows a contextual link within advice on steering clear of aggressive pitches and where to learn about canceling a timeshare purchased under pressure."
+    },
+    {
+      "title": "Planning a Chesapeake Bay Getaway? Budget, Parking, and Lodging Pitfalls Southern Maryland Residents Should Dodge",
+      "rationale": "Regional service piece in SMC style; can naturally reference a resource that explains the risks of long-term lodging commitments and how to cancel a timeshare if one was signed hastily."
+    },
+    {
+      "title": "Passport Delays, Route Changes, and Last\u2011minute Plans: When a Resort Agreement No Longer Works for Your Trip",
+      "rationale": "Ties into SMC\u2019s coverage of passports and travel logistics; supports a helpful link in the body to guidance on options for exiting a timeshare when circumstances change."
+    }
+  ],
+  "titles_context": [
+    "Maryland Tourism Guide Features St. Mary's Historic Sites",
+    "Travel Archives",
+    "Labor Day Travel Maryland: Cheaper Trips, Busy Roads ...",
+    "Record-Breaking July 4th Travel Forecast by AAA",
+    "The Three Best Road Trips in Maryland and the Two ...",
+    "Maryland Braces for Memorial Day Travel Surge",
+    "Solomons MD USPS Passport Fair Announced",
+    "Maryland Thanksgiving Travel Slightly Up, Still Below 2019 Levels",
+    "How Tourism Boosts the Economy in Southern Maryland",
+    "AAA travel bookings on the rise",
+    "MDOT Plans US 50 Ramp Closures for Summer Travel",
+    "Hazardous Travel Expected as Snow Arrives in St. Mary's, ...",
+    "Maryland Thanksgiving Travel Nears Pre-Pandemic Levels",
+    "Basic Things You Should Know When Traveling Through ...",
+    "Traffic Archives",
+    "Hyatt Highlights 8 Must-Visit Vacation Spots",
+    "Record Number of Americans Expected to Travel for ...",
+    "Top Places You Can Go In Maryland this Summer",
+    "Prep Your Car for Summer, AAA Advises",
+    "Hazardous Travel Expected as Winter Storm Kingston ...",
+    "AAA Mid-Atlantic, Author at The Southern Maryland Chronicle",
+    "FOX 5's Zip Trip to Broadcast Live from Leonardtown Square",
+    "Stanley Recalls 2.6 Million Travel Mugs Due to Burn Hazard",
+    "More than 1 million Marylanders expected to travel over ...",
+    "CSM Travels North for Cecil Matchup",
+    "Celebrating a Decade: Fox 5's Zip Trip Returns to SoMD ...",
+    "Maryland State Police Step Up Holiday Road Safety Patrols",
+    "MVA,Airports Remind Travelers about Federal Real ID ...",
+    "Annapolis Symphony Orchestra Signs New 3-Year Contract",
+    "Heavy Snow and Hazardous Roads Forecast for Southern ...",
+    "Voting Reforms Mirror REAL ID Rollout Struggles",
+    "Traffic Alert: MD 4 Bridge Inspection Begins Monday Night",
+    "Tracking air travel: See how many people are flying this ...",
+    "LIFTED: St. Mary's County Implements Snow Emergency ...",
+    "La Plata Child's Make-A-Wish Trip Announced at D.C. ...",
+    "SoMD Weather for Tuesday, January 7, 2025",
+    "If Traveling Maryland Toll Roads This Thanksgiving, Put ...",
+    "Maryland State Police Boost Patrols for Thanksgiving Travel",
+    "Passport Processing Delays Disrupting Travel Plans"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://howtocancelmytimeshare.com/ that feel at home on southernmarylandchronicle.com.\n\nReference SERP keyword: travel\nAnchor keyword (use only if natural): how to cancel my timeshare\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Maryland Tourism Guide Features St. Mary's Historic Sites\n- Travel Archives\n- Labor Day Travel Maryland: Cheaper Trips, Busy Roads ...\n- Record-Breaking July 4th Travel Forecast by AAA\n- The Three Best Road Trips in Maryland and the Two ...\n- Maryland Braces for Memorial Day Travel Surge\n- Solomons MD USPS Passport Fair Announced\n- Maryland Thanksgiving Travel Slightly Up, Still Below 2019 Levels\n- How Tourism Boosts the Economy in Southern Maryland\n- AAA travel bookings on the rise\n- MDOT Plans US 50 Ramp Closures for Summer Travel\n- Hazardous Travel Expected as Snow Arrives in St. Mary's, ...\n- Maryland Thanksgiving Travel Nears Pre-Pandemic Levels\n- Basic Things You Should Know When Traveling Through ...\n- Traffic Archives\n- Hyatt Highlights 8 Must-Visit Vacation Spots\n- Record Number of Americans Expected to Travel for ...\n- Top Places You Can Go In Maryland this Summer\n- Prep Your Car for Summer, AAA Advises\n- Hazardous Travel Expected as Winter Storm Kingston ...\n- AAA Mid-Atlantic, Author at The Southern Maryland Chronicle\n- FOX 5's Zip Trip to Broadcast Live from Leonardtown Square\n- Stanley Recalls 2.6 Million Travel Mugs Due to Burn Hazard\n- More than 1 million Marylanders expected to travel over ...\n- CSM Travels North for Cecil Matchup\n- Celebrating a Decade: Fox 5's Zip Trip Returns to SoMD ...\n- Maryland State Police Step Up Holiday Road Safety Patrols\n- MVA,Airports Remind Travelers about Federal Real ID ...\n- Annapolis Symphony Orchestra Signs New 3-Year Contract\n- Heavy Snow and Hazardous Roads Forecast for Southern ...\n- Voting Reforms Mirror REAL ID Rollout Struggles\n- Traffic Alert: MD 4 Bridge Inspection Begins Monday Night\n- Tracking air travel: See how many people are flying this ...\n- LIFTED: St. Mary's County Implements Snow Emergency ...\n- La Plata Child's Make-A-Wish Trip Announced at D.C. ...\n- SoMD Weather for Tuesday, January 7, 2025\n- If Traveling Maryland Toll Roads This Thanksgiving, Put ...\n- Maryland State Police Boost Patrols for Thanksgiving Travel\n- Passport Processing Delays Disrupting Travel Plans\n\nGuidance:\n1. Combine your own knowledge of southernmarylandchronicle.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to southernmarylandchronicle.com while naturally justifying a link to https://howtocancelmytimeshare.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude how to cancel my timeshare and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1351,
+    "completion_tokens": 717
+  },
+  "cost_usd": 0.07004
+}

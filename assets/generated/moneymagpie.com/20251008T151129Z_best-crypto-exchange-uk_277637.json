@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-08T15:11:29Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "moneymagpie.com",
+    "anchor_keyword": "best crypto exchange uk",
+    "anchor_country": "",
+    "target_url": "https://sterling-savvy.co.uk/en/cryptocurrency/best-crypto-exchange-uk/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Choosing a Crypto Platform in the UK: Fees, Safety and FCA Registration Explained",
+      "rationale": "Fits MoneyMagpie\u2019s practical, consumer-first tone by demystifying platform selection. Naturally links to the external resource when advising readers to compare UK platforms; the body copy can use the anchor phrase in context to direct readers to a vetted overview."
+    },
+    {
+      "title": "The Hidden Costs of Buying Crypto in the UK (and How to Avoid Them)",
+      "rationale": "Money-saving angle aligns with MoneyMagpie. A section on comparing platform fees, spreads and withdrawal charges can point readers to an up-to-date UK platform comparison, using the anchor text naturally within the copy."
+    },
+    {
+      "title": "A Beginner\u2019s UK Checklist Before You Buy Your First Crypto",
+      "rationale": "Checklist format matches site style and encourages actionable steps. One item is to choose an FCA-registered platform; that step can link to the UK-focused comparison guide using the anchor phrase in-line."
+    },
+    {
+      "title": "Pound\u2011cost Averaging With Crypto: Start Small from \u00a310 a Week",
+      "rationale": "Budget-friendly, low-risk framing suits MoneyMagpie readers. When explaining how to set up recurring buys, the article can direct readers to compare UK platforms that offer this feature, using the anchor text naturally in the supporting paragraph."
+    },
+    {
+      "title": "UK Crypto Tax Basics for 2025: Records, Allowances and Common Pitfalls",
+      "rationale": "Tax guidance is a staple for MoneyMagpie. A section on clean record-keeping and compliant platforms can reference a UK exchange comparison as a practical next step, weaving the anchor term into the explanatory copy without using it in the title."
+    }
+  ],
+  "titles_context": [
+    "Bitcoin vs Gold: What are the Differences in a Long-Term ...",
+    "Getting Started in Crypto: A Complete Guide",
+    "Bitcoin and Crypto",
+    "How Much Crypto Should You Have in a Diversified ...",
+    "5 Crypto Coins I'm Watching in 2025 (And How to Buy ...",
+    "Buying Items With Crypto: Does it Save You Money?",
+    "What I Wish I Knew Before Buying My First Bitcoin",
+    "9 Ways to Make Money (And Lose It!) With Crypto in 2025",
+    "Understanding Web3 and the role Crypto Could Play in ...",
+    "When Is The Right Time to Buy Crypto?",
+    "The Ethereum Boom No One Talks About",
+    "Everything You Need to Know About Dogecoin in 2025 ...",
+    "Making Your Crypto Useful: How to Spend, Send and Save ...",
+    "Making Your First Crypto Investment: A Beginner's Guide to ...",
+    "Buy Crypto with Professional Support via an OTC desk",
+    "How to Safely Buy Crypto in Singapore: A Starter's Guide ...",
+    "How to Passively Grow your Crypto Portfolio Through ...",
+    "Crypto Survey",
+    "Three Crypto Tax Mistakes That Could Cost You in 2025",
+    "Understanding Bitcoin: Why This Crypto has Limited Supply",
+    "What are Crypto Whales and How Do They Generate Such ...",
+    "Everything You Need to Know About Crypto ETNs as a UK ...",
+    "What is a Cryptocurrency Exchange and How Do Investors ...",
+    "How to Set Up a Recurring Bitcoin Investment (From \u00a310 ...",
+    "What Makes Crypto Go Up and Down?"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://sterling-savvy.co.uk/en/cryptocurrency/best-crypto-exchange-uk/ that feel at home on moneymagpie.com.\n\nReference SERP keyword: crypto\nAnchor keyword (use only if natural): best crypto exchange uk\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Bitcoin vs Gold: What are the Differences in a Long-Term ...\n- Getting Started in Crypto: A Complete Guide\n- Bitcoin and Crypto\n- How Much Crypto Should You Have in a Diversified ...\n- 5 Crypto Coins I'm Watching in 2025 (And How to Buy ...\n- Buying Items With Crypto: Does it Save You Money?\n- What I Wish I Knew Before Buying My First Bitcoin\n- 9 Ways to Make Money (And Lose It!) With Crypto in 2025\n- Understanding Web3 and the role Crypto Could Play in ...\n- When Is The Right Time to Buy Crypto?\n- The Ethereum Boom No One Talks About\n- Everything You Need to Know About Dogecoin in 2025 ...\n- Making Your Crypto Useful: How to Spend, Send and Save ...\n- Making Your First Crypto Investment: A Beginner's Guide to ...\n- Buy Crypto with Professional Support via an OTC desk\n- How to Safely Buy Crypto in Singapore: A Starter's Guide ...\n- How to Passively Grow your Crypto Portfolio Through ...\n- Crypto Survey\n- Three Crypto Tax Mistakes That Could Cost You in 2025\n- Understanding Bitcoin: Why This Crypto has Limited Supply\n- What are Crypto Whales and How Do They Generate Such ...\n- Everything You Need to Know About Crypto ETNs as a UK ...\n- What is a Cryptocurrency Exchange and How Do Investors ...\n- How to Set Up a Recurring Bitcoin Investment (From \u00a310 ...\n- What Makes Crypto Go Up and Down?\n\nGuidance:\n1. Combine your own knowledge of moneymagpie.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to moneymagpie.com while naturally justifying a link to https://sterling-savvy.co.uk/en/cryptocurrency/best-crypto-exchange-uk/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude best crypto exchange uk and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1171,
+    "completion_tokens": 1756
+  },
+  "cost_usd": 0.12878
+}

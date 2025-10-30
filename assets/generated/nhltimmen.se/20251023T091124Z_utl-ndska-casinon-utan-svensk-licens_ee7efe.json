@@ -1,0 +1,46 @@
+{
+  "created_at": "2025-10-23T09:11:24Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "nhltimmen.se",
+    "anchor_keyword": "Utl\u00e4ndska casinon utan svensk licens",
+    "anchor_country": "",
+    "target_url": "https://www.umamicart.com/sv/casino/utan-svensk-licens/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Sannolikhet I Hockey: Vad Xg, Skottkvalitet Och Boxplay L\u00e4r Oss Om Risk",
+      "rationale": "Knuten till NHLtimmen.se:s analytics-fokus och skapar en naturlig bro till spelansvar. En l\u00e4nk till en resurs som f\u00f6rklarar internationella spelregler och licenser kan ge l\u00e4saren kontext n\u00e4r sannolikhet \u00f6verf\u00f6rs fr\u00e5n isen till betting."
+    },
+    {
+      "title": "Inf\u00f6r Bortaresan: NHL-St\u00e4dernas Sportkultur Och Underh\u00e5llning Utanf\u00f6r Rinken",
+      "rationale": "Reseguide-vinkel som passar sajtens NHL-intresse. En diskret l\u00e4nk till f\u00f6rdjupning om hur spelmilj\u00f6er och licensregler fungerar utomlands hj\u00e4lper resande fans f\u00f6rst\u00e5 vad som g\u00e4ller vid underh\u00e5llning bortom matchen."
+    },
+    {
+      "title": "Spelansvar F\u00f6r Hockeyfans: S\u00e4tt Gr\u00e4nser N\u00e4r Oddsen Lockar Under 82 Matcher",
+      "rationale": "Ansvarsfullt spelande i s\u00e4songens tempo \u00e4r relevant f\u00f6r l\u00e4sare som f\u00f6ljer NHL dagligen. En informativ l\u00e4nk om licenssystem, sj\u00e4lvavst\u00e4ngning och skillnader mellan svenska och utl\u00e4ndska plattformar f\u00f6rdjupar \u00e4mnet."
+    },
+    {
+      "title": "Sportsbetting Och Regelverk: S\u00e5 P\u00e5verkar Svenska Och Internationella Regler Fansen",
+      "rationale": "Regelguide som knyter an till svensk kontext och internationellt NHL-intresse. En l\u00e4nk som f\u00f6rklarar hur licensiering, skatter och spelarskydd skiljer sig mellan marknader tillf\u00f6r trov\u00e4rdig bakgrund."
+    },
+    {
+      "title": "Fr\u00e5n Powerplay Till Bankroll: Strategiskt T\u00e4nk Som H\u00e5ller \u00f6Ver En Hel NHL-S\u00e4song",
+      "rationale": "Strategitema som k\u00e4nns hemma p\u00e5 en hockeysajt. En saklig l\u00e4nk om verktyg, ins\u00e4ttningsgr\u00e4nser och skillnader mellan licensierade respektive olicensierade alternativ ger l\u00e4saren extra v\u00e4rde utan att bli s\u00e4ljig."
+    }
+  ],
+  "titles_context": [
+    "NHL 2024\u20132025: En Sp\u00e4nnande S\u00e4song i Full G\u00e5ng",
+    "Vegas Golden Knights - fr\u00e5n \u00f6kenstad till hockeyframg\u00e5ng",
+    "S\u00e5 fungerar ishockey: Regler, taktik och spelets hemligheter ...",
+    "NHLtimmen.se - Hockey med fokus p\u00e5 NHL (och lite SHL!)"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.umamicart.com/sv/casino/utan-svensk-licens/ that feel at home on nhltimmen.se.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Utl\u00e4ndska casinon utan svensk licens\n\nAnchor operates in: Unspecified\n\nReference titles:\n- NHL 2024\u20132025: En Sp\u00e4nnande S\u00e4song i Full G\u00e5ng\n- Vegas Golden Knights - fr\u00e5n \u00f6kenstad till hockeyframg\u00e5ng\n- S\u00e5 fungerar ishockey: Regler, taktik och spelets hemligheter ...\n- NHLtimmen.se - Hockey med fokus p\u00e5 NHL (och lite SHL!)\n\nGuidance:\n1. Combine your own knowledge of nhltimmen.se's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to nhltimmen.se while naturally justifying a link to https://www.umamicart.com/sv/casino/utan-svensk-licens/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Utl\u00e4ndska casinon utan svensk licens and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 575,
+    "completion_tokens": 1208
+  },
+  "cost_usd": 0.08398
+}

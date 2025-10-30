@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:34:38Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "worldcasinodirectory.com",
+    "anchor_keyword": "Infiniza Casinos",
+    "anchor_country": "Sweden",
+    "target_url": "https://infiniza-casinos.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Sweden Casinos & Gambling",
+      "rationale": "Fits WCD\u2019s country hub format. A contextual link using the anchor \u201cInfiniza Casinos\u201d can direct readers to details on Sweden-facing sites operated under that group, complementing licensing and regional play information."
+    },
+    {
+      "title": "Casino Openings - Sweden",
+      "rationale": "Mirrors WCD\u2019s openings taxonomy. Linking with the anchor \u201cInfiniza Casinos\u201d provides readers with a current roster of Swedish-available options and launch context alongside project timelines."
+    },
+    {
+      "title": "Which Casino Games Are the Easiest to Win? Sweden Edition",
+      "rationale": "Aligns with WCD\u2019s educational style. A natural \u201cInfiniza Casinos\u201d anchor can point to Sweden-relevant operators and game libraries, helping readers map theory to available titles in the market."
+    },
+    {
+      "title": "Slots in Sweden: RTP, Volatility, and Playstyles",
+      "rationale": "Matches WCD\u2019s topic pages on slots. The anchor \u201cInfiniza Casinos\u201d can guide users to Sweden-accessible platforms where those slot mechanics and categories are represented."
+    },
+    {
+      "title": "World Casino News: Sweden Market Updates",
+      "rationale": "Consistent with WCD\u2019s news framing. A link with the anchor \u201cInfiniza Casinos\u201d adds timely, operator-portfolio context for Sweden, supporting readers tracking changes in offerings and regulations."
+    }
+  ],
+  "titles_context": [
+    "World Casino Directory - Casino Guide and Gambling ...",
+    "United States Casinos & Gambling",
+    "World's newest casinos in 2025, grand opening ...",
+    "Silver Creek Casino at Hilton Garden Inn Missoula",
+    "Elk Creek Kiowa Casino - Hobart",
+    "Elwha River Casino",
+    "Which Casino Games Are the Easiest to Win? A Guide ...",
+    "Magic Diamond Casino at Red Lion Hotel",
+    "World Casino News",
+    "Macau Casino - Lakewood",
+    "Montana Lil's Casino Grand Ave",
+    "Casino Openings - World Casino News",
+    "Slots",
+    "Casino Caribbean - Kirkland",
+    "Definitions of slot machine related terminology & lingo",
+    "Jackpot Nevada Casino",
+    "U.S.A.",
+    "Casino Project Updates",
+    "Jackpot Casino Bozeman",
+    "Oregon Casinos & Gambling in Oregon",
+    "Caesars Launches Horseshoe Online Casino for ...",
+    "Silver Dollar Casino Seatac",
+    "Par-A-Dice Hotel Casino",
+    "Crazy Moose Casino Pasco",
+    "FanDuel Casino Partners with Lady Luck HQ to Expand ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://infiniza-casinos.com/ that feel at home on worldcasinodirectory.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Infiniza Casinos\n\nAnchor operates in: Sweden. \n\nI need to have the country in the title.\n\nReference titles:\n- World Casino Directory - Casino Guide and Gambling ...\n- United States Casinos & Gambling\n- World's newest casinos in 2025, grand opening ...\n- Silver Creek Casino at Hilton Garden Inn Missoula\n- Elk Creek Kiowa Casino - Hobart\n- Elwha River Casino\n- Which Casino Games Are the Easiest to Win? A Guide ...\n- Magic Diamond Casino at Red Lion Hotel\n- World Casino News\n- Macau Casino - Lakewood\n- Montana Lil's Casino Grand Ave\n- Casino Openings - World Casino News\n- Slots\n- Casino Caribbean - Kirkland\n- Definitions of slot machine related terminology & lingo\n- Jackpot Nevada Casino\n- U.S.A.\n- Casino Project Updates\n- Jackpot Casino Bozeman\n- Oregon Casinos & Gambling in Oregon\n- Caesars Launches Horseshoe Online Casino for ...\n- Silver Dollar Casino Seatac\n- Par-A-Dice Hotel Casino\n- Crazy Moose Casino Pasco\n- FanDuel Casino Partners with Lady Luck HQ to Expand ...\n\nGuidance:\n1. Combine your own knowledge of worldcasinodirectory.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to worldcasinodirectory.com while naturally justifying a link to https://infiniza-casinos.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Infiniza Casinos and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Sweden where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 806,
+    "completion_tokens": 923
+  },
+  "cost_usd": 0.0715
+}

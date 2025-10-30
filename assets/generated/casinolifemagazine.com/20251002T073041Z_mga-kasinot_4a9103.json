@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-02T07:30:41Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "casinolifemagazine.com",
+    "anchor_keyword": "mga kasinot",
+    "anchor_country": "",
+    "target_url": "https://mgacasino.fi/mga-kasinot/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "EU Licensing 101: Why Malta\u2019s Framework Shapes Safer Online Play",
+      "rationale": "Educational feature suited to CLM\u2019s guide-style pieces; links naturally to a Finnish explainer of Malta-licensed options for readers seeking deeper compliance context (anchor used in body as appropriate)."
+    },
+    {
+      "title": "Player Protection Checklists for Nordic Online Gambling",
+      "rationale": "Regional angle nods to Finland/Nordics and CLM\u2019s safety content; outbound link supports readers with a Finland-based resource covering Malta-licensed sites and safeguards."
+    },
+    {
+      "title": "From RNG Audits to Dispute Mediation: What Regulated Casinos Must Deliver",
+      "rationale": "Industry-focused breakdown aligns with CLM\u2019s operational coverage; external link provides a concrete overview of EU/Malta standards for players researching compliant platforms."
+    },
+    {
+      "title": "Choosing International Casino Sites: Signals of Trust Beyond Your Borders",
+      "rationale": "Cross-border selection guide fits CLM\u2019s global readership; Finnish resource gives practical next steps on identifying Malta-licensed operators with consumer protections."
+    },
+    {
+      "title": "Responsible Bankroll Tools You Should Expect from Modern Casino Platforms",
+      "rationale": "Responsible gaming angle mirrors CLM\u2019s practical advice pieces; link adds depth on the limit-setting and self-exclusion features commonly mandated by Malta\u2019s regime for Finnish readers."
+    }
+  ],
+  "titles_context": [
+    "The 6 Most Popular Online Casino Games",
+    "10 facts you probably didn't know about casinos",
+    "Upcoming Casino & Gambling Events | Casino Conferences",
+    "Desert Diamond Casino White Tanks Shines Bright in the ...",
+    "The Essential Guide to Navigating US Online Casinos",
+    "Casino Life Magazine",
+    "Social Casinos vs. Real Money Casinos",
+    "How to Efficiently Manage a Budget in Casinos",
+    "Tips and ideas to find the right casino game for you!",
+    "New Casinos Entering the US Market",
+    "Do Online Casinos Track Your Winnings?",
+    "Understanding How Live Casinos Work",
+    "Meet the team",
+    "5 Things to Consider When Choosing a Casino App ...",
+    "Crash Games for Beginners: The Basics of Crash Gambling",
+    "How to Spot a Reliable Online Casino: Tips for Safe Betting",
+    "Daily Newsletter Sign Up for Casino and Gaming News",
+    "The Pros and Cons of Online vs. Land-Based Blackjack",
+    "The Top Three Most Trusted Online Casinos in the US",
+    "Blog",
+    "The Rise of Independent Casinos Online",
+    "A Comprehensive Guide to Offshore Casinos",
+    "The Hippodrome Casino: Mastering the Art of Live Gaming",
+    "Things you should look for when choosing an online casino",
+    "Casino Life Magazine: Casino Industry News, Gambling News ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://mgacasino.fi/mga-kasinot/ that feel at home on casinolifemagazine.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): mga kasinot\n\nAnchor operates in: Unspecified\n\nReference titles:\n- The 6 Most Popular Online Casino Games\n- 10 facts you probably didn't know about casinos\n- Upcoming Casino & Gambling Events | Casino Conferences\n- Desert Diamond Casino White Tanks Shines Bright in the ...\n- The Essential Guide to Navigating US Online Casinos\n- Casino Life Magazine\n- Social Casinos vs. Real Money Casinos\n- How to Efficiently Manage a Budget in Casinos\n- Tips and ideas to find the right casino game for you!\n- New Casinos Entering the US Market\n- Do Online Casinos Track Your Winnings?\n- Understanding How Live Casinos Work\n- Meet the team\n- 5 Things to Consider When Choosing a Casino App ...\n- Crash Games for Beginners: The Basics of Crash Gambling\n- How to Spot a Reliable Online Casino: Tips for Safe Betting\n- Daily Newsletter Sign Up for Casino and Gaming News\n- The Pros and Cons of Online vs. Land-Based Blackjack\n- The Top Three Most Trusted Online Casinos in the US\n- Blog\n- The Rise of Independent Casinos Online\n- A Comprehensive Guide to Offshore Casinos\n- The Hippodrome Casino: Mastering the Art of Live Gaming\n- Things you should look for when choosing an online casino\n- Casino Life Magazine: Casino Industry News, Gambling News ...\n\nGuidance:\n1. Combine your own knowledge of casinolifemagazine.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to casinolifemagazine.com while naturally justifying a link to https://mgacasino.fi/mga-kasinot/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude mga kasinot and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 925,
+    "completion_tokens": 972
+  },
+  "cost_usd": 0.07682
+}

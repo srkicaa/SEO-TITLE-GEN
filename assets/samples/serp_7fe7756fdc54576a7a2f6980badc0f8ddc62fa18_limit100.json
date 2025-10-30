@@ -1,0 +1,808 @@
+{
+  "mode": "live",
+  "task_id": "10221441-4117-0121-0000-aa54153584a5",
+  "query": "site:apnews.com casino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Proposals to build NYC's first casino in Manhattan rejected",
+      "url": "https://apnews.com/article/nyc-casino-mohegan-sun-united-nations-ebfa399297abd46957fbdaca17b9639a",
+      "snippet": "Sep 22, 2025 \u2014 Plans to build the Big Apple's first full-service casino in the heart of the city have run out of luck.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Caesars Palace casino plan loses bid for New York City ...",
+      "url": "https://apnews.com/article/times-square-caesars-casino-jayz-8c8ead47036fd1775be8b582e1e031d9",
+      "snippet": "Sep 17, 2025 \u2014 A proposed Caesars Palace casino in Times Square that's backed by Jay-Z has lost its bid for a lucrative New York City-area gambling license\u00a0...",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Inside the high-stakes battle to win a New York City casino ...",
+      "url": "https://apnews.com/article/casino-license-nyc-caesars-ballys-mgm-a804d9bf7a83c90cbbd2226d38ab102d",
+      "snippet": "Jul 17, 2025 \u2014 Eight projects are vying for a state license to operate a casino in the lucrative New York City market.",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Internet casinos thrive in 6 states. Why aren't there more?",
+      "url": "https://apnews.com/article/internet-gambling-casino-betting-new-jersey-07086a241a6d66a9c7e8c83e06f00ff6",
+      "snippet": "Nov 24, 2023 \u2014 In the 10 years that it has been operating in New Jersey, internet casino gambling has generated nearly $7 billion in revenue.",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Macao's casino boom brings wealth but at a cost, 25 years ...",
+      "url": "https://apnews.com/article/macao-25th-anniversary-handover-casino-china-6f6bc0345cf94bd787a65c4623f7d7e8",
+      "snippet": "Dec 18, 2024 \u2014 Since 1999, the city of 687,000 has transformed from a monopoly-driven gambling enclave into the world's biggest gaming hub, packed with\u00a0...",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "A tiny tribe is getting pushback for betting big on a $600M ...",
+      "url": "https://apnews.com/article/calfornia-tribes-land-dispute-casinos-09b9dd72423ca09baa0e71dedad54c32",
+      "snippet": "Oct 1, 2024 \u2014 A small, landless tribe in Northern California has been on a mission to get land, open a casino and tap into the gaming market enjoyed by so many other tribes.",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "U.S. casinos won $66.5B in 2023, their best year ever as ...",
+      "url": "https://apnews.com/article/casinos-best-year-revenue-gambling-betting-slots-6cefeecd6631fb6d102bac191179e3a0",
+      "snippet": "Feb 20, 2024 \u2014 New figures from the gambling industry show America's commercial casinos won more than $66 billion from gamblers in 2023, the industry's\u00a0...",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Resorts World casino in Las Vegas fined $10.5M in money ...",
+      "url": "https://apnews.com/article/las-vegas-casino-gambling-fine-9c549c2a9b4a9b0711ff25a9619c932d",
+      "snippet": "Mar 28, 2025 \u2014 Nevada gaming regulators have issued a $10.5 million fine against the Resorts World casino on the Las Vegas Strip over allegations of illegal gambling.",
+      "rank_absolute": 8,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "Internet casino gambling is the future of US betting ...",
+      "url": "https://apnews.com/article/internet-gambling-betting-casinos-cannibalization-online-b4ffd4f1abad68709ce46d520551e2b5",
+      "snippet": "May 8, 2024 \u2014 Internet casino gambling is legal in only a handful of states, but the industry is convinced it is the future of betting, even as some worry about\u00a0...",
+      "rank_absolute": 9,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "Las Vegas Strip's major casinos are all unionized",
+      "url": "https://apnews.com/article/las-vegas-strip-culinary-union-casinos-hotels-804fafe363e0bc593084ab17531b2e25",
+      "snippet": "Aug 4, 2025 \u2014 The Culinary Workers Union representing 60000 hospitality workers in Nevada has achieved a historic victory on the Las Vegas Strip.",
+      "rank_absolute": 10,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "Mississippi House panel approves casino tax increase",
+      "url": "https://apnews.com/us-news/mississippi-david-blount-hospitality-and-leisure-industry-taxes-gambling-b376ee30787f66cc107ac8bb1596f70a",
+      "snippet": "Feb 26, 2025 \u2014 A Mississippi House committee has approved a proposed tax increase on casinos. House Ways and Means Committee Chairman Trey Lamar said his\u00a0...",
+      "rank_absolute": 11,
+      "rank_group": 11,
+      "result_type": "items"
+    },
+    {
+      "title": "Not only New York casinos threaten Atlantic City. Developer ...",
+      "url": "https://apnews.com/article/atlantic-city-new-york-casinos-gambling-meadowlands-aec6dba0345cbc184c1add5eaa35328c",
+      "snippet": "Apr 18, 2024 \u2014 Atlantic City casinos are bracing for new threats from as many as three new casinos in or near New York City.",
+      "rank_absolute": 12,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "Thailand's Cabinet withdraws a controversial bill to legalize ...",
+      "url": "https://apnews.com/article/thailand-casino-bill-delay-a2e5ab856fee4d85915fa8c94e51a6f8",
+      "snippet": "Jul 8, 2025 \u2014 Thailand's Cabinet on Tuesday withdrew a controversial bill that aims to legalize casinos after the Prime Minister was suspended last week over an ethics\u00a0...",
+      "rank_absolute": 13,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "Atlantic City's top casino underpaid its online gambling taxes ...",
+      "url": "https://apnews.com/article/borgata-casino-atlantic-city-taxes-internet-gambling-ea9098ebea3f4a28a47d947aae55feb2",
+      "snippet": "Sep 5, 2024 \u2014 New Jersey gambling regulators say Atlantic City's top-performing casino, the Borgata, underpaid some of its internet gambling taxes twice.",
+      "rank_absolute": 14,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino workers who want smoking ended demonstrate in ...",
+      "url": "https://apnews.com/article/casino-smoking-atlantic-city-gambling-betting-d64688604fe54c7fe746de2d00eb237a",
+      "snippet": "Nov 21, 2024 \u2014 Casino workers and supporters of smoke-free gambling halls demonstrated Thursday outside a hotel where New Jersey's governor was due to speak.",
+      "rank_absolute": 15,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "2 dead, 5 wounded in Texas border city casino shooting",
+      "url": "https://apnews.com/article/deadly-casino-shooting-texas-8a8453ec6ce5d48e2ff36572816afa9c",
+      "snippet": "Sep 29, 2025 \u2014 Authorities are trying to determine why a man opened fire in the parking lot of a casino in a Texas border city over the weekend,\u00a0...",
+      "rank_absolute": 16,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "Boyd Gaming buys Resorts Digital online gambling operation",
+      "url": "https://apnews.com/article/resorts-digital-boyd-gaming-casino-gambling-betting-de31ed28b4e754fbd36b36b489d2a158",
+      "snippet": "Sep 23, 2024 \u2014 Boyd Interactive has purchased Resorts Digital, the online gambling arm of Atlantic City's Resorts casino, for an undisclosed amount.",
+      "rank_absolute": 17,
+      "rank_group": 17,
+      "result_type": "items"
+    },
+    {
+      "title": "Atlantic City casino earnings fall nearly 14% in 3rd quarter",
+      "url": "https://apnews.com/article/casino-earnings-atlantic-city-gambling-betting-52ce238a259fe4e07ddbb4f6256d86bb",
+      "snippet": "Nov 22, 2024 \u2014 Atlantic City's casinos saw their operating profits decline by nearly 14% in the third quarter of this year, figures released Friday by New Jersey gambling\u00a0...",
+      "rank_absolute": 18,
+      "rank_group": 18,
+      "result_type": "items"
+    },
+    {
+      "title": "New York's casino sweepstakes could put $115M in Donald ...",
+      "url": "https://apnews.com/article/trump-casino-new-york-252cc3bafd1b097adf7a8afd516f1859",
+      "snippet": "Apr 2, 2025 \u2014 ALBANY, N.Y. (AP) \u2014 A high-stakes contest to decide who gets to build a casino in New York City could potentially result in a $115 million\u00a0...",
+      "rank_absolute": 19,
+      "rank_group": 19,
+      "result_type": "items"
+    },
+    {
+      "title": "Las Vegas says goodbye to the Tropicana with a flashy casino ...",
+      "url": "https://apnews.com/article/tropicana-casino-implosion-las-vegas-strip-a2a6e4f57c9ef5a8110602b8b6b2d1e7",
+      "snippet": "Oct 9, 2024 \u2014 Sin City blew a kiss goodbye to the Tropicana in an elaborate implosion that leveled two hotel towers.",
+      "rank_absolute": 20,
+      "rank_group": 20,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino industry spurs $329 billion in US economic activity ...",
+      "url": "https://apnews.com/article/casinos-gambling-economy-taxes-sports-betting-slots-928163c8820213aa3d15f2358f2d09d9",
+      "snippet": "Oct 9, 2023 \u2014 The casino gambling industry in the US generates nearly $329 billion a year in economic activity, according to a new study by the industry's national trade\u00a0...",
+      "rank_absolute": 21,
+      "rank_group": 21,
+      "result_type": "items"
+    },
+    {
+      "title": "Thailand's Cabinet approves a draft bill to legalize casinos to ...",
+      "url": "https://apnews.com/article/thailand-legalizes-casino-entertainment-complex-68422ccdb4823ae0757c6c3ec7064e40",
+      "snippet": "Jan 13, 2025 \u2014 Thailand's Cabinet approved on Monday a draft bill legalizing casinos with the aim of boosting tourism and a sluggish economy.",
+      "rank_absolute": 22,
+      "rank_group": 22,
+      "result_type": "items"
+    },
+    {
+      "title": "Arkansas panel awards Cherokee Nation Entertainment a ...",
+      "url": "https://apnews.com/article/arkansas-casino-license-cherokee-nation-55a78550be013c2b4d0780244e2e8663",
+      "snippet": "Jun 27, 2024 \u2014 The Arkansas Racing Commission has awarded Cherokee Nation Entertainment a license to build a casino in the state that's been held up for\u00a0...",
+      "rank_absolute": 23,
+      "rank_group": 23,
+      "result_type": "items"
+    },
+    {
+      "title": "Strike by workers at a casino near the Las Vegas Strip enters ...",
+      "url": "https://apnews.com/article/las-vegas-casino-hotel-strike-virgin-48b1295aea84520c1b910990a51ce0a3",
+      "snippet": "Nov 16, 2024 \u2014 A walkout by hundreds of hospitality workers at a casino near the Las Vegas Strip entered its second day with union members willing to undergo the financial\u00a0...",
+      "rank_absolute": 24,
+      "rank_group": 24,
+      "result_type": "items"
+    },
+    {
+      "title": "Rival union official says Atlantic City casino union boss should ...",
+      "url": "https://apnews.com/article/atlantic-city-casino-smoking-gambling-lawsuit-ec4371dc73aa8148c842deb15bd33935",
+      "snippet": "Dec 2, 2024 \u2014 Workers seeking an end to smoking in Atlantic City casinos say the main employee union has been won over by tobacco companies seeking allies\u00a0...",
+      "rank_absolute": 25,
+      "rank_group": 25,
+      "result_type": "items"
+    },
+    {
+      "title": "Gaming proponents size up the odds of a northern Virginia ...",
+      "url": "https://apnews.com/article/casino-virginia-fairfax-legislation-3130160abad0aeaf3d540adc7fce6ad0",
+      "snippet": "Dec 27, 2023 \u2014 As casinos start to pop up on Virginia's southern border, some lawmakers are ready to explore whether wealthy northern Virginia should get\u00a0...",
+      "rank_absolute": 26,
+      "rank_group": 26,
+      "result_type": "items"
+    },
+    {
+      "title": "New Mavs owners with casino ties preach patience ... - AP News",
+      "url": "https://apnews.com/article/nba-finals-mavericks-owners-dumont-adelson-5f0682e0de85c486d59791c23920233a",
+      "snippet": "Jun 14, 2024 \u2014 New Dallas Mavericks governor Patrick Dumont says the families with casino ties that recently bought the club are taking a long-term view\u00a0...",
+      "rank_absolute": 27,
+      "rank_group": 27,
+      "result_type": "items"
+    },
+    {
+      "title": "Mohegan tribe to end management of Atlantic City's Resorts ...",
+      "url": "https://apnews.com/article/resorts-casino-mohegan-atlantic-city-gambling-7a49ac72d5ea7470c0fc3fdb8596689c",
+      "snippet": "Feb 26, 2024 \u2014 The move will conclude an agreement the tribe's gambling arm, Mohegan Gaming Advisors, made with Resorts in 2012 six months after the casino's ...",
+      "rank_absolute": 28,
+      "rank_group": 28,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino smoking and boosting in-person gambling are among ...",
+      "url": "https://apnews.com/article/atlantic-city-2024-casinos-gambling-smoking-crime-6afe02a8101ad1714e574ba60585ae05",
+      "snippet": "Dec 29, 2023 \u2014 What to do about smoking in the casinos, and how to keep gamblers coming to the resort are among the challenges that Atlantic City faces in\u00a0...",
+      "rank_absolute": 29,
+      "rank_group": 29,
+      "result_type": "items"
+    },
+    {
+      "title": "Nevada regulators fine Laughlin casino record ... - AP News",
+      "url": "https://apnews.com/article/nevada-casino-fined-regulators-security-guards-23bfacc1ad597e542bb6f0408c7eff53",
+      "snippet": "Mar 23, 2024 \u2014 The commission said the fine was the highest ever assessed for incidents of their kind. One incident involved a customer who wouldn't leave a\u00a0...",
+      "rank_absolute": 30,
+      "rank_group": 30,
+      "result_type": "items"
+    },
+    {
+      "title": "Opened amid uncertainty, Atlantic City's 2 newest casinos ...",
+      "url": "https://apnews.com/article/atlantic-city-casinos-hard-rock-ocean-borgata-1ff69786a18cd618e102c22c87e91bac",
+      "snippet": "Jun 26, 2023 \u2014 Opened amid uncertainty, Atlantic City's 2 newest casinos near top of the market 5 years later \u00b7 People walk past the Ocean Casino Resort in\u00a0...",
+      "rank_absolute": 31,
+      "rank_group": 31,
+      "result_type": "items"
+    },
+    {
+      "title": "Proposal to block casino plans OK'd for Arkansas ballot",
+      "url": "https://apnews.com/article/arkansas-casinos-ballot-medical-marijuana-1e78dd74e085bf33993be9dcf4866dea",
+      "snippet": "Jul 31, 2024 \u2014 A proposal aimed at blocking a planned casino in Arkansas has won approval to appear on the November ballot.",
+      "rank_absolute": 32,
+      "rank_group": 32,
+      "result_type": "items"
+    },
+    {
+      "title": "US casinos won $53 billion in 2021, their best year ever",
+      "url": "https://apnews.com/article/coronavirus-pandemic-sports-business-health-sports-betting-16beea7f0b13fbd08c4d007c46a8479f",
+      "snippet": "Feb 15, 2022 \u2014 Almost $45 billion was won from in-person gamblers at casinos last year, up 6.6% from 2019. Sports betting continued its rapid growth, with more\u00a0...",
+      "rank_absolute": 33,
+      "rank_group": 33,
+      "result_type": "items"
+    },
+    {
+      "title": "Quick death for Mississippi bill that sought casino site in ...",
+      "url": "https://apnews.com/article/mississippi-casino-gambling-jackson-9d5de0a792fc82a46f7c71d661a99f5c",
+      "snippet": "Mar 26, 2024 \u2014 A Mississippi House leader says he won't move forward with a bill to allow a casino in the capital city of Jackson.",
+      "rank_absolute": 34,
+      "rank_group": 34,
+      "result_type": "items"
+    },
+    {
+      "title": "Arkansas Supreme Court rejects challenge to ballot measure ...",
+      "url": "https://apnews.com/article/arkansas-casino-lawsuit-supreme-court-1f233c882b267e54af3d44c612666e89",
+      "snippet": "Oct 14, 2024 \u2014 The Arkansas Supreme Court has rejected part of a lawsuit challenging a ballot measure that would revoke the license for a planned casino.",
+      "rank_absolute": 35,
+      "rank_group": 35,
+      "result_type": "items"
+    },
+    {
+      "title": "Nevada gaming regulators accuse Resorts World casino of ...",
+      "url": "https://apnews.com/article/resorts-world-bowyer-ohtani-gambling-vegas-complaint-5f405ef61149d3fffaf4bc8153232697",
+      "snippet": "Aug 15, 2024 \u2014 Nevada gaming regulators have accused the Resorts World casino of turning a blind eye to illegal bookmaking.",
+      "rank_absolute": 36,
+      "rank_group": 36,
+      "result_type": "items"
+    },
+    {
+      "title": "State Senate committee rejects northern Virginia casino bill",
+      "url": "https://apnews.com/article/virginia-casino-bill-killed-tysons-corner-915d2a9442c1eb1020c68a389de91bd1",
+      "snippet": "Feb 6, 2024 \u2014 A Virginia Senate committee has rejected legislation that would have allowed a referendum on a casino in the wealthy suburbs of the nation's\u00a0...",
+      "rank_absolute": 37,
+      "rank_group": 37,
+      "result_type": "items"
+    },
+    {
+      "title": "The Mirage Casino in Las Vegas is closing this summer",
+      "url": "https://apnews.com/article/mirage-casino-closing-las-vegas-hard-rock-8596aed7ea41859471af720265b963b6",
+      "snippet": "May 15, 2024 \u2014 The iconic Mirage hotel-casino on the Las Vegas Strip will shut its doors this summer, the end of an era for a property credited with helping transform Sin\u00a0...",
+      "rank_absolute": 38,
+      "rank_group": 38,
+      "result_type": "items"
+    },
+    {
+      "title": "Macao awards casino licenses to MGM, Sands, Wynn, 3 others",
+      "url": "https://apnews.com/article/travel-business-beijing-hong-kong-ffae48f1dcb08f1a346a7a79876a8313",
+      "snippet": "Nov 26, 2022 \u2014 Macao has tentatively renewed the casino licenses of MGM Resorts, Las Vegas Sands, Wynn Resorts and three Chinese rivals after they promised\u00a0...",
+      "rank_absolute": 39,
+      "rank_group": 39,
+      "result_type": "items"
+    },
+    {
+      "title": "Lawsuit filed over measure approved by Arkansas voters that ...",
+      "url": "https://apnews.com/article/arkansas-casino-cherokee-choctaw-lawsuit-ballot-b66d2dfa58fd64e25bd015dfd0d4ca4a",
+      "snippet": "Nov 8, 2024 \u2014 \u201cCherokee Nation Entertainment is firmly committed to protecting its constitutional rights, defending its lawfully issued casino license, and\u00a0...",
+      "rank_absolute": 40,
+      "rank_group": 40,
+      "result_type": "items"
+    },
+    {
+      "title": "Man convicted in scheme to steal $700,000 from Michigan ...",
+      "url": "https://apnews.com/article/michigan-casino-theft-conviction-8ca602f79391bd321d6a960e0b78ae09",
+      "snippet": "Jan 17, 2025 \u2014 A Chicago man has been convicted in the theft of $700000 from a Michigan casino. Investigators described a remarkable scheme in which an\u00a0...",
+      "rank_absolute": 41,
+      "rank_group": 41,
+      "result_type": "items"
+    },
+    {
+      "title": "Four new casinos, video gambling could be on horizon as ...",
+      "url": "https://apnews.com/article/north-carolina-legislators-casino-video-gambling-076e1f85f78b2778d65ab814ea8a750f",
+      "snippet": "Jul 20, 2023 \u2014 Top North Carolina General Assembly leaders say proposals to authorize up to four new casinos in the state and to legalize video gambling\u00a0...",
+      "rank_absolute": 42,
+      "rank_group": 42,
+      "result_type": "items"
+    },
+    {
+      "title": "Newspaper: Families of Haley, Clyburn got casino shares",
+      "url": "https://apnews.com/article/mountains-north-carolina-south-newspapers-9806e40f0a9c4943a2ffab0a5fe637bb",
+      "snippet": "Aug 2, 2022 \u2014 The husband of former South Carolina Gov. Nikki Haley and brother of US Rep. Jim Clyburn were given shares of a company that leased slot machines to a North\u00a0...",
+      "rank_absolute": 43,
+      "rank_group": 43,
+      "result_type": "items"
+    },
+    {
+      "title": "The Tropicana Las Vegas, a mob-era casino and Sin City ...",
+      "url": "https://apnews.com/article/las-vegas-strip-tropicana-casino-closes-adabc55cc91d08dda3181edbc6d7984e",
+      "snippet": "Apr 2, 2024 \u2014 In its heyday, the Tropicana Las Vegas was known for its opulence. It was a frequent haunt of the Rat Pack and host to A-list stars.",
+      "rank_absolute": 44,
+      "rank_group": 44,
+      "result_type": "items"
+    },
+    {
+      "title": "Gambling pioneer Steve Norton, who ran first US casino ...",
+      "url": "https://apnews.com/article/obit-steve-norton-casino-gambling-resorts-3edd70c2a059ce186bf1357481c06d95",
+      "snippet": "Nov 13, 2023 \u2014 Gambling pioneer Steve Norton, who ran first US casino outside Nevada, dies at age 89 ... ATLANTIC CITY, N.J. (AP) \u2014 Steve Norton, who ran the\u00a0...",
+      "rank_absolute": 45,
+      "rank_group": 45,
+      "result_type": "items"
+    },
+    {
+      "title": "Bill to allow referendum on northern Virginia casino advances ...",
+      "url": "https://apnews.com/article/northern-virginia-casino-legislature-committee-vote-c9a3cef710ec75420b60e7ebe580d509",
+      "snippet": "Jan 24, 2024 \u2014 Legislation that would allow a referendum on a northern Virginia casino has cleared a hurdle in the state Senate.",
+      "rank_absolute": 46,
+      "rank_group": 46,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino tech: Even chips have chips at newest Vegas resort",
+      "url": "https://apnews.com/article/nv-state-wire-health-coronavirus-pandemic-lifestyle-travel-8460f6ae4c1b0088d1d1e1cafa75e559",
+      "snippet": "Jun 24, 2021 \u2014 When Resorts World Las Vegas opens to guests and gamblers late Thursday, card players will bet with house chips implanted with sensors at tables\u00a0...",
+      "rank_absolute": 47,
+      "rank_group": 47,
+      "result_type": "items"
+    },
+    {
+      "title": "Woman Files $20M Long-Shot Casino Suit | AP News",
+      "url": "https://apnews.com/woman-files-20m-long-shot-casino-suit-c4df47f43cea4e2084121b3e3d08f835",
+      "snippet": "ATLANTIC CITY, N.J. (AP) _ She was an ambitious lawyer and TV commentator who starting going to Atlantic City casinos to relax, and soon was getting\u00a0...",
+      "rank_absolute": 48,
+      "rank_group": 48,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino workers with MGM Grand Detroit ratify deal, ending 47 ...",
+      "url": "https://apnews.com/article/casino-strike-detroit-mgm-unions-workers-contract-b24f3839a5f03b4bd7301a2f167b912b",
+      "snippet": "Dec 3, 2023 \u2014 Casino workers for MGM Grand Detroit have voted to ratify a new contract, ending a 47-day strike. MGM Grand Detroit workers are union\u00a0...",
+      "rank_absolute": 49,
+      "rank_group": 49,
+      "result_type": "items"
+    },
+    {
+      "title": "In-person gamblers lifting US casino market to its best year",
+      "url": "https://apnews.com/article/sports-business-health-coronavirus-pandemic-39f5928cee71d63ba06549e75b5a70fa",
+      "snippet": "Aug 10, 2021 \u2014 Gamblers anxious to hit the slot machines and table games in person after a year of coronavirus restrictions are lifting the US casino industry to its best\u00a0...",
+      "rank_absolute": 50,
+      "rank_group": 50,
+      "result_type": "items"
+    },
+    {
+      "title": "Iconic Mirage hotel-casino closes its doors on the Las Vegas ...",
+      "url": "https://apnews.com/article/mirage-las-vegas-casino-hard-rock-seminole-9711659b33574ca9059649a949d7400d",
+      "snippet": "Jul 17, 2024 \u2014 Costing $630 million, The Mirage was no simple gambling hall. It was the world's largest hotel when it opened. Visitors were met by two bronze\u00a0...",
+      "rank_absolute": 51,
+      "rank_group": 51,
+      "result_type": "items"
+    },
+    {
+      "title": "The history of the Tropicana Las Vegas, closing after 67 years",
+      "url": "https://apnews.com/article/tropicana-casino-history-las-vegas-strip-3334ab06fdd11ada3b181813d2f04649",
+      "snippet": "Apr 2, 2024 \u2014 After 67 years, the Strip's third-oldest casino shut its doors for good on Tuesday. Demolition is slated for October to make room for a $1.5 billion Major\u00a0...",
+      "rank_absolute": 52,
+      "rank_group": 52,
+      "result_type": "items"
+    },
+    {
+      "title": "Police say suspected Reno casino gunman who was shot by ...",
+      "url": "https://apnews.com/article/reno-nevada-casino-shooting-d5f6cf374a331373b27c3496405dffa3",
+      "snippet": "Jul 31, 2025 \u2014 Justin Aguila and Andrew Canepa, both 33 years old and from Southern California, were fatally shot from behind while waiting in the valet area\u00a0...",
+      "rank_absolute": 53,
+      "rank_group": 53,
+      "result_type": "items"
+    },
+    {
+      "title": "4 companies seek to revive stalled Terre Haute casino plans",
+      "url": "https://apnews.com/article/business-indiana-gary-terre-haute-82f264486116954e9a09ca442ca993d1",
+      "snippet": "Sep 23, 2021 \u2014 Churchill Downs said in a news release that its Terre Haute proposal included a casino and a 125-room hotel, with the project resulting in 500\u00a0...",
+      "rank_absolute": 54,
+      "rank_group": 54,
+      "result_type": "items"
+    },
+    {
+      "title": "Portrait of a casino: Back in the black after 40 years | AP News",
+      "url": "https://apnews.com/general-news-travel-and-tourism-5bc4850dbcee456cb0ccd25da81989bd",
+      "snippet": "May 12, 2018 \u2014 Forty years after it opened as the first U.S. casino outside Nevada, Atlantic City's Resorts casino is a microcosm of the forces that\u00a0...",
+      "rank_absolute": 55,
+      "rank_group": 55,
+      "result_type": "items"
+    },
+    {
+      "title": "NBA player Malik Beasley under investigation for gambling",
+      "url": "https://apnews.com/article/malik-beasley-gambling-investigation-01ac1407f1db21d8c82079cee0b1cf9b",
+      "snippet": "Jun 30, 2025 \u2014 NBA free agent Malik Beasley is under investigation by the U.S. District Attorney's office regarding gambling allegations tied to league\u00a0...",
+      "rank_absolute": 56,
+      "rank_group": 56,
+      "result_type": "items"
+    },
+    {
+      "title": "Nevada casino owner sued over pandemic jobs right-to-return",
+      "url": "https://apnews.com/article/covid-health-business-legislature-lawsuits-a8bfe160b9e76da85835c55dfb21567e",
+      "snippet": "Mar 29, 2022 \u2014 Culinary Union officials said Tuesday the civil lawsuit filed in state court by 76 non-union hospitality workers alleges \u201cflagrant violation\u201d by\u00a0...",
+      "rank_absolute": 57,
+      "rank_group": 57,
+      "result_type": "items"
+    },
+    {
+      "title": "New Jersey internet gambling revenue set new record in Sept ...",
+      "url": "https://apnews.com/article/new-jersey-gambling-revenue-atlantic-city-casino-4873d8e046d4133720c85d96f2c43927",
+      "snippet": "Oct 17, 2024 \u2014 New Jersey's red-hot internet gambling market set another record in September with Atlantic City's casinos and their technical and online partners winning over\u00a0...",
+      "rank_absolute": 58,
+      "rank_group": 58,
+      "result_type": "items"
+    },
+    {
+      "title": "Sale of half Ocean casino to Detroit Ilitch group approved",
+      "url": "https://apnews.com/article/business-new-jersey-atlantic-city-oceans-0e368350a6b7cbd4716ec994a6f659ff",
+      "snippet": "Oct 14, 2021 \u2014 New Jersey gambling regulators on Thursday approved the sale of half of Atlantic City's Ocean Casino Resort to the Ilitch organization.",
+      "rank_absolute": 59,
+      "rank_group": 59,
+      "result_type": "items"
+    },
+    {
+      "title": "Appeals court hears arguments in fight between 2 tribes over ...",
+      "url": "https://apnews.com/article/alabama-hickory-ground-11th-circuit-957a00e7df38bb337160541eab1d8159",
+      "snippet": "Sep 25, 2024 \u2014 The Muscogee Nation is appealing a federal judge's decision to dismiss their lawsuit over the casino construction. The Muscogee Nation argued\u00a0...",
+      "rank_absolute": 60,
+      "rank_group": 60,
+      "result_type": "items"
+    },
+    {
+      "title": "New tribal casino ramping up Indiana gambling competition",
+      "url": "https://apnews.com/general-news-9e2282430c2f4b56953ea76e242a6391",
+      "snippet": "Jan 13, 2018 \u2014 The opening of Indiana's first tribal casino in South Bend poses additional problems for the state's existing casinos that have seen big\u00a0...",
+      "rank_absolute": 61,
+      "rank_group": 61,
+      "result_type": "items"
+    },
+    {
+      "title": "Man loses legal bid to cash in $59500 in chips from ... - AP News",
+      "url": "https://apnews.com/article/atlantic-city-playboy-casino-chips-07c1cb3efd42dbfbce8b3346565dce14",
+      "snippet": "Apr 8, 2025 \u2014 A man cannot redeem nearly $60000 in chips from a now-defunct casino that he bought at an online auction because they were \u201cpilfered\u201d by an\u00a0...",
+      "rank_absolute": 62,
+      "rank_group": 62,
+      "result_type": "items"
+    },
+    {
+      "title": "Former Trump casino where stars played goes out with a bang",
+      "url": "https://apnews.com/article/trump-plaza-casino-imploded-cfd6efef1e4d23dfce977ab88e48e9de",
+      "snippet": "Feb 17, 2021 \u2014 The former Trump Plaza casino was imploded after falling into such disrepair that chunks of the building began peeling off and crashing to the ground.",
+      "rank_absolute": 63,
+      "rank_group": 63,
+      "result_type": "items"
+    },
+    {
+      "title": "Woman scams casino to pay off sick cat's vet bill - AP News",
+      "url": "https://apnews.com/general-news-847ea4e62af44ddea57f984b1aa1a206",
+      "snippet": "May 2, 2018 \u2014 Police say a woman has used player reward cards to steal more than $70000 from a Connecticut casino to pay off her sick cat's veterinarian\u00a0...",
+      "rank_absolute": 64,
+      "rank_group": 64,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino owned by actor closes in South Dakota | AP News",
+      "url": "https://apnews.com/general-news-7ba493968497417a9affdc3db05e65e0",
+      "snippet": "Aug 30, 2017 \u2014 A casino owned by actor and director Kevin Costner has shut down after operating for 26 years in the western part of South Dakota.",
+      "rank_absolute": 65,
+      "rank_group": 65,
+      "result_type": "items"
+    },
+    {
+      "title": "Wynn Resorts paying $130M for letting illegal money reach ...",
+      "url": "https://apnews.com/article/wynn-las-vegas-casino-settlement-federal-investigation-2fe0c19dae687f1d246ed51b547ffb88",
+      "snippet": "Sep 7, 2024 \u2014 Casino company Wynn Resorts is paying $130 million to federal authorities and admitting that it allowed unlicensed money transfers from\u00a0...",
+      "rank_absolute": 66,
+      "rank_group": 66,
+      "result_type": "items"
+    },
+    {
+      "title": "New York competition, smoking, internet betting concerns roil ...",
+      "url": "https://apnews.com/article/casinos-atlantic-city-gambling-sports-betting-9694644d73291cb83fb98ee7071a1055",
+      "snippet": "Apr 17, 2024 \u2014 Casinos in the northeastern U.S. are dealing with numerous challenges as they brace for the arrival of new competitors in New York City.",
+      "rank_absolute": 67,
+      "rank_group": 67,
+      "result_type": "items"
+    },
+    {
+      "title": "Third casino in Mississippi's Tunica County to close | AP News",
+      "url": "https://apnews.com/general-news-695a645ed8d441ca97335474b144941a",
+      "snippet": "Apr 16, 2019 \u2014 Penn National Gaming announced that it would close the Resorts Casino Tunica on June 30, leaving a six casinos in a county that boomed on gambling revenue in\u00a0...",
+      "rank_absolute": 68,
+      "rank_group": 68,
+      "result_type": "items"
+    },
+    {
+      "title": "Lottery, casino bill passes key vote in Alabama House",
+      "url": "https://apnews.com/article/alabama-legislature-gambling-bill-c2eca3457a36fdd1c967bc2591915b6d",
+      "snippet": "Feb 15, 2024 \u2014 The House of Representatives approved the proposed constitutional amendment to allow up to 10 casino sites with table games and slot machines, a\u00a0...",
+      "rank_absolute": 69,
+      "rank_group": 69,
+      "result_type": "items"
+    },
+    {
+      "title": "Campaign to bring casino to Missouri's Lake of the Ozarks ...",
+      "url": "https://apnews.com/article/casino-missouri-lake-ozarks-ballot-e32babc9d27f154b3b2e439c4184e75d",
+      "snippet": "Aug 20, 2024 \u2014 A campaign to bring a casino to the Missouri tourist destination of the Lake of the Ozarks is suing to bring the proposal before voters.",
+      "rank_absolute": 70,
+      "rank_group": 70,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino regulators: nothing wrong with Wynn donation to GOP",
+      "url": "https://apnews.com/article/906aa95cca454b18bf0a405223cb828b",
+      "snippet": "Feb 22, 2018 \u2014 BOSTON (AP) \u2014 Massachusetts gambling regulators say there was nothing improper about a $2 million donation Wynn Resorts made to the\u00a0...",
+      "rank_absolute": 71,
+      "rank_group": 71,
+      "result_type": "items"
+    },
+    {
+      "title": "New Hampshire casino to shut down for 6 months, could re ...",
+      "url": "https://apnews.com/article/sanborn-concord-casino-covid-loan-fraud-charge-9a5ed325654ce9e277d59b8f9eb49cf8",
+      "snippet": "Dec 28, 2023 \u2014 The New Hampshire Lottery Commission says it is shutting down a casino owned by a former state senator accused of buying luxury cars with a\u00a0...",
+      "rank_absolute": 72,
+      "rank_group": 72,
+      "result_type": "items"
+    },
+    {
+      "title": "Gambling - AP News",
+      "url": "https://apnews.com/hub/gambling",
+      "snippet": "Billionaire Gov. JB Pritzker had some extra income in 2024 \u2014 from a lucky blackjack hand in a Las Vegas casino. October 16.",
+      "rank_absolute": 73,
+      "rank_group": 73,
+      "result_type": "items"
+    },
+    {
+      "title": "Today in History: March 19, Nevada legalizes casino gambling",
+      "url": "https://apnews.com/c8e6304ec672b64bea9d3163d72d8174",
+      "snippet": "Mar 13, 2023 \u2014 In 1931, Nevada Gov. Fred B. Balzar signed a measure legalizing casino gambling. In 1942, during World War II, President Franklin D. Roosevelt\u00a0...",
+      "rank_absolute": 74,
+      "rank_group": 74,
+      "result_type": "items"
+    },
+    {
+      "title": "US declares Laos casino operators a criminal network",
+      "url": "https://apnews.com/united-states-government-2f57e28a02d84218a4b2de50d3c2dbc5",
+      "snippet": "Jan 30, 2018 \u2014 The U.S. has declared the Zhao Wei network that operates a casino in Laos to be a transnational criminal organization.",
+      "rank_absolute": 75,
+      "rank_group": 75,
+      "result_type": "items"
+    },
+    {
+      "title": "Japan approves plan to open first casino to lure tourists",
+      "url": "https://apnews.com/article/japan-osaka-first-casino-gambling-ceca81f1b481ef6d019a0470ac74c0f3",
+      "snippet": "Apr 14, 2023 \u2014 TOKYO (AP) \u2014 Japan's government on Friday approved a controversial plan to open the country's first casino in the city of Osaka as it seeks\u00a0...",
+      "rank_absolute": 76,
+      "rank_group": 76,
+      "result_type": "items"
+    },
+    {
+      "title": "Former Indiana lawmaker pleads guilty to casino corruption ...",
+      "url": "https://apnews.com/article/indiana-casino-fraud-sean-eberhart-spectacle-entertainment-dd9a38ac1f47745d9dfbefba5148312b",
+      "snippet": "Nov 28, 2023 \u2014 Sean Eberhart, 57, was charged with conspiracy to commit honest services fraud. He had agreed to plead guilty earlier this month.",
+      "rank_absolute": 77,
+      "rank_group": 77,
+      "result_type": "items"
+    },
+    {
+      "title": "Las Vegas hotel workers union reaches deal with casino to ...",
+      "url": "https://apnews.com/video/las-vegas-hotel-workers-union-reaches-deal-with-casino-to-end-longest-strike-in-decades-85a44008c0fd45c9a87a086ed2c29ffb",
+      "snippet": "Jan 22, 2025 \u2014 The longest strike in decades by Las Vegas hotel workers has come to an end. The Culinary Workers Union announced Wednesday that workers\u00a0...",
+      "rank_absolute": 78,
+      "rank_group": 78,
+      "result_type": "items"
+    },
+    {
+      "title": "New Jersey casino, sports bet revenues hit high of $5.8B, but ...",
+      "url": "https://apnews.com/article/casinos-atlantic-city-gambling-revenue-sports-betting-a7a502d4e16b3c433217e3a098c3ec8f",
+      "snippet": "Jan 16, 2024 \u2014 New Jersey's casino and sports betting operators and their online partners won nearly $5.8 billion in 2023, setting a new record, figures released Tuesday show.",
+      "rank_absolute": 79,
+      "rank_group": 79,
+      "result_type": "items"
+    },
+    {
+      "title": "Shooter opens fire outside Reno casino, killing 3 and injuring ...",
+      "url": "https://apnews.com/video/shooter-opens-fire-outside-reno-casino-killing-3-and-injuring-several-others-03896bb33308417284c98998799514e0",
+      "snippet": "A gunman opened fire Monday outside the largest casino in Reno, Nevada, killing three people and wounding three others before being taken into custody,\u00a0...",
+      "rank_absolute": 80,
+      "rank_group": 80,
+      "result_type": "items"
+    },
+    {
+      "title": "Opening nears for Reno-Sparks' first new casino in 26 years",
+      "url": "https://apnews.com/article/sports-las-vegas-nevada-reno-135c4616f37fb7f920cb7baf433a2388",
+      "snippet": "May 15, 2022 \u2014 Circa Sports secured a deal with Legends Bay Casino owner Olympia Gaming to operate a sportsbook at the property being constructed just east of\u00a0...",
+      "rank_absolute": 81,
+      "rank_group": 81,
+      "result_type": "items"
+    },
+    {
+      "title": "New Mexico Supreme Court rules tribal courts have ...",
+      "url": "https://apnews.com/article/tribal-casinos-personal-injury-lawsuits-jurisdiction-784f01c80009f3d57fab4eda4a5e3df4",
+      "snippet": "Jan 16, 2024 \u2014 The New Mexico Supreme Court says personal injury lawsuits brought against tribal casinos can no longer be heard by state courts.",
+      "rank_absolute": 82,
+      "rank_group": 82,
+      "result_type": "items"
+    },
+    {
+      "title": "Trump casinos sanctioned in unreported attack, underage bets",
+      "url": "https://apnews.com/general-news-03f86871e41048409bf52188800143bf",
+      "snippet": "Mar 23, 2015 \u2014 ATLANTIC CITY, N.J. (AP) \u2014 Trump Entertainment Resorts has been fined for not notifying the state about a patron who was assaulted at one of\u00a0...",
+      "rank_absolute": 83,
+      "rank_group": 83,
+      "result_type": "items"
+    },
+    {
+      "title": "Pine Bluff casino OK'd, licenses denied in Pope County",
+      "url": "https://apnews.com/general-news-cdbc46ca46564d4ba6f4c40166957540",
+      "snippet": "Jun 13, 2019 \u2014 An Arkansas panel has approved an American Indian tribe's application to operate a casino in Jefferson County while rejecting five\u00a0...",
+      "rank_absolute": 84,
+      "rank_group": 84,
+      "result_type": "items"
+    },
+    {
+      "title": "$50 million on-shore Evansville casino opens to gamblers",
+      "url": "https://apnews.com/f47b0b7398794827aa3538080992f312",
+      "snippet": "Oct 20, 2017 \u2014 ... slot machines and table games. Gambler Cheryl Goshen of St. Louis says the new casino is \u201cabsolutely gorgeous.\u201d A new owner is expected to\u00a0...",
+      "rank_absolute": 85,
+      "rank_group": 85,
+      "result_type": "items"
+    },
+    {
+      "title": "Closed casino hotels in Mississippi could house ... - AP News",
+      "url": "https://apnews.com/article/tunica-harrahs-casino-mississippi-immigrant-migrant-children-9167517ca54554ced01954cc3536cafb",
+      "snippet": "May 23, 2024 \u2014 Officials in Mississippi are considering a proposal to house unaccompanied migrant children at two former casino hotels in the state's\u00a0...",
+      "rank_absolute": 86,
+      "rank_group": 86,
+      "result_type": "items"
+    },
+    {
+      "title": "New $300 million casino opens in northwestern Indiana",
+      "url": "https://apnews.com/article/il-state-wire-indiana-business-entertainment-music-353705ba604099ec7e2cd834f9e5bd05",
+      "snippet": "May 15, 2021 \u2014 The Hard Rock Casino Northern Indiana opened to the public Friday evening after an earlier guitar smashing ceremony that included Jackson 5\u00a0...",
+      "rank_absolute": 87,
+      "rank_group": 87,
+      "result_type": "items"
+    },
+    {
+      "title": "Arkansas AG asks court to reject casino backers' complaint",
+      "url": "https://apnews.com/general-news-f2a7bcee277842a6985e84230cd997be",
+      "snippet": "Apr 20, 2018 \u2014 Arkansas' attorney general is asking the state's highest court to reject an effort to force her to approve the wording of a proposed ballot\u00a0...",
+      "rank_absolute": 88,
+      "rank_group": 88,
+      "result_type": "items"
+    },
+    {
+      "title": "Detroit's Ilitch family buying half of Atlantic City casino - AP News",
+      "url": "https://apnews.com/detroits-ilitch-family-buying-half-of-atlantic-city-casino-e9000853a7c858afa1d0d321dc0633d0",
+      "snippet": "Apr 6, 2021 \u2014 A New York hedge fund says it's selling as much as half of its ownership of Atlantic City's Ocean Casino to Detroit's Ilitch family.",
+      "rank_absolute": 89,
+      "rank_group": 89,
+      "result_type": "items"
+    },
+    {
+      "title": "Virus, fan eagerness may spur sports bet, casino expansion",
+      "url": "https://apnews.com/article/sports-betting-f356c7bfb8f193946b50260bf9b50079",
+      "snippet": "Dec 2, 2020 \u2014 ... betting and online casino gambling, experts said Tuesday. Speaking at the Betting On Sports America online conference, gambling executives\u00a0...",
+      "rank_absolute": 90,
+      "rank_group": 90,
+      "result_type": "items"
+    },
+    {
+      "title": "Workers sue to overturn law that exempts Atlantic City casinos ...",
+      "url": "https://apnews.com/article/atlantic-city-casino-smoking-lawsuit-workers-7b64cfb8840da49fb59c84d418d169c6",
+      "snippet": "Apr 5, 2024 \u2014 They filed a lawsuit to try to overturn a law that leaves casino workers as the only ones not covered by the protections of a clean workplace\u00a0...",
+      "rank_absolute": 91,
+      "rank_group": 91,
+      "result_type": "items"
+    },
+    {
+      "title": "Bill to ban smoking in Atlantic City casinos moves ... - AP News",
+      "url": "https://apnews.com/article/casino-smoking-gambling-atlantic-city-new-jersey-ac8cc652cc41a557fc3f447ea68c65e4",
+      "snippet": "Jan 29, 2024 \u2014 The New Jersey Senate health committee approved a long-delayed bill to impose a smoking ban in Atlantic City's nine casinos.",
+      "rank_absolute": 92,
+      "rank_group": 92,
+      "result_type": "items"
+    },
+    {
+      "title": "Wynn Resorts removing Steve Wynn's name from new casino",
+      "url": "https://apnews.com/general-news-82ad31f281f3458283ed5ce889f56955",
+      "snippet": "Apr 27, 2018 \u2014 Wynn Resorts is renaming a Massachusetts casino set to open next year to remove the name of company founder Steve Wynn, who resigned\u00a0...",
+      "rank_absolute": 93,
+      "rank_group": 93,
+      "result_type": "items"
+    },
+    {
+      "title": "Atlantic City Q1 casino earnings down nearly 12 percent",
+      "url": "https://apnews.com/9908b29e640140f887aa3bfcb20aa6d5",
+      "snippet": "May 22, 2018 \u2014 ATLANTIC CITY, N.J. (AP) \u2014 Atlantic City's seven casinos all remained profitable during the first quarter of this year, but those profits\u00a0...",
+      "rank_absolute": 94,
+      "rank_group": 94,
+      "result_type": "items"
+    },
+    {
+      "title": "Pennsylvania court will decide whether skill game terminals ...",
+      "url": "https://apnews.com/article/skill-games-gambling-pennsylvania-casinos-d03c0ee5028107424a9052e7c06f9ddd",
+      "snippet": "Jun 20, 2024 \u2014 Pennsylvania's highest court will decide whether the cash-paying electronic game terminals that have become commonplace in convenience stores, bars and\u00a0...",
+      "rank_absolute": 95,
+      "rank_group": 95,
+      "result_type": "items"
+    },
+    {
+      "title": "Seminole Hard Rock Tampa evacuated twice after suspicious ...",
+      "url": "https://apnews.com/article/casino-evacuation-florida-2b4d0b4c68b23c346f972e668199e6d9",
+      "snippet": "Sep 30, 2024 \u2014 Part of the casino was immediately evacuated, and the device was removed by the Hillsborough County Sheriff's Office Bomb Disposal Team,\u00a0...",
+      "rank_absolute": 96,
+      "rank_group": 96,
+      "result_type": "items"
+    },
+    {
+      "title": "Florida rivals ask courts to stop online sports gambling off ...",
+      "url": "https://apnews.com/article/online-gambling-florida-seminole-tribe-supreme-court-c43599ecb75cedb46e95ba1d8681ec93",
+      "snippet": "Mar 15, 2024 \u2014 (AP) \u2014 The state of Florida and the Seminole Tribe of Florida will be raking in hundreds of millions of dollars from online sports betting this\u00a0...",
+      "rank_absolute": 97,
+      "rank_group": 97,
+      "result_type": "items"
+    },
+    {
+      "title": "Workers in Atlantic City casino smoking lawsuit ... - AP News",
+      "url": "https://apnews.com/article/casino-smoking-atlantic-city-cancer-lawsuit-ec7c2795411447cbf89fa0b11056de7b",
+      "snippet": "May 13, 2024 \u2014 A group of Atlantic City casino workers has asked a judge to ban smoking in the gambling halls, citing the toxic effects of working there.",
+      "rank_absolute": 98,
+      "rank_group": 98,
+      "result_type": "items"
+    },
+    {
+      "title": "Richmond panel picks Urban One for casino project | AP News",
+      "url": "https://apnews.com/article/richmond-business-race-and-ethnicity-b6224ab84704418a2db1af73b8d9a721",
+      "snippet": "May 21, 2021 \u2014 RICHMOND, Va. (AP) \u2014 After a monthslong evaluation of casino development projects, officials in Richmond announced Thursday that a panel is\u00a0...",
+      "rank_absolute": 99,
+      "rank_group": 99,
+      "result_type": "items"
+    },
+    {
+      "title": "Poker Room Reopens at Rivers Casino Philadelphia | AP News",
+      "url": "https://apnews.com/article/business-virus-outbreak-pennsylvania-consumer-products-and-services-environment-and-nature-00b48f8c39b942958ae55f5b63946547",
+      "snippet": "Oct 23, 2020 \u2014 PHILADELPHIA--(BUSINESS WIRE)--Oct 23, 2020-- Shuffle up and deal! Live poker is back in Philly as the Rivers Casino Philadelphia poker room\u00a0...",
+      "rank_absolute": 100,
+      "rank_group": 100,
+      "result_type": "items"
+    }
+  ]
+}

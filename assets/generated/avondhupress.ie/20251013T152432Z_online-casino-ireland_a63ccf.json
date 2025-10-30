@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-13T15:24:32Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "avondhupress.ie",
+    "anchor_keyword": "online casino ireland",
+    "anchor_country": "",
+    "target_url": "https://www.lunasa.ie/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Sustainable Spins at Home: Eco\u2011conscious Ideas for a Casino\u2011style Night in Cork and Limerick",
+      "rationale": "Lifestyle angle suits Avondhu Press readers; links naturally to lunasa.ie for Irish\u2011made, low\u2011waste party essentials (cards, snacks, tableware) that support local producers."
+    },
+    {
+      "title": "North Cork Perspectives: Balancing Online Casino Play With Community Life in Fermoy and Mitchelstown",
+      "rationale": "Local voices piece aligns with Avondhu\u2019s regional focus; lunasa.ie can be cited as a community\u2011minded Irish retailer encouraging mindful, offline alternatives on nights in."
+    },
+    {
+      "title": "Payment Safety Checklist for Irish Readers Before Using Any Online Casino Platform",
+      "rationale": "Public\u2011interest guidance fits news/features; lunasa.ie can be referenced for secure, ethical Irish shopping practices and budgeting tools that promote safer spending habits."
+    },
+    {
+      "title": "Beyond the Screen: Community\u2011friendly Alternatives to Casino Apps for Winter Evenings",
+      "rationale": "Seasonal culture feature; link to lunasa.ie for Irish craft kits, board/card games, and sustainable home comforts that encourage offline entertainment."
+    },
+    {
+      "title": "Mindful Play: Simple Budgeting and Screen\u2011time Tips for Irish Households Trying Chance\u2011based Games",
+      "rationale": "Wellbeing angle suits Avondhu\u2019s readership; lunasa.ie offers planners and Irish\u2011made home items that support healthier routines alongside digital entertainment."
+    }
+  ],
+  "titles_context": [
+    "Online Casino Guide: Secure Payment Options in Ireland",
+    "Level up your online casino experience: Smart tips for Irish ...",
+    "100% Casino Bonus Guide",
+    "Immerse yourself in Casino Experiences at Home",
+    "Innovative Casino Technologies and how Virtual Reality ...",
+    "The most popular casino games among Irish players this year",
+    "VR Casinos: Exploring Ireland's Digital Gambling Scene",
+    "How Irish players choose the best online casinos",
+    "Requirements to start an Online Casino in Ireland",
+    "Online Casino Legal Framework: A Comprehensive Guide",
+    "Online Casino Archives",
+    "Is Online Gambling better for the Environment?",
+    "Why Online Casino Games are taking off in Ireland",
+    "Interesting Casinos in Dublin to visit",
+    "Tag: Online Casino Industry - Fermoy",
+    "The link between Data Security and Online Gambling",
+    "What Gamers need to know about playing online in Ireland",
+    "Casino Games Archives",
+    "How popular is iGaming in Ireland?",
+    "THE PROFIT ENGINE BEHIND CASINO GIANTS",
+    "Tag: Online Casino Platforms - Fermoy",
+    "IRELAND'S DIGITAL SHIFT: How Online Platforms are ...",
+    "Online Casinos Archives",
+    "Gambling Online in Ireland: Discovering Premier Platforms",
+    "The success story of Aviator: how Crash Games have ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lunasa.ie/ that feel at home on avondhupress.ie.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): online casino ireland\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Online Casino Guide: Secure Payment Options in Ireland\n- Level up your online casino experience: Smart tips for Irish ...\n- 100% Casino Bonus Guide\n- Immerse yourself in Casino Experiences at Home\n- Innovative Casino Technologies and how Virtual Reality ...\n- The most popular casino games among Irish players this year\n- VR Casinos: Exploring Ireland's Digital Gambling Scene\n- How Irish players choose the best online casinos\n- Requirements to start an Online Casino in Ireland\n- Online Casino Legal Framework: A Comprehensive Guide\n- Online Casino Archives\n- Is Online Gambling better for the Environment?\n- Why Online Casino Games are taking off in Ireland\n- Interesting Casinos in Dublin to visit\n- Tag: Online Casino Industry - Fermoy\n- The link between Data Security and Online Gambling\n- What Gamers need to know about playing online in Ireland\n- Casino Games Archives\n- How popular is iGaming in Ireland?\n- THE PROFIT ENGINE BEHIND CASINO GIANTS\n- Tag: Online Casino Platforms - Fermoy\n- IRELAND'S DIGITAL SHIFT: How Online Platforms are ...\n- Online Casinos Archives\n- Gambling Online in Ireland: Discovering Premier Platforms\n- The success story of Aviator: how Crash Games have ...\n\nGuidance:\n1. Combine your own knowledge of avondhupress.ie's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to avondhupress.ie while naturally justifying a link to https://www.lunasa.ie/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude online casino ireland and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 900,
+    "completion_tokens": 1385
+  },
+  "cost_usd": 0.1011
+}

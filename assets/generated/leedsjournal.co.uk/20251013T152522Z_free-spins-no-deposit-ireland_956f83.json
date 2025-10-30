@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-13T15:25:22Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "leedsjournal.co.uk",
+    "anchor_keyword": "free spins no deposit ireland",
+    "anchor_country": "",
+    "target_url": "https://www.lunasa.ie/bonus/free-spins-no-deposit/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "The UK Reader\u2019s Guide to No\u2011deposit Spins: Odds, Limits, and Pitfalls",
+      "rationale": "Editorial explainer suited to Leeds readership; can cite an external Irish resource that lists current no\u2011deposit spin offers and terms as a practical example, with the anchor used naturally in supporting copy when referencing Ireland\u2011specific options."
+    },
+    {
+      "title": "From Yorkshire to the Emerald Isle: What Britons Should Know About Irish No\u2011deposit Offers",
+      "rationale": "Localised angle for a Leeds audience comparing UK and Irish sign\u2011up mechanics; the piece can link to an Irish overview page for concrete examples, where the anchor can appear in context within the body text."
+    },
+    {
+      "title": "Wagering Requirements Decoded: Turning Spins Into Withdrawable Cash",
+      "rationale": "Service journalism on playthrough rules that aligns with Leedsjournal\u2019s guides; a link to an Irish-focused explainer of current spins and T&Cs helps illustrate real\u2011world numbers, with the anchor included in a descriptive sentence, not the title."
+    },
+    {
+      "title": "Budget\u2011smart Slot Play: Stretching a Small Bankroll Without Chasing Losses",
+      "rationale": "Responsible\u2011play feature that feels native to the site; referencing an external page that aggregates Ireland\u2011based no\u2011deposit spin opportunities can show low\u2011risk entry points, using the anchor phrase naturally in a contextual line."
+    },
+    {
+      "title": "Are No\u2011cost Spins Worth It in 2025? a Practical Look at Value and Risk",
+      "rationale": "Timely 2025 framing consistent with existing Leedsjournal headlines; links to an Irish round\u2011up of spin offers provide up\u2011to\u2011date examples and fine print, with the anchor integrated seamlessly in the supporting copy."
+    }
+  ],
+  "titles_context": [
+    "How to Maximise Your Chances of Casino Success",
+    "What to Look for in a Legit Online Casino",
+    "Top Mobile Gambling Games: Play Your Favorite Casino ...",
+    "Which Casino Game Gives You the Best Odds\u2014And Why It Matters ...",
+    "You Need to Read the Comprehensive Review of Casinofy ...",
+    "VR Casinos: Are Virtual Reality Gambling Platforms the ...",
+    "Best Online Casino Archives - Leedsjournal",
+    "How Technology Has Changed Casinos Forever",
+    "A Guide to Moving from In-Person to Online Casino Play",
+    "Can You Actually Win Real Money When Gambling Online",
+    "Are online casino payments safe? What to look out for",
+    "Sun Vegas Secrets Uncovered",
+    "Best slots with $10 deposit: Win real money - Leedsjournal -",
+    "Ensuring Safe Transactions in US Online Casinos",
+    "The Most Popular Themes in Online Casino Gaming",
+    "Your 2025 Guide to Thriving in Online Casinos",
+    "Decoding Online Casino Bonuses for Players",
+    "What Can You Do in an Online Casino?",
+    "Skill vs. Luck: The Key Differences Between Casino Games",
+    "Casino Tourism Archives",
+    "How Technology is Influencing Online Casino Gaming",
+    "Tips and Advice on Choosing a Reliable Online Casino",
+    "How to Build a Bitcoin Casino Website: A Technical Guide",
+    "Why Plinko Ninewin is a Great Choice for Online Casino ...",
+    "How to be a Responsible Gambler at Online Casinos in 2025"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lunasa.ie/bonus/free-spins-no-deposit/ that feel at home on leedsjournal.co.uk.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): free spins no deposit ireland\n\nAnchor operates in: Unspecified\n\nReference titles:\n- How to Maximise Your Chances of Casino Success\n- What to Look for in a Legit Online Casino\n- Top Mobile Gambling Games: Play Your Favorite Casino ...\n- Which Casino Game Gives You the Best Odds\u2014And Why It Matters ...\n- You Need to Read the Comprehensive Review of Casinofy ...\n- VR Casinos: Are Virtual Reality Gambling Platforms the ...\n- Best Online Casino Archives - Leedsjournal\n- How Technology Has Changed Casinos Forever\n- A Guide to Moving from In-Person to Online Casino Play\n- Can You Actually Win Real Money When Gambling Online\n- Are online casino payments safe? What to look out for\n- Sun Vegas Secrets Uncovered\n- Best slots with $10 deposit: Win real money - Leedsjournal -\n- Ensuring Safe Transactions in US Online Casinos\n- The Most Popular Themes in Online Casino Gaming\n- Your 2025 Guide to Thriving in Online Casinos\n- Decoding Online Casino Bonuses for Players\n- What Can You Do in an Online Casino?\n- Skill vs. Luck: The Key Differences Between Casino Games\n- Casino Tourism Archives\n- How Technology is Influencing Online Casino Gaming\n- Tips and Advice on Choosing a Reliable Online Casino\n- How to Build a Bitcoin Casino Website: A Technical Guide\n- Why Plinko Ninewin is a Great Choice for Online Casino ...\n- How to be a Responsible Gambler at Online Casinos in 2025\n\nGuidance:\n1. Combine your own knowledge of leedsjournal.co.uk's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to leedsjournal.co.uk while naturally justifying a link to https://www.lunasa.ie/bonus/free-spins-no-deposit/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude free spins no deposit ireland and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 985,
+    "completion_tokens": 1118
+  },
+  "cost_usd": 0.08678
+}

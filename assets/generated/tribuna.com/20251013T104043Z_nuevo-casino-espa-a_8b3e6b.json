@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-13T10:40:43Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "tribuna.com",
+    "anchor_keyword": "nuevo casino espa\u00f1a",
+    "anchor_country": "",
+    "target_url": "https://www.platincasino.es/nuevo",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Novedades De Casino Online En Espa\u00f1a 2025: Qu\u00e9 Juegos Llegan Este Mes",
+      "rationale": "Encaja en la secci\u00f3n iGaming de Tribuna con foco informativo. Se puede enlazar a la p\u00e1gina de lanzamientos de Platincasino.es/nuevo para ilustrar con ejemplos reales de t\u00edtulos reci\u00e9n disponibles en el mercado espa\u00f1ol."
+    },
+    {
+      "title": "Gu\u00eda De Juegos En Vivo Para M\u00f3vil En Espa\u00f1a: Configuraci\u00f3n Y Consejos R\u00e1pidos",
+      "rationale": "Formato pr\u00e1ctico y neutral t\u00edpico de Tribuna. El enlace a Platincasino.es/nuevo aporta un listado actualizado de mesas y t\u00edtulos en vivo que los lectores pueden verificar desde Espa\u00f1a."
+    },
+    {
+      "title": "M\u00e9todos De Pago Y L\u00edmites Responsables Para Jugar Desde Espa\u00f1a",
+      "rationale": "Contenido educativo sobre banca y juego responsable, habitual en Tribuna. Platincasino.es/nuevo sirve de referencia para comprobar disponibilidad de opciones locales al explorar nuevos t\u00edtulos."
+    },
+    {
+      "title": "Slots Con Alta Volatilidad vs. Baja: C\u00f3mo Elegir Seg\u00fan Tu Estilo De Juego",
+      "rationale": "An\u00e1lisis comparativo sin tono promocional, alineado con piezas de estrategia de Tribuna. El cat\u00e1logo de novedades en Platincasino.es/nuevo permite mostrar ejemplos actuales de ambos perfiles."
+    },
+    {
+      "title": "Calendario De Estrenos De Juegos De Casino En Espa\u00f1a: Oto\u00f1o\u2013Invierno 2025",
+      "rationale": "Titular de agenda informativa, muy af\u00edn a Tribuna. La p\u00e1gina Platincasino.es/nuevo funciona como fuente din\u00e1mica para rastrear lanzamientos y confirmar fechas de llegada al mercado espa\u00f1ol."
+    }
+  ],
+  "titles_context": [
+    "Best Rated Online Casinos 2025",
+    "Online Gambling and Casino News \u27a4 Tribuna iGaming",
+    "Real Money Online Casinos 2025",
+    "MADCASINO Casino Review \u25b9 Login, Sign Up, Bonuses & ...",
+    "Best Online Casino United States: 15 + Top Rated ...",
+    "XON Casino Review \u25b9 Login, Sign Up, Bonuses & ...",
+    "Live Casinos 2025",
+    "Best Online Casino Russia: 15 + Top Rated ...",
+    "Lucky Casino Review 2025 \u2014 Honest Guide to Games ...",
+    "Best Mobile Casinos",
+    "Best Online Casinos",
+    "SLOTS AND CASINO Casino Review \u25b9 Login, Sign Up, ...",
+    "LEX Casino Review \u25b9 Login, Sign Up, Bonuses & ...",
+    "Best Online Casino Colombia: 15 + Top Rated ...",
+    "BOVADA Casino Review \u25b9 Login, Sign Up, Bonuses & ...",
+    "Online casinos in Cambodia 2025",
+    "SPINSBRO Casino Review \u25b9 Login, Sign Up, Bonuses ...",
+    "KENT Casino Review \u25b9 Login, Sign Up, Bonuses ...",
+    "GANGSTA Casino Review \u25b9 Login, Sign Up, Bonuses & ...",
+    "FLAGMAN Casino Review \u25b9 Login, Sign Up, Bonuses & ...",
+    "Best Online Casino Bahamas: 15 + Top Rated ...",
+    "ONION Casino Review \u25b9 Login, Sign Up, Bonuses ...",
+    "Best Bolivia Online Casinos",
+    "Strategies for Playing Casino Games via Mobile App",
+    "Best Online Casino Mexico: 15 + Top Rated ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.platincasino.es/nuevo that feel at home on tribuna.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): nuevo casino espa\u00f1a\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Best Rated Online Casinos 2025\n- Online Gambling and Casino News \u27a4 Tribuna iGaming\n- Real Money Online Casinos 2025\n- MADCASINO Casino Review \u25b9 Login, Sign Up, Bonuses & ...\n- Best Online Casino United States: 15 + Top Rated ...\n- XON Casino Review \u25b9 Login, Sign Up, Bonuses & ...\n- Live Casinos 2025\n- Best Online Casino Russia: 15 + Top Rated ...\n- Lucky Casino Review 2025 \u2014 Honest Guide to Games ...\n- Best Mobile Casinos\n- Best Online Casinos\n- SLOTS AND CASINO Casino Review \u25b9 Login, Sign Up, ...\n- LEX Casino Review \u25b9 Login, Sign Up, Bonuses & ...\n- Best Online Casino Colombia: 15 + Top Rated ...\n- BOVADA Casino Review \u25b9 Login, Sign Up, Bonuses & ...\n- Online casinos in Cambodia 2025\n- SPINSBRO Casino Review \u25b9 Login, Sign Up, Bonuses ...\n- KENT Casino Review \u25b9 Login, Sign Up, Bonuses ...\n- GANGSTA Casino Review \u25b9 Login, Sign Up, Bonuses & ...\n- FLAGMAN Casino Review \u25b9 Login, Sign Up, Bonuses & ...\n- Best Online Casino Bahamas: 15 + Top Rated ...\n- ONION Casino Review \u25b9 Login, Sign Up, Bonuses ...\n- Best Bolivia Online Casinos\n- Strategies for Playing Casino Games via Mobile App\n- Best Online Casino Mexico: 15 + Top Rated ...\n\nGuidance:\n1. Combine your own knowledge of tribuna.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to tribuna.com while naturally justifying a link to https://www.platincasino.es/nuevo.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude nuevo casino espa\u00f1a and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1002,
+    "completion_tokens": 1026
+  },
+  "cost_usd": 0.0816
+}

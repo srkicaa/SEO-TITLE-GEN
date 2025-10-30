@@ -1,0 +1,808 @@
+{
+  "mode": "live",
+  "task_id": "09221623-4117-0121-0000-d69a21595fa5",
+  "query": "site:back2gaming.com casino ",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Best Non-Card Casino Games",
+      "url": "https://www.back2gaming.com/guides/best-non-card-casino-games/",
+      "snippet": "May 7, 2025 \u2014 Plenty of non-card casino games offer fast action, low-pressure gameplay, and in many cases, a bit of skill alongside luck.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Which Online Casino Games Have The Best Winning ...",
+      "url": "https://www.back2gaming.com/guides/which-online-casino-games-have-the-best-winning-potential/",
+      "snippet": "Nov 19, 2024 \u2014 The biggest casino games are the ones that you are most likely going to play, so below we will discuss the basic rules of these games and then\u00a0...",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "The Thirteen Best Types of Online Casino Promotions",
+      "url": "https://www.back2gaming.com/gaming/the-thirteen-best-types-of-online-casino-promotions/",
+      "snippet": "Feb 18, 2025 \u2014 With the rise in popularity of online casinos, all the much-loved games are now more accessible than ever before. Online casinos come in a\u00a0...",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino Software: Powering the Future of Online Gaming",
+      "url": "https://www.back2gaming.com/gaming/casino-software-powering-the-future-of-online-gaming/",
+      "snippet": "Sep 12, 2025 \u2014 Casino software is the technological framework that runs an online gaming platform. It includes the systems responsible for game integration\u00a0...",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Online Casino API: Practical Architecture For High-Velocity ...",
+      "url": "https://www.back2gaming.com/features/online-casino-api-sweepstakes-software-provider-integration/",
+      "snippet": "6 days ago \u2014 Design Principles That Make An Online Casino API Feel Invisible. Great infrastructure is the kind you never notice. Users tap, swipe, and scroll\u00a0...",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "How to Choose the Best Betting Sites for Esports and ...",
+      "url": "https://www.back2gaming.com/guides/how-to-choose-the-best-betting-sites-for-esports-and-casino-gaming-in-2025-a-complete-guide/",
+      "snippet": "Jun 25, 2025 \u2014 In the sections that follow, we'll break down the essential features every bettor should look for when exploring today's top online sportsbooks.",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "The Best Online Casino Games for Beginners at Sites Like ...",
+      "url": "https://www.back2gaming.com/gaming/the-best-online-casino-games-for-beginners-at-sites-like-legiano-casino/",
+      "snippet": "Jul 3, 2025 \u2014 This guide suggests a few types of games that should be suitable for beginners at Legiano casino and other websites.",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Fishin Frenzy Mechanics And Player Engagement ...",
+      "url": "https://www.back2gaming.com/gaming/fishin-frenzy-mechanics-and-player-engagement-strategies-for-online-casino-and-pc-gaming-audiences/",
+      "snippet": "7 days ago \u2014 Tailored engagement strategies for online casino and PC gaming audiences. Casino-first players tend to want feedback right away and a shot at a\u00a0...",
+      "rank_absolute": 8,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "A Guide to Playing in an Online Casino",
+      "url": "https://www.back2gaming.com/gaming/a-guide-to-playing-in-an-online-casino/",
+      "snippet": "Feb 25, 2023 \u2014 A Guide to Playing in an Online Casino \u00b7 Try out Free Games \u00b7 Pick the Best Platforms \u00b7 Wisely Manage Your Time \u00b7 Plan Your Budget \u00b7 Know the\u00a0...",
+      "rank_absolute": 9,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "Tech Power Play: Real Money Casino Excitement and ...",
+      "url": "https://www.back2gaming.com/gaming/tech-power-play-real-money-casino-excitement-and-entertainment/",
+      "snippet": "Oct 11, 2023 \u2014 Well, think of a traditional casino and all the games it offers: poker, blackjack, roulette, slots, and more. An online casino brings all these\u00a0...",
+      "rank_absolute": 10,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "The Impact of AI on the Casino Industry: Outlook for 2025",
+      "url": "https://www.back2gaming.com/ai/impact-of-ai-on-casino-industry/",
+      "snippet": "Feb 18, 2025 \u2014 Artificial intelligence (AI) is transforming industries at an astonishing speed, and the casino sector is no exception.",
+      "rank_absolute": 11,
+      "rank_group": 11,
+      "result_type": "items"
+    },
+    {
+      "title": "Top Mobile Devices for Seamless Online Casino Gaming ...",
+      "url": "https://www.back2gaming.com/gaming/top-mobile-devices-for-seamless-online-casino-gaming-in-2024/",
+      "snippet": "Sep 17, 2024 \u2014 Whether you like to play slots, poker, or live dealer games, the top mobile devices in 2024 are set up for speed, graphics, and connection.",
+      "rank_absolute": 12,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "The Pros and Cons of Playing at Online Casinos",
+      "url": "https://www.back2gaming.com/gaming/the-pros-and-cons-of-playing-at-online-casinos/",
+      "snippet": "Jan 20, 2025 \u2014 An online casino is a digital platform where players can enjoy their favorite games like slots, poker, and blackjack from virtually anywhere.",
+      "rank_absolute": 13,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino Myths Debunked: Separating Fact from Fiction",
+      "url": "https://www.back2gaming.com/guides/casino-myths-debunked-separating-fact-from-fiction/",
+      "snippet": "Oct 30, 2024 \u2014 Discover the truth behind popular casino myths! From \u201crigged games\u201d to strategies for winning big, we debunk the biggest misconceptions in\u00a0...",
+      "rank_absolute": 14,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "What Are the Best Casino Apps to Play",
+      "url": "https://www.back2gaming.com/gaming/what-are-the-best-casino-apps-to-play/",
+      "snippet": "Mar 18, 2023 \u2014 From slots and poker to blackjack and roulette, these apps provide exciting games with plenty of opportunities to win big! So if you're ready\u00a0...",
+      "rank_absolute": 15,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "How Free Spins Enhance Online Casino Play",
+      "url": "https://www.back2gaming.com/gaming/how-free-spins-enhance-online-casino-play/",
+      "snippet": "May 31, 2025 \u2014 There are hundreds of slots presented by online casinos and each game and its mechanics, visuals, theme and sound design are unique. If you've\u00a0...",
+      "rank_absolute": 16,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "How to Win at Online Popular Casino Games",
+      "url": "https://www.back2gaming.com/guides/how-to-win-at-online-popular-casino-games-a-beginners-guide/",
+      "snippet": "Jul 23, 2022 \u2014 If you are a newbie to online gambling or if you would like to improve betting skills, you will definitely need our casino guide.",
+      "rank_absolute": 17,
+      "rank_group": 17,
+      "result_type": "items"
+    },
+    {
+      "title": "Pin Up App \u2013 The Reliable Casino App",
+      "url": "https://www.back2gaming.com/software/mobile-apps/pin-up-app-the-reliable-casino-app/",
+      "snippet": "Feb 22, 2023 \u2014 Pin Up Casino app is a modern software for gambling and slots lovers. You can find a variety of games, take advantage of cool bonuses and even bet on cricket.",
+      "rank_absolute": 18,
+      "rank_group": 18,
+      "result_type": "items"
+    },
+    {
+      "title": "How Tech and AI are Revolutionizing Online Casino ...",
+      "url": "https://www.back2gaming.com/ai/how-tech-and-ai-are-revolutionizing-online-casino-experience/",
+      "snippet": "Aug 15, 2023 \u2014 Here's how tech and AI are changing the online experience, from enhanced security to personalized recommendations.",
+      "rank_absolute": 19,
+      "rank_group": 19,
+      "result_type": "items"
+    },
+    {
+      "title": "The Best Withdrawal Strategies to Make Money at Online ...",
+      "url": "https://www.back2gaming.com/gaming/the-best-withdrawal-strategies-to-make-money-at-online-casinos/",
+      "snippet": "Dec 2, 2024 \u2014 The Best Withdrawal Strategies to Make Money at Online Casinos \u00b7 Start with a Budget You Can Stick To \u00b7 Different Cash-Out Policies \u00b7 Understand\u00a0...",
+      "rank_absolute": 20,
+      "rank_group": 20,
+      "result_type": "items"
+    },
+    {
+      "title": "Games or Mini-games that Best Simulate Gambling",
+      "url": "https://www.back2gaming.com/gaming/games-or-mini-games-that-best-simulate-gambling/",
+      "snippet": "Oct 2, 2024 \u2014 In this article, we'll present the best games and mini-games that simulate gambling, explaining how they replicate the real casino experience.",
+      "rank_absolute": 21,
+      "rank_group": 21,
+      "result_type": "items"
+    },
+    {
+      "title": "Popular Casino Games That Have Been Adapted From ...",
+      "url": "https://www.back2gaming.com/gaming/popular-casino-games-that-have-been-adapted-from-video-games/",
+      "snippet": "May 17, 2023 \u2014 The theme of casinos in computer and video games appears frequently. Of course, the detailing of such fics is rarely specific \u2013 in racing or\u00a0...",
+      "rank_absolute": 22,
+      "rank_group": 22,
+      "result_type": "items"
+    },
+    {
+      "title": "Best Online Casino Games Released in 2022",
+      "url": "https://www.back2gaming.com/games/best-online-casino-games-released-in-2022/",
+      "snippet": "Aug 18, 2022 \u2014 We've compiled a list of the most exciting online casino games released in 2022. If you're unsure which online casino games to play,\u00a0...",
+      "rank_absolute": 23,
+      "rank_group": 23,
+      "result_type": "items"
+    },
+    {
+      "title": "Crypto Casino Gaming Review in South Korea",
+      "url": "https://www.back2gaming.com/gaming/crypto-casino-gaming-review-in-south-korea-exploring-features-tech-innovations/",
+      "snippet": "Sep 11, 2025 \u2014 In this review, readers will explore the standout features of crypto casino gaming in South Korea, including user interfaces, security measures,\u00a0...",
+      "rank_absolute": 24,
+      "rank_group": 24,
+      "result_type": "items"
+    },
+    {
+      "title": "Top Bitcoin Casinos: Play and Win with Cryptocurrency",
+      "url": "https://www.back2gaming.com/cryptocurrency/top-bitcoin-casinos-play-and-win-with-cryptocurrency/",
+      "snippet": "Nov 27, 2024 \u2014 Cryptocurrencies are experiencing rapid growth on a global scale, which directly affects their use in online casinos.",
+      "rank_absolute": 25,
+      "rank_group": 25,
+      "result_type": "items"
+    },
+    {
+      "title": "Esports Betting vs. Online Casino Gambling: Where Can Gamers ...",
+      "url": "https://www.back2gaming.com/gaming/esports/esports-betting-vs-online-casino-gambling-where-can-gamers-win-big/",
+      "snippet": "Online casinos offer a virtual version of traditional casinos, allowing players to engage in games and win big from anywhere, anytime. Think of blackjack, slots\u00a0...",
+      "rank_absolute": 26,
+      "rank_group": 26,
+      "result_type": "items"
+    },
+    {
+      "title": "3 Reel Slots: A Comprehensive Guide for Beginners",
+      "url": "https://www.back2gaming.com/guides/3-reel-slots-a-comprehensive-guide-for-beginners/",
+      "snippet": "Oct 24, 2024 \u2014 These classic machines have adapted over the years, maintaining the charm of traditional casino play while adding new twists to enhance your\u00a0...",
+      "rank_absolute": 27,
+      "rank_group": 27,
+      "result_type": "items"
+    },
+    {
+      "title": "How Bitcoin Casinos Use Blockchain Technology to ...",
+      "url": "https://www.back2gaming.com/cryptocurrency/how-bitcoin-casinos-use-blockchain-technology-to-ensure-fair-play/",
+      "snippet": "Dec 17, 2024 \u2014 Blockchain technology has completely changed the game, letting players actually check if they're getting a fair shake at the tables. Today, we'\u00a0...",
+      "rank_absolute": 28,
+      "rank_group": 28,
+      "result_type": "items"
+    },
+    {
+      "title": "6 Most Popular Online Slots Series",
+      "url": "https://www.back2gaming.com/gaming/6-most-popular-online-slots-series/",
+      "snippet": "Sep 14, 2020 \u2014 King Kong Fury has also gained popularity because it is one of the most straightforward slot series you will find in any online casino. You just\u00a0...",
+      "rank_absolute": 29,
+      "rank_group": 29,
+      "result_type": "items"
+    },
+    {
+      "title": "Real-Time Strategy (RTS) Games vs. Online Casino Games",
+      "url": "https://www.back2gaming.com/gaming/real-time-strategy-rts-games-vs-online-casino-games-which-tests-your-reactions-more/",
+      "snippet": "Mar 28, 2025 \u2014 Casino games aren't just about luck. They require fast reactions and smart decisions, too. Games like poker, blackjack, and live roulette force\u00a0...",
+      "rank_absolute": 30,
+      "rank_group": 30,
+      "result_type": "items"
+    },
+    {
+      "title": "Most-Watched Crypto Casino Games on Twitch and Kick",
+      "url": "https://www.back2gaming.com/gaming/most-watched-crypto-casino-games-on-twitch-and-kick/",
+      "snippet": "Jul 15, 2025 \u2014 Crypto casino streams are exploding in popularity. Platforms like Twitch and Kick are home to high-stakes slots, live game sessions, and nonstop chat\u00a0...",
+      "rank_absolute": 31,
+      "rank_group": 31,
+      "result_type": "items"
+    },
+    {
+      "title": "The Benefits of Casino Bonuses and Promotions",
+      "url": "https://www.back2gaming.com/features/the-benefits-of-casino-bonuses-and-promotions/",
+      "snippet": "Feb 22, 2023 \u2014 Online casino promotions give players the potential to win extra money. Whether it's a 100%, 200%, or 300% bonus, you'll have spare time to play\u00a0...",
+      "rank_absolute": 32,
+      "rank_group": 32,
+      "result_type": "items"
+    },
+    {
+      "title": "Valuable Information About the Best Binance Coin Casino ...",
+      "url": "https://www.back2gaming.com/cryptocurrency/valuable-information-about-the-best-binance-coin-casino-bonuses/",
+      "snippet": "Sep 28, 2022 \u2014 So, what is a Binance Coin casino? A Binance Coin casino is an online gambling website that accepts deposits and pays out winnings in the\u00a0...",
+      "rank_absolute": 33,
+      "rank_group": 33,
+      "result_type": "items"
+    },
+    {
+      "title": "Exploring the Allure of Sweepstakes Casinos",
+      "url": "https://www.back2gaming.com/gaming/exploring-the-allure-of-sweepstakes-casinos/",
+      "snippet": "Mar 5, 2024 \u2014 Sweepstakes casinos have carved a unique niche within the online world, providing a legal and engaging form of casino entertainment.",
+      "rank_absolute": 34,
+      "rank_group": 34,
+      "result_type": "items"
+    },
+    {
+      "title": "The Seamless Fusion Of Betting Apps And Casino ...",
+      "url": "https://www.back2gaming.com/gaming/the-seamless-fusion-of-betting-apps-and-casino-excitement/",
+      "snippet": "Feb 7, 2024 \u2014 Sports fans and casino aficionados are discovering that the best in wagering entertainment is now just a tap away.",
+      "rank_absolute": 35,
+      "rank_group": 35,
+      "result_type": "items"
+    },
+    {
+      "title": "The Ultimate Canadian Casino List: CasinoRIX's Top ...",
+      "url": "https://www.back2gaming.com/gaming/the-ultimate-canadian-casino-list-casinorixs-top-picks-for-gamblers/",
+      "snippet": "Feb 4, 2025 \u2014 Only Win Casino: games from over 200 providers, minimum $15 deposits, a generous selection of bonuses. Trips Casino: outstanding user rating\u00a0...",
+      "rank_absolute": 36,
+      "rank_group": 36,
+      "result_type": "items"
+    },
+    {
+      "title": "Jeetwin Casino Review - About Organization, Bonuses ...",
+      "url": "https://www.back2gaming.com/gaming/jeetwin-casino-review-about-organization-bonuses-gaming-features/",
+      "snippet": "Dec 9, 2022 \u2014 Jeetwin is one of the best online casinos, sports betting and entertainment games in Bangladesh. This online casino offers an impressive\u00a0...",
+      "rank_absolute": 37,
+      "rank_group": 37,
+      "result_type": "items"
+    },
+    {
+      "title": "NHL-Branded Casino Games Launched by BetMGM",
+      "url": "https://www.back2gaming.com/sports/nhl-branded-casino-games-launched-by-betmgm/",
+      "snippet": "Nov 18, 2022 \u2014 The NHL-branded casino games from BetMGM, a well-known sports betting and online gaming operator have gone live.",
+      "rank_absolute": 38,
+      "rank_group": 38,
+      "result_type": "items"
+    },
+    {
+      "title": "Tips and Tricks to Mastering Online Casino Games",
+      "url": "https://www.back2gaming.com/guides/tips-and-tricks-to-mastering-online-casino-games/",
+      "snippet": "Jul 4, 2022 \u2014 Here are some tips, tricks, and strategies that will help you learn to play online casino games better than anyone else.",
+      "rank_absolute": 39,
+      "rank_group": 39,
+      "result_type": "items"
+    },
+    {
+      "title": "The Metaverse's Impact on Online Casinos: How Virtual ...",
+      "url": "https://www.back2gaming.com/games-industry/the-metaverses-impact-on-online-casinos-how-virtual-reality-is-changing-the-game/",
+      "snippet": "Feb 22, 2023 \u2014 Metaverse offers an extensive portfolio of online casino software such as slots, roulette, and blackjack to keep players entertained.",
+      "rank_absolute": 40,
+      "rank_group": 40,
+      "result_type": "items"
+    },
+    {
+      "title": "Review - Dunder Online Casino",
+      "url": "https://www.back2gaming.com/review/review-dunder-online-casino/",
+      "snippet": "Feb 16, 2018 \u2014 ... slot and casino table games on the market. Apart from the awesome variety of slot games, you will find plenty of traditional games as well\u00a0...",
+      "rank_absolute": 41,
+      "rank_group": 41,
+      "result_type": "items"
+    },
+    {
+      "title": "The Best Online Casino Slot Providers",
+      "url": "https://www.back2gaming.com/gaming/the-best-online-casino-slot-providers/",
+      "snippet": "Feb 24, 2022 \u2014 In this article, you have learned that online casinos aren't the ones developing their slots, but that there are special companies that do\u00a0...",
+      "rank_absolute": 42,
+      "rank_group": 42,
+      "result_type": "items"
+    },
+    {
+      "title": "Online Casinos Vs Physical Casinos: 5 Advantages To ...",
+      "url": "https://www.back2gaming.com/gaming/online-casinos-vs-physical-casinos-5-advantages-to-stay-home-and-play/",
+      "snippet": "Jul 8, 2022 \u2014 There has always been a significant amount of debate regarding whether online casino platforms are better or worse than physical casinos.",
+      "rank_absolute": 43,
+      "rank_group": 43,
+      "result_type": "items"
+    },
+    {
+      "title": "PIX Casino: A New Online Casino with Unique Payment ...",
+      "url": "https://www.back2gaming.com/gaming/pix-casino-a-new-online-casino-with-unique-payment-options-and-features/",
+      "snippet": "Apr 26, 2023 \u2014 One of the standout features of PIX Casino is its wide range of payment options, which includes traditional methods like credit and debit cards,\u00a0...",
+      "rank_absolute": 44,
+      "rank_group": 44,
+      "result_type": "items"
+    },
+    {
+      "title": "The Most Popular Slots in Online Casinos",
+      "url": "https://www.back2gaming.com/gaming/the-most-popular-slots-in-online-casinos/",
+      "snippet": "May 25, 2022 \u2014 Highest-Played Slots by Online Casino Gamers. Here are the highest played online slot games: Starburst. Starburst remains the most played slot\u00a0...",
+      "rank_absolute": 45,
+      "rank_group": 45,
+      "result_type": "items"
+    },
+    {
+      "title": "How Have eSports Impacted the Online Casino Industry in ...",
+      "url": "https://www.back2gaming.com/guides/how-have-esports-impacted-the-online-casino-industry-in-the-philippines-in-2025/",
+      "snippet": "eSports and Online Gambling: A Digital Convergence \u00b7 eSports betting (wagering on professional matches), \u00b7 Gamified casino games with eSports-style leaderboards,\u00a0...",
+      "rank_absolute": 46,
+      "rank_group": 46,
+      "result_type": "items"
+    },
+    {
+      "title": "Ozwin Casino Review",
+      "url": "https://www.back2gaming.com/gaming/ozwin-casino-review/",
+      "snippet": "Jun 21, 2022 \u2014 In addition to slots and slot machines as we wrote earlier online casino Ozwin can offer and other gambling games. Another category of games\u00a0...",
+      "rank_absolute": 47,
+      "rank_group": 47,
+      "result_type": "items"
+    },
+    {
+      "title": "What are the Best Online Casino Games for Beginners?",
+      "url": "https://www.back2gaming.com/guides/what-are-the-best-online-casino-games-for-beginners/",
+      "snippet": "May 14, 2022 \u2014 ... casino games, from slots and poker to blackjack and roulette. Once you've decided on a game, research the different online casinos that offer it\u00a0...",
+      "rank_absolute": 48,
+      "rank_group": 48,
+      "result_type": "items"
+    },
+    {
+      "title": "What Online Casino Game has the Best RTP?",
+      "url": "https://www.back2gaming.com/games/what-online-casino-game-has-the-best-rtp/",
+      "snippet": "Aug 18, 2022 \u2014 Three Casino Games with the Best Odds & RTP. Here, we listed the types of casino slots that offer the best chances of being victorious. Without\u00a0...",
+      "rank_absolute": 49,
+      "rank_group": 49,
+      "result_type": "items"
+    },
+    {
+      "title": "The Most Popular Online Casino Games in 2022",
+      "url": "https://www.back2gaming.com/games-industry/the-most-popular-online-casino-games-in-2022/",
+      "snippet": "Jan 20, 2022 \u2014 As a result, online versions of Craps, Video Poker, Baccarat, Roulette and Blackjack will remain in demand among online casino players.",
+      "rank_absolute": 50,
+      "rank_group": 50,
+      "result_type": "items"
+    },
+    {
+      "title": "How to Combine Esports and Casino Gaming for Maximum Fun",
+      "url": "https://www.back2gaming.com/gaming/esports/how-to-combine-esports-and-casino-gaming-for-maximum-fun-tips-for-gamers-and-casino-fans/",
+      "snippet": "The World of Casino Gaming. Casino gaming includes traditional gambling activities such as poker, slots, and roulette. Technology has brought these\u00a0...",
+      "rank_absolute": 51,
+      "rank_group": 51,
+      "result_type": "items"
+    },
+    {
+      "title": "Exploring the Most Popular Casino Games in Korea",
+      "url": "https://www.back2gaming.com/gaming/exploring-the-most-popular-casino-games-in-korea/",
+      "snippet": "Jan 3, 2025 \u2014 Baccarat is one of the favorite games in Korean casinos. It is loved for its simplicity and the low house edge, which gives a greater advantage\u00a0...",
+      "rank_absolute": 52,
+      "rank_group": 52,
+      "result_type": "items"
+    },
+    {
+      "title": "The Evolution Of Online Casino Software",
+      "url": "https://www.back2gaming.com/features/the-evolution-of-online-casino-software/",
+      "snippet": "Jan 20, 2023 \u2014 The world of online gambling has seen significant advancements in recent years, particularly in the area of casino software.",
+      "rank_absolute": 53,
+      "rank_group": 53,
+      "result_type": "items"
+    },
+    {
+      "title": "A Look At The Decentraland Blockchain Virtual Casino",
+      "url": "https://www.back2gaming.com/blockchain-gaming/a-look-at-the-decentraland-blockchain-virtual-casino/",
+      "snippet": "Mar 11, 2022 \u2014 Virtual casinos are becoming more and more popular, and Decentraland is leading the way with its new blockchain-based casino.",
+      "rank_absolute": 54,
+      "rank_group": 54,
+      "result_type": "items"
+    },
+    {
+      "title": "Gamble Like 007: Favorite Casino Scenes in James Bond ...",
+      "url": "https://www.back2gaming.com/movies-series/gamble-like-007-favorite-casino-scenes-in-james-bond-movies/",
+      "snippet": "Jan 22, 2022 \u2014 Another thing often seen in the movies is agent 007 visiting different casinos. The movie franchise originated from books, and the first one was\u00a0...",
+      "rank_absolute": 55,
+      "rank_group": 55,
+      "result_type": "items"
+    },
+    {
+      "title": "Top iPhone Casino Apps For Canadians",
+      "url": "https://www.back2gaming.com/gaming/top-iphone-casino-apps-for-canadians/",
+      "snippet": "Apr 17, 2023 \u2014 Best Casino Apps for iPhone. Are you an iPhone user and wondering which mobile casinos are the best for Canadian players? Choosing the utmost\u00a0...",
+      "rank_absolute": 56,
+      "rank_group": 56,
+      "result_type": "items"
+    },
+    {
+      "title": "100 Deposit Game India \u2013 Best \u20b9100 Casino Games for ...",
+      "url": "https://www.back2gaming.com/gaming/explore-top-%E2%82%B9100-deposit-games-in-india-for-affordable-entertainment/",
+      "snippet": "Jan 11, 2025 \u2014 Stop wondering which casinos are the most reliable and take a look at the list of minimum deposit Indian online casino sites that we offer in\u00a0...",
+      "rank_absolute": 57,
+      "rank_group": 57,
+      "result_type": "items"
+    },
+    {
+      "title": "Europe's Most Impactful Gambling Regulators",
+      "url": "https://www.back2gaming.com/games-industry/europes-most-impactful-gambling-regulators/",
+      "snippet": "Aug 25, 2023 \u2014 video poker betting;; slot machines;; live casino. Regulation is carried out under the law on gambling, which was adopted by the Parliament of\u00a0...",
+      "rank_absolute": 58,
+      "rank_group": 58,
+      "result_type": "items"
+    },
+    {
+      "title": "Mobile Apps Archives",
+      "url": "https://www.back2gaming.com/software/mobile-apps/",
+      "snippet": "The official Google shop prohibits the publication of gambling-themed software. Users can Parimatch app download via the mobile version of the website. It is\u00a0...",
+      "rank_absolute": 59,
+      "rank_group": 59,
+      "result_type": "items"
+    },
+    {
+      "title": "The Next Level of Slots: Unique Video Game Adventures",
+      "url": "https://www.back2gaming.com/gaming/the-next-level-of-slots-unique-video-game-adventures/",
+      "snippet": "Mar 18, 2025 \u2014 ... casino for players seeking more than just the standard slot experience with freespins. ... game adventure slots. Beyond conventional\u00a0...",
+      "rank_absolute": 60,
+      "rank_group": 60,
+      "result_type": "items"
+    },
+    {
+      "title": "Perks of Using a Gambling Verification Website",
+      "url": "https://www.back2gaming.com/guides/perks-of-using-a-gambling-verification-website/",
+      "snippet": "Oct 28, 2023 \u2014 Since they first became available, online casinos are now widely used for gambling. Particularly for those who can never visit actual\u00a0...",
+      "rank_absolute": 61,
+      "rank_group": 61,
+      "result_type": "items"
+    },
+    {
+      "title": "The Rise of CS2 Case Opening and its Connection to ...",
+      "url": "https://www.back2gaming.com/gaming/the-rise-of-cs2-case-opening-and-its-connection-to-csgo-gambling-sites/",
+      "snippet": "Sep 4, 2025 \u2014 At the same time, csgo gambling sites have transformed the way fans engage with case opening, blending traditional unboxing mechanics with\u00a0...",
+      "rank_absolute": 62,
+      "rank_group": 62,
+      "result_type": "items"
+    },
+    {
+      "title": "Most Popular Gaming Websites in New Zealand",
+      "url": "https://www.back2gaming.com/gaming/most-popular-gaming-websites-in-new-zealand/",
+      "snippet": "Mar 26, 2025 \u2014 The landscape is vibrant, with plenty of video game platforms, online casinos, and other gaming-related sites that Kiwis frequent. Whatever your\u00a0...",
+      "rank_absolute": 63,
+      "rank_group": 63,
+      "result_type": "items"
+    },
+    {
+      "title": "The Difference Between Online And Land-based Blackjack",
+      "url": "https://www.back2gaming.com/gaming/the-difference-between-online-and-land-based-blackjack/",
+      "snippet": "May 25, 2023 \u2014 For example, Vegas and Macau casinos offer great odds on their blackjack games. ... blackjack table and play your favorite casino game. You will\u00a0...",
+      "rank_absolute": 64,
+      "rank_group": 64,
+      "result_type": "items"
+    },
+    {
+      "title": "Comparing Poker Variants at legiano: Traditional Vs. ...",
+      "url": "https://www.back2gaming.com/gaming/comparing-poker-variants-at-legiano-traditional-vs-modern-gameplay/",
+      "snippet": "May 7, 2025 \u2014 Understanding these variations helps players appreciate the depth and strategy involved in poker gameplay. As a staple of the casino industry,\u00a0...",
+      "rank_absolute": 65,
+      "rank_group": 65,
+      "result_type": "items"
+    },
+    {
+      "title": "Famous Anime Casino Games You Should Try",
+      "url": "https://www.back2gaming.com/anime-manga/famous-anime-casino-games-you-should-try/",
+      "snippet": "Jan 25, 2024 \u2014 Here's a list of the 7 anime casino games you should try in 2024. Moon Princess Moon Princess is a Play'n GO slot featuring a 5\u00d75 grid and no paylines.",
+      "rank_absolute": 66,
+      "rank_group": 66,
+      "result_type": "items"
+    },
+    {
+      "title": "Grand Rush Casino Online Review: Unlocking the VIP ...",
+      "url": "https://www.back2gaming.com/gaming/grand-rush-casino-online-review-unlocking-the-vip-experience/",
+      "snippet": "Feb 18, 2025 \u2014 Grand Rush Casino burst onto the online gambling scene with a mission to provide a premium gaming experience for its players. Licensed by the\u00a0...",
+      "rank_absolute": 67,
+      "rank_group": 67,
+      "result_type": "items"
+    },
+    {
+      "title": "Top 5 Video Game-Themed Slots Taking Casinos by Storm",
+      "url": "https://www.back2gaming.com/gaming/gaming-nostalgia-meets-jackpots-top-5-video-game-themed-slots-taking-casinos-by-storm/",
+      "snippet": "Mar 11, 2025 \u2014 Video game-themed slot machines are reshaping the casino landscape, blending retro gaming and modern gambling into a unique form of\u00a0...",
+      "rank_absolute": 68,
+      "rank_group": 68,
+      "result_type": "items"
+    },
+    {
+      "title": "Al Role for a Safer and Better Gambling Experience",
+      "url": "https://www.back2gaming.com/it/al-role-for-a-safer-and-better-gambling-experience/",
+      "snippet": "Dec 9, 2022 \u2014 So whether you like to play real online slots or Jackpots, AI can ... casino floor, increasing the chances of getting caught in the act.",
+      "rank_absolute": 69,
+      "rank_group": 69,
+      "result_type": "items"
+    },
+    {
+      "title": "Curacao Licensed Casinos vs. Other Jurisdictions",
+      "url": "https://www.back2gaming.com/gaming/curacao-licensed-casinos-vs-other-jurisdictions-key-differences/",
+      "snippet": "Feb 4, 2025 \u2014 One factor that sets online casinos apart is their licensing. A casino's license not only indicates whether it's operating legally but also\u00a0...",
+      "rank_absolute": 70,
+      "rank_group": 70,
+      "result_type": "items"
+    },
+    {
+      "title": "Optimize Your Gaming PC for Streaming, Mining, and ...",
+      "url": "https://www.back2gaming.com/gaming/optimize-your-gaming-pc-for-streaming-mining-and-playing-on-crypto-casinos/",
+      "snippet": "May 14, 2025 \u2014 Optimal Interaction with Crypto Casinos. Before you even begin optimizing, the choice of platforms is equally important. Crypto casinos exist in\u00a0...",
+      "rank_absolute": 71,
+      "rank_group": 71,
+      "result_type": "items"
+    },
+    {
+      "title": "White Label iGaming Platforms: A Smarter Way to Launch ...",
+      "url": "https://www.back2gaming.com/gaming/white-label-igaming-platforms-a-smarter-way-to-launch-your-casino-business/",
+      "snippet": "Aug 28, 2025 \u2014 These platforms provide a fast, affordable way for entrepreneurs and businesses to enter the online casino space with a fully operational\u00a0...",
+      "rank_absolute": 72,
+      "rank_group": 72,
+      "result_type": "items"
+    },
+    {
+      "title": "How Data Encryption Builds Trust in Online Casinos",
+      "url": "https://www.back2gaming.com/cybersecurity/how-data-encryption-builds-trust-in-online-casinos/",
+      "snippet": "Sep 4, 2025 \u2014 Data encryption is pivotal in building trust within online casinos by protecting sensitive player information and ensuring a secure gambling\u00a0...",
+      "rank_absolute": 73,
+      "rank_group": 73,
+      "result_type": "items"
+    },
+    {
+      "title": "Exploring the World of Gaming: Unveiling the Best Paying ...",
+      "url": "https://www.back2gaming.com/gaming/exploring-the-world-of-gaming-unveiling-the-best-paying-slots-by-novomatic/",
+      "snippet": "Sep 26, 2023 \u2014 With a solid RTP of 97.07%, this slot promises thrilling gameplay with the potential for substantial rewards. 3. Lucky Lady's Charm Deluxe \u2013 RTP\u00a0...",
+      "rank_absolute": 74,
+      "rank_group": 74,
+      "result_type": "items"
+    },
+    {
+      "title": "Best Crypto To Use In Online Casinos in 2024",
+      "url": "https://www.back2gaming.com/cryptocurrency/best-crypto-to-use-in-online-casinos-in-2024/",
+      "snippet": "Dec 30, 2023 \u2014 As we approach the end of 2023 and look to an exciting new year in online gambling, what are going to be the best cryptocurrencies to use at\u00a0...",
+      "rank_absolute": 75,
+      "rank_group": 75,
+      "result_type": "items"
+    },
+    {
+      "title": "Exploring the Thrills of Online Casino Fish Shooting Games",
+      "url": "https://www.back2gaming.com/gaming/hooked-on-shooting-fish-exploring-the-thrills-of-online-casino-fish-shooting-games/",
+      "snippet": "May 26, 2023 \u2014 Unlike traditional casino games like blackjack or roulette, shooting fish games require a different set of skills and strategies. Players\u00a0...",
+      "rank_absolute": 76,
+      "rank_group": 76,
+      "result_type": "items"
+    },
+    {
+      "title": "Aviator Game Download App for Free on APK, iOS",
+      "url": "https://www.back2gaming.com/review/mobile/aviator-crash-betting-app-download-now/",
+      "snippet": "Dec 21, 2023 \u2014 Use the aviator game to fly across the sky with a red airplane trying to catch the maximum multiplier. Just one click of the \u201cStart\u201d button\u00a0...",
+      "rank_absolute": 77,
+      "rank_group": 77,
+      "result_type": "items"
+    },
+    {
+      "title": "Best iOS Gaming Apps for Canadians Based on 2024 ...",
+      "url": "https://www.back2gaming.com/review/mobile/best-ios-gaming-apps-for-canadians-based-on-2024-rankings/",
+      "snippet": "Dec 24, 2024 \u2014 Whether you're into adrenaline-pumping races, high-octane fights, relaxing board games, brain-teasing trivia, or explosive casino games, there's\u00a0...",
+      "rank_absolute": 78,
+      "rank_group": 78,
+      "result_type": "items"
+    },
+    {
+      "title": "Understanding of Telegram Pokies for Aussie Gamblers 2024",
+      "url": "https://www.back2gaming.com/gaming/comprehensive-review-of-telegram-pokies/",
+      "snippet": "Feb 27, 2024 \u2014 Telegram pokies are casino games you can access through the Telegram messaging application. Online casinos integrate their services with this messenger and\u00a0...",
+      "rank_absolute": 79,
+      "rank_group": 79,
+      "result_type": "items"
+    },
+    {
+      "title": "What is the Most Common Dress Code for Each Casino ...",
+      "url": "https://www.back2gaming.com/games-industry/what-is-the-most-common-dress-code-for-each-casino-employee/",
+      "snippet": "Jun 9, 2023 \u2014 Dealers are expected to dress in formal attire, which includes a long-sleeved shirt, dress pants, and dress shoes.",
+      "rank_absolute": 80,
+      "rank_group": 80,
+      "result_type": "items"
+    },
+    {
+      "title": "The Ultimate Gaming Crossover: From PC Builds to Online ...",
+      "url": "https://www.back2gaming.com/gaming/the-ultimate-gaming-crossover-from-pc-builds-to-online-casino-thrills/",
+      "snippet": "Mar 18, 2025 \u2014 As gaming culture evolves, many enthusiasts are exploring new ways to enjoy digital entertainment. Online casinos have entered the mix,\u00a0...",
+      "rank_absolute": 81,
+      "rank_group": 81,
+      "result_type": "items"
+    },
+    {
+      "title": "Top PC Hardware Upgrades for Lovers of Slot Sites",
+      "url": "https://www.back2gaming.com/review/pc-games/top-pc-hardware-upgrades-for-lovers-of-slot-sites/",
+      "snippet": "Dec 6, 2024 \u2014 PC Hardware Upgrades You Can Make For Best Slot Experience. #1 Graphics Card Upgrade. If your sole intention is to enjoy slots at online slot\u00a0...",
+      "rank_absolute": 82,
+      "rank_group": 82,
+      "result_type": "items"
+    },
+    {
+      "title": "Top Revolut Casinos",
+      "url": "https://www.back2gaming.com/guides/top-revolut-casinos/",
+      "snippet": "Aug 25, 2023 \u2014 As always, it's crucial to do your due diligence and choose platforms that align with your gaming preferences and financial comfort.",
+      "rank_absolute": 83,
+      "rank_group": 83,
+      "result_type": "items"
+    },
+    {
+      "title": "Most Exciting Poker Tournaments 2023",
+      "url": "https://www.back2gaming.com/gaming/most-exciting-poker-tournaments-2023/",
+      "snippet": "Mar 23, 2023 \u2014 Some of these tournaments include the World Series of Poker (WSOP) in Las Vegas, European Poker Tour (EPT), Asia Pacific Poker Tour (APPT),\u00a0...",
+      "rank_absolute": 84,
+      "rank_group": 84,
+      "result_type": "items"
+    },
+    {
+      "title": "Back2Gaming",
+      "url": "https://www.back2gaming.com/",
+      "snippet": "Back2Gaming - The most advanced PC review website in Southeast Asia: PC and gaming news, reviews and analysis as well as market outlook.",
+      "rank_absolute": 85,
+      "rank_group": 85,
+      "result_type": "items"
+    },
+    {
+      "title": "How to Use Google Pay in Online Casinos?",
+      "url": "https://www.back2gaming.com/guides/how-to-use-google-pay-in-online-casinos/",
+      "snippet": "Jul 19, 2022 \u2014 Open the GooglePay app on your smartphone & copy your UPI ID. Use the UPI payment portal to make a payment. Accept the GooglePay notification.",
+      "rank_absolute": 86,
+      "rank_group": 86,
+      "result_type": "items"
+    },
+    {
+      "title": "Top 7 Casino-Themed Video Games You Should Play in ...",
+      "url": "https://www.back2gaming.com/gaming/top-7-casino-themed-video-games-you-should-play-in-2025/",
+      "snippet": "Feb 18, 2025 \u2014 1. Red Dead Redemption 2 (Poker and Blackjack) \u00b7 2. Grand Theft Auto V (The Diamond Casino & Resort) \u00b7 3. The Sims 3: Las Vegas Expansion \u00b7 4.",
+      "rank_absolute": 87,
+      "rank_group": 87,
+      "result_type": "items"
+    },
+    {
+      "title": "How Sweepstake Casinos Work: The Ultimate Guide",
+      "url": "https://www.back2gaming.com/guides/how-sweepstake-casinos-work-the-ultimate-guide/",
+      "snippet": "Dec 12, 2024 \u2014 Sweepstakes casinos are online platforms where you can enjoy a wide range of casino-style games, such as slots, poker, blackjack, and more.",
+      "rank_absolute": 88,
+      "rank_group": 88,
+      "result_type": "items"
+    },
+    {
+      "title": "Lopebet Review: Indian Online Casino",
+      "url": "https://www.back2gaming.com/gaming/lopebet-review-indian-online-casino/",
+      "snippet": "Apr 7, 2024 \u2014 Lopebet being among the top online casinos in India enhances the gaming journey with a suite of bonuses and promotions. Welcome Bonuses and\u00a0...",
+      "rank_absolute": 89,
+      "rank_group": 89,
+      "result_type": "items"
+    },
+    {
+      "title": "Top 7 Roulette Strategies for Beginners",
+      "url": "https://www.back2gaming.com/gaming/top-7-roulette-strategies-for-beginners/",
+      "snippet": "Jul 2, 2023 \u2014 Email. A Close Up Of A Casino Rouleet. Is Roulette a money sink or a ... Roulette Strategy at Non GamStop Casinos 1: Fisher Roulette Strategy.",
+      "rank_absolute": 90,
+      "rank_group": 90,
+      "result_type": "items"
+    },
+    {
+      "title": "What Is the Difference Between Video Games and ...",
+      "url": "https://www.back2gaming.com/games/what-is-the-difference-between-video-games-and-gambling/",
+      "snippet": "May 26, 2022 \u2014 Although similar in many ways, gambling and gaming are two different things. The advantages, disadvantages, differences, and similarities\u00a0...",
+      "rank_absolute": 91,
+      "rank_group": 91,
+      "result_type": "items"
+    },
+    {
+      "title": "NBA 2K25 Is an Energy-Packed Blast",
+      "url": "https://www.back2gaming.com/gaming/nba-2k25-is-an-energy-packed-blast/",
+      "snippet": "Apr 24, 2025 \u2014 And hey, if you ever get burned out from the virtual court, there's always something different to try \u2013 check out some of the top casino bonuses\u00a0...",
+      "rank_absolute": 92,
+      "rank_group": 92,
+      "result_type": "items"
+    },
+    {
+      "title": "Vital Characteristics of Dependable Online Casinos",
+      "url": "https://www.back2gaming.com/guides/vital-characteristics-of-dependable-online-casinos/",
+      "snippet": "Nov 27, 2023 \u2014 High-quality online casinos similar to Mate Casino always present a wide assortment of gambling activities which is the greatest solution in\u00a0...",
+      "rank_absolute": 93,
+      "rank_group": 93,
+      "result_type": "items"
+    },
+    {
+      "title": "Can Online Gambling Actually Make You Smarter?",
+      "url": "https://www.back2gaming.com/development/can-online-gambling-actually-make-you-smarter/",
+      "snippet": "Mar 18, 2025 \u2014 Can online gambling improve your cognitive skills? Discover how strategic games like poker can enhance critical thinking, risk management,\u00a0...",
+      "rank_absolute": 94,
+      "rank_group": 94,
+      "result_type": "items"
+    },
+    {
+      "title": "Comprehensive 1Win Review for the Philippines",
+      "url": "https://www.back2gaming.com/gaming/comprehensive-review-of-1win-bookmaker-in-the-philippines/",
+      "snippet": "Jul 22, 2025 \u2014 Discover the advantages of 1Win for Filipino users, including sports betting, online casino games, attractive bonuses, and a straightforward\u00a0...",
+      "rank_absolute": 95,
+      "rank_group": 95,
+      "result_type": "items"
+    },
+    {
+      "title": "The Best Games You Can Play on a Potato PC",
+      "url": "https://www.back2gaming.com/gaming/the-best-games-you-can-play-on-a-potato-pc/",
+      "snippet": "Mar 13, 2025 \u2014 Whether you're into strategy, action, or casual gaming, there's something for everyone. Here's a look at some of the best games you can play on a potato PC.",
+      "rank_absolute": 96,
+      "rank_group": 96,
+      "result_type": "items"
+    },
+    {
+      "title": "How to Withdraw Money from Steam",
+      "url": "https://www.back2gaming.com/guides/how-to-withdraw-money-from-steam/",
+      "snippet": "May 21, 2025 \u2014 How Withdrawals Work on Online Casinos \u00b7 Log in to your account and go to the cashier or wallet. \u00b7 Select \u201cWithdraw\u201d, then choose a payout method,\u00a0...",
+      "rank_absolute": 97,
+      "rank_group": 97,
+      "result_type": "items"
+    },
+    {
+      "title": "Great Games To Play On Your Smartphone",
+      "url": "https://www.back2gaming.com/review/mobile/great-games-to-play-on-your-smartphone/",
+      "snippet": "Oct 16, 2021 \u2014 Although it may not be as simple as Solitaire, this game provides an easy-to-learn interface for gamers and non-gamers alike. Casino games. If\u00a0...",
+      "rank_absolute": 98,
+      "rank_group": 98,
+      "result_type": "items"
+    },
+    {
+      "title": "How to Relax After Work?",
+      "url": "https://www.back2gaming.com/blog/how-to-relax-after-work/",
+      "snippet": "Jun 15, 2021 \u2014 Watching TV \u00b7 Playing in Online Casinos \u00b7 Playing Computer Games \u00b7 Writing in Your Journal \u00b7 Doing Yoga or Playing Sports \u00b7 Taking a Long Bath.",
+      "rank_absolute": 99,
+      "rank_group": 99,
+      "result_type": "items"
+    },
+    {
+      "title": "Mobile Games Archives",
+      "url": "https://www.back2gaming.com/tag/mobile-games/",
+      "snippet": "Back2Gaming is a B2G Marketing Services brand. Email: bossmac@back2gaming.com \u00b7 Facebook X (Twitter) Instagram YouTube. Latest Reviews. 8.4. GIGABYTE P650SS\u00a0...",
+      "rank_absolute": 100,
+      "rank_group": 100,
+      "result_type": "items"
+    }
+  ]
+}

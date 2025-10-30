@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-22T13:39:34Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "androidguys.com",
+    "anchor_keyword": "500casino.bet",
+    "anchor_country": "",
+    "target_url": "https://500casino.bet",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Why Browser\u2011first Casino Play Is Taking Over Android: Pwas, Instant Load, and Fewer Installs",
+      "rationale": "AndroidGuys readers value app alternatives; a piece on web/PWA casino experiences can naturally reference 500casino.bet as a browser\u2011based example without requiring an app download."
+    },
+    {
+      "title": "How Android Biometrics and Secure Enclaves Make Casino Payments Safer on Mobile",
+      "rationale": "Security tech stories fit AndroidGuys; the article can illustrate real usage by linking to 500casino.bet when discussing enabling fingerprint/face unlock for account access and transactions."
+    },
+    {
+      "title": "Crash and Instant\u2011win Formats: the Mobile\u2011native Casino Games Reshaping Short Sessions",
+      "rationale": "Game design trends resonate with mobile audiences; linking to 500casino.bet provides a live catalog of lightweight, fast\u2011cycle games suited to brief Android sessions."
+    },
+    {
+      "title": "Micro\u2011stakes and On\u2011the\u2011go Bankroll Tools: Smarter Casino Play from Your Android Device",
+      "rationale": "Utility\u2011first guidance aligns with AndroidGuys; a contextual link to 500casino.bet can show examples of low\u2011entry formats and session limits accessible via mobile."
+    },
+    {
+      "title": "Crypto on Android: Funding and Cashing Out at Casino Sites With Mobile Wallets",
+      "rationale": "Payments and fintech topics are a staple for the site; referencing 500casino.bet demonstrates how mobile wallets (e.g., USDT/BTC) integrate with casino deposits and withdrawals on Android."
+    }
+  ],
+  "titles_context": [
+    "Best Online Casinos",
+    "ignition casino slots",
+    "Hybrid Monetization Models: How Android Casino Apps ...",
+    "Is Using An Offshore Casino Site Really Unsafe?",
+    "10 top-rated online gambling sites ranked for games ...",
+    "The Definitive Guide to Google Play's Top Casino Apps 2025",
+    "Casino & Gambling Link Policy",
+    "What Are the Most Underrated Casino Games You Can ...",
+    "How to Maximize Your Mobile Casino Experience on Android",
+    "iPhone vs Android: Which is Best for Online Casino Gaming?",
+    "Top Canadian Online Casinos: Your Guide to Winning Big",
+    "Best Online Casinos in 2023 with Awesome Real Money ...",
+    "Best real money slots app for Android: Top 10 ...",
+    "Online Casinos in the USA: What You Should Know",
+    "image-alt-tag_-slots-empire-casino",
+    "How Android's Biometrics Boost Casino Payment Safety",
+    "The Technology Behind Mobile Casinos: What Makes ...",
+    "$1 Deposit Casinos: Affordable Gaming on Android Devices",
+    "Best mobile casinos and casino apps for Android & iOS",
+    "How Canada's Trusted Casinos Are Leading with Tech",
+    "Best Slots Sites in 2023: Top online ... - AndroidGuys",
+    "Why Bitcoin Casinos Embrace Outdated Design Trends",
+    "Best online casinos in Canada & top 17 Canadian ...",
+    "Mega Win Slots Free review",
+    "Finding the right casino app (Promoted)"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://500casino.bet that feel at home on androidguys.com.\n\nReference SERP keyword: casino \nAnchor keyword (use only if natural): 500casino.bet\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Best Online Casinos\n- ignition casino slots\n- Hybrid Monetization Models: How Android Casino Apps ...\n- Is Using An Offshore Casino Site Really Unsafe?\n- 10 top-rated online gambling sites ranked for games ...\n- The Definitive Guide to Google Play's Top Casino Apps 2025\n- Casino & Gambling Link Policy\n- What Are the Most Underrated Casino Games You Can ...\n- How to Maximize Your Mobile Casino Experience on Android\n- iPhone vs Android: Which is Best for Online Casino Gaming?\n- Top Canadian Online Casinos: Your Guide to Winning Big\n- Best Online Casinos in 2023 with Awesome Real Money ...\n- Best real money slots app for Android: Top 10 ...\n- Online Casinos in the USA: What You Should Know\n- image-alt-tag_-slots-empire-casino\n- How Android's Biometrics Boost Casino Payment Safety\n- The Technology Behind Mobile Casinos: What Makes ...\n- $1 Deposit Casinos: Affordable Gaming on Android Devices\n- Best mobile casinos and casino apps for Android & iOS\n- How Canada's Trusted Casinos Are Leading with Tech\n- Best Slots Sites in 2023: Top online ... - AndroidGuys\n- Why Bitcoin Casinos Embrace Outdated Design Trends\n- Best online casinos in Canada & top 17 Canadian ...\n- Mega Win Slots Free review\n- Finding the right casino app (Promoted)\n\nGuidance:\n1. Combine your own knowledge of androidguys.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to androidguys.com while naturally justifying a link to https://500casino.bet.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude 500casino.bet and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 953,
+    "completion_tokens": 815
+  },
+  "cost_usd": 0.06796
+}

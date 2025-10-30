@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:52:34Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "thegww.com",
+    "anchor_keyword": "online betting websites",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/betting-sites/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "From Gamepad to Moneyline: a Gamer\u2019s Roadmap to Digital Sports Betting",
+      "rationale": "Bridges gaming culture with sports wagering, a topic familiar to thegww.com readers. Naturally supports a link to a vetted guide on online betting websites for platform comparisons and safe-start tips."
+    },
+    {
+      "title": "Fast, Secure, Fair: the Features That Make or Break a Betting Platform",
+      "rationale": "Tech-first breakdown of UX, payments, and fairness aligns with GWW\u2019s audience. A link can direct readers to an authoritative overview of online betting websites to evaluate these features."
+    },
+    {
+      "title": "Esports to Odds: How Competitive Gaming Is Powering the Betting Boom",
+      "rationale": "Connects esports coverage to wagering trends, fitting GWW\u2019s gaming niche. Readers benefit from a resource listing reputable online betting websites for esports markets and rules."
+    },
+    {
+      "title": "AI, 5G, and Wallet Tech: the Innovations Shaping Next\u2011gen Betting",
+      "rationale": "Tech-forward angle matches GWW\u2019s coverage of emerging tools. Linking to a trusted hub of online betting websites helps readers find platforms implementing these innovations responsibly."
+    },
+    {
+      "title": "Responsible Play for Geeks and Gamers: Setting Limits Before You Bet",
+      "rationale": "Community-focused guidance fits GWW\u2019s ethos while addressing real risks. A link to a comprehensive guide on online betting websites can help users find tools for limits, verification, and safer banking."
+    }
+  ],
+  "titles_context": [
+    "Online Casino Strategies: Tips for Success and Big Wins",
+    "A Beginner's Guide to Navigating Online Casino Promo ...",
+    "Best Online Casino Review Experts: Which Reviews to Trust",
+    "Key Features That Define The Best Online Casino ...",
+    "Sweepstakes Casino Games: Best Titles to Try in 2025",
+    "Gaming Options at Today's Online Casinos",
+    "The Features That Make or Break an Online Casino ...",
+    "The Gamer's Guide to Fast, Secure Casino Payouts",
+    "Innovation Meets Gaming: A Deep Dive into Spree Casino's User ...",
+    "How Video Gamers Can Transition to Online Gambling",
+    "Top 10 Paysafecard Casinos for Safe and Easy Deposits in ...",
+    "Tips for Choosing the Best Online Casino for Slots",
+    "How SlotsUp Builds Trust Through Transparent Ratings",
+    "The Best PC Games With Casino Elements - TheGWW.com",
+    "Loyalty Programs Explained: How to Get the Most from Casino ...",
+    "The Evolution of Casino Game Genres: From Classic to Modern",
+    "When Comics Meet Casinos: How Superheroes Took Over ...",
+    "5G Changes Online Gambling Completely | Trusted Online Casino ...",
+    "How AI Is Shaping the Online Casino Industry in 2024",
+    "Is Apple Pay the Fastest Way to Start Playing at Online ...",
+    "Gaming Meets Crypto: Are NFT Casinos the Next Evolution?",
+    "Hungary's Hidden Online Casino Gems - TheGWW.com",
+    "Innovate Change: The 5 Best Online Casinos for Real Money ...",
+    "Yay Casino Has Just Opened - Is It Worth a Visit?",
+    "The Biggest Slot Machines in the World: A Spectacle of ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/betting-sites/ that feel at home on thegww.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): online betting websites\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Online Casino Strategies: Tips for Success and Big Wins\n- A Beginner's Guide to Navigating Online Casino Promo ...\n- Best Online Casino Review Experts: Which Reviews to Trust\n- Key Features That Define The Best Online Casino ...\n- Sweepstakes Casino Games: Best Titles to Try in 2025\n- Gaming Options at Today's Online Casinos\n- The Features That Make or Break an Online Casino ...\n- The Gamer's Guide to Fast, Secure Casino Payouts\n- Innovation Meets Gaming: A Deep Dive into Spree Casino's User ...\n- How Video Gamers Can Transition to Online Gambling\n- Top 10 Paysafecard Casinos for Safe and Easy Deposits in ...\n- Tips for Choosing the Best Online Casino for Slots\n- How SlotsUp Builds Trust Through Transparent Ratings\n- The Best PC Games With Casino Elements - TheGWW.com\n- Loyalty Programs Explained: How to Get the Most from Casino ...\n- The Evolution of Casino Game Genres: From Classic to Modern\n- When Comics Meet Casinos: How Superheroes Took Over ...\n- 5G Changes Online Gambling Completely | Trusted Online Casino ...\n- How AI Is Shaping the Online Casino Industry in 2024\n- Is Apple Pay the Fastest Way to Start Playing at Online ...\n- Gaming Meets Crypto: Are NFT Casinos the Next Evolution?\n- Hungary's Hidden Online Casino Gems - TheGWW.com\n- Innovate Change: The 5 Best Online Casinos for Real Money ...\n- Yay Casino Has Just Opened - Is It Worth a Visit?\n- The Biggest Slot Machines in the World: A Spectacle of ...\n\nGuidance:\n1. Combine your own knowledge of thegww.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to thegww.com while naturally justifying a link to https://www.lineups.com/betting-sites/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude online betting websites and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1036,
+    "completion_tokens": 746
+  },
+  "cost_usd": 0.06548
+}

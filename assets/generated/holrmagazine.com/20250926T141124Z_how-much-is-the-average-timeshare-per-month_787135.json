@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-26T14:11:24Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "holrmagazine.com",
+    "anchor_keyword": "how much is the average timeshare per month",
+    "anchor_country": "",
+    "target_url": "https://howtocancelmytimeshare.com/how-much-does-a-timeshare-cost-monthly/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Travel Budgeting 101: Vacation Ownership vs. Hotel Stays",
+      "rationale": "Fits holrmagazine.com\u2019s practical travel tone and invites a cost comparison. In-body, we can link a phrase like \u201chow much is the average timeshare per month\u201d to explain typical monthly fees and ownership costs."
+    },
+    {
+      "title": "Staycation or Timeshare? Planning Affordable Getaways This Year",
+      "rationale": "Aligns with staycation and accessible travel content on HOLR. The article can cite monthly ownership expenses by linking to the guide using natural anchor text within the budgeting section."
+    },
+    {
+      "title": "Conscious Travel: What Vacation Clubs Really Cost Over Time",
+      "rationale": "Matches the site\u2019s conscious travel angle by unpacking long-term financial commitments. We can contextualize monthly dues and assessments via a natural link to the monthly cost breakdown."
+    },
+    {
+      "title": "Tropical Trips on a Budget: Smart Alternatives to Pricey Resort Buy\u2011ins",
+      "rationale": "Echoes HOLR\u2019s tropical travel guides while discussing cost\u2011savvy choices. A body paragraph comparing buy\u2011ins and ongoing fees can link to the monthly cost resource using the anchor naturally."
+    },
+    {
+      "title": "First\u2011time Traveler\u2019s Guide: Weekend Getaways Without Overcommitting",
+      "rationale": "Speaks to newer travelers seeking flexible plans, in line with HOLR\u2019s accessible guides. Within a section on avoiding recurring fees, we can link to an explainer on typical monthly timeshare costs using natural phrasing."
+    }
+  ],
+  "titles_context": [
+    "5 Destinations Open For Travel Right Now -",
+    "Top Online Travel Magazines and Travel News",
+    "What to Pack and Where To Stay in France: Ultimate Travel ...",
+    "Travel Trending Archives -",
+    "Best Staycation Destinations in the US & Canada -",
+    "Tips for Student Travel in the USA -",
+    "Trusted Travel Archives -",
+    "Cheap Places to Travel To Post-COVID -",
+    "Best Solo Travel Destinations for Women -",
+    "HOLR Travel Guide: Tropical Trips -",
+    "FLORENCE TRAVEL GUIDE: FROM FOOD AND ...",
+    "Tips to book a cheap all-inclusive vacation -",
+    "Your Guide To The Ultimate Italian Getaway: Luxury Travel ...",
+    "Conscious Travel Archives -",
+    "Booktok Travel Guide: 10 Destinations For Romantasy ...",
+    "The Perfect Corporate Gifts for Travel Enthusiasts",
+    "Travel Diaries: Exploring El Nido, Palawan -",
+    "Dubai Travel Guide 2025: Where to Eat, Stay & Explore in ...",
+    "14 Books About Travel That Make You Think You Are On ...",
+    "The Best Places to Travel Solo -",
+    "How To Travel Sustainably With Booking.com -",
+    "Incredible experiences where travellers can have ...",
+    "7 Stunning Road Trip Destinations Across the U.S. -",
+    "Luxury Travel Archives -",
+    "Editor Travel Guide: Where To Go In Italy In July 2024 -"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://howtocancelmytimeshare.com/how-much-does-a-timeshare-cost-monthly/ that feel at home on holrmagazine.com.\n\nReference SERP keyword: travel\nAnchor keyword (use only if natural): how much is the average timeshare per month\n\nAnchor operates in: Unspecified\n\nReference titles:\n- 5 Destinations Open For Travel Right Now -\n- Top Online Travel Magazines and Travel News\n- What to Pack and Where To Stay in France: Ultimate Travel ...\n- Travel Trending Archives -\n- Best Staycation Destinations in the US & Canada -\n- Tips for Student Travel in the USA -\n- Trusted Travel Archives -\n- Cheap Places to Travel To Post-COVID -\n- Best Solo Travel Destinations for Women -\n- HOLR Travel Guide: Tropical Trips -\n- FLORENCE TRAVEL GUIDE: FROM FOOD AND ...\n- Tips to book a cheap all-inclusive vacation -\n- Your Guide To The Ultimate Italian Getaway: Luxury Travel ...\n- Conscious Travel Archives -\n- Booktok Travel Guide: 10 Destinations For Romantasy ...\n- The Perfect Corporate Gifts for Travel Enthusiasts\n- Travel Diaries: Exploring El Nido, Palawan -\n- Dubai Travel Guide 2025: Where to Eat, Stay & Explore in ...\n- 14 Books About Travel That Make You Think You Are On ...\n- The Best Places to Travel Solo -\n- How To Travel Sustainably With Booking.com -\n- Incredible experiences where travellers can have ...\n- 7 Stunning Road Trip Destinations Across the U.S. -\n- Luxury Travel Archives -\n- Editor Travel Guide: Where To Go In Italy In July 2024 -\n\nGuidance:\n1. Combine your own knowledge of holrmagazine.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to holrmagazine.com while naturally justifying a link to https://howtocancelmytimeshare.com/how-much-does-a-timeshare-cost-monthly/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude how much is the average timeshare per month and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 967,
+    "completion_tokens": 758
+  },
+  "cost_usd": 0.06482
+}

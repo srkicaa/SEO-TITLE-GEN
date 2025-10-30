@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-23T09:12:41Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "ugeavisen.dk",
+    "anchor_keyword": "CASINO UDEN ROFUS",
+    "anchor_country": "",
+    "target_url": "https://www.worldclasstrotting.com/dk/casino-uden-rofus/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Online Casino I Danmark: Hvad Betyder Selvudelukkelse for Dine Valg?",
+      "rationale": "Passer til ugeavisen.dk\u2019s oplysende stil med fokus p\u00e5 ansvarlighed. Linket kan belyse regler, konsekvenser og begreber omkring ROFUS; ankeret kan naturligt indg\u00e5 i br\u00f8dteksten som forklaring."
+    },
+    {
+      "title": "Guide: S\u00e5dan Navigerer Du Sikkert Blandt Online Casinoer",
+      "rationale": "Praktisk, neutral vejledning i ugeavisen.dk-\u00e5nd. Linket underst\u00f8tter sikkerhed, identitetskontrol og selvudelukkelse; ankeret kan bruges kontekstuelt i teksten uden at n\u00e6vnes i titlen."
+    },
+    {
+      "title": "Online Casino I 2025: Ansvarlighed, Teknologi Og Nye Spilleregler",
+      "rationale": "Aktuel trendvinkel som matcher referenceartiklerne. Linket kan tilf\u00f8je dybere indsigt i danske rammer og selvudelukkelsesmuligheder; ankeret kan flettes ind i forklarende afsnit."
+    },
+    {
+      "title": "Er Din Casino-Oplevelse Sund? Fem Tegn P\u00e5 at Tage En Pause",
+      "rationale": "Lokal, hverdagsn\u00e6r vinkling om adf\u00e6rdsr\u00e5d som ugeavisen.dk ofte prioriterer. Linket kan pege p\u00e5 konkrete v\u00e6rn, regler og hj\u00e6lpemuligheder; ankeret kan bruges i en informationsboks."
+    },
+    {
+      "title": "Fra Licens Til Tillid: S\u00e5dan Vurderer Du Et Online Casino",
+      "rationale": "Forbrugerrettet kvalitetstjek, typisk for ugeavisen.dk\u2019s guides. Linket kan forklare forskelle i licenser, ansvarlighed og selvudelukkelse; ankeret kan placeres naturligt i et afsnit om begrebsafklaring."
+    }
+  ],
+  "titles_context": [
+    "Online casino i 2025 - hvad kan vi forvente?",
+    "Danske Casino Sider: En Vejledning til Sikker og ...",
+    "Introduktion til online casino verdenen",
+    "S\u00e5dan sikrer du dig den bedste oplevelse p\u00e5 et online casino",
+    "F\u00e5 mest muligt ud af casinospil med disse eksklusive ...",
+    "S\u00e5dan finder du det bedste online casino med sjove ...",
+    "Online casinoer bliver stadig mere popul\u00e6re i Danmark",
+    "Danske casinoer: Fordele og ulemper ved ...",
+    "En guide til de mest popul\u00e6re kasinospil",
+    "S\u00e5 mange millioner tjente Casino Munkebjerg, og rouletten ...",
+    "S\u00e5dan f\u00e5r man det bedste ud af sin casino-oplevelse",
+    "S\u00e5dan v\u00e6lger du det bedste danske online casino",
+    "Find det bedste casino i Danmark i dag med f\u00e5, smarte tricks",
+    "Ansvarligt spil vinder frem i danske online casinoer",
+    "Virtual reality og online casinoer: Fremtiden for immersivt spil",
+    "Lykke eller logik? Videnskaben bag held i gambling",
+    "Kineser f\u00e5r ti m\u00e5neders f\u00e6ngsel for snyd p\u00e5 casino",
+    "Hvorfor nye danske casinoer kan v\u00e6re det bedste valg for dig",
+    "Hans arrangerer stor julefest i Skovpavillonen | ugeavisen.dk",
+    "Dansk online casino: en voksende industri - Ugeavisen.dk",
+    "Annonc\u00f8rbetalt indhold \u2192 L\u00e6s de seneste nyheder her",
+    "Open By Night: Kroen inviterer til casino p\u00e5 Torvet",
+    "Olga dealer poker p\u00e5 Casino Marienlyst - Helsing\u00f8r Dagblad",
+    "Inspiration til gode online spil til juleferien - Ugeavisen.dk",
+    "Casino Munkebjerg med i virtuelt kasino-univers | ugeavisen.dk"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.worldclasstrotting.com/dk/casino-uden-rofus/ that feel at home on ugeavisen.dk.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): CASINO UDEN ROFUS\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Online casino i 2025 - hvad kan vi forvente?\n- Danske Casino Sider: En Vejledning til Sikker og ...\n- Introduktion til online casino verdenen\n- S\u00e5dan sikrer du dig den bedste oplevelse p\u00e5 et online casino\n- F\u00e5 mest muligt ud af casinospil med disse eksklusive ...\n- S\u00e5dan finder du det bedste online casino med sjove ...\n- Online casinoer bliver stadig mere popul\u00e6re i Danmark\n- Danske casinoer: Fordele og ulemper ved ...\n- En guide til de mest popul\u00e6re kasinospil\n- S\u00e5 mange millioner tjente Casino Munkebjerg, og rouletten ...\n- S\u00e5dan f\u00e5r man det bedste ud af sin casino-oplevelse\n- S\u00e5dan v\u00e6lger du det bedste danske online casino\n- Find det bedste casino i Danmark i dag med f\u00e5, smarte tricks\n- Ansvarligt spil vinder frem i danske online casinoer\n- Virtual reality og online casinoer: Fremtiden for immersivt spil\n- Lykke eller logik? Videnskaben bag held i gambling\n- Kineser f\u00e5r ti m\u00e5neders f\u00e6ngsel for snyd p\u00e5 casino\n- Hvorfor nye danske casinoer kan v\u00e6re det bedste valg for dig\n- Hans arrangerer stor julefest i Skovpavillonen | ugeavisen.dk\n- Dansk online casino: en voksende industri - Ugeavisen.dk\n- Annonc\u00f8rbetalt indhold \u2192 L\u00e6s de seneste nyheder her\n- Open By Night: Kroen inviterer til casino p\u00e5 Torvet\n- Olga dealer poker p\u00e5 Casino Marienlyst - Helsing\u00f8r Dagblad\n- Inspiration til gode online spil til juleferien - Ugeavisen.dk\n- Casino Munkebjerg med i virtuelt kasino-univers | ugeavisen.dk\n\nGuidance:\n1. Combine your own knowledge of ugeavisen.dk's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to ugeavisen.dk while naturally justifying a link to https://www.worldclasstrotting.com/dk/casino-uden-rofus/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude CASINO UDEN ROFUS and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1184,
+    "completion_tokens": 1232
+  },
+  "cost_usd": 0.0976
+}

@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-13T10:40:56Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "vanguardia.com",
+    "anchor_keyword": "casino en vivo",
+    "anchor_country": "",
+    "target_url": "https://www.platincasino.es/casino-en-vivo",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "C\u00f3mo Funcionan Las Mesas Con Crupier En Directo: Gu\u00eda Para Principiantes",
+      "rationale": "Encaja en un enfoque de servicio de vanguardia.com y permite enlazar como recurso para entender formatos de juego con crupier, donde el t\u00e9rmino ancla puede aparecer de forma natural en el cuerpo del texto."
+    },
+    {
+      "title": "Etiqueta Y Buenas Pr\u00e1cticas Al Jugar Con Crupier Por Streaming",
+      "rationale": "Contenido \u00fatil y no promocional que justifica un enlace explicativo hacia modalidades en directo; el ancla puede insertarse al describir d\u00f3nde se juegan estas mesas."
+    },
+    {
+      "title": "Ruleta, Blackjack Y Bacar\u00e1 En Tiempo Real: Diferencias Frente Al Juego Automatizado",
+      "rationale": "Aporta contexto comparativo que invita a un enlace hacia ejemplos de mesas en directo; el ancla cabe de forma org\u00e1nica al presentar estas variantes."
+    },
+    {
+      "title": "La Tecnolog\u00eda Detr\u00e1s De Las Partidas En Tiempo Real: C\u00e1maras, OCR Y Latencia",
+      "rationale": "\u00c1ngulo informativo af\u00edn a audiencias generales de vanguardia.com; el enlace complementa con una p\u00e1gina que ilustra c\u00f3mo se ve y funciona este formato."
+    },
+    {
+      "title": "Juego Responsable Al Participar En Mesas En Directo Desde M\u00e9xico: Pautas Esenciales",
+      "rationale": "Localiza para vanguardia.com (MX) y permite incluir un enlace orientativo al describir opciones reguladas, integrando el ancla de forma natural en el texto."
+    }
+  ],
+  "titles_context": [
+    "\u00bfC\u00f3mo funcionan los bonos de casino online?",
+    "Casino Royale",
+    "1Win Argentina: Bonos, juegos y apuestas deportivas",
+    "Los mejores casinos online para jugar en Colombia",
+    "Los juegos m\u00e1s populares en los casinos en linea",
+    "Francia estudia autorizar por fin los casinos online",
+    "Transmisi\u00f3n en vivo de casino: \u00bfqu\u00e9 es y c\u00f3mo cambia la ...",
+    "El grupo Casino, due\u00f1a del \u00c9xito, llega acuerdo de ...",
+    "Centenario de Barrancabermeja - 100 a\u00f1os de creaci\u00f3n ...",
+    "UNO lanza su propio club en Las Vegas: as\u00ed puede ganar ...",
+    "La empresa francesa Casino planea la venta del Grupo \u00c9xito ...",
+    "Juegos de Ruleta Gratis: \u00bfD\u00f3nde practicar sin gastar dinero?",
+    "1win App Colombia: apuestas rentables desde tu ...",
+    "\u00bfQue es un crupier digital? todo lo que debes saber sobre ...",
+    "El Grupo franc\u00e9s Casino le puso a Grupo \u00c9xito el letrero de \u201cse ...",
+    "'Tips' para seleccionar los mejores bonos en los casinos ...",
+    "Online",
+    "Los juegos de mesa de casino en vivo aportan interacci\u00f3n social ...",
+    "Apuesta deportiva",
+    "Los 4 factores clave de los casinos online confiables",
+    "M\u00e9xico y Colombia lideran en la tributaci\u00f3n de ganancias ...",
+    "Juegos",
+    "Los secretos de los casinos de Las Vegas",
+    "La publicidad de juego online en Colombia: \u00bfEs hora de ...",
+    "\u00bfC\u00f3mo ganar a la ruleta online en Colombia: estrategias y ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.platincasino.es/casino-en-vivo that feel at home on vanguardia.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): casino en vivo\n\nAnchor operates in: Unspecified\n\nReference titles:\n- \u00bfC\u00f3mo funcionan los bonos de casino online?\n- Casino Royale\n- 1Win Argentina: Bonos, juegos y apuestas deportivas\n- Los mejores casinos online para jugar en Colombia\n- Los juegos m\u00e1s populares en los casinos en linea\n- Francia estudia autorizar por fin los casinos online\n- Transmisi\u00f3n en vivo de casino: \u00bfqu\u00e9 es y c\u00f3mo cambia la ...\n- El grupo Casino, due\u00f1a del \u00c9xito, llega acuerdo de ...\n- Centenario de Barrancabermeja - 100 a\u00f1os de creaci\u00f3n ...\n- UNO lanza su propio club en Las Vegas: as\u00ed puede ganar ...\n- La empresa francesa Casino planea la venta del Grupo \u00c9xito ...\n- Juegos de Ruleta Gratis: \u00bfD\u00f3nde practicar sin gastar dinero?\n- 1win App Colombia: apuestas rentables desde tu ...\n- \u00bfQue es un crupier digital? todo lo que debes saber sobre ...\n- El Grupo franc\u00e9s Casino le puso a Grupo \u00c9xito el letrero de \u201cse ...\n- 'Tips' para seleccionar los mejores bonos en los casinos ...\n- Online\n- Los juegos de mesa de casino en vivo aportan interacci\u00f3n social ...\n- Apuesta deportiva\n- Los 4 factores clave de los casinos online confiables\n- M\u00e9xico y Colombia lideran en la tributaci\u00f3n de ganancias ...\n- Juegos\n- Los secretos de los casinos de Las Vegas\n- La publicidad de juego online en Colombia: \u00bfEs hora de ...\n- \u00bfC\u00f3mo ganar a la ruleta online en Colombia: estrategias y ...\n\nGuidance:\n1. Combine your own knowledge of vanguardia.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to vanguardia.com while naturally justifying a link to https://www.platincasino.es/casino-en-vivo.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude casino en vivo and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1020,
+    "completion_tokens": 811
+  },
+  "cost_usd": 0.06906
+}

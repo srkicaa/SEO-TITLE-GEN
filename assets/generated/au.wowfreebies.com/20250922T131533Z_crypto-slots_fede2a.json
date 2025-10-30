@@ -1,0 +1,48 @@
+{
+  "created_at": "2025-09-22T13:15:33Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "au.wowfreebies.com",
+    "anchor_keyword": "crypto slots",
+    "anchor_country": "",
+    "target_url": "https://www.razed.com/casino/slots/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Reinvention of Casino Payments in the On\u2011chain Era | WOW Freebies Australia",
+      "rationale": "Timely because stablecoin adoption accelerated after EU MiCA stablecoin provisions took effect in mid\u20112024 and global exchanges tightened compliance, pushing players toward faster, lower\u2011fee on\u2011chain payments. Useful tie\u2011in to a slots hub where readers can map payment frictions to slot categories, RTP and volatility when choosing where to spin."
+    },
+    {
+      "title": "What the Post\u2011halving Cycle Means for Online Slots in 2025 | WOW Freebies Australia",
+      "rationale": "Bitcoin\u2019s April 2024 halving and subsequent market rebound increased retail crypto activity, historically boosting interest in casino crypto use. A slot\u2011focused destination helps readers translate market momentum into practical considerations like bankroll sizing, variance, and game selection."
+    },
+    {
+      "title": "Provably Fair Meets High Volatility: the New Slot Design Playbook | WOW Freebies Australia",
+      "rationale": "Ongoing industry shift toward verifiable RNG and transparency aligns with crypto\u2011native expectations. This angle is timely amid continuing discourse on fairness and auditing in 2024\u20132025. Linking to a slots resource lets readers compare mechanics (RTP, hit rate) and pick titles that match risk tolerance."
+    },
+    {
+      "title": "Stablecoins Are Quietly Reshaping Spin Economics | WOW Freebies Australia",
+      "rationale": "With settlement costs dropping on major chains and stablecoins becoming default tender post\u20112024, players face new choices on denominations, fees, and cash\u2011out timing. A slots hub contextualises these payment shifts against game volatility and session length planning."
+    },
+    {
+      "title": "Regulation Watch: How New Crypto Rules Could Shape Slot Play | WOW Freebies Australia",
+      "rationale": "Australia has advanced consultations on digital asset platform regulation and AML reforms, while ACMA continues action against offshore sites; globally, MiCA phases in through 2024. Readers need to know how compliance, KYC, and custody rules affect access and limits. A slots page helps them adapt game selection and staking strategies accordingly."
+    }
+  ],
+  "titles_context": [
+    "Reinvention of Casino Payments | WOW Freebies Australia",
+    "The Best Aviator Casinos 2025 | WOW Freebies Australia",
+    "Aussie Promotions Inspired by 7Bit Casino Mechanics | WOW ...",
+    "Free Offers in Lucky Dreams Casino | WOW Freebies Australia",
+    "How to Get Free Spins & More | WOW Freebies Australia",
+    "The Best Apps for Tracking Finances | WOW Freebies Australia"
+  ],
+  "prompt_text": "Craft 5 timely, on-brand article titles for au.wowfreebies.com.\nAnchor keyword (keep out of the headline itself): crypto slots.\nOperating region or audience to acknowledge: Unspecified.\nTarget URL to justify via supporting copy: https://www.razed.com/casino/slots/.\nSearch context keyword: casino crypto.\nReference titles (tone guide):\n- Reinvention of Casino Payments | WOW Freebies Australia\n- The Best Aviator Casinos 2025 | WOW Freebies Australia\n- Aussie Promotions Inspired by 7Bit Casino Mechanics | WOW ...\n- Free Offers in Lucky Dreams Casino | WOW Freebies Australia\n- How to Get Free Spins & More | WOW Freebies Australia\n- The Best Apps for Tracking Finances | WOW Freebies Australia\n\nGuidance:\n- First, consult your recent memory for news, launches, regulatory moves, or data releases tied to casino crypto; cite these in rationales.\n- When there is no fresh headline, lean on enduring macro trends or forward-looking questions practitioners are asking.\n- Make the rationale cite the specific event, trend, or why it matters now\u2014especially for audiences in Unspecified.\n- Keep titles brand-free and avoid review/promo phrasing (no 'review', 'bonus', 'promo code').\n- Use  when provided, but never invent unsupported facts.\n\nReturn strictly {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items and no other keys.",
+  "usage": {
+    "prompt_tokens": 483,
+    "completion_tokens": 1323
+  },
+  "cost_usd": 0.08904
+}

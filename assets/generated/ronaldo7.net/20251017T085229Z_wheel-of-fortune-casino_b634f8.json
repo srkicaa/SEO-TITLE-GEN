@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-17T08:52:29Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "ronaldo7.net",
+    "anchor_keyword": "wheel of fortune casino",
+    "anchor_country": "",
+    "target_url": "https://500.casino/wheel",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "From Cr7\u2019s Clutch Moments to the Thrill of the Spin: Why Wheel Games Resonate With Ronaldo Fans",
+      "rationale": "Connects match tension with spin-based gameplay. A link to the wheel page illustrates the mechanic discussed, with supporting copy naturally referencing wheel-of-fortune-style formats without naming operators."
+    },
+    {
+      "title": "Could a CR7-Themed Wheel Game Work? Mechanics, Fan Appeal, and Design Ideas",
+      "rationale": "Explores how a Ronaldo-inspired wheel concept might function. The wheel page serves as a live example of pacing, segments, and odds, letting readers visualize features mentioned in the article."
+    },
+    {
+      "title": "The Psychology of Anticipation: Penalties, Free Kicks, and the Drama of the Wheel",
+      "rationale": "Parallels Ronaldo\u2019s high-pressure moments with spin suspense. The wheel page anchors the discussion by showing how anticipation builds between spins; supporting copy can naturally use the phrase wheel of fortune casino without placing it in the title."
+    },
+    {
+      "title": "Why Ronaldo Supporters Are Gravitating to Spin-Based Game Nights",
+      "rationale": "Looks at cultural crossover from football fandom to casual wheel formats. Linking to the wheel page provides a concrete, brand-agnostic reference for the game flow described."
+    },
+    {
+      "title": "From Step-Overs to Spin-Overs: What Cr7\u2019s Precision Teaches About Timing Your Plays",
+      "rationale": "Blends Ronaldo\u2019s technique with timing in wheel-style games. The wheel page exemplifies tempo and decision cadence mentioned in the piece, fitting a global (Unspecified) audience on ronaldo7.net."
+    }
+  ],
+  "titles_context": [
+    "The controversy behind Cristiano Ronaldo's online casino ...",
+    "Cristiano Ronaldo's brand and gambling ventures",
+    "Ronaldo's role in the popularization of the online casino industry",
+    "How to bet on Cristiano Ronaldo's games at Betfair Casino",
+    "The allure of playing Ronaldo-themed slot games",
+    "Why fans of Ronaldo might be interested in online slots",
+    "Moments when Cristiano Ronaldo was seen playing in a ...",
+    "Ronaldo7: Cristiano Ronaldo | CR7",
+    "Analyzing Cristiano Ronaldo's sponsorship deals",
+    "Cristiano Ronaldo sponsorships and gambling affiliations",
+    "Cristiano Ronaldo and gambling: An analysis",
+    "Could we see a casino game based on Ronaldo?",
+    "Cristiano Ronaldo joins PokerStars club",
+    "Cristiano Ronaldo's business ventures: Beyond the football ...",
+    "Ronaldo's hobbies: From gambling and poker to music and ...",
+    "Cristiano Ronaldo's impact on football betting trends",
+    "How Ronaldo's luxury lifestyle reflects in his watch collection",
+    "Ronaldo and his puzzling passion for gambling",
+    "Cristiano Ronaldo and 6 famous players who love to play ...",
+    "The unstoppable career of Cristiano Ronaldo on and off ...",
+    "A look at Cristiano Ronaldo's early career",
+    "Cristiano Ronaldo news in 2023",
+    "What are Ronaldo's favorite clubs in the world?",
+    "How Ronaldo became more powerful at Al Nassr in 2025",
+    "Why Ronaldo got banned from participating in gambling ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://500.casino/wheel that feel at home on ronaldo7.net.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): wheel of fortune casino\n\nAnchor operates in: Unspecified\n\nReference titles:\n- The controversy behind Cristiano Ronaldo's online casino ...\n- Cristiano Ronaldo's brand and gambling ventures\n- Ronaldo's role in the popularization of the online casino industry\n- How to bet on Cristiano Ronaldo's games at Betfair Casino\n- The allure of playing Ronaldo-themed slot games\n- Why fans of Ronaldo might be interested in online slots\n- Moments when Cristiano Ronaldo was seen playing in a ...\n- Ronaldo7: Cristiano Ronaldo | CR7\n- Analyzing Cristiano Ronaldo's sponsorship deals\n- Cristiano Ronaldo sponsorships and gambling affiliations\n- Cristiano Ronaldo and gambling: An analysis\n- Could we see a casino game based on Ronaldo?\n- Cristiano Ronaldo joins PokerStars club\n- Cristiano Ronaldo's business ventures: Beyond the football ...\n- Ronaldo's hobbies: From gambling and poker to music and ...\n- Cristiano Ronaldo's impact on football betting trends\n- How Ronaldo's luxury lifestyle reflects in his watch collection\n- Ronaldo and his puzzling passion for gambling\n- Cristiano Ronaldo and 6 famous players who love to play ...\n- The unstoppable career of Cristiano Ronaldo on and off ...\n- A look at Cristiano Ronaldo's early career\n- Cristiano Ronaldo news in 2023\n- What are Ronaldo's favorite clubs in the world?\n- How Ronaldo became more powerful at Al Nassr in 2025\n- Why Ronaldo got banned from participating in gambling ...\n\nGuidance:\n1. Combine your own knowledge of ronaldo7.net's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to ronaldo7.net while naturally justifying a link to https://500.casino/wheel.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude wheel of fortune casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 947,
+    "completion_tokens": 898
+  },
+  "cost_usd": 0.07282
+}

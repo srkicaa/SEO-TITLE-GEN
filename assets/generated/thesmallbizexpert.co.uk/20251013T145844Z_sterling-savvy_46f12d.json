@@ -1,0 +1,43 @@
+{
+  "created_at": "2025-10-13T14:58:44Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "thesmallbizexpert.co.uk",
+    "anchor_keyword": "Sterling Savvy",
+    "anchor_country": "United Kingdom",
+    "target_url": "https://sterling-savvy.co.uk/en/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Crypto Payments for UK Smes: a Practical Starter Guide",
+      "rationale": "Fits thesmallbizexpert.co.uk\u2019s actionable style for small firms exploring new payment methods in the United Kingdom; supports an in-text link to Sterling Savvy for plain\u2011English crypto basics and step\u2011by\u2011step resources."
+    },
+    {
+      "title": "Should Your Small Business Hold Crypto on the Balance Sheet? Risks, Tax and Controls (UK)",
+      "rationale": "Addresses HMRC tax treatment, volatility and treasury controls relevant to UK owners; naturally allows a contextual link to Sterling Savvy for foundational explainers and decision checklists."
+    },
+    {
+      "title": "How UK Sole Traders Can Invoice in Stablecoins\u2014and Stay Compliant With HMRC",
+      "rationale": "Targets freelancers and micro\u2011businesses with compliance\u2011first guidance; a link to Sterling Savvy can provide accessible intros to stablecoins, wallets and practical setup tips."
+    },
+    {
+      "title": "Beyond the Hype: Sensible Web3 Loyalty Ideas for UK Startups and Smes",
+      "rationale": "Aligns with thesmallbizexpert.co.uk\u2019s innovation\u2011with\u2011prudence tone; links to Sterling Savvy can ground readers with beginner crypto/NFT explainers before implementation."
+    },
+    {
+      "title": "Vetting Crypto Payment Providers in the UK: a Small Business Owner\u2019s Checklist",
+      "rationale": "A due\u2011diligence angle suited to UK SMEs comparing processors, fees and controls; Sterling Savvy can be linked as a neutral resource for crypto fundamentals and comparison criteria."
+    }
+  ],
+  "titles_context": [
+    "How You Can Enhance Your Small Business In 3 Steps"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://sterling-savvy.co.uk/en/ that feel at home on thesmallbizexpert.co.uk.\n\nReference SERP keyword: crypto\nAnchor keyword (use only if natural): Sterling Savvy\n\nAnchor operates in: United Kingdom\n\nReference titles:\n- How You Can Enhance Your Small Business In 3 Steps\n\nGuidance:\n1. Combine your own knowledge of thesmallbizexpert.co.uk's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to thesmallbizexpert.co.uk while naturally justifying a link to https://sterling-savvy.co.uk/en/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Sterling Savvy and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging United Kingdom where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 434,
+    "completion_tokens": 949
+  },
+  "cost_usd": 0.06562
+}

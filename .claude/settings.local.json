@@ -5,7 +5,14 @@
       "Bash(FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch --force --index-filter \"git rm --cached --ignore-unmatch .env\" --prune-empty --tag-name-filter cat -- --all)",
       "Bash(git add:*)",
       "Bash(git stash:*)",
-      "Bash(git init:*)"
+      "Bash(git init:*)",
+      "Bash(python3 -m pip list:*)",
+      "Bash(source:*)",
+      "Read(//mnt/c/Users/outre/Documents/**)",
+      "Bash(find \"/mnt/c/Users/outre/Documents/Important Link Building Strategies/\" -type f -name \"*.csv\" -exec sh -c 'grep -l \"\"\"\"mcp\\|server\\|host\\|cPanel\\|database\\|root\\|admin.*login\\|access.*credentials\"\"\"\" \"\"\"\"$1\"\"\"\" 2>/dev/null' _ {})",
+      "Bash(find:*)",
+      "Bash(cat:*)",
+      "Read(//home/outre/projects/**)"
     ],
     "deny": [],
     "ask": []

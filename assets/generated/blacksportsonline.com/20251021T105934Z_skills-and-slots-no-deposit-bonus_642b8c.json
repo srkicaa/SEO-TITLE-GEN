@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:59:34Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "blacksportsonline.com",
+    "anchor_keyword": "skills and slots no deposit bonus",
+    "anchor_country": "",
+    "target_url": "https://www.playusa.com/sweepstakes-casinos/skills-slots/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Skill Games vs Slots: What Sports Fans Need to Know Before They Play",
+      "rationale": "Explains mechanics and differences between skill-style machines and traditional slots; links naturally to a guide that breaks down how sweepstakes-style play works and where it\u2019s allowed in the U.S."
+    },
+    {
+      "title": "Sports Culture Meets Casino Culture: Why \u2018Skill\u2019 Machines Are Everywhere Now",
+      "rationale": "Trend piece for BSO readers on the rise of skill-style games; the link can provide definitions, gameplay basics, and legal context for U.S. audiences."
+    },
+    {
+      "title": "Sweepstakes-Style Play 101: Safer Ways to Practice Your Strategy Without Real-Money Stakes",
+      "rationale": "Educational angle on low-risk formats and how they function; the destination page covers coins, entries, and responsible play details."
+    },
+    {
+      "title": "Road Trip Rules: Where Skill Machines and Sweepstakes Slots Fit Into U.S. Laws This Season",
+      "rationale": "Travel-and-sports-season framing that points to a resource outlining legality and availability of skill and sweepstakes-style options by state."
+    },
+    {
+      "title": "Slots Do\u2019s and Don\u2019ts for First-Timers: Pace, Bankroll, and Picking the Right Format",
+      "rationale": "Beginner-friendly guidance that justifies linking to an explainer on choosing between skill-style experiences and classic slots, including how each format operates."
+    }
+  ],
+  "titles_context": [
+    "Las Vegas Casino Trashed For Denying High Roller Who ...",
+    "The Top 5 Exciting Things to Do on a Casino Trip",
+    "Master the Dice Casino Game: Tips to Play and Win Big in 2025",
+    "Like the Pros: How Realistic Are Live Casino Gam",
+    "Best online casino nz guide to winning real money safely",
+    "In a Money-Laundering Case, the Resorts World Casino in Las ...",
+    "Best Online Casino Sites in Canada 2023 for Sport Fans",
+    "Integrating Social Features into Bitcoin Casino Platforms",
+    "plinko 1xbet win big and enjoy exciting gameplay",
+    "Betting On Slots: Do's and Don'ts",
+    "From Kickoff to Jackpot: Strategies for Integrating Real Money ...",
+    "21Bit Casino Review: Your Gateway to an Exceptional Online ...",
+    "How to Play Online Slots at a Real Online Casino",
+    "Customer Support Excellence: A Sign of Safe Online Casinos ...",
+    "Guide to No Registration Online Casinos in 2024",
+    "The Best Features of a US Online Casino - BlackSportsOnline",
+    "Watch Man Knockout Two Older Black Men at MGM Grand ...",
+    "Malta's Gaming Marvels: The Best Online Casinos for ...",
+    "Fortune Coins Casino No Deposit Bonus - A Gateway to Risk ...",
+    "Overview of the Reliable Sports Betting and Casino Gaming ...",
+    "The Meme Game Is Real! Athletes Can Really Become Pop ...",
+    "The Top Online Slot Developers in 2023 - BlackSportsOnline",
+    "Mobile Pin Up app for Android and iOS - BlackSportsOnline",
+    "Online casinos NZ: 6 Best Casino Online NZ for Real Money",
+    "5 Things that Makes LeoVegas the best Casino in New Zealand"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.playusa.com/sweepstakes-casinos/skills-slots/ that feel at home on blacksportsonline.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): skills and slots no deposit bonus\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Las Vegas Casino Trashed For Denying High Roller Who ...\n- The Top 5 Exciting Things to Do on a Casino Trip\n- Master the Dice Casino Game: Tips to Play and Win Big in 2025\n- Like the Pros: How Realistic Are Live Casino Gam\n- Best online casino nz guide to winning real money safely\n- In a Money-Laundering Case, the Resorts World Casino in Las ...\n- Best Online Casino Sites in Canada 2023 for Sport Fans\n- Integrating Social Features into Bitcoin Casino Platforms\n- plinko 1xbet win big and enjoy exciting gameplay\n- Betting On Slots: Do's and Don'ts\n- From Kickoff to Jackpot: Strategies for Integrating Real Money ...\n- 21Bit Casino Review: Your Gateway to an Exceptional Online ...\n- How to Play Online Slots at a Real Online Casino\n- Customer Support Excellence: A Sign of Safe Online Casinos ...\n- Guide to No Registration Online Casinos in 2024\n- The Best Features of a US Online Casino - BlackSportsOnline\n- Watch Man Knockout Two Older Black Men at MGM Grand ...\n- Malta's Gaming Marvels: The Best Online Casinos for ...\n- Fortune Coins Casino No Deposit Bonus - A Gateway to Risk ...\n- Overview of the Reliable Sports Betting and Casino Gaming ...\n- The Meme Game Is Real! Athletes Can Really Become Pop ...\n- The Top Online Slot Developers in 2023 - BlackSportsOnline\n- Mobile Pin Up app for Android and iOS - BlackSportsOnline\n- Online casinos NZ: 6 Best Casino Online NZ for Real Money\n- 5 Things that Makes LeoVegas the best Casino in New Zealand\n\nGuidance:\n1. Combine your own knowledge of blacksportsonline.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to blacksportsonline.com while naturally justifying a link to https://www.playusa.com/sweepstakes-casinos/skills-slots/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude skills and slots no deposit bonus and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1100,
+    "completion_tokens": 1116
+  },
+  "cost_usd": 0.08896
+}

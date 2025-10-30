@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:47:12Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "americanfootballinternational.com",
+    "anchor_keyword": "lineups.com",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "House Edge vs. Vig: a Football Fan\u2019s Guide to Smarter Casino and Sports Wagers",
+      "rationale": "Explains core pricing concepts in casino games and sports betting; a contextual link to lineups.com can provide odds education, vig breakdowns, and calculators that deepen the topic for AFI readers."
+    },
+    {
+      "title": "Bankroll Game Plan for Casino Nights and Football Betting",
+      "rationale": "Maps game-day discipline to staking strategies across casino and sports markets; lineups.com can supply unit-sizing guides, bet trackers, and probability tools that complement the article."
+    },
+    {
+      "title": "Live Odds and Game Flow: Applying Pace-of-Play Insights to Casino Sessions",
+      "rationale": "Connects football tempo and situational analysis to session planning and variance management in casinos; lineups.com offers live odds, pace metrics, and strategy explainers to support these parallels."
+    },
+    {
+      "title": "Slots, Table Games, and Props: Risk Profiles Explained for Gridiron Fans Worldwide",
+      "rationale": "Breaks down volatility and expected value across casino formats and football props for AFI\u2019s international audience; linking to lineups.com adds data-driven EV concepts and prop analysis resources."
+    },
+    {
+      "title": "Responsible Gambling Checklist for International Football Weekends and Casino Visits",
+      "rationale": "Provides a practical, globally relevant framework for limits and time management; lineups.com can add neutral tools like bankroll planners, odds converters, and educational content without promotional tone."
+    }
+  ],
+  "titles_context": [
+    "Best Strategies for Winning at Popular Casino Games",
+    "Top Football Casino Games to Try in 2024",
+    "Experience the thrill of online roulette today",
+    "Master Casino Betting: Ultimate Guide for American Football Fans",
+    "Popular Types of Casino Games at 1Win",
+    "Top-Rated Quick Withdrawal Casinos for Canadians",
+    "Level Up Your Excitement with Oliver Casino's Exclusive Games",
+    "Top 5 NFL-Themed Casino Games: Best Football Slots & ...",
+    "Beyond the Stadium: The Reason Behind the Popularity of ...",
+    "Free Online Slots & Casino Games: Top Free-To-Play ...",
+    "Sports betting in land-based casinos",
+    "Review of the best betting site and online casino Linebet",
+    "How to Gamble Online With PlayStation 5",
+    "Why Do Players Prefer No-Deposit Bonuses at Online Casinos?",
+    "From the Gridiron to the Casino Floor: A Surprising Comparison",
+    "Everything You Need to Know About BC Game",
+    "Best Crypto Betting Sites 2025 | Bet on NFL Online",
+    "Best Zeppelin Crash Game Winning Strategy & Tips 2024",
+    "3 Top Factors to Consider for Fast Payout Casinos",
+    "Best Offshore Sportsbooks | Bet on Football Online (2025)",
+    "Stake.us Sweepstakes Review: Top Stake USA Slots & Games",
+    "The Marriage of Cryptocurrency and Online Casinos",
+    "San Francisco 49ers Expand Partnership with Foliatti Casino ...",
+    "A Night at a Casino: So Much More than Gambling",
+    "Best casinos: how to find the most profitable crypto platform?"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/ that feel at home on americanfootballinternational.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): lineups.com\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Best Strategies for Winning at Popular Casino Games\n- Top Football Casino Games to Try in 2024\n- Experience the thrill of online roulette today\n- Master Casino Betting: Ultimate Guide for American Football Fans\n- Popular Types of Casino Games at 1Win\n- Top-Rated Quick Withdrawal Casinos for Canadians\n- Level Up Your Excitement with Oliver Casino's Exclusive Games\n- Top 5 NFL-Themed Casino Games: Best Football Slots & ...\n- Beyond the Stadium: The Reason Behind the Popularity of ...\n- Free Online Slots & Casino Games: Top Free-To-Play ...\n- Sports betting in land-based casinos\n- Review of the best betting site and online casino Linebet\n- How to Gamble Online With PlayStation 5\n- Why Do Players Prefer No-Deposit Bonuses at Online Casinos?\n- From the Gridiron to the Casino Floor: A Surprising Comparison\n- Everything You Need to Know About BC Game\n- Best Crypto Betting Sites 2025 | Bet on NFL Online\n- Best Zeppelin Crash Game Winning Strategy & Tips 2024\n- 3 Top Factors to Consider for Fast Payout Casinos\n- Best Offshore Sportsbooks | Bet on Football Online (2025)\n- Stake.us Sweepstakes Review: Top Stake USA Slots & Games\n- The Marriage of Cryptocurrency and Online Casinos\n- San Francisco 49ers Expand Partnership with Foliatti Casino ...\n- A Night at a Casino: So Much More than Gambling\n- Best casinos: how to find the most profitable crypto platform?\n\nGuidance:\n1. Combine your own knowledge of americanfootballinternational.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to americanfootballinternational.com while naturally justifying a link to https://www.lineups.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude lineups.com and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1010,
+    "completion_tokens": 1003
+  },
+  "cost_usd": 0.08038
+}

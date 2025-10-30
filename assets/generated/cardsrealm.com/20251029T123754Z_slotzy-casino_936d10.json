@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:37:54Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "cardsrealm.com",
+    "anchor_keyword": "Slotzy Casino",
+    "anchor_country": "",
+    "target_url": "https://slotzy.nu/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Cards to Cash: How Casino Marketing Influences Players in the USA",
+      "rationale": "Matches CardsRealm\u2019s strategy/market insights tone, targets USA, and allows a contextual body link to https://slotzy.nu/ using the anchor \u201cSlotzy Casino\u201d when discussing player funnels and site discovery."
+    },
+    {
+      "title": "Which Casino Card Games Give You the Best Odds in Canada?",
+      "rationale": "Odds and strategy content fits CardsRealm; Canadian focus satisfies locale. Can naturally reference \u201cSlotzy Casino\u201d in copy while comparing RTP/house edge and linking to https://slotzy.nu/."
+    },
+    {
+      "title": "Online Casino Card Games in the UK: How Digital Shuffling Algorithms Work",
+      "rationale": "Technical explainer aligns with CardsRealm\u2019s analytical pieces, UK localized. Supports a natural in-text mention of \u201cSlotzy Casino\u201d when illustrating platform mechanics and linking to https://slotzy.nu/."
+    },
+    {
+      "title": "Online Casino Bankroll 101 in Australia: a Practical Guide for Card Players",
+      "rationale": "Educational budgeting guide suits CardsRealm readers; Australian angle provided. The article can include \u201cSlotzy Casino\u201d contextually to exemplify budgeting tools with a link to https://slotzy.nu/."
+    },
+    {
+      "title": "Signs of Online Casino Scammers to Watch in India",
+      "rationale": "Safety checklist content resonates with the audience; India localization included. Enables a natural use of the anchor \u201cSlotzy Casino\u201d in guidance about choosing reputable sites, linking to https://slotzy.nu/."
+    }
+  ],
+  "titles_context": [
+    "Cards to Cash: How Casinos Market Effectively",
+    "Which Casino Games Give You The Best Odds Of Winning?",
+    "Online Casino Card Games Use Digital Shuffling Algorithms to ...",
+    "3 Popular Casino Card Games to Try for Your Next ...",
+    "How to Choose the Best Bitcoin and Crypto Casinos",
+    "Top 5 Most Played Online Casino Games and Why ...",
+    "Exploring the Thrills: A Guide to the Most Popular Casino ...",
+    "Cards Realm Train your game",
+    "Top 10 USA Real Money Slots Casinos",
+    "Most Popular Online Casino Games",
+    "Marvel Snap: Hela Casino Deck Guide (Pool 3)",
+    "BoVegas Payment Methods in Australia",
+    "Market Insights: The Business of Online Slots in the UK ...",
+    "Signs of Online Casino Scammers to Check",
+    "Best casino themed board games to play right now",
+    "How to Choose a Safe and Reliable Online Casino",
+    "The Rise of Social Casinos: Why Are They So Popular?",
+    "How to Install and Use Casino Plus Mobile App for Gaming",
+    "Common Mistakes New Online Casino Players Make and ...",
+    "A Guide to Safe and Strategic Online Casino Play",
+    "Live Dealer Casinos or Traditional Online ...",
+    "Online Casino Budgeting 101: A Step-by-Step Guide to ...",
+    "Licensing Online Casino Brands in the USA: A Practical ...",
+    "6 Casino Games For Experienced Players",
+    "The Psychology Behind Online Casino Gameplay"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://slotzy.nu/ that feel at home on cardsrealm.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Slotzy Casino\n\nAnchor operates in: Unspecified. \n\nI need to have the country in the title.\n\nReference titles:\n- Cards to Cash: How Casinos Market Effectively\n- Which Casino Games Give You The Best Odds Of Winning?\n- Online Casino Card Games Use Digital Shuffling Algorithms to ...\n- 3 Popular Casino Card Games to Try for Your Next ...\n- How to Choose the Best Bitcoin and Crypto Casinos\n- Top 5 Most Played Online Casino Games and Why ...\n- Exploring the Thrills: A Guide to the Most Popular Casino ...\n- Cards Realm Train your game\n- Top 10 USA Real Money Slots Casinos\n- Most Popular Online Casino Games\n- Marvel Snap: Hela Casino Deck Guide (Pool 3)\n- BoVegas Payment Methods in Australia\n- Market Insights: The Business of Online Slots in the UK ...\n- Signs of Online Casino Scammers to Check\n- Best casino themed board games to play right now\n- How to Choose a Safe and Reliable Online Casino\n- The Rise of Social Casinos: Why Are They So Popular?\n- How to Install and Use Casino Plus Mobile App for Gaming\n- Common Mistakes New Online Casino Players Make and ...\n- A Guide to Safe and Strategic Online Casino Play\n- Live Dealer Casinos or Traditional Online ...\n- Online Casino Budgeting 101: A Step-by-Step Guide to ...\n- Licensing Online Casino Brands in the USA: A Practical ...\n- 6 Casino Games For Experienced Players\n- The Psychology Behind Online Casino Gameplay\n\nGuidance:\n1. Combine your own knowledge of cardsrealm.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to cardsrealm.com while naturally justifying a link to https://slotzy.nu/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Slotzy Casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 928,
+    "completion_tokens": 954
+  },
+  "cost_usd": 0.0758
+}

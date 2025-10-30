@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-17T08:55:15Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "betimate.com",
+    "anchor_keyword": "500casino.bet",
+    "anchor_country": "",
+    "target_url": "https://500casino.bet/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Provably Fair Gaming Explained: How Cryptographic Seeds Secure Every Bet",
+      "rationale": "Educational piece fits betimate.com\u2019s analytical tone. A link can point to 500casino.bet\u2019s provably fair documentation or game pages to illustrate seed/hash verification in practice."
+    },
+    {
+      "title": "Crash, Mines, and Plinko: Decoding High\u2011variance Casino Formats Before You Play",
+      "rationale": "Tactical overview aligned with strategy content. Linking to 500casino.bet provides real examples of these game types and their risk curves without promoting any specific offer."
+    },
+    {
+      "title": "RTP vs Volatility: Pick Slot Mechanics That Suit Your Bankroll and Session Goals",
+      "rationale": "Data-minded guide matches betimate.com readers. A contextual link to 500casino.bet can showcase a catalog with varied RTP/variance profiles to compare theory with actual titles."
+    },
+    {
+      "title": "Wallet-First Igaming: Key Checks When Using Crypto for Deposits and Withdrawals",
+      "rationale": "Practical crypto primer consistent with global audience. 500casino.bet can be referenced for supported networks, confirmations, and fee transparency as a real-world implementation."
+    },
+    {
+      "title": "Live Tables on Mobile: Latency, Limits, and Etiquette That Impact Your Edge",
+      "rationale": "Mobile-focused advice aligns with site\u2019s how-to content. A link to 500casino.bet\u2019s live section can demonstrate table availability, bet ranges, and device performance considerations."
+    }
+  ],
+  "titles_context": [
+    "Mostbet Casino Review 2025 | Unbiased Analysis & Top ...",
+    "JoyCasino casino Review",
+    "0xBet Casino Review 2025",
+    "BC.Game Casino Review",
+    "Bitcasino Review 2025 | Unbiased Analysis & Top Bonuses",
+    "SpinCasino Casino Review 2025",
+    "Megapari Casino Review (2025) | In-Depth Analysis & ...",
+    "Fresh Casino Review (2025) | In-Depth Analysis & ...",
+    "BeepBeep Casino Review",
+    "888STARZ Casino Review 2025",
+    "Top-Rated Casinos That Offer No Wagering Bonuses for ...",
+    "Betwinner Casino Review 2025",
+    "Understanding the List of Sweepstakes Casinos",
+    "Casino - Latest news, videos, images on the topic Casino",
+    "Exploring the Most Popular Casino Slots on 1Win",
+    "Top Games in Mostbet Casino: A Detailed Overview",
+    "How Online Casinos Offer a World of Entertainment",
+    "How TG.Casino is Revolutionizing Online Gambling",
+    "Top Games to Play & Gamble on Your Phone That Are Not ...",
+    "Luck vs skill: How they shape your online casino experience",
+    "VIP Online Casino Secrets: 5 Unspoken Rules",
+    "How Loyalty Programs in Online Casinos Can Become ...",
+    "Top Strategies for Winning Big at 1Win Casino",
+    "A historical overview: What appeared first - betting or ...",
+    "Navigating the Tables: Live Blackjack Strategies for Every ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://500casino.bet/ that feel at home on betimate.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): 500casino.bet\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Mostbet Casino Review 2025 | Unbiased Analysis & Top ...\n- JoyCasino casino Review\n- 0xBet Casino Review 2025\n- BC.Game Casino Review\n- Bitcasino Review 2025 | Unbiased Analysis & Top Bonuses\n- SpinCasino Casino Review 2025\n- Megapari Casino Review (2025) | In-Depth Analysis & ...\n- Fresh Casino Review (2025) | In-Depth Analysis & ...\n- BeepBeep Casino Review\n- 888STARZ Casino Review 2025\n- Top-Rated Casinos That Offer No Wagering Bonuses for ...\n- Betwinner Casino Review 2025\n- Understanding the List of Sweepstakes Casinos\n- Casino - Latest news, videos, images on the topic Casino\n- Exploring the Most Popular Casino Slots on 1Win\n- Top Games in Mostbet Casino: A Detailed Overview\n- How Online Casinos Offer a World of Entertainment\n- How TG.Casino is Revolutionizing Online Gambling\n- Top Games to Play & Gamble on Your Phone That Are Not ...\n- Luck vs skill: How they shape your online casino experience\n- VIP Online Casino Secrets: 5 Unspoken Rules\n- How Loyalty Programs in Online Casinos Can Become ...\n- Top Strategies for Winning Big at 1Win Casino\n- A historical overview: What appeared first - betting or ...\n- Navigating the Tables: Live Blackjack Strategies for Every ...\n\nGuidance:\n1. Combine your own knowledge of betimate.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to betimate.com while naturally justifying a link to https://500casino.bet/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude 500casino.bet and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 969,
+    "completion_tokens": 673
+  },
+  "cost_usd": 0.05976
+}

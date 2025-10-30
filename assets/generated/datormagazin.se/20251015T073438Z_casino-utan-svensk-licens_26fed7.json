@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-15T07:34:38Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "datormagazin.se",
+    "anchor_keyword": "casino utan svensk licens",
+    "anchor_country": "Sweden",
+    "target_url": "https://www.umamicart.com/sv/casino/utan-bankid/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Bankid, KYC Och Spelkonton: S\u00e5 H\u00e4nger Tekniken Ihop",
+      "rationale": "Teknisk genomg\u00e5ng som passar Datormagazin-l\u00e4sare och kan l\u00e4nka till en f\u00f6rdjupning om hur spel fungerar n\u00e4r BankID inte anv\u00e4nds, med fokus p\u00e5 onboarding och identitetskontroll."
+    },
+    {
+      "title": "Integritet P\u00e5 N\u00e4tet: Id\u2011metoder Och Datalagring P\u00e5 Spelplattformar",
+      "rationale": "Fokuserar p\u00e5 s\u00e4kerhet och privacy, ett \u00e5terkommande tema hos Datormagazin. En naturlig l\u00e4nk kan peka till en guide som beskriver spelalternativ utan BankID och vilka data som faktiskt delas."
+    },
+    {
+      "title": "N\u00e4r Bankid Saknas: Inloggningsfl\u00f6den, Verifiering Och Risker Att K\u00e4nna Till",
+      "rationale": "Problem\u2013l\u00f6sningsvinkel om autentisering som matchar sajtens tekniska ton. L\u00e4nken kan ge l\u00e4saren en praktisk \u00f6versikt av plattformar d\u00e4r BankID inte kr\u00e4vs och vad det inneb\u00e4r."
+    },
+    {
+      "title": "Svenska Regler vs. Eu\u2011standarder: S\u00e5 P\u00e5verkas Din Spelupplevelse Tekniskt",
+      "rationale": "Regel- och teknikj\u00e4mf\u00f6relse i svensk kontext. En l\u00e4nk kan f\u00f6rdjupa kring hur spel utan BankID hanteras inom olika jurisdiktioner och vilka tekniska krav som st\u00e4lls."
+    },
+    {
+      "title": "Smidig Start I Spel: Teknikerna Bakom Snabb Registrering Och Betalning",
+      "rationale": "Tar upp UX, betalfl\u00f6den och identitet \u2013 typiskt f\u00f6r Datormagazin. L\u00e4nken kan leda till en resurs som f\u00f6rklarar alternativ d\u00e4r BankID inte anv\u00e4nds och hur det p\u00e5verkar registrering och transaktioner."
+    }
+  ],
+  "titles_context": [
+    "N\u00e4r Datorspel M\u00f6ter Casino",
+    "Varf\u00f6r f\u00f6redrar svenska spelare att spela p\u00e5 online casino?",
+    "Spellandskapet utanf\u00f6r Sveriges gr\u00e4nser: s\u00e5 fungerar ...",
+    "De B\u00e4sta Online Casinospel: Upplev Sp\u00e4nningen Hemifr\u00e5n",
+    "Casino online - Ett av de mest popul\u00e4raste n\u00f6jena p\u00e5 n\u00e4tet",
+    "Live poker online och hur det funkar \u2013 En titt bakom ...",
+    "Hur spellicenser p\u00e5verkar din casinoupplevelse",
+    "Svenskarnas nya spelmarknad, n\u00e4r statliga casinon st\u00e4nger",
+    "Annons-arkiv - Sida 6 av 16",
+    "\u00c4r Svenska Casinon Utan Registrering Framtiden?",
+    "Varf\u00f6r online-casinon accepterar en m\u00e4ngd olika ...",
+    "B\u00e4st EU-casinon enligt svenska spelare: 2023 \u00e5rs toppval",
+    "Betting utan svensk licens online \u2013 Guide f\u00f6r 2025",
+    "Skillnaden mellan bonus utan oms\u00e4ttningskrav och vanlig ...",
+    "F\u00e5 koll p\u00e5 casinon utan spelpaus",
+    "Hur casinobranschen har f\u00f6r\u00e4ndrats dramatiskt de senaste ...",
+    "Spinna loss p\u00e5 svenska casinon",
+    "Online casinospel: Vilken enhet passar dig b\u00e4st att spela ...",
+    "S\u00e5 lagligt \u00e4r online casino",
+    "Annons-arkiv - Sida 3 av 16",
+    "Spela p\u00e5 casinon utan svensk licens?",
+    "Uppt\u00e4ck de nya svenska casinona \u2013 Den b\u00e4sta ...",
+    "Online casinon \u00e4r h\u00e4r f\u00f6r att stanna \u2013 s\u00e5 har branschen ...",
+    "Uppt\u00e4ck de b\u00e4sta Trustly casinona direkt i din mobiltelefon",
+    "F\u00f6rdelarna med att anv\u00e4nda Zimpler p\u00e5 casino"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.umamicart.com/sv/casino/utan-bankid/ that feel at home on datormagazin.se.\n\nReference SERP keyword: casinon\nAnchor keyword (use only if natural): casino utan svensk licens\n\nAnchor operates in: Sweden\n\nReference titles:\n- N\u00e4r Datorspel M\u00f6ter Casino\n- Varf\u00f6r f\u00f6redrar svenska spelare att spela p\u00e5 online casino?\n- Spellandskapet utanf\u00f6r Sveriges gr\u00e4nser: s\u00e5 fungerar ...\n- De B\u00e4sta Online Casinospel: Upplev Sp\u00e4nningen Hemifr\u00e5n\n- Casino online - Ett av de mest popul\u00e4raste n\u00f6jena p\u00e5 n\u00e4tet\n- Live poker online och hur det funkar \u2013 En titt bakom ...\n- Hur spellicenser p\u00e5verkar din casinoupplevelse\n- Svenskarnas nya spelmarknad, n\u00e4r statliga casinon st\u00e4nger\n- Annons-arkiv - Sida 6 av 16\n- \u00c4r Svenska Casinon Utan Registrering Framtiden?\n- Varf\u00f6r online-casinon accepterar en m\u00e4ngd olika ...\n- B\u00e4st EU-casinon enligt svenska spelare: 2023 \u00e5rs toppval\n- Betting utan svensk licens online \u2013 Guide f\u00f6r 2025\n- Skillnaden mellan bonus utan oms\u00e4ttningskrav och vanlig ...\n- F\u00e5 koll p\u00e5 casinon utan spelpaus\n- Hur casinobranschen har f\u00f6r\u00e4ndrats dramatiskt de senaste ...\n- Spinna loss p\u00e5 svenska casinon\n- Online casinospel: Vilken enhet passar dig b\u00e4st att spela ...\n- S\u00e5 lagligt \u00e4r online casino\n- Annons-arkiv - Sida 3 av 16\n- Spela p\u00e5 casinon utan svensk licens?\n- Uppt\u00e4ck de nya svenska casinona \u2013 Den b\u00e4sta ...\n- Online casinon \u00e4r h\u00e4r f\u00f6r att stanna \u2013 s\u00e5 har branschen ...\n- Uppt\u00e4ck de b\u00e4sta Trustly casinona direkt i din mobiltelefon\n- F\u00f6rdelarna med att anv\u00e4nda Zimpler p\u00e5 casino\n\nGuidance:\n1. Combine your own knowledge of datormagazin.se's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to datormagazin.se while naturally justifying a link to https://www.umamicart.com/sv/casino/utan-bankid/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude casino utan svensk licens and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Sweden where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1116,
+    "completion_tokens": 1150
+  },
+  "cost_usd": 0.09132
+}

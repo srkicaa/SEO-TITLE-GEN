@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-13T15:24:49Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "todaynews.co.uk",
+    "anchor_keyword": "free spins no deposit ireland",
+    "anchor_country": "",
+    "target_url": "https://www.lunasa.ie/bonus/free-spins-no-deposit/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "UK & Ireland Newcomer\u2019s Guide to Online Slots: Features, Rules, and Safer Play",
+      "rationale": "Educational overview suited to Today News readers; a link can point to a resource detailing Ireland-specific no-deposit spin options and terms for additional context."
+    },
+    {
+      "title": "Stretching a Starter Bankroll on Slots: Low\u2011stake Tactics That Actually Help",
+      "rationale": "Practical money\u2011management angle justifies linking to a guide that outlines ways to try spins without upfront spend, including Ireland\u2011focused options and their conditions."
+    },
+    {
+      "title": "Spin Incentives Explained: Reading the Small Print Before You Click",
+      "rationale": "Consumer\u2011protection angle fits the site\u2019s tone; the link can illustrate typical terms for no\u2011deposit spins available to Ireland\u2011based players and how to assess them."
+    },
+    {
+      "title": "The Anatomy of a Modern Slot: RTP, Volatility, and Why Sessions Feel Different",
+      "rationale": "Tech\u2011meets\u2011entertainment explainer; linking to an external guide helps readers locate trial spin opportunities while understanding mechanics that drive outcomes."
+    },
+    {
+      "title": "First\u2011time Spins Checklist for 2025: Payments, Wagering, and Safer Limits in the UK/Ireland",
+      "rationale": "Checklist format matches Today News listicles; a link can provide Ireland\u2011specific pathways to try spins plus key compliance notes on eligibility and wagering rules."
+    }
+  ],
+  "titles_context": [
+    "33win Casino Game Guide: Best Slots, Live Dealers, and Winning ...",
+    "Why Playing Slots Is Worth a Spin: 5 Key Reasons - Today News",
+    "Magnumslot \u2013 The Casino Platform Everyone's Suddenly ...",
+    "Casino \u2013 todaynews.co.uk",
+    "Slot Machines and AI: Fact or Fiction in Predicting Wins",
+    "Where to Find the Real and Secure qris108 Link - giwepe9485",
+    "Debunking Common Myths About Casino Games - Today News",
+    "Enormous Details Related To Casino Games Aggregator",
+    "Official MBCSlot88 Alternative Links 2025: Easy and Secure ...",
+    "Bovada \u2013 giwepe9485",
+    "Top Ways to Make Your Casino Bets More Effective - Today News",
+    "Uncategorised Archives - Page 2 of 4 - Bloomberg Today News",
+    "How to Get Started with Vikingtoto for Safe and Fun Online ...",
+    "How Online Casinos Are Reshaping Entertainment at Home",
+    "Which Casino Games Should You Play Online? - Today News",
+    "What makes blackjack remain one of the most iconic casino ...",
+    "Why Online Casino Games Are More Exciting Than Ever - Today News",
+    "Solana Crypto Casino: Why Speed Isn't Just a Feature",
+    "Lord Exchange ID \u2013 Your Key to Secure and Smart Betting on Lord ...",
+    "How have classic casino games evolved online? - Today News",
+    "Top casino affiliate sites for finding free spins bonuses",
+    "Slots PK: The Ultimate Guide to Pakistan's Favorite Online Slot ...",
+    "Unusual Casino Games You've Never Tried Before",
+    "How did Slots go digital? - Today News",
+    "Comparing Games at Sweepstakes Sites and Traditional ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lunasa.ie/bonus/free-spins-no-deposit/ that feel at home on todaynews.co.uk.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): free spins no deposit ireland\n\nAnchor operates in: Unspecified\n\nReference titles:\n- 33win Casino Game Guide: Best Slots, Live Dealers, and Winning ...\n- Why Playing Slots Is Worth a Spin: 5 Key Reasons - Today News\n- Magnumslot \u2013 The Casino Platform Everyone's Suddenly ...\n- Casino \u2013 todaynews.co.uk\n- Slot Machines and AI: Fact or Fiction in Predicting Wins\n- Where to Find the Real and Secure qris108 Link - giwepe9485\n- Debunking Common Myths About Casino Games - Today News\n- Enormous Details Related To Casino Games Aggregator\n- Official MBCSlot88 Alternative Links 2025: Easy and Secure ...\n- Bovada \u2013 giwepe9485\n- Top Ways to Make Your Casino Bets More Effective - Today News\n- Uncategorised Archives - Page 2 of 4 - Bloomberg Today News\n- How to Get Started with Vikingtoto for Safe and Fun Online ...\n- How Online Casinos Are Reshaping Entertainment at Home\n- Which Casino Games Should You Play Online? - Today News\n- What makes blackjack remain one of the most iconic casino ...\n- Why Online Casino Games Are More Exciting Than Ever - Today News\n- Solana Crypto Casino: Why Speed Isn't Just a Feature\n- Lord Exchange ID \u2013 Your Key to Secure and Smart Betting on Lord ...\n- How have classic casino games evolved online? - Today News\n- Top casino affiliate sites for finding free spins bonuses\n- Slots PK: The Ultimate Guide to Pakistan's Favorite Online Slot ...\n- Unusual Casino Games You've Never Tried Before\n- How did Slots go digital? - Today News\n- Comparing Games at Sweepstakes Sites and Traditional ...\n\nGuidance:\n1. Combine your own knowledge of todaynews.co.uk's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to todaynews.co.uk while naturally justifying a link to https://www.lunasa.ie/bonus/free-spins-no-deposit/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude free spins no deposit ireland and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1083,
+    "completion_tokens": 923
+  },
+  "cost_usd": 0.07704
+}

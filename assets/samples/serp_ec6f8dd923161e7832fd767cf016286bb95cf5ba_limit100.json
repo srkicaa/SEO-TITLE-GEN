@@ -1,0 +1,440 @@
+{
+  "mode": "live",
+  "task_id": "10291238-4117-0121-0000-bde5f1c02e98",
+  "query": "site:valioliigasarjataulukko.fi kasinot",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Online-kasinot ja bonukset - Valioliiga Sarjataulukko",
+      "url": "https://valioliigasarjataulukko.fi/category/online-kasinot-ja-bonukset/",
+      "snippet": "Category Online-kasinot ja bonukset \u00b7 Futisstrategiat jotka toimivat my\u00f6s pelimaailmassa \u00b7 No deposit bonus \u2013 ilmainen mahdollisuus kokeilla kasinopelej\u00e4 \u00b7 Mitk\u00e4\u00a0... Read more",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Kasinot ja urheilun crossover - Valioliiga Sarjataulukko",
+      "url": "https://valioliigasarjataulukko.fi/category/kasinot-ja-urheilun-crossover/",
+      "snippet": "Kasinoiden ja urheilun yhdistelm\u00e4: Parhaat kolikkopelit \u00b7 Miten digitalisaatio on yhdist\u00e4nyt kasinot ja urheilun? \u00b7 Jalkapallon ja kasinoiden yhteispeli \u00b7 Pelien\u00a0... Read more",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Online-kasinot ja bonukset - Valioliiga Sarjataulukko",
+      "url": "https://valioliigasarjataulukko.fi/category/online-kasinot-ja-bonukset/page/3/",
+      "snippet": "Uusia nettikasinoita julkaistaan jatkuvasti, ja kilpailu kasinoiden kesken on kovaa. Pelaajat p\u00e4\u00e4sev\u00e4t valitsemaan k\u00e4ytt\u00e4m\u00e4ns\u00e4 nettikasinot eritt\u00e4in laajasta\u00a0... Read more",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Parhaat virolaiset pay n play kasinot p\u00e4ihitt\u00e4v\u00e4t jopa MGA-kasinot",
+      "url": "https://valioliigasarjataulukko.fi/parhaat-virolaiset-pay-n-play-kasinot-paihittavat-jopa-mga-kasinot/",
+      "snippet": "Parhaat virolaiset pay n play kasinot tarjoavat nopean ja vaivattoman pelikokemuksen, p\u00e4ihitt\u00e4en jopa MGA-kasinot bonuksilla, maksutavoilla ja\u00a0...",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Kasinobonukset vuonna 2025 \u2013 mit\u00e4 on luvassa?",
+      "url": "https://valioliigasarjataulukko.fi/kasinobonukset-vuonna-2025-mita-on-luvassa/",
+      "snippet": "Vuosi 2025 tuo tullessaan mielenkiintoisia trendej\u00e4 kasinobonuksiin. Pelaajat odottavat saavansa nettikasinoilta yh\u00e4 parempia bonuksia,\u00a0...",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "No deposit bonus \u2013 ilmainen mahdollisuus kokeilla kasinopelej\u00e4",
+      "url": "https://valioliigasarjataulukko.fi/no-deposit-bonus-ilmainen-mahdollisuus-kokeilla-kasinopeleja/",
+      "snippet": "Aug 27, 2025 \u2014 No deposit bonus on yksi suosituimmista tavoista aloittaa nettikasinoilla pelaaminen ilman taloudellista riski\u00e4. Read more",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "Pelien maailman syd\u00e4mess\u00e4: Siell\u00e4 miss\u00e4 jalkapallo ja kasinot ...",
+      "url": "https://valioliigasarjataulukko.fi/pelien-maailman-sydamessa-siella-missa-jalkapallo-ja-kasinot-kohtaavat/",
+      "snippet": "Kasinot tarjoavat monipuolisen valikoiman pelej\u00e4, jotka pit\u00e4v\u00e4t meid\u00e4t viihtynein\u00e4 ja tarjoavat mahdollisuuden strategiseen peliin \u2013 ei ole sattumaa, ett\u00e4 monet\u00a0...",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Miten digitalisaatio on yhdist\u00e4nyt kasinot ja urheilun? - Valioliiga ...",
+      "url": "https://valioliigasarjataulukko.fi/miten-digitalisaatio-on-yhdistanyt-kasinot-ja-urheilun/",
+      "snippet": "Digitalisaatio on pist\u00e4nyt kasinot ja urheilun samaan p\u00f6yt\u00e4\u00e4n, ja toiminta on siirtynyt t\u00e4ysin seuraavalle tasolle. Siis ajattele, kuinka monta kertaa olet.",
+      "rank_absolute": 8,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "Miksi suomalaispelaajan kannattaa valita suomikasino?",
+      "url": "https://valioliigasarjataulukko.fi/miksi-suomalaispelaajan-kannattaa-valita-suomikasino/",
+      "snippet": "Nov 28, 2024 \u2014 Suomikasinoilla palvelu pelaa kotimaisella kielell\u00e4, pelivalikoimat ovat suomalaispelaajien makuun suunniteltu ja rahansiirrotkin sujuvat\u00a0... Read more",
+      "rank_absolute": 9,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "N\u00e4in Valioliiga yhdistyy vedonly\u00f6ntiin ja kasinoihin",
+      "url": "https://valioliigasarjataulukko.fi/taulukosta-tuloksiin-nain-valioliiga-yhdistyy-vedonlyontiin-ja-kasinoihin/",
+      "snippet": "Urheilu ja kasinot rinnakkain. Urheilun ja nettikasinoiden v\u00e4linen yhteys tulee todenn\u00e4k\u00f6isesti kasvamaan tulevina vuosina. Yh\u00e4 useammat\u00a0... Read more",
+      "rank_absolute": 10,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "Sopiiko suomalainen kasino Valioliiga-vedonly\u00f6ntiin?",
+      "url": "https://valioliigasarjataulukko.fi/sopiiko-suomalainen-kasino-valioliiga-vedonlyontiin/",
+      "snippet": "Jul 11, 2025 \u2014 Valioliiga kiinnostaa my\u00f6s suomalaisia vedonly\u00f6ji\u00e4 enemm\u00e4n kuin mik\u00e4\u00e4n muu jalkapallosarja. Ja kun panokset ovat peliss\u00e4,\u00a0...",
+      "rank_absolute": 11,
+      "rank_group": 11,
+      "result_type": "items"
+    },
+    {
+      "title": "Futisstrategiat jotka toimivat my\u00f6s pelimaailmassa",
+      "url": "https://valioliigasarjataulukko.fi/futisstrategiat-jotka-toimivat-myos-pelimaailmassa/",
+      "snippet": "Sep 16, 2025 \u2014 ... kiinnostuksen kohteet \u00b7 Kasinot ja urheilun crossover \u00b7 Online-kasinot ja bonukset \u00b7 Urheilu & Jalkapallo. Copyright \u00a9 2025 - Valioliiga\u00a0... Read more",
+      "rank_absolute": 12,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "N\u00e4it\u00e4 piirteit\u00e4 suomalaiset pelaajat arvostavat uusissa ...",
+      "url": "https://valioliigasarjataulukko.fi/naita-piirteita-suomalaiset-pelaajat-arvostavat-uusissa-kasinoissa/",
+      "snippet": "Oct 22, 2024 \u2014 ... kasinot ja bonukset \u00b7 Home Online-kasinot ja bonukset N\u00e4it\u00e4 piirteit\u00e4 suomalaiset pelaajat arvostavat uusissa kasinoissa. Uusia nettikasinoita\u00a0... Read more",
+      "rank_absolute": 13,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "Omaha vs. Hold'em vs. muut pokeripelit Suomessa",
+      "url": "https://valioliigasarjataulukko.fi/omaha-vs-holdem-vs-muut-pokeripelit-suomessa/",
+      "snippet": "Omaha vs. Hold'em vs. muut pokeripelit Suomessa. July 29, 2025; Online-kasinot ja bonukset \u00b7 Home Online-kasinot ja bonukset Omaha vs. Hold'em vs. muut\u00a0... Read more",
+      "rank_absolute": 14,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "Onko kasinopelien vai urheiluvedonly\u00f6nnin ...",
+      "url": "https://valioliigasarjataulukko.fi/onko-kasinopelien-vai-urheiluvedonlyonnin-voittomahdollisuus-parempi/",
+      "snippet": "Onko kasinopelien vai urheiluvedonly\u00f6nnin voittomahdollisuus parempi? August 25, 2025; Online-kasinot ja bonukset \u00b7 Home Online-kasinot ja bonukset Onko\u00a0... Read more",
+      "rank_absolute": 15,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "Tuoreimmat kasinouutiset: Uusimmat trendit",
+      "url": "https://valioliigasarjataulukko.fi/tuoreimmat-kasinouutiset-uusimmat-trendit/",
+      "snippet": "Oct 25, 2024 \u2014 Kasinomaailmassa tapahtuu jatkuvasti, ja uudet kasinot avaavat oviansa ymp\u00e4ri maailmaa. T\u00e4m\u00e4 tarjoaa sinulle, intohimoiselle pelaajalle, uusia\u00a0... Read more",
+      "rank_absolute": 16,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "Taito- ja onnenpelit suomalaisten keskuudessa \u2013 mit\u00e4 me ...",
+      "url": "https://valioliigasarjataulukko.fi/taito-ja-onnenpelit-suomalaisten-keskuudessa-mita-me-suosimme/",
+      "snippet": "Taito- ja onnenpelit suomalaisten keskuudessa \u2013 mit\u00e4 me suosimme? August 13, 2025; Online-kasinot ja bonukset \u00b7 Home Online-kasinot ja bonukset Taito- ja\u00a0... Read more",
+      "rank_absolute": 17,
+      "rank_group": 17,
+      "result_type": "items"
+    },
+    {
+      "title": "Mitk\u00e4 joukkueet todenn\u00e4k\u00f6isimmin voittavat Valioliigan ...",
+      "url": "https://valioliigasarjataulukko.fi/mitka-joukkueet-todennakoisimmin-voittavat-valioliigan-kaudella-25-26/",
+      "snippet": "Aug 25, 2025 \u2014 Online-kasinot ja bonukset Mitk\u00e4 joukkueet todenn\u00e4k\u00f6isimmin voittavat Valioliigan kaudella 25\u201326? Mitk\u00e4 joukkueet todenn\u00e4k\u00f6isimmin voittavat\u00a0... Read more",
+      "rank_absolute": 18,
+      "rank_group": 18,
+      "result_type": "items"
+    },
+    {
+      "title": "Valioliiga sarjataulukko - Valioliiga Sarjataulukko",
+      "url": "https://valioliigasarjataulukko.fi/",
+      "snippet": "Valioliigan joukkueet, aivan kuten suomalaiset kasinot, voivat saavuttaa menestyst\u00e4 vain noudattamalla s\u00e4\u00e4nt\u00f6j\u00e4, toimimalla reilusti ja osoittamalla\u00a0... Read more",
+      "rank_absolute": 19,
+      "rank_group": 19,
+      "result_type": "items"
+    },
+    {
+      "title": "Kasinoiden ja urheilun yhdistelm\u00e4: Parhaat kolikkopelit",
+      "url": "https://valioliigasarjataulukko.fi/kasinoiden-ja-urheilun-yhdistelma-parhaat-kolikkopelit/",
+      "snippet": "Aug 23, 2024 \u2014 ... Kasinot ja urheilun crossover \u00b7 Home Kasinot ja urheilun crossover Kasinoiden ja urheilun yhdistelm\u00e4: Parhaat kolikkopelit. Jalkapallon\u00a0... Read more",
+      "rank_absolute": 20,
+      "rank_group": 20,
+      "result_type": "items"
+    },
+    {
+      "title": "Livevedot ja Valioliiga: Reaaliaikaista viihdett\u00e4 ...",
+      "url": "https://valioliigasarjataulukko.fi/livevedot-ja-valioliiga-reaaliaikaista-viihdetta-jalkapallofaneille/",
+      "snippet": "Aug 20, 2025 \u2014 Otteluiden laatu, intensiteetti ja t\u00e4htipelaajien esiintyminen tekev\u00e4t Valioliigasta houkuttelevan niin kotisohvalla katsottuna kuin\u00a0...",
+      "rank_absolute": 21,
+      "rank_group": 21,
+      "result_type": "items"
+    },
+    {
+      "title": "Sarjataulukko j\u00e4\u00e4kiekko",
+      "url": "https://valioliigasarjataulukko.fi/sarjataulukko-jaakiekko/",
+      "snippet": "Suomen j\u00e4\u00e4kiekossa on useita eri sarjoja, joihin joukkueet kilpailevat. Liiga on Suomen korkein sarjataso, jossa pelaa kahdeksantoista joukkuetta. Mestis on\u00a0...",
+      "rank_absolute": 22,
+      "rank_group": 22,
+      "result_type": "items"
+    },
+    {
+      "title": "Miksi Valioliigan sarjataulukko kiinnostaa my\u00f6s vedonly\u00f6ji\u00e4?",
+      "url": "https://valioliigasarjataulukko.fi/miksi-valioliigan-sarjataulukko-kiinnostaa-myos-vedonlyojia/",
+      "snippet": "Sep 25, 2025 \u2014 Valioliigan sarjataulukko on monelle ensimm\u00e4inen asia, johon katse kohdistuu viikonlopun otteluiden l\u00e4hestyess\u00e4.",
+      "rank_absolute": 23,
+      "rank_group": 23,
+      "result_type": "items"
+    },
+    {
+      "title": "Suomalaisten vapaa-aika muuttuu: Striimaus ja lisenssit ...",
+      "url": "https://valioliigasarjataulukko.fi/suomalaisten-vapaa-aika-muuttuu-striimaus-ja-lisenssit-tarkastelussa/",
+      "snippet": "Sep 22, 2025 \u2014 Lisensoidut kasinot joutuvat noudattamaan tiukkoja s\u00e4\u00e4nt\u00f6j\u00e4 liittyen vastuullisuuteen, pelaajan tunnistamiseen ja rahanpesun est\u00e4miseen. T\u00e4m\u00e4\u00a0...",
+      "rank_absolute": 24,
+      "rank_group": 24,
+      "result_type": "items"
+    },
+    {
+      "title": "Uutiset - Valioliiga Sarjataulukko",
+      "url": "https://valioliigasarjataulukko.fi/uutiset/page/4/",
+      "snippet": "Yh\u00e4 useampi nettikasinopelaajista on innoissaan siit\u00e4 mahdollisuudesta, ett\u00e4 kasinolle p\u00e4\u00e4see pelaamaan helposti, nopeasti ja vaivattomasti, t\u00e4ytt\u00e4m\u00e4tt\u00e4 aina\u00a0...",
+      "rank_absolute": 25,
+      "rank_group": 25,
+      "result_type": "items"
+    },
+    {
+      "title": "900 miljoonan euron harmaa markkina - Valioliiga Sarjataulukko",
+      "url": "https://valioliigasarjataulukko.fi/900-miljoonan-euron-harmaa-markkina-maanalainen-suomalainen-vedonlyonti-joka-muuttaa-kaiken/",
+      "snippet": "Oct 10, 2025 \u2014 Siksi ulkomaiset, verovapaat kasinot houkuttelevat kasvavaa pelaajakuntaa \u2013 ja samalla lis\u00e4\u00e4v\u00e4t painetta muuttaa s\u00e4\u00e4ntely\u00e4 my\u00f6s Suomessa.",
+      "rank_absolute": 26,
+      "rank_group": 26,
+      "result_type": "items"
+    },
+    {
+      "title": "Jalkapallon vedonly\u00f6ntistrategioiden syv\u00e4llinen analyysi ...",
+      "url": "https://valioliigasarjataulukko.fi/jalkapallon-vedonlyontistrategioiden-syvallinen-analyysi-onnistumismahdollisuuksien-parantamiseksi/",
+      "snippet": "Aug 17, 2025 \u2014 Jalkapallovedonly\u00f6nti yhdist\u00e4\u00e4 urheilun ja strategisen ajattelun. Kun l\u00e4hdet t\u00e4h\u00e4n maailmaan, on t\u00e4rke\u00e4\u00e4 ymm\u00e4rt\u00e4\u00e4, miten voittaa kertoimet\u00a0...",
+      "rank_absolute": 27,
+      "rank_group": 27,
+      "result_type": "items"
+    },
+    {
+      "title": "Veikkausliiga sarjataulukko",
+      "url": "https://valioliigasarjataulukko.fi/veikkausliiga-sarjataulukko/",
+      "snippet": "Veikkausliigan sarjataulukko kertoo joukkueiden sijoitukset ja pisteet kauden aikana. Sarjataulukko p\u00e4ivitet\u00e4\u00e4n jatkuvasti ja siit\u00e4 voi seurata, miten.",
+      "rank_absolute": 28,
+      "rank_group": 28,
+      "result_type": "items"
+    },
+    {
+      "title": "Pelaajien vire ja joukkueen suorituskyky vaikuttavat ...",
+      "url": "https://valioliigasarjataulukko.fi/pelaajien-vire-ja-joukkueen-suorituskyky-vaikuttavat-jalkapallon-ennusteisiin/",
+      "snippet": "Aug 25, 2025 \u2014 Jalkapallon ennusteissa pelaajien henkil\u00f6kohtainen suorituskyky ja joukkueiden tilastot ovat merkitt\u00e4v\u00e4ss\u00e4 roolissa. Tilastolliset mittarit\u00a0...",
+      "rank_absolute": 29,
+      "rank_group": 29,
+      "result_type": "items"
+    },
+    {
+      "title": "La Liga sarjataulukko",
+      "url": "https://valioliigasarjataulukko.fi/la-liga-sarjataulukko/",
+      "snippet": "La Liga sarjataulukko on Espanjan huippufutiksen t\u00e4rke\u00e4 mittari, joka pit\u00e4\u00e4 pelaajat, valmentajat ja fanit ajan tasalla joukkueiden sijoituksista ja tuloksista.",
+      "rank_absolute": 30,
+      "rank_group": 30,
+      "result_type": "items"
+    },
+    {
+      "title": "Bundesliiga sarjataulukko",
+      "url": "https://valioliigasarjataulukko.fi/bundesliiga-sarjataulukko/",
+      "snippet": "Bundesliiga sarjataulukko tarjoaa ajantasaiset tiedot saksalaisen jalkapallon Bundesliigan sarjataulukosta. Seuraa k\u00e4rkijoukkueiden sijoituksia ja\u00a0...",
+      "rank_absolute": 31,
+      "rank_group": 31,
+      "result_type": "items"
+    },
+    {
+      "title": "Paidat Muuttuvat: Paitasponsoroinnin Kehitys La Ligassa",
+      "url": "https://valioliigasarjataulukko.fi/paidat-muuttuvat-paitasponsoroinnin-kehitys-la-ligassa/",
+      "snippet": "Jul 21, 2025 \u2014 N\u00e4m\u00e4 kasinot usein korostavat vahvuuksiaan, kuten nopeat kotiutukset, monipuoliset maksutavat, sulava mobiilipelaaminen, laaja pelivalikoima ja\u00a0...",
+      "rank_absolute": 32,
+      "rank_group": 32,
+      "result_type": "items"
+    },
+    {
+      "title": "Miten Manchester Cityn taktinen joustavuus pit\u00e4\u00e4 sen ...",
+      "url": "https://valioliigasarjataulukko.fi/miten-manchester-cityn-taktinen-joustavuus-pitaa-sen-valioliigan-karjessa/",
+      "snippet": "Jul 29, 2025 \u2014 Manchester Cityn menestys viime vuosien Valioliiga-kausilla ei johdu vain huippupelaajista tai tunnetusta managerista.",
+      "rank_absolute": 33,
+      "rank_group": 33,
+      "result_type": "items"
+    },
+    {
+      "title": "Category Vedonly\u00f6ntikulttuuri ja pelaajien kiinnostuksen kohteet",
+      "url": "https://valioliigasarjataulukko.fi/category/vedonlyontikulttuuri-ja-pelaajien-kiinnostuksen-kohteet/",
+      "snippet": "Category Vedonly\u00f6ntikulttuuri ja pelaajien kiinnostuksen kohteet \u00b7 Riskill\u00e4 voittoon: Maailmant\u00e4htien uhkapeliharrastukset \u00b7 Nettikasinot ja vedonly\u00f6nti Suomessa.",
+      "rank_absolute": 34,
+      "rank_group": 34,
+      "result_type": "items"
+    },
+    {
+      "title": "Ligue 1 sarjataulukot",
+      "url": "https://valioliigasarjataulukko.fi/ligue-1-sarjataulukot/",
+      "snippet": "T\u00e4ss\u00e4 artikkelissa esitell\u00e4\u00e4n uusimmat ligue 1 sarjataulukot (liigataulukot), tulokset ja joukkueiden sijoitukset Ranskan huippujalkapalloliigassa.",
+      "rank_absolute": 35,
+      "rank_group": 35,
+      "result_type": "items"
+    },
+    {
+      "title": "Riskill\u00e4 voittoon: Maailmant\u00e4htien uhkapeliharrastukset",
+      "url": "https://valioliigasarjataulukko.fi/riskilla-voittoon-maailmantahtien-uhkapeliharrastukset/",
+      "snippet": "Sep 17, 2024 \u2014 Kasinot, pokeriturnaukset ja vedonly\u00f6nti ovat houkutelleet useita jalkapallot\u00e4hti\u00e4 kokeilemaan onneaan my\u00f6s viheri\u00f6iden ulkopuolella. ... Kasinot\u00a0...",
+      "rank_absolute": 36,
+      "rank_group": 36,
+      "result_type": "items"
+    },
+    {
+      "title": "Mestis sarjataulukko",
+      "url": "https://valioliigasarjataulukko.fi/mestis-sarjataulukko/",
+      "snippet": "Mestis sarjataulukko tarjoaa ajantasaiset tulokset, tilastot ja joukkueiden sijoitukset kauden aikana. Aktiivinen seuranta sarjataulukosta auttaa pysym\u00e4\u00e4n.",
+      "rank_absolute": 37,
+      "rank_group": 37,
+      "result_type": "items"
+    },
+    {
+      "title": "Viisi j\u00e4nnitt\u00e4vint\u00e4 ottelua jalkapallon ...",
+      "url": "https://valioliigasarjataulukko.fi/viisi-jannittavinta-ottelua-jalkapallon-maailmanmestaruuskisojen-historiassa/",
+      "snippet": "Jalkapallon MM-kisat ovat maailman merkitt\u00e4vin urheilutapahtuma, joka saattaa yhteen jalkapallofanit ymp\u00e4ri maailmaa.",
+      "rank_absolute": 38,
+      "rank_group": 38,
+      "result_type": "items"
+    },
+    {
+      "title": "Ykk\u00f6nen - Valioliiga Sarjataulukko",
+      "url": "https://valioliigasarjataulukko.fi/ykkonen/",
+      "snippet": "Ykk\u00f6nen koostuu 12 joukkueesta, jotka pelaavat kes\u00e4kaudella yhteens\u00e4 27 ottelua. Sarjan voittaja nousee suoraan Veikkausliigaan ja sijoille 2-4 sijoittuneet\u00a0...",
+      "rank_absolute": 39,
+      "rank_group": 39,
+      "result_type": "items"
+    },
+    {
+      "title": "Parhaat Valioliigassa pelanneet suomalaiset jalkapalloilijat",
+      "url": "https://valioliigasarjataulukko.fi/parhaat-valioliigassa-pelanneet-suomalaiset-jalkapalloilijat/",
+      "snippet": "Sep 25, 2024 \u2014 Suomalaiset jalkapalloilijat ovat p\u00e4\u00e4sseet pelaamaan my\u00f6s maailman kovimmassa jalkapallosarjassa eli Englannin Valioliigassa.",
+      "rank_absolute": 40,
+      "rank_group": 40,
+      "result_type": "items"
+    },
+    {
+      "title": "Liiga sarjataulukko - Valioliiga Sarjataulukko",
+      "url": "https://valioliigasarjataulukko.fi/liiga-sarjataulukko/",
+      "snippet": "... kiinnostuksen kohteet \u00b7 Kasinot ja urheilun crossover \u00b7 Online-kasinot ja bonukset \u00b7 Urheilu & Jalkapallo. Copyright \u00a9 2025 - Valioliiga Sarjataulukko.",
+      "rank_absolute": 41,
+      "rank_group": 41,
+      "result_type": "items"
+    },
+    {
+      "title": "Urheilu & Jalkapallo - Valioliiga Sarjataulukko",
+      "url": "https://valioliigasarjataulukko.fi/category/urheilu-jalkapallo/",
+      "snippet": "... kiinnostuksen kohteet \u00b7 Kasinot ja urheilun crossover \u00b7 Online-kasinot ja bonukset \u00b7 Urheilu & Jalkapallo. Copyright \u00a9 2025 - Valioliiga Sarjataulukko.",
+      "rank_absolute": 42,
+      "rank_group": 42,
+      "result_type": "items"
+    },
+    {
+      "title": "Englannin valioliiga",
+      "url": "https://valioliigasarjataulukko.fi/englannin-valioliiga/",
+      "snippet": "... kiinnostuksen kohteet \u00b7 Kasinot ja urheilun crossover \u00b7 Online-kasinot ja bonukset \u00b7 Urheilu & Jalkapallo. Copyright \u00a9 2025 - Valioliiga Sarjataulukko.",
+      "rank_absolute": 43,
+      "rank_group": 43,
+      "result_type": "items"
+    },
+    {
+      "title": "NHL sarjataulukko",
+      "url": "https://valioliigasarjataulukko.fi/nhl-sarjataulukko/",
+      "snippet": "... kiinnostuksen kohteet \u00b7 Kasinot ja urheilun crossover \u00b7 Online-kasinot ja bonukset \u00b7 Urheilu & Jalkapallo. Copyright \u00a9 2025 - Valioliiga Sarjataulukko.",
+      "rank_absolute": 44,
+      "rank_group": 44,
+      "result_type": "items"
+    },
+    {
+      "title": "Superpesis sarjataulukko",
+      "url": "https://valioliigasarjataulukko.fi/superpesis-sarjataulukko/",
+      "snippet": "... kiinnostuksen kohteet \u00b7 Kasinot ja urheilun crossover \u00b7 Online-kasinot ja bonukset \u00b7 Urheilu & Jalkapallo. Copyright \u00a9 2025 - Valioliiga Sarjataulukko.",
+      "rank_absolute": 45,
+      "rank_group": 45,
+      "result_type": "items"
+    },
+    {
+      "title": "Valioliiga pelit",
+      "url": "https://valioliigasarjataulukko.fi/valioliiga-pelit/",
+      "snippet": "... kiinnostuksen kohteet \u00b7 Kasinot ja urheilun crossover \u00b7 Online-kasinot ja bonukset \u00b7 Urheilu & Jalkapallo. Copyright \u00a9 2025 - Valioliiga Sarjataulukko.",
+      "rank_absolute": 46,
+      "rank_group": 46,
+      "result_type": "items"
+    },
+    {
+      "title": "Serie A sarjataulukot",
+      "url": "https://valioliigasarjataulukko.fi/serie-a-sarjataulukot/",
+      "snippet": "... kiinnostuksen kohteet \u00b7 Kasinot ja urheilun crossover \u00b7 Online-kasinot ja bonukset \u00b7 Urheilu & Jalkapallo. Copyright \u00a9 2025 - Valioliiga Sarjataulukko.",
+      "rank_absolute": 47,
+      "rank_group": 47,
+      "result_type": "items"
+    },
+    {
+      "title": "Vedonly\u00f6nnin ja Valioliigan v\u00e4linen suhde urheilussa",
+      "url": "https://valioliigasarjataulukko.fi/panokset-korkealla-vedonlyonnin-ja-valioliigan-valinen-suhde-urheilussa/",
+      "snippet": "Oct 9, 2024 \u2014 Monilla nettikasinoilla on perinteisen kasinotoiminnan rinnalla my\u00f6s urheiluvedonly\u00f6ntituotteita, mutta viel\u00e4 useammin n\u00e4m\u00e4 kasinot hy\u00f6dynt\u00e4v\u00e4t\u00a0...",
+      "rank_absolute": 48,
+      "rank_group": 48,
+      "result_type": "items"
+    },
+    {
+      "title": "Valioliiga sarjataulukot",
+      "url": "https://valioliigasarjataulukko.fi/valioliiga-sarjataulukot/",
+      "snippet": "... kiinnostuksen kohteet \u00b7 Kasinot ja urheilun crossover \u00b7 Online-kasinot ja bonukset \u00b7 Urheilu & Jalkapallo. Copyright \u00a9 2025 - Valioliiga Sarjataulukko.",
+      "rank_absolute": 49,
+      "rank_group": 49,
+      "result_type": "items"
+    },
+    {
+      "title": "Teknologiaj\u00e4ttien nousu ja tulevaisuus Valioliigan ...",
+      "url": "https://valioliigasarjataulukko.fi/teknologiajattien-nousu-ja-tulevaisuus-valioliigan-sponsoroinnissa/",
+      "snippet": "Nov 5, 2024 \u2014 huippuluokat. Vedonly\u00f6ntikulttuuri ja pelaajien kiinnostuksen kohteet \u00b7 Kasinot ja urheilun crossover \u00b7 Online-kasinot ja bonukset \u00b7 Urheilu\u00a0...",
+      "rank_absolute": 50,
+      "rank_group": 50,
+      "result_type": "items"
+    },
+    {
+      "title": "Katsaus Valioliigan legendaarisiin otteluihin ja ...",
+      "url": "https://valioliigasarjataulukko.fi/katsaus-valioliigan-legendaarisiin-otteluihin-ja-ikimuistoisiin-maaleihin/",
+      "snippet": "Feb 16, 2024 \u2014 ... kiinnostuksen kohteet \u00b7 Kasinot ja urheilun crossover \u00b7 Online-kasinot ja bonukset \u00b7 Urheilu & Jalkapallo. Copyright \u00a9 2025 - Valioliiga\u00a0...",
+      "rank_absolute": 51,
+      "rank_group": 51,
+      "result_type": "items"
+    },
+    {
+      "title": "Suomalaiset ja vedonly\u00f6nti: Englannin valioliiga",
+      "url": "https://valioliigasarjataulukko.fi/suomalaiset-ja-vedonlyonti-englannin-valioliiga/",
+      "snippet": "Jun 25, 2024 \u2014 ... kasinot p\u00e4ihitt\u00e4v\u00e4t jopa MGA-kasinot. Aiheeseen liittyv\u00e4t viestit. Miten rahapeliuudistus vaikuttaa urheilusponsorointiin? November 28, 2024\u00a0...",
+      "rank_absolute": 52,
+      "rank_group": 52,
+      "result_type": "items"
+    },
+    {
+      "title": "Miksi Valioliiga on maailman seuratuin ja eniten ...",
+      "url": "https://valioliigasarjataulukko.fi/miksi-valioliiga-on-maailman-seuratuin-ja-eniten-urheiluvedonlyontia-vetava-urheilusarja/",
+      "snippet": "Mar 22, 2024 \u2014 ... kiinnostuksen kohteet \u00b7 Kasinot ja urheilun crossover \u00b7 Online-kasinot ja bonukset \u00b7 Urheilu & Jalkapallo. Copyright \u00a9 2025 - Valioliiga\u00a0...",
+      "rank_absolute": 53,
+      "rank_group": 53,
+      "result_type": "items"
+    },
+    {
+      "title": "Valioliiga Sarjataulukko",
+      "url": "https://valioliigasarjataulukko.fi/valioliiga/",
+      "snippet": "... kiinnostuksen kohteet \u00b7 Kasinot ja urheilun crossover \u00b7 Online-kasinot ja bonukset \u00b7 Urheilu & Jalkapallo. Copyright \u00a9 2025 - Valioliiga Sarjataulukko.",
+      "rank_absolute": 54,
+      "rank_group": 54,
+      "result_type": "items"
+    }
+  ]
+}

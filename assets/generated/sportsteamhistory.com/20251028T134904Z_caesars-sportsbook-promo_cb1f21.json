@@ -1,0 +1,73 @@
+{
+  "created_at": "2025-10-28T13:49:04Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "sportsteamhistory.com",
+    "anchor_keyword": "caesars sportsbook promo",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/betting-sites/caesars-sportsbook-promo-code/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Iconic Underdog Runs: Teams That Defied the Odds",
+      "rationale": "A history piece on legendary upsets fits the site\u2019s catalog and lets editors discuss how odds framed these moments. Within body copy, a natural segue about modern wagering can point to the Lineups page for the Caesars Sportsbook promo (anchor used contextually), guiding readers to current legal-betting info."
+    },
+    {
+      "title": "From Expansion to Contention: New Franchises That Rose Fast",
+      "rationale": "Sportsteamhistory.com often chronicles franchise origins. A section on preseason expectations versus outcomes can reference how today\u2019s odds and sign-up paths work, linking to Lineups\u2019 Caesars Sportsbook promo resource for readers seeking compliant, up-to-date details."
+    },
+    {
+      "title": "The Evolution of Game Day: Fan Traditions, Odds Boards, and Milestones",
+      "rationale": "A timeline of fan culture can cover the shift from paper lines to regulated mobile wagering. This creates a natural, non-promotional spot to cite Lineups\u2019 Caesars Sportsbook promo page as a practical primer on legal access and terms, using the anchor only in supporting text."
+    },
+    {
+      "title": "Desert Dynasty Dreams: the Rise of Pro Sports in Las Vegas",
+      "rationale": "Las Vegas team history content resonates with the site\u2019s existing Vegas-focused pieces. When addressing how the city\u2019s sports scene intersects with regulated betting, editors can link to Lineups\u2019 Caesars Sportsbook promo page for readers exploring lawful sign-up options."
+    },
+    {
+      "title": "Great Stadium Openings That Changed Team Fortunes",
+      "rationale": "A historical roundup of venue debuts invites discussion of attendance, revenue, and the modern fan experience, including regulated wagering\u2019s role. This context supports a discreet link to Lineups\u2019 Caesars Sportsbook promo information, placed naturally within explanatory copy."
+    }
+  ],
+  "titles_context": [
+    "Vegas Outlaws Team Formation",
+    "Throwing Smoke the History of Nolan Ryan",
+    "Who Are The Greatest Premier League Strikers of All Time?",
+    "NBA vs NFL Halftime Shows: Which Is More Iconic?",
+    "Whalers iconic moments Archives",
+    "NBA Sold Off WNBA Franchises",
+    "Posse Team Formation",
+    "Analysis Of Ron Stewart's Career As CFL Team Player",
+    "Infographic: Los Angeles Dodgers Incredible History",
+    "Minnesota Vikings: The History of a Great NFL Club",
+    "Sports Team News - Part 26 - Sports Team History",
+    "Exploring the Rich History of NHL Teams",
+    "From Thrashers to Jets: Evolution of a Franchise",
+    "Sports Teams You'll Wish Still Existed",
+    "Opening Comerica Park | SPORTS TEAM HISTORY",
+    "Billionaire Michael Jordan's History",
+    "The Legacy of Finnish NHL Stars: From Sel\u00e4nne to Barkov",
+    "Unforgettable Team Dynasties: The Rise and Fall of Legends",
+    "San Diego Conquistadors Team History",
+    "The Rise and Fall of the Detroit Red Wings' Dynasty",
+    "Las Vegas Aces History \u2013 Team Origin and Achievements",
+    "Five NHL Teams Poised for Stanley Cup Victory",
+    "The Legendary Career of Mark Messier - Sports Team History",
+    "A Comprehensive Look into the History of the Denver Nuggets",
+    "boston bruins team history Archives | SPORTS TEAM HISTORY",
+    "All-Time Best Elgin Baylor's History",
+    "Vegas Golden Knights History \u2013 Team Origin and Achievements",
+    "The Evolution of the National Basketball Association",
+    "Golden State Warriors History \u2013 Team Origin and Achievements",
+    "Connecticut Sun History \u2013 Team Origin and Achievements",
+    "Newcastle United FC: A Storied Legacy of Success and ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/betting-sites/caesars-sportsbook-promo-code/ that feel at home on sportsteamhistory.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): caesars sportsbook promo\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Vegas Outlaws Team Formation\n- Throwing Smoke the History of Nolan Ryan\n- Who Are The Greatest Premier League Strikers of All Time?\n- NBA vs NFL Halftime Shows: Which Is More Iconic?\n- Whalers iconic moments Archives\n- NBA Sold Off WNBA Franchises\n- Posse Team Formation\n- Analysis Of Ron Stewart's Career As CFL Team Player\n- Infographic: Los Angeles Dodgers Incredible History\n- Minnesota Vikings: The History of a Great NFL Club\n- Sports Team News - Part 26 - Sports Team History\n- Exploring the Rich History of NHL Teams\n- From Thrashers to Jets: Evolution of a Franchise\n- Sports Teams You'll Wish Still Existed\n- Opening Comerica Park | SPORTS TEAM HISTORY\n- Billionaire Michael Jordan's History\n- The Legacy of Finnish NHL Stars: From Sel\u00e4nne to Barkov\n- Unforgettable Team Dynasties: The Rise and Fall of Legends\n- San Diego Conquistadors Team History\n- The Rise and Fall of the Detroit Red Wings' Dynasty\n- Las Vegas Aces History \u2013 Team Origin and Achievements\n- Five NHL Teams Poised for Stanley Cup Victory\n- The Legendary Career of Mark Messier - Sports Team History\n- A Comprehensive Look into the History of the Denver Nuggets\n- boston bruins team history Archives | SPORTS TEAM HISTORY\n- All-Time Best Elgin Baylor's History\n- Vegas Golden Knights History \u2013 Team Origin and Achievements\n- The Evolution of the National Basketball Association\n- Golden State Warriors History \u2013 Team Origin and Achievements\n- Connecticut Sun History \u2013 Team Origin and Achievements\n- Newcastle United FC: A Storied Legacy of Success and ...\n\nGuidance:\n1. Combine your own knowledge of sportsteamhistory.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to sportsteamhistory.com while naturally justifying a link to https://www.lineups.com/betting-sites/caesars-sportsbook-promo-code/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude caesars sportsbook promo and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1119,
+    "completion_tokens": 885
+  },
+  "cost_usd": 0.07548
+}

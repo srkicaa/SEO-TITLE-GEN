@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-22T13:37:37Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "northiowatoday.com",
+    "anchor_keyword": "crashgamblinggame.com",
+    "anchor_country": "",
+    "target_url": "https://crashgamblinggame.com",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Iowa Online Casino Outlook 2025: What It Could Mean for North Iowa Residents",
+      "rationale": "Policy-forward piece suited to northiowatoday.com. A contextual link to crashgamblinggame.com can clarify how popular online formats (including crash-style games) work, with neutral explanations of risk, RTP, and volatility for readers tracking potential legalization."
+    },
+    {
+      "title": "Rural Broadband and the Rise of Mobile Gaming in North Iowa",
+      "rationale": "Local infrastructure angle matches community reporting. Linking to crashgamblinggame.com adds practical insight into fast-paced game mechanics and responsible bankroll approaches that become relevant as mobile play expands."
+    },
+    {
+      "title": "From Sportsbooks to Casino Apps: Where Iowa Law Stands Now\u2014and What\u2019s Next",
+      "rationale": "Explains Iowa\u2019s current legality (sports betting vs. online casino) in an accessible way. A link to crashgamblinggame.com can illustrate how online casino formats function in practice, helping readers understand what might arrive if laws change."
+    },
+    {
+      "title": "Understanding Risk in Fast\u2011paced Casino Games: a Practical Guide for Iowans",
+      "rationale": "Service-oriented guidance fits local readership. crashgamblinggame.com can serve as a referenced explainer on crash-style multipliers, cash\u2011out timing, and variance, supporting safer play insights without promotional language."
+    },
+    {
+      "title": "Digital Wallets, Security, and Fair Play: What Midwest Gamers Should Know",
+      "rationale": "Tech and safety focus aligns with regional interest pieces. Citing crashgamblinggame.com provides plain\u2011English walk\u2011throughs of fairness concepts (e.g., randomization, provably fair systems) and how these apply to quick\u2011resolution games."
+    }
+  ],
+  "titles_context": [
+    "The Best Online Casino Games for Beginners",
+    "Casinos on the rise: US hits $72 billion in 2024",
+    "Small Towns, Big Wins: How Mobile Casinos Are Bringing ...",
+    "Comprehensive Review of Pokie Mate Casino Online",
+    "Games Available With No Deposit Bonus at Non AAMS ...",
+    "Future of Online Slots in Australia: Trends & Best Casinos ...",
+    "Digital Wallets, Blockchain, and Beyond: The Future of Online ...",
+    "The Ultimate Guide to the Most Popular Real Money ...",
+    "Exploring Different Online Casino Game Strategies",
+    "Global Casino Market Surges to Record Heights as Digital ...",
+    "4 Technological Innovations in Online Casinos",
+    "Exploring the Thrill of NJ Online Casinos: A Guide to Safe ...",
+    "The Most Iconic Slots in the History of Online Casinos",
+    "The Most Popular Casino Table Games",
+    "Iowa online gambling overview",
+    "Top 5 Online Casino Games You Must Play",
+    "A Big Candy Casino: The Ultimate Online Gaming ...",
+    "How to choose an online casino in the Netherlands?",
+    "Aviator vs. Other Casino Games: Why It Stands Out",
+    "Iowa's Online Casino Future Uncertain as Key Advocate ...",
+    "Bobby Casino Online Review",
+    "The Evolving Landscape of Iowa Online Gambling Laws",
+    "Dazard Casino Review: A Comprehensive Look at ...",
+    "Pin Up 360 Casino: How to avoid getting scammed by ...",
+    "Role of Blockchain Technology in Online Casinos"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://crashgamblinggame.com that feel at home on northiowatoday.com.\n\nReference SERP keyword: casino \nAnchor keyword (use only if natural): crashgamblinggame.com\n\nAnchor operates in: Unspecified\n\nReference titles:\n- The Best Online Casino Games for Beginners\n- Casinos on the rise: US hits $72 billion in 2024\n- Small Towns, Big Wins: How Mobile Casinos Are Bringing ...\n- Comprehensive Review of Pokie Mate Casino Online\n- Games Available With No Deposit Bonus at Non AAMS ...\n- Future of Online Slots in Australia: Trends & Best Casinos ...\n- Digital Wallets, Blockchain, and Beyond: The Future of Online ...\n- The Ultimate Guide to the Most Popular Real Money ...\n- Exploring Different Online Casino Game Strategies\n- Global Casino Market Surges to Record Heights as Digital ...\n- 4 Technological Innovations in Online Casinos\n- Exploring the Thrill of NJ Online Casinos: A Guide to Safe ...\n- The Most Iconic Slots in the History of Online Casinos\n- The Most Popular Casino Table Games\n- Iowa online gambling overview\n- Top 5 Online Casino Games You Must Play\n- A Big Candy Casino: The Ultimate Online Gaming ...\n- How to choose an online casino in the Netherlands?\n- Aviator vs. Other Casino Games: Why It Stands Out\n- Iowa's Online Casino Future Uncertain as Key Advocate ...\n- Bobby Casino Online Review\n- The Evolving Landscape of Iowa Online Gambling Laws\n- Dazard Casino Review: A Comprehensive Look at ...\n- Pin Up 360 Casino: How to avoid getting scammed by ...\n- Role of Blockchain Technology in Online Casinos\n\nGuidance:\n1. Combine your own knowledge of northiowatoday.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to northiowatoday.com while naturally justifying a link to https://crashgamblinggame.com.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude crashgamblinggame.com and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 976,
+    "completion_tokens": 1120
+  },
+  "cost_usd": 0.08672
+}

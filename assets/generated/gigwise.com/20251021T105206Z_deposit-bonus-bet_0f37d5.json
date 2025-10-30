@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:52:06Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "gigwise.com",
+    "anchor_keyword": "deposit bonus bet",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/sportsbook-promos/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "From House Beats to House Edge: How Soundtracks Shape Casino Play",
+      "rationale": "Explores audio design in casino games for a music-savvy audience; links to a regulated roundup so readers curious about trying legal platforms can verify options and terms in their region before playing."
+    },
+    {
+      "title": "The Concertgoer\u2019s Guide to Casual Casino Play While on Tour",
+      "rationale": "Touring and festival travel piece with light, responsible tips; the link offers an up-to-date hub of legal sportsbooks (and related platforms) to check availability and rules by location."
+    },
+    {
+      "title": "Why Casino Streams Divide Audiences in Music Communities",
+      "rationale": "Culture-focused debate that fits Gigwise; provides a neutral link so readers can reference legitimate, regulated outlets and learn eligibility requirements if they choose to participate."
+    },
+    {
+      "title": "Slots, Samples, and Synesthesia: the Audio Science Behind Reel Design",
+      "rationale": "Deep-dive on sound cues and reward loops; includes a practical reference for readers to confirm which licensed options operate in their area and to compare platform terms responsibly."
+    },
+    {
+      "title": "Navigating Online Casino Culture Without Getting Lost in the Hype",
+      "rationale": "Balanced overview on trends, safety, and time/bankroll awareness; the link serves as a vetted directory of regulated choices and current terms, helping readers avoid unlicensed sites."
+    }
+  ],
+  "titles_context": [
+    "Best Online Casino | All Main Attributes And Features",
+    "Casino Lingo You Ought to Know",
+    "How to Find the Online Casino for Beginners? - Casino sky",
+    "Best Casino Apps for Fans Who Love Both Music and ...",
+    "Setting Sail for Wins: How Captain Cooks Casino Makes ...",
+    "Patagonia: Unusual Online Casino Games",
+    "How to Host an Online Casino-Themed Party",
+    "How to find a reliable online casino? : TOP 5 websites with ...",
+    "Best Sweepstakes Casino Apps 2025 [Latest Update]",
+    "Understanding Slots as a Casino Category",
+    "What's the Most Luxurious Casino in the World? - GigWise",
+    "The Evolution of Online Casino Games: From Flash to Live ...",
+    "Best Online Casino Advice for New Zealand Gamers Today",
+    "New Online Casino Zonder CRUKS - GigWise",
+    "Why Are Online Casino Streamers Frowned Upon - GigWise",
+    "Common Online Casino Login Scams and How to Avoid Them",
+    "Top 10 Tips for Finding the Best Online Casino UK - GigWise",
+    "No Deposit Bonuses Gain Traction at Online Casinos - GigWise",
+    "Stake Casino Sister Sites & Alternatives - GigWise",
+    "The Financial Impact of the Casino Industry on Global Markets",
+    "Casino Incentivization - The Supreme Method for A High Player ...",
+    "How Music Enhances Your Experience at Online Casinos",
+    "What to Look For When Choosing a Good Casino Welcome ...",
+    "Behind the Glamour: What Makes Casino Movies So Irresistible?",
+    "Unwinding in Luxury Retreats With Online Casino Excitement"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/sportsbook-promos/ that feel at home on gigwise.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): deposit bonus bet\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Best Online Casino | All Main Attributes And Features\n- Casino Lingo You Ought to Know\n- How to Find the Online Casino for Beginners? - Casino sky\n- Best Casino Apps for Fans Who Love Both Music and ...\n- Setting Sail for Wins: How Captain Cooks Casino Makes ...\n- Patagonia: Unusual Online Casino Games\n- How to Host an Online Casino-Themed Party\n- How to find a reliable online casino? : TOP 5 websites with ...\n- Best Sweepstakes Casino Apps 2025 [Latest Update]\n- Understanding Slots as a Casino Category\n- What's the Most Luxurious Casino in the World? - GigWise\n- The Evolution of Online Casino Games: From Flash to Live ...\n- Best Online Casino Advice for New Zealand Gamers Today\n- New Online Casino Zonder CRUKS - GigWise\n- Why Are Online Casino Streamers Frowned Upon - GigWise\n- Common Online Casino Login Scams and How to Avoid Them\n- Top 10 Tips for Finding the Best Online Casino UK - GigWise\n- No Deposit Bonuses Gain Traction at Online Casinos - GigWise\n- Stake Casino Sister Sites & Alternatives - GigWise\n- The Financial Impact of the Casino Industry on Global Markets\n- Casino Incentivization - The Supreme Method for A High Player ...\n- How Music Enhances Your Experience at Online Casinos\n- What to Look For When Choosing a Good Casino Welcome ...\n- Behind the Glamour: What Makes Casino Movies So Irresistible?\n- Unwinding in Luxury Retreats With Online Casino Excitement\n\nGuidance:\n1. Combine your own knowledge of gigwise.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to gigwise.com while naturally justifying a link to https://www.lineups.com/sportsbook-promos/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude deposit bonus bet and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1034,
+    "completion_tokens": 921
+  },
+  "cost_usd": 0.07594
+}

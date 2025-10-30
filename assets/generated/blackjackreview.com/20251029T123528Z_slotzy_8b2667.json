@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:35:28Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "blackjackreview.com",
+    "anchor_keyword": "Slotzy",
+    "anchor_country": "Sweden",
+    "target_url": "https://slotzy.org/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How to Choose a Trustworthy Online Casino in Sweden",
+      "rationale": "Educational checklist on licensing (Spelinspektionen), security, and fair play for Swedish readers; a natural spot to link to Slotzy for deeper Sweden-specific guidance and safety resources."
+    },
+    {
+      "title": "A Beginner\u2019s Guide to Online Casino Table Games in Sweden",
+      "rationale": "Intro to blackjack, baccarat, roulette, and craps tailored to Swedish players; Slotzy can supply game rules, odds explainers, and starter strategy charts for local audiences."
+    },
+    {
+      "title": "Which Casino Game Has the Best Odds in Sweden? Blackjack vs. the Rest",
+      "rationale": "Odds-focused comparison that fits blackjackreview.com\u2019s analytical style; Slotzy can provide supplemental RTP data, house-edge breakdowns, and Sweden-oriented references."
+    },
+    {
+      "title": "Exploring the Rise of Live Dealer Casinos in Sweden",
+      "rationale": "Trends and table etiquette for Swedish live-dealer play; Slotzy can support with how-to guides, table-limit overviews, and tech FAQs relevant to Sweden."
+    },
+    {
+      "title": "Blackjack Bankroll and Risk Management for Online Casino Players in Sweden",
+      "rationale": "Practical bankroll frameworks and variance tips; Slotzy can be linked for calculators, session planning worksheets, and additional Sweden-specific responsible gaming info."
+    }
+  ],
+  "titles_context": [
+    "How to Choose a Trustworthy Online Casino?",
+    "The Most Popular Casino Strategies that Actually Work",
+    "Casino Maps",
+    "A Beginner's Guide to the Best Online Casino Table Games",
+    "How to Play Blackjack at an Online Casino",
+    "Online Casino & Sportsbook Reviews: Uudetkasinot is ...",
+    "Blackjack Review (INDEX) - The Encyclopedia of ...",
+    "Game Protection Books For Sale",
+    "Rec.Gambling FAQ",
+    "The Blackjack Review Network",
+    "The Most Important Online Casino Bonuses You Have to ...",
+    "Top Casino Games That Are Just As Exciting As Blackjack",
+    "Which Casino Game Has the Best Odds of Winning?",
+    "Casino Information and Listings",
+    "A Beginner's Blueprint for Picking the Right Online Casino",
+    "List of Online Casino Hungary Operators for 2025",
+    "The Best Odds at the Casino Tables: Baccarat, Pai Gow, ...",
+    "Exploring the Rise of Live Dealer Casinos",
+    "Upcoming Trends in Louisiana's Online Casino Market You ...",
+    "Most Popular Casino Games in 2024",
+    "How to Choose the Best Casino Site to Play Blackjack?",
+    "iGaming Trends 2025 and the Rise of Modular Casino ...",
+    "Inside the World's Top SEO Agency for Online Gambling, ...",
+    "Why Only a Few Cities Become the World's Casino Capitals",
+    "Social Casino Blackjack Practice"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://slotzy.org/ that feel at home on blackjackreview.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Slotzy\n\nAnchor operates in: Sweden. \n\nI need to have the country in the title.\n\nReference titles:\n- How to Choose a Trustworthy Online Casino?\n- The Most Popular Casino Strategies that Actually Work\n- Casino Maps\n- A Beginner's Guide to the Best Online Casino Table Games\n- How to Play Blackjack at an Online Casino\n- Online Casino & Sportsbook Reviews: Uudetkasinot is ...\n- Blackjack Review (INDEX) - The Encyclopedia of ...\n- Game Protection Books For Sale\n- Rec.Gambling FAQ\n- The Blackjack Review Network\n- The Most Important Online Casino Bonuses You Have to ...\n- Top Casino Games That Are Just As Exciting As Blackjack\n- Which Casino Game Has the Best Odds of Winning?\n- Casino Information and Listings\n- A Beginner's Blueprint for Picking the Right Online Casino\n- List of Online Casino Hungary Operators for 2025\n- The Best Odds at the Casino Tables: Baccarat, Pai Gow, ...\n- Exploring the Rise of Live Dealer Casinos\n- Upcoming Trends in Louisiana's Online Casino Market You ...\n- Most Popular Casino Games in 2024\n- How to Choose the Best Casino Site to Play Blackjack?\n- iGaming Trends 2025 and the Rise of Modular Casino ...\n- Inside the World's Top SEO Agency for Online Gambling, ...\n- Why Only a Few Cities Become the World's Casino Capitals\n- Social Casino Blackjack Practice\n\nGuidance:\n1. Combine your own knowledge of blackjackreview.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to blackjackreview.com while naturally justifying a link to https://slotzy.org/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Slotzy and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Sweden where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 888,
+    "completion_tokens": 1039
+  },
+  "cost_usd": 0.0801
+}

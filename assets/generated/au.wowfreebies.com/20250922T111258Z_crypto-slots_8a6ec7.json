@@ -1,0 +1,48 @@
+{
+  "created_at": "2025-09-22T11:12:58Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "au.wowfreebies.com",
+    "anchor_keyword": "crypto slots",
+    "anchor_country": "",
+    "target_url": "https://www.razed.com/casino/slots/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Aussie Guide to Spinning Slots With Digital Currencies",
+      "rationale": "Targets the \u201ccasino crypto\u201d angle for an Australian readership while staying brand-free; a link to the slots hub provides readers with examples of game types and mechanics relevant to digital-currency play. The body can naturally use the anchor term within context."
+    },
+    {
+      "title": "Slot Volatility, RTP, and Session Planning for Australians",
+      "rationale": "Educational tone fits WOW Freebies Australia\u2019s practical guides; linking to the slots page helps readers explore titles by volatility/RTP. The supporting copy can reference crypto-related considerations and use the anchor naturally."
+    },
+    {
+      "title": "Mobile Slot Play in Australia: Features That Matter",
+      "rationale": "Focuses on on-the-go value\u2014a common WOW Freebies theme\u2014while justifying a link to a comprehensive slots directory for feature exploration. Crypto usage can be discussed in copy without placing the term in the headline."
+    },
+    {
+      "title": "How Online Slots Evolved from Three\u2011reel Classics to Modern Mechanics",
+      "rationale": "Broad, brand-free history/mechanics angle fits a general audience in Australia and beyond (locale unspecified). The slots page link offers timely examples of contemporary mechanics that readers can explore."
+    },
+    {
+      "title": "Smart Bankroll Approaches for Slot Play on a Budget",
+      "rationale": "Budget-conscious guidance aligns with WOW Freebies\u2019 audience; the slots page supports readers with game variety to match different bankroll strategies. The article body can touch on crypto funding flows and include the anchor appropriately."
+    }
+  ],
+  "titles_context": [
+    "Reinvention of Casino Payments | WOW Freebies Australia",
+    "The Best Aviator Casinos 2025 | WOW Freebies Australia",
+    "Aussie Promotions Inspired by 7Bit Casino Mechanics | WOW ...",
+    "Free Offers in Lucky Dreams Casino | WOW Freebies Australia",
+    "How to Get Free Spins & More | WOW Freebies Australia",
+    "The Best Apps for Tracking Finances | WOW Freebies Australia"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.razed.com/casino/slots/ that feel at home on au.wowfreebies.com.\n\nReference SERP keyword: casino crypto\nAnchor keyword (use only if natural): crypto slots\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Reinvention of Casino Payments | WOW Freebies Australia\n- The Best Aviator Casinos 2025 | WOW Freebies Australia\n- Aussie Promotions Inspired by 7Bit Casino Mechanics | WOW ...\n- Free Offers in Lucky Dreams Casino | WOW Freebies Australia\n- How to Get Free Spins & More | WOW Freebies Australia\n- The Best Apps for Tracking Finances | WOW Freebies Australia\n\nGuidance:\n1. Combine your own knowledge of au.wowfreebies.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to au.wowfreebies.com while naturally justifying a link to https://www.razed.com/casino/slots/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude crypto slots and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 572,
+    "completion_tokens": 1203
+  },
+  "cost_usd": 0.08362
+}

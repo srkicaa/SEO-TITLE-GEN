@@ -1,0 +1,144 @@
+{
+  "mode": "live",
+  "task_id": "10211308-4117-0121-0000-2424f243afde",
+  "query": "site:sportsepreneur.com casino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "NCAA Admits It Can't Police Sports Betting for Athletes",
+      "url": "https://sportsepreneur.com/ncaa-sports-betting-athletes-policy/",
+      "snippet": "Oct 8, 2025 \u2014 The NCAA just legalized pro sports betting for athletes because they can't enforce the ban. But insider info, NIL money, and debt make this\u00a0...",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "The Rise of Sports Betting Apps: Convenience at What Cost?",
+      "url": "https://sportsepreneur.com/rise-of-sports-betting-apps/",
+      "snippet": "Apr 2, 2025 \u2014 Sports betting apps have revolutionized how people wager on games. No longer do bettors need to visit physical locations\u2014they can place bets\u00a0...",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "How Sports Betting Apps Killed Casual Fandom",
+      "url": "https://sportsepreneur.com/sports-apps-casual-fandom/",
+      "snippet": "Sep 15, 2025 \u2014 How sports betting apps and fantasy turned fandom into a game, replacing casual watching with interactive, always-on engagement.",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "The California Sports Betting Standoff",
+      "url": "https://sportsepreneur.com/california-sports-betting-standoff/",
+      "snippet": "Apr 17, 2025 \u2014 California sports betting remains illegal, despite a potential market worth $3 billion. We analyze why gaming tribes hold the keys to\u00a0...",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Sports Betting Uncovered: Explosive Growth, Advertising, ...",
+      "url": "https://sportsepreneur.com/sports-betting-uncovered-growth-advertising-addiction/",
+      "snippet": "Sep 17, 2024 \u2014 Sports betting addiction, also known as gambling disorder, is a condition where individuals develop a pathological obsession and compulsion to\u00a0...",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "The Rise of Mobile Betting Apps: An In-Depth Analysis",
+      "url": "https://sportsepreneur.com/mobile-betting-apps-analysis/",
+      "snippet": "Feb 24, 2025 \u2014 Explore the development of mobile betting apps, their impact on the gambling industry, and the importance of responsible gambling practices\u00a0...",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "US Sports Betting in 2025: A $142 Billion Industry!",
+      "url": "https://sportsepreneur.com/us-sports-betting-in-2025/",
+      "snippet": "Feb 6, 2025 \u2014 The US sports betting industry has gone from a niche market into a financial powerhouse. The sports betting numbers are in for 2024,\u00a0...",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Sports Betting in the US: Billions on the Line",
+      "url": "https://sportsepreneur.com/sports-betting-in-the-us-billions/",
+      "snippet": "Nov 11, 2024 \u2014 In 2023, sports betting generated approximately $11 billion in revenue, marking a 46% increase over the previous year, as noted by Custom Market\u00a0...",
+      "rank_absolute": 8,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "How to Protect Yourself When Using Sports Betting Apps",
+      "url": "https://sportsepreneur.com/how-to-protect-yourself-using-sports-betting-apps/",
+      "snippet": "Aug 18, 2025 \u2014 Sports betting apps have exploded across America as states continue to legalize online wagering. While these platforms offer convenience and\u00a0...",
+      "rank_absolute": 9,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "Luka Trade Conspiracy Theories | Vegas, Lakers, NBA TV ...",
+      "url": "https://sportsepreneur.com/luka-trade-conspiracy-theories/",
+      "snippet": "Feb 4, 2025 \u2014 The Luka trade is the most inexplicable trade in NBA history. And it is about everything except basketball. Conspiracy Theory? Probably.",
+      "rank_absolute": 10,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "ESPN BET 2025 | Sports Betting, Market Share & Media Ethics",
+      "url": "https://sportsepreneur.com/espn-bet-sports-betting/",
+      "snippet": "Apr 29, 2024 \u2014 ESPN has made a bold move in a world where sports and betting increasingly intertwine. With its venture, ESPN Bet, the network is not just a bystander but a\u00a0...",
+      "rank_absolute": 11,
+      "rank_group": 11,
+      "result_type": "items"
+    },
+    {
+      "title": "SportsE Media Blog - SportsEpreneur",
+      "url": "https://sportsepreneur.com/blog/",
+      "snippet": "The NCAA is a mall cop with a whistle, and they just figured out the casino moved into the food court. Division I athletes and athletic staff can now\u00a0...",
+      "rank_absolute": 12,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "Sports Betting on College Campuses | A Storm Is Brewing",
+      "url": "https://sportsepreneur.com/sports-betting-on-college-campuses-storm-is-brewing/",
+      "snippet": "Oct 27, 2024 \u2014 Sports betting on college campuses is rapidly becoming a widespread and troubling issue, with implications for students' mental health, financial stability,",
+      "rank_absolute": 13,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "The Legalization of Sports Betting in North Carolina | Big Money",
+      "url": "https://sportsepreneur.com/sports-betting-in-nc-legalized/",
+      "snippet": "Apr 13, 2024 \u2014 Sports betting in NC is now legal, bringing significant tax revenue and economic opportunities to the state. Discussed in detail.",
+      "rank_absolute": 14,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "The Sports Betting Industry: Exploring Future Opportunities ...",
+      "url": "https://sportsepreneur.com/sports-betting-industry-future-challenges-trends/",
+      "snippet": "Apr 10, 2023 \u2014 Welcome to the thrilling world of the sports betting industry, where change is the only constant and the stakes have never been higher.",
+      "rank_absolute": 15,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "Exploring the Sports Betting Market - SportsEpreneur",
+      "url": "https://sportsepreneur.com/sports-betting-market/",
+      "snippet": "Apr 28, 2023 \u2014 In this eye-opening episode, we discuss the ever-growing sports betting market, exploring its potential for growth, innovation,\u00a0...",
+      "rank_absolute": 16,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "Mark Cuban's Warning: How NBA Private Equity Could Break ...",
+      "url": "https://sportsepreneur.com/mark-cuban-how-nba-private-equity-could-break-the-league/",
+      "snippet": "Sep 16, 2025 \u2014 Cuban's Critique: Valuations Over Fans. Cuban sold majority control of the Dallas Mavericks to the Adelson family (casino wealth), but he kept\u00a0...",
+      "rank_absolute": 17,
+      "rank_group": 17,
+      "result_type": "items"
+    }
+  ]
+}

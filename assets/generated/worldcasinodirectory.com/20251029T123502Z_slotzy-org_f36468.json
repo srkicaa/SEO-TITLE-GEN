@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:35:02Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "worldcasinodirectory.com",
+    "anchor_keyword": "Slotzy.org",
+    "anchor_country": "Sweden",
+    "target_url": "https://slotzy.org/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Sweden Casinos & Gambling",
+      "rationale": "Fits WCD\u2019s country hub format and invites an internal section where Slotzy.org can be cited for Sweden-specific casino and slots guidance, regulations, and player resources."
+    },
+    {
+      "title": "Casino Openings and Project Updates \u2013 Sweden",
+      "rationale": "Matches WCD\u2019s news/project style pages; a Sweden-focused roundup can naturally reference Slotzy.org for additional context on upcoming venues and market developments."
+    },
+    {
+      "title": "Which Casino Games Are the Easiest to Win? a Guide for Sweden",
+      "rationale": "Aligns with WCD\u2019s educational guides; the body can link to Slotzy.org for Sweden-tailored RTP insights, variance explanations, and game selection tips."
+    },
+    {
+      "title": "Slots in Sweden: Machines, RTP, and Regulations",
+      "rationale": "Echoes WCD\u2019s \u2018Slots\u2019 and rules-focused content; Slotzy.org can be included as a resource for Sweden-specific slot mechanics, payback data, and compliance notes."
+    },
+    {
+      "title": "Definitions of Slot Machine Terminology & Lingo \u2013 Sweden",
+      "rationale": "Mirrors WCD\u2019s glossary pages while localizing to Sweden; Slotzy.org can be linked for expanded explanations and Swedish market nuances in slot terminology."
+    }
+  ],
+  "titles_context": [
+    "World Casino Directory - Casino Guide and Gambling ...",
+    "United States Casinos & Gambling",
+    "World's newest casinos in 2025, grand opening ...",
+    "Silver Creek Casino at Hilton Garden Inn Missoula",
+    "Elk Creek Kiowa Casino - Hobart",
+    "Elwha River Casino",
+    "Which Casino Games Are the Easiest to Win? A Guide ...",
+    "Magic Diamond Casino at Red Lion Hotel",
+    "World Casino News",
+    "Macau Casino - Lakewood",
+    "Montana Lil's Casino Grand Ave",
+    "Casino Openings - World Casino News",
+    "Slots",
+    "Casino Caribbean - Kirkland",
+    "Definitions of slot machine related terminology & lingo",
+    "Jackpot Nevada Casino",
+    "U.S.A.",
+    "Casino Project Updates",
+    "Jackpot Casino Bozeman",
+    "Oregon Casinos & Gambling in Oregon",
+    "Caesars Launches Horseshoe Online Casino for ...",
+    "Silver Dollar Casino Seatac",
+    "Par-A-Dice Hotel Casino",
+    "Crazy Moose Casino Pasco",
+    "FanDuel Casino Partners with Lady Luck HQ to Expand ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://slotzy.org/ that feel at home on worldcasinodirectory.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Slotzy.org\n\nAnchor operates in: Sweden. \n\nI need to have the country in the title.\n\nReference titles:\n- World Casino Directory - Casino Guide and Gambling ...\n- United States Casinos & Gambling\n- World's newest casinos in 2025, grand opening ...\n- Silver Creek Casino at Hilton Garden Inn Missoula\n- Elk Creek Kiowa Casino - Hobart\n- Elwha River Casino\n- Which Casino Games Are the Easiest to Win? A Guide ...\n- Magic Diamond Casino at Red Lion Hotel\n- World Casino News\n- Macau Casino - Lakewood\n- Montana Lil's Casino Grand Ave\n- Casino Openings - World Casino News\n- Slots\n- Casino Caribbean - Kirkland\n- Definitions of slot machine related terminology & lingo\n- Jackpot Nevada Casino\n- U.S.A.\n- Casino Project Updates\n- Jackpot Casino Bozeman\n- Oregon Casinos & Gambling in Oregon\n- Caesars Launches Horseshoe Online Casino for ...\n- Silver Dollar Casino Seatac\n- Par-A-Dice Hotel Casino\n- Crazy Moose Casino Pasco\n- FanDuel Casino Partners with Lady Luck HQ to Expand ...\n\nGuidance:\n1. Combine your own knowledge of worldcasinodirectory.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to worldcasinodirectory.com while naturally justifying a link to https://slotzy.org/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Slotzy.org and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Sweden where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 796,
+    "completion_tokens": 707
+  },
+  "cost_usd": 0.05834
+}

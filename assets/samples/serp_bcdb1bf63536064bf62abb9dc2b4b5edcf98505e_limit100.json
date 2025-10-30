@@ -1,0 +1,784 @@
+{
+  "mode": "live",
+  "task_id": "10131325-4117-0121-0000-63595a1b1742",
+  "query": "site:zamoranews.com casino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Casinos | \u00daltimas noticias Zamora News",
+      "url": "https://www.zamoranews.com/tags/casinos/",
+      "snippet": "Consulta la informaci\u00f3n de \u00faltima hora sobre Casinos: Casinos: entre el azar y la experiencia, mucho m\u00e1s que un juego.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Calzados Casino | \u00daltimas noticias Zamora News",
+      "url": "https://www.zamoranews.com/tags/calzados-casino/",
+      "snippet": "Consulta la informaci\u00f3n de \u00faltima hora sobre Calzados Casino: El zamorano Gonzalo Gonz\u00e1lez Ramos, fundador de Calzados Casino, ser\u00e1 nombrado hijo adoptivo de",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "El Casino de Zamora acoge la pre-fiesta del reggaeton",
+      "url": "https://www.zamoranews.com/articulo/agenda/casino-zamora-acoge-pre-fiesta-reggaeton/20250530094334334057.html",
+      "snippet": "May 30, 2025 \u2014 Esta pre-party, como se suele llamar en ingl\u00e9s, es una manera de prepararse para la fiesta que esperan, con canciones de la misma \u00e9poca, de los\u00a0...",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "\u00bfEn qu\u00e9 hay que fijarse para elegir un casino online de ...",
+      "url": "https://www.zamoranews.com/articulo/zamora-magazine/que-que-fijarse-elegir-casino-online-confianza/20250128091432315995.html",
+      "snippet": "Jan 28, 2025 \u2014 El punto de partida por excelencia es asegurarse de que la web tiene licencia de una de las autoridades de juego reconocidas, lo que significa\u00a0...",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "As\u00ed luce el Christmas Design Market del Casino",
+      "url": "https://www.zamoranews.com/album/zamora/asi-luce-christmas-design-market-casino/20250102193659312708.html",
+      "snippet": "Jan 2, 2025 \u2014 Creatividad y dise\u00f1o definen perfectamente este evento durante los d\u00edas 2 y 3 de enero \u00b7 GALER\u00cdA I El p\u00fablico zamorano se rinde ante Luisa Mart\u00edn\u00a0...",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "El Casino de Salamanca ser\u00e1 sede del Preg\u00f3n de la ...",
+      "url": "https://www.zamoranews.com/articulo/semana-santa-zamora/casino-salamanca-sera-sede-pregon-semana-santa-zamora/20250330122946324551.html",
+      "snippet": "Mar 30, 2025 \u2014 Este evento se llevar\u00e1 a cabo en el Casino de Salamanca-Palacio de Figueroa, ubicado en la calle Zamora, 11-15. La actividad es organizada por\u00a0...",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "Zamora se reinventa: la familia del Patio Canalla y el ...",
+      "url": "https://www.zamoranews.com/articulo/zamora/zamora-reinventa-familia-patio-canalla-casino-trae-aire-fresco-centro-nuevo-local/20250411171344326501.html",
+      "snippet": "Apr 11, 2025 \u2014 Con este nuevo proyecto, el Patio Canalla y el Casino contin\u00faan demostrando que la hosteler\u00eda zamorana sigue siendo un sector din\u00e1mico y capaz\u00a0...",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "El Casino de Zamora abre sus puertas a un mercado ...",
+      "url": "https://www.zamoranews.com/articulo/agenda/casino-zamora-abre-puertas-mercado-navideno-tatuajes-diseno-dulces/20241231112321312415.html",
+      "snippet": "Dec 31, 2024 \u2014 Con horario de 16.00 horas a 21.00 horas, este mercado ofrece una amplia gama de propuestas \u00fanicas que van desde la moda y la ilustraci\u00f3n hasta\u00a0...",
+      "rank_absolute": 8,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "Zamora cierra la edici\u00f3n 2025 de Pint of Science con ...",
+      "url": "https://www.zamoranews.com/articulo/agenda/zamora-despide-pint-of-science-jornada-final-llena-ciencia-curiosidades-casino-cafe/20250521124956333146.html",
+      "snippet": "May 21, 2025 \u2014 Este mi\u00e9rcoles 21 de mayo a las 18:00 horas, el Casino Caf\u00e9 Zamora acoge la \u00faltima jornada del festival internacional Pint of Science 2025\u00a0...",
+      "rank_absolute": 9,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "La importancia de los casinos en l\u00ednea en la econom\u00eda ...",
+      "url": "https://www.zamoranews.com/articulo/zamora-magazine/importancia-casinos-linea-economia-espanola/20220921201243222226.html",
+      "snippet": "Sep 21, 2022 \u2014 Seg\u00fan el Anuario del Juego en Espa\u00f1a , en 2020, el juego online alcanz\u00f3 el 13,7% del total invertido en juegos de azar, incluyendo loter\u00eda,\u00a0...",
+      "rank_absolute": 11,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "Consejos para jugar con seguridad en los casinos",
+      "url": "https://www.zamoranews.com/articulo/zamora-magazine/consejos-jugar-seguridad-casinos/20250130101203316262.html",
+      "snippet": "Jan 30, 2025 \u2014 Elige casinos de buena reputaci\u00f3n \u00b7 Establece un presupuesto para tus sesiones de juego \u00b7 Proteger la informaci\u00f3n personal \u00b7 Evitar comportamientos\u00a0...",
+      "rank_absolute": 12,
+      "rank_group": 11,
+      "result_type": "items"
+    },
+    {
+      "title": "Talento local en Zamora con 'Christmas Design Market' ...",
+      "url": "https://www.zamoranews.com/articulo/zamora/talento-local-zamora-christmas-design-market-casino/20250102194347312709.html",
+      "snippet": "Jan 2, 2025 \u2014 Hoy, 2 de enero, el Casino se convirti\u00f3 en un espacio de encuentro para la creatividad y el dise\u00f1o con la apertura del Christmas Design Market.",
+      "rank_absolute": 13,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "El zamorano Gonzalo Gonz\u00e1lez Ramos, fundador de ...",
+      "url": "https://www.zamoranews.com/articulo/zamora/El+zamorano+Gonzalo+Gonz%C3%A1lez+Ramos%2C+fundador+de+Calzados+Casino%2C+ser%C3%A1+nombrado+hijo+adoptivo+de+Oviedo/20240516095722284102.html",
+      "snippet": "May 16, 2024 \u2014 El reconocido empresario Gonzalo Gonz\u00e1lez Ramos, oriundo de Toro, Zamora, y fundador de la exitosa cadena Calzados Casino en Oviedo desde 1977,\u00a0...",
+      "rank_absolute": 14,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "\u00bfQu\u00e9 regulaci\u00f3n tienen los casinos en Zamora?",
+      "url": "https://www.zamoranews.com/articulo/zamora-magazine/que-regulacion-tienen-casinos-zamora/20250512184718331878.html",
+      "snippet": "May 12, 2025 \u2014 En resumen, ning\u00fan casino puede ofrecer sus servicios en Espa\u00f1a sin la aprobaci\u00f3n previa de la DGOJ, y cualquier infracci\u00f3n puede suponer su\u00a0...",
+      "rank_absolute": 15,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "Los mejores casinos espa\u00f1oles que ofrecen Skrill para ...",
+      "url": "https://www.zamoranews.com/articulo/magazine/mejores-casinos-espanoles-que-ofrecen-skrill-transacciones-financieras/20231129094657265389.html",
+      "snippet": "Nov 29, 2023 \u2014 Los mejores casinos espa\u00f1oles que ofrecen Skrill para transacciones financieras \u00b7 \u00bfC\u00f3mo los casinos se benefician al aceptar Skrill como m\u00e9todo\u00a0...",
+      "rank_absolute": 16,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "KasinoBonus.ai revela los 5 bonos de casino m\u00e1s populares de ...",
+      "url": "https://www.zamoranews.com/articulo/blogs/kasinobonus-ai-revela-5-bonos-casino-mas-populares-2025/20250702175904340350.html",
+      "snippet": "KasinoBonus.ai, la principal plataforma de comparaci\u00f3n de casinos online, ha presentado los resultados de su investigaci\u00f3n sobre los bonos m\u00e1s populares de\u00a0...",
+      "rank_absolute": 17,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "Precios del software de iGaming: costos, paquetes y qu\u00e9 ...",
+      "url": "https://www.zamoranews.com/articulo/magazine/precios-software-igaming-costos-paquetes-que-esperar/20250310085735321826.html",
+      "snippet": "Mar 10, 2025 \u2014 Descubre los \u00faltimos casinos online en Espa\u00f1a con DealGamble y explora los aspectos m\u00e1s destacados de jugar a juegos de casino en l\u00ednea.",
+      "rank_absolute": 18,
+      "rank_group": 17,
+      "result_type": "items"
+    },
+    {
+      "title": "Evolution Gamming y Poker Stars Casino miden su potencial ...",
+      "url": "https://www.zamoranews.com/articulo/magazine/evolution-gamming-y-poker-stars-casino-miden-su-potencial-dentro-de-estados-unidos-todo-lo-que-debes-saber-al-respecto/20181116174736098967.html",
+      "snippet": "Evolution Gaming, uno de los proveedores de soluciones de casinos online en vivo m\u00e1s conocido del mundo, ha logrado firmar un acuerdo que le permitir\u00e1 a la\u00a0...",
+      "rank_absolute": 19,
+      "rank_group": 18,
+      "result_type": "items"
+    },
+    {
+      "title": "Zamora celebra una nueva edici\u00f3n del festival Pint of ...",
+      "url": "https://www.zamoranews.com/articulo/agenda/zamora-celebra-nueva-edicion-festival-pint-of-science/20250516121958332419.html",
+      "snippet": "May 16, 2025 \u2014 La cita tendr\u00e1 lugar los d\u00edas lunes 19, martes 20 y mi\u00e9rcoles 21 de mayo, en el Casino de Zamora, que este a\u00f1o colabora acogiendo las charlas.",
+      "rank_absolute": 20,
+      "rank_group": 19,
+      "result_type": "items"
+    },
+    {
+      "title": "La historia del tradicional Casino Roxy de Valladolid",
+      "url": "https://www.zamoranews.com/articulo/zamora-magazine/historia-tradicional-casino-roxy-valladolid/20221015131511225082.html",
+      "snippet": "Oct 15, 2022 \u2014 As\u00ed fue como en 2014 el cine proyect\u00f3 su \u00faltimo film luego de 78 a\u00f1os y comenzaron las remodelaciones para abrir el m\u00e1s grande casino de\u00a0...",
+      "rank_absolute": 21,
+      "rank_group": 20,
+      "result_type": "items"
+    },
+    {
+      "title": "Christmas Design Market en el Casino de Zamora: talento ...",
+      "url": "https://www.zamoranews.com/articulo/agenda/christmas-design-market-casino-zamora-talento-local-experiencias-unicas/20241226112147311909.html",
+      "snippet": "Dec 26, 2024 \u2014 El Casino de Zamora, con su imponente arquitectura y su ubicaci\u00f3n privilegiada, ser\u00e1 el marco ideal para disfrutar de este evento que combina\u00a0...",
+      "rank_absolute": 22,
+      "rank_group": 21,
+      "result_type": "items"
+    },
+    {
+      "title": "Top 10 casinos en Zamora y alrededores",
+      "url": "https://www.zamoranews.com/articulo/zamora-magazine/top-10-casinos-zamora-alrededores/20240220190617274518.html",
+      "snippet": "Feb 20, 2024 \u2014 Top 10 casinos en Zamora y alrededores \u00b7 1. Casino de Zamora \u00b7 2. Casino Conde Luna, Le\u00f3n \u00b7 3. Casino del Tormes, Salamanca \u00b7 4. Casino Roxy,\u00a0...",
+      "rank_absolute": 23,
+      "rank_group": 22,
+      "result_type": "items"
+    },
+    {
+      "title": "Molan los 2000 | \u00daltimas noticias Zamora News",
+      "url": "https://www.zamoranews.com/tags/molan-los-2000/",
+      "snippet": "El Casino de Zamora acoge la pre-fiesta del reggaeton ; Leticia Sabater, Abraveses de Tera. Fiestas Populares ; El obispo de Zamora, Fernando Valera, el ec\u00f3nomo\u00a0...",
+      "rank_absolute": 25,
+      "rank_group": 23,
+      "result_type": "items"
+    },
+    {
+      "title": "Gonzalo Gonz\u00e1lez Ramos | \u00daltimas noticias Zamora News",
+      "url": "https://www.zamoranews.com/tags/gonzalo-gonzalez-ramos/",
+      "snippet": "El zamorano Gonzalo Gonz\u00e1lez Ramos, fundador de Calzados Casino, ser\u00e1 nombrado hijo adoptivo de Oviedo ; Leticia Sabater, Abraveses de Tera. Fiestas Populares.",
+      "rank_absolute": 26,
+      "rank_group": 24,
+      "result_type": "items"
+    },
+    {
+      "title": "Descubre la historia del jugador que gan\u00f3 15 millones de ...",
+      "url": "https://www.zamoranews.com/articulo/magazine/descubre-historia-jugador-que-gano-15-millones-dolares-blackjack/20240528093353285399.html",
+      "snippet": "May 28, 2024 \u2014 Don Johnson acumul\u00f3 una impresionante racha de victorias jugando en los casinos de Atlantic City, que se vieron obligados a cambiar sus\u00a0...",
+      "rank_absolute": 27,
+      "rank_group": 25,
+      "result_type": "items"
+    },
+    {
+      "title": "Redacci\u00f3n - Zamora News - P\u00e1gina 502",
+      "url": "https://www.zamoranews.com/author/redaccion/?page=502",
+      "snippet": "El p\u00e1del zamorano une fuerzas y recauda m\u00e1s de cuatro mil euros para ayudar a un club valenciano tras la DANA \u00b7 Redacci\u00f3n 27/ene/25 20:44.",
+      "rank_absolute": 28,
+      "rank_group": 26,
+      "result_type": "items"
+    },
+    {
+      "title": "Johandry Santos | \u00daltimas noticias Zamora News",
+      "url": "https://www.zamoranews.com/tags/johandry-santos/",
+      "snippet": "Consulta la informaci\u00f3n de \u00faltima hora sobre Johandry Santos: Aprende bachata sensual y rueda de casino este s\u00e1bado en By Alice music.",
+      "rank_absolute": 29,
+      "rank_group": 27,
+      "result_type": "items"
+    },
+    {
+      "title": "Reabre el Casino de Zamora con nuevas propuestas ...",
+      "url": "https://www.zamoranews.com/articulo/enogastronomia/reabre-el-casino-de-zamora-con-nuevas-propuestas-hosteleras/20201218132406146253.html",
+      "snippet": "Dec 18, 2020 \u2014 \"Nos colamos en un edificio modernista construido en 1910, uno de los mas emblem\u00e1ticos de Zamora, en plena Calle Santa Clara, respetando al\u00a0...",
+      "rank_absolute": 30,
+      "rank_group": 28,
+      "result_type": "items"
+    },
+    {
+      "title": "'Vivir es Ilusi\u00f3n', un recorrido por la historia y los retos de ...",
+      "url": "https://www.zamoranews.com/articulo/toro/vivir-es-ilusion-recorrido-historia-retos-mujeres-toro/20250814091222346827.html",
+      "snippet": "Aug 14, 2025 \u2014 Este jueves 14 de agosto, a las 20:00 horas, el Casino de Toro ser\u00e1 el escenario de la presentaci\u00f3n de Vivir es Ilusi\u00f3n. Choque generacional\u00a0...",
+      "rank_absolute": 31,
+      "rank_group": 29,
+      "result_type": "items"
+    },
+    {
+      "title": "\u00bfC\u00f3mo atraen las casas de apuestas deportivas en l\u00ednea a ...",
+      "url": "https://www.zamoranews.com/articulo/blogs/como-atraen-casas-apuestas-deportivas-linea-nuevos-clientes/20250424094215329491.html",
+      "snippet": "Apr 24, 2025 \u2014 Contar con un excelso servicio de ayuda al cliente, un largo listado de juegos de casino y cobertura en los mejores deportes del mercado\u00a0...",
+      "rank_absolute": 32,
+      "rank_group": 30,
+      "result_type": "items"
+    },
+    {
+      "title": "Blogs | \u00daltimas noticias Zamora News",
+      "url": "https://www.zamoranews.com/blog/section/blogs/",
+      "snippet": "... Casinos: entre el azar y la experiencia, mucho m\u00e1s que un juego \u00b7 Redacci\u00f3n 02/jul/25 18:05. 5. Blogs. KasinoBonus.ai revela los 5 bonos de casino m\u00e1s\u00a0...",
+      "rank_absolute": 34,
+      "rank_group": 31,
+      "result_type": "items"
+    },
+    {
+      "title": "Zamora - P\u00e1gina 107 | \u00daltimas noticias ...",
+      "url": "https://www.zamoranews.com/tags/zamora/?page=107",
+      "snippet": "10:07. Casino de Zamora. Agenda. El Casino de Zamora acoge la pre-fiesta del reggaeton \u00b7 Redacci\u00f3n 30/may/25 9:43. Concentraci\u00f3n 'El tren vertebra\u00a0...",
+      "rank_absolute": 35,
+      "rank_group": 32,
+      "result_type": "items"
+    },
+    {
+      "title": "Oviedo honra al zamorano Gonzalo Gonz\u00e1lez Ramos ...",
+      "url": "https://www.zamoranews.com/articulo/zamora/oviedo-honra-zamorano-gonzalo-gonzalez-ramos-como-hijo-adoptivo-ciudad/20241203101600309205.html",
+      "snippet": "Dec 3, 2024 \u2014 El empresario zamorano, fundador de Calzados Casino, ha sido reconocido por su dedicaci\u00f3n y contribuci\u00f3n al comercio local tras casi 50 a\u00f1os\u00a0...",
+      "rank_absolute": 36,
+      "rank_group": 33,
+      "result_type": "items"
+    },
+    {
+      "title": "Patio Canalla | \u00daltimas noticias Zamora News",
+      "url": "https://www.zamoranews.com/tags/patio-canalla/",
+      "snippet": "Zamora se reinventa: la familia del Patio Canalla y el Casino trae aire fresco al centro con un nuevo local \u00b7 El Patio Canalla celebra el Inicio de la temporada\u00a0...",
+      "rank_absolute": 37,
+      "rank_group": 34,
+      "result_type": "items"
+    },
+    {
+      "title": "Hemeroteca - 30 de mayo de 2025",
+      "url": "https://www.zamoranews.com/archive/content/2025/05/30/?page=3",
+      "snippet": "May 30, 2025 \u2014 Hemeroteca \u00b7 El Casino de Zamora acoge la pre-fiesta del reggaeton \u00b7 Porto sigue 'hilando tradiciones' con la Feria y Exposici\u00f3n de la Lana.",
+      "rank_absolute": 38,
+      "rank_group": 35,
+      "result_type": "items"
+    },
+    {
+      "title": "jugador Poker | \u00daltimas noticias Zamora News",
+      "url": "https://www.zamoranews.com/tags/jugador-poker/",
+      "snippet": "Consulta la informaci\u00f3n de \u00faltima hora sobre jugador Poker: Un zamorano, entre los mejores jugadores de p\u00f3ker del mundo.",
+      "rank_absolute": 39,
+      "rank_group": 36,
+      "result_type": "items"
+    },
+    {
+      "title": "Aprende bachata sensual y rueda de casino este s\u00e1bado ...",
+      "url": "https://www.zamoranews.com/articulo/zamora/bachata-sensual-rueda-casino-cargo-johandry-santos-sabado-byalice/20211110175303184387.html",
+      "snippet": "Nov 10, 2021 \u2014 By Alice music se convertir\u00e1 este s\u00e1bado en un escenario de baile latino, para todo el que quiera aprender bachata sensual y rueda de casino.",
+      "rank_absolute": 40,
+      "rank_group": 37,
+      "result_type": "items"
+    },
+    {
+      "title": "\u00bfPor qu\u00e9 triunfan los juegos de azar basados en etapas ...",
+      "url": "https://www.zamoranews.com/articulo/magazine/por-que-triunfan-los-juegos-de-azar-basados-en-etapas-historicas/20210315092708150955.html",
+      "snippet": "Mar 15, 2021 \u2014 Hoy en d\u00eda, la industria de los casinos se inspiran en un amplio abanico de temas para crear sus juegos, por lo que podemos encontrar t\u00edtul.",
+      "rank_absolute": 41,
+      "rank_group": 38,
+      "result_type": "items"
+    },
+    {
+      "title": "tatuajes | \u00daltimas noticias Zamora News",
+      "url": "https://www.zamoranews.com/tags/tatuajes/",
+      "snippet": "Casino de Zamora. Agenda. El Casino de Zamora abre sus puertas a un mercado navide\u00f1o con tatuajes, dise\u00f1o y dulces \u00b7 Redacci\u00f3n 31/dic/24 11:23. Sublime\u00a0...",
+      "rank_absolute": 42,
+      "rank_group": 39,
+      "result_type": "items"
+    },
+    {
+      "title": "De la cer\u00e1mica a la cosm\u00e9tica vegana, la diversidad marca ...",
+      "url": "https://www.zamoranews.com/articulo/ocio/ceramica-cosmetica-vegana-diversidad-marca-edicion-ventana-market/20250921101138352871.html",
+      "snippet": "Sep 21, 2025 \u2014 El evento re\u00fane cerca de medio centenar de puestos de artesan\u00eda, gastronom\u00eda, moda, m\u00fasica en directo y talleres.",
+      "rank_absolute": 43,
+      "rank_group": 40,
+      "result_type": "items"
+    },
+    {
+      "title": "talento - P\u00e1gina 3 | \u00daltimas noticias Zamora News",
+      "url": "https://www.zamoranews.com/tags/talento/?page=3",
+      "snippet": "... Casino \u00b7 Christmas Design Market. Agenda. Christmas Design Market en el Casino de Zamora: talento local y experiencias \u00fanicas \u00b7 Aroa Colmenero\u00a0...",
+      "rank_absolute": 44,
+      "rank_group": 41,
+      "result_type": "items"
+    },
+    {
+      "title": "22bet expande sus servicios de apuestas deportivas y casino ...",
+      "url": "https://www.zamoranews.com/articulo/reportajes/22bet-expande-servicios-apuestas-deportivas-casino-online/20210420132048159707.html",
+      "snippet": "La plataforma ofrece m\u00e1quinas tragamonedas, cartas, juegos de mesa, casino en directo, eSports, bingo y lotto, todo a trav\u00e9s de la web y aplicaciones m\u00f3viles\u00a0...",
+      "rank_absolute": 45,
+      "rank_group": 42,
+      "result_type": "items"
+    },
+    {
+      "title": "\u00daLTIMA HORA | Incendio en el Casino de Toro, los ...",
+      "url": "https://www.zamoranews.com/articulo/sucesos/ultima-hora-incendio-en-el-casino-de-toro-los-bomberos-de-toro-actuan-en-la-calle-juderia/20200808002639121164.html",
+      "snippet": "Aug 8, 2020 \u2014 Los edificios que colindan con el casino son o tienen su artesonado en madera y el peligro de que el incendio se extendiera era mucho. No ha\u00a0...",
+      "rank_absolute": 46,
+      "rank_group": 43,
+      "result_type": "items"
+    },
+    {
+      "title": "Aroa Colmenero - Zamora News - P\u00e1gina 4",
+      "url": "https://www.zamoranews.com/author/aroa/?page=4",
+      "snippet": "Christmas Design Market en el Casino de Zamora: talento local y experiencias \u00fanicas \u00b7 Aroa Colmenero 26/dic/24 11:21. Sublime Tattoo. Zamora\u00a0...",
+      "rank_absolute": 47,
+      "rank_group": 44,
+      "result_type": "items"
+    },
+    {
+      "title": "Salamanca - P\u00e1gina 2 | \u00daltimas noticias Zamora News",
+      "url": "https://www.zamoranews.com/tags/salamanca/?page=2",
+      "snippet": "... Casino de Salamanca. Semana Santa. El Casino de Salamanca ser\u00e1 sede del Preg\u00f3n de la Semana Santa de Zamora \u00b7 Redacci\u00f3n 30/mar/25 12:29. UPL en las\u00a0...",
+      "rank_absolute": 48,
+      "rank_group": 45,
+      "result_type": "items"
+    },
+    {
+      "title": "Fermoselle honra a Santa \u00c1gueda con bastones, misa y ...",
+      "url": "https://www.zamoranews.com/articulo/comarcas/fermoselle-honra-santa-agueda-bastones-misa-baile/20250208110938317358.html",
+      "snippet": "Feb 8, 2025 \u2014 A las 14:00 horas, el restaurante El Antiguo Casino de los Arribes ofrecer\u00e1 una comida para todos los asistentes, quienes podr\u00e1n disfrutar de la\u00a0...",
+      "rank_absolute": 49,
+      "rank_group": 46,
+      "result_type": "items"
+    },
+    {
+      "title": "La periodista Andrea Pel\u00e1ez, orgullo zamorano, recibe la ...",
+      "url": "https://www.zamoranews.com/articulo/zamora/periodista-andrea-pelaez-orgullo-zamorano-recibe-antena-oro/20241015172815303423.html",
+      "snippet": "Oct 15, 2024 \u2014 La ceremonia de entrega de estos prestigiosos galardones se celebrar\u00e1 el pr\u00f3ximo 16 de noviembre en el Casino de Aranjuez.",
+      "rank_absolute": 50,
+      "rank_group": 47,
+      "result_type": "items"
+    },
+    {
+      "title": "Un zamorano, entre los mejores jugadores de p\u00f3ker del ...",
+      "url": "https://www.zamoranews.com/articulo/zamora/zamorano-mejores-jugadores-poker-mundo/20230205133128235324.html",
+      "snippet": "Feb 5, 2023 \u2014 ... Resort & Casino y en el que Vi\u00f1uela logr\u00f3 la posici\u00f3n 126, un m\u00e1s que merecido y destacado puesto que da muestra del nivel de este zamorano\u00a0...",
+      "rank_absolute": 51,
+      "rank_group": 48,
+      "result_type": "items"
+    },
+    {
+      "title": "Hemeroteca - 31 de diciembre de 2024",
+      "url": "https://www.zamoranews.com/archive/content/2024/12/31/?page=2",
+      "snippet": "Dec 31, 2024 \u2014 Zamora arranca el a\u00f1o con m\u00e1s de 30 actividades culturales en enero \u00b7 Redacci\u00f3n 31/dic/24 12:36. Casino de Zamora. Agenda. El Casino ...",
+      "rank_absolute": 52,
+      "rank_group": 49,
+      "result_type": "items"
+    },
+    {
+      "title": "Las benedictinas de Zamora emprenden un nuevo camino ...",
+      "url": "https://www.zamoranews.com/articulo/zamora/benedictinas-zamora-emprenden-nuevo-camino-unidad-escasez-vocaciones/20250611165949335936.html",
+      "snippet": "Jun 11, 2025 \u2014 A pesar de lo complejo del proceso, las religiosas han afirmado que tanto la imprenta como la editorial Monte Casino continuar\u00e1n funcionando con\u00a0...",
+      "rank_absolute": 53,
+      "rank_group": 50,
+      "result_type": "items"
+    },
+    {
+      "title": "El edificio de estilo modernista del antiguo Casino sigue ...",
+      "url": "https://www.zamoranews.com/articulo/imagendeldiazamora/el-edificio-de-estilo-modernista-del-antiguo-casino-sigue-con-problemas-de-rotura-de-cornisas-y-caida-de-cascotes/20160511083620079420.html",
+      "snippet": "May 11, 2016 \u2014 Son ya varias las intervenciones que se han tenido que realizar en el edificio del antiguo Casino, esta vez en una de las cornisas que d.",
+      "rank_absolute": 54,
+      "rank_group": 51,
+      "result_type": "items"
+    },
+    {
+      "title": "Hemeroteca - 2 de enero de 2025",
+      "url": "https://www.zamoranews.com/archive/content/2025/01/02/",
+      "snippet": "Jan 2, 2025 \u2014 Talento local en Zamora con 'Christmas Design Market' en el Casino ... Casino \u00b7 Feria Muevete (2). Zamora. Toda la programaci\u00f3n navide\u00f1a de\u00a0...",
+      "rank_absolute": 55,
+      "rank_group": 52,
+      "result_type": "items"
+    },
+    {
+      "title": "Bonos | \u00daltimas noticias Zamora News",
+      "url": "https://www.zamoranews.com/tags/bonos/",
+      "snippet": "KasinoBonus.ai revela los 5 bonos de casino m\u00e1s populares de 2025 \u00b7 Redacci\u00f3n 02/jul/25 17:59. bonos viaje en Benavente. Benavente. Benavente lanza\u00a0...",
+      "rank_absolute": 56,
+      "rank_group": 53,
+      "result_type": "items"
+    },
+    {
+      "title": "La calle Santa Clara de Zamora protagoniza el cup\u00f3n de ...",
+      "url": "https://www.zamoranews.com/articulo/zamora/calle-santa-clara-zamora-protagoniza-cupon-once-5-agosto/20250731104953344285.html",
+      "snippet": "Jul 31, 2025 \u2014 A lo largo del recorrido, el paseante puede admirar edificios de gran valor modernista como el Casino \u2014obra del arquitecto Miguel Mathet\u00a0...",
+      "rank_absolute": 57,
+      "rank_group": 54,
+      "result_type": "items"
+    },
+    {
+      "title": "Dos recorridos para la primera ruta BTT \"Ca\u00f1ones del ...",
+      "url": "https://www.zamoranews.com/articulo/deportes/recorridos-primera-ruta-btt-canones-duero-fermoselle/20240911105010298661.html",
+      "snippet": "Sep 11, 2024 \u2014 El evento ofrecer\u00e1 varios servicios a los participantes, incluyendo un desayuno de bienvenida a las 9:00 horas en el Restaurante \u201cEl Casino ...",
+      "rank_absolute": 58,
+      "rank_group": 55,
+      "result_type": "items"
+    },
+    {
+      "title": "Monopoly: el juego de mesa que se convirti\u00f3 en la ...",
+      "url": "https://www.zamoranews.com/articulo/magazine/monopoly-juego-mesa-que-convirtio-sensacion-digital/20240503104010282799.html",
+      "snippet": "May 3, 2024 \u2014 De hecho, esa f\u00f3rmula tambi\u00e9n se ha trasladado a otros terrenos, como el del casino. A d\u00eda de hoy, una de las plataformas de azar m\u00e1s famosas\u00a0...",
+      "rank_absolute": 59,
+      "rank_group": 56,
+      "result_type": "items"
+    },
+    {
+      "title": "Fuente Obejuna re\u00fane al sector agrario para analizar el ...",
+      "url": "https://www.zamoranews.com/articulo/provincia/fuente-obejuna-reune-sector-agrario-analizar-futuro-campo/20250220131846318914.html",
+      "snippet": "Feb 20, 2025 \u2014 El evento concluir\u00e1 con un espacio de networking en el Casino de Fuente Obejuna, donde los asistentes podr\u00e1n intercambiar impresiones sobre los\u00a0...",
+      "rank_absolute": 60,
+      "rank_group": 57,
+      "result_type": "items"
+    },
+    {
+      "title": "Merkur Gaming empieza a pisar fuerte en uno de los ...",
+      "url": "https://www.zamoranews.com/articulo/magazine/merkur-gaming-empieza-a-pisar-fuerte-en-uno-de-los-merados-mas-competitivos-lo-que-debes-saber-sobre-su-crecimiento-en-europa/20181116174856098968.html",
+      "snippet": "Nov 16, 2018 \u2014 Una de las marcas m\u00e1s reconocidas a nivel mundial dentro del mercado de los casinos online, como Merkur Gaming, una divisi\u00f3n del gigante.",
+      "rank_absolute": 61,
+      "rank_group": 58,
+      "result_type": "items"
+    },
+    {
+      "title": "Grandes ciudades, grandes facturas: por qu\u00e9 Barcelona ...",
+      "url": "https://www.zamoranews.com/articulo/blogs/grandes-ciudades-grandes-facturas-que-barcelona-sevilla-bilbao-premian-quien-compacta-residuos/20251010224835356522.html",
+      "snippet": "3 days ago \u2014 ... Casinos: entre el azar y la experiencia, mucho m\u00e1s que un juego \u00b7 Redacci\u00f3n 02/jul/25 18:05. S\u00edguenos. Facebook \u00b7 TikTok \u00b7 Twitter \u00b7 Instagram\u00a0...",
+      "rank_absolute": 62,
+      "rank_group": 59,
+      "result_type": "items"
+    },
+    {
+      "title": "El futuro del sector del juego, a an\u00e1lisis en Castilla y Le\u00f3n",
+      "url": "https://www.zamoranews.com/articulo/castillayleon/futuro-sector-juego-analisis-castilla-leon/20231002114448259533.html",
+      "snippet": "Oct 2, 2023 \u2014 ... casinos (Grupo Comar-Casinos de Salamanca y Le\u00f3n, y Casino Roxy) y salones (SAJUCAL). Adem\u00e1s de analizar los nuevos retos a los que esta\u00a0...",
+      "rank_absolute": 63,
+      "rank_group": 60,
+      "result_type": "items"
+    },
+    {
+      "title": "El fen\u00f3meno de los rasca y gana: del cart\u00f3n a la versi\u00f3n ...",
+      "url": "https://www.zamoranews.com/articulo/zamora-magazine/fenomeno-rasca-gana-carton-version-digital/20250403131757325111.html",
+      "snippet": "Apr 3, 2025 \u2014 Adem\u00e1s, el auge de los casinos online ha transformado el panorama del juego en el territorio nacional, democratizando el acceso a opciones como\u00a0...",
+      "rank_absolute": 64,
+      "rank_group": 61,
+      "result_type": "items"
+    },
+    {
+      "title": "Estas son algunas de las mejores opciones para pasar la ...",
+      "url": "https://www.zamoranews.com/articulo/zamora/son-algunas-mejores-opciones-pasar-nochevieja-zamora/20241211200852310212.html",
+      "snippet": "Dec 11, 2024 \u2014 Casino Caf\u00e9 Zamora ofrece una propuesta igualmente exclusiva para la Nochevieja. Con entradas de 50\u20ac, los asistentes disfrutar\u00e1n de cinco\u00a0...",
+      "rank_absolute": 65,
+      "rank_group": 62,
+      "result_type": "items"
+    },
+    {
+      "title": "Top 5 mejores casas de apuestas en Espa\u00f1a",
+      "url": "https://www.zamoranews.com/articulo/zamora-magazine/top-5-mejores-casas-apuestas-espana/20241108102619306075.html",
+      "snippet": "Nov 8, 2024 \u2014 Su casino online, retransmisiones en directo y apuestas divertidas la hacen una de las mejores opciones para los mismos espa\u00f1oles. Su bono\u00a0...",
+      "rank_absolute": 66,
+      "rank_group": 63,
+      "result_type": "items"
+    },
+    {
+      "title": "La importancia de la fibra \u00f3ptica en Zamora",
+      "url": "https://www.zamoranews.com/articulo/provincia/importancia-fibra-optica-zamora/20211126133059186923.html",
+      "snippet": "Nov 26, 2021 \u2014 ... casino virtuales constituye un ejemplo inmejorable de lo que implica la evoluci\u00f3n tecnol\u00f3gica y la conectividad. Los juegos de casino se han\u00a0...",
+      "rank_absolute": 67,
+      "rank_group": 64,
+      "result_type": "items"
+    },
+    {
+      "title": "\u00c1ngel-Luis Crespo Encinas Arag\u00f3n, pregonero de la ...",
+      "url": "https://www.zamoranews.com/articulo/semana-santa-zamora/angel-luis-crespo-encinas-aragon-pregonero-pasion-zamorana-salamanca/20240311192201276752.html",
+      "snippet": "Mar 11, 2024 \u2014 Organizado en colaboraci\u00f3n con la Junta pro Semana Santa de Zamora y El Casino de Salamanca, este preg\u00f3n promete ser una exaltaci\u00f3n emotiva y\u00a0...",
+      "rank_absolute": 68,
+      "rank_group": 65,
+      "result_type": "items"
+    },
+    {
+      "title": "Zamora apuesta por la inclusi\u00f3n en la Cabalgata de Reyes ...",
+      "url": "https://www.zamoranews.com/articulo/zamora/zamora-apuesta-inclusion-cabalgata-reyes-espacios-accesibles-personas-movilidad-reducida/20250103182626312780.html",
+      "snippet": "Jan 3, 2025 \u2014 Estas \u00e1reas estar\u00e1n situadas en la Plaza de Zorrilla, frente al antiguo casino, y en la Plaza Mayor, junto al escenario donde Melchor, Gaspar y\u00a0...",
+      "rank_absolute": 69,
+      "rank_group": 66,
+      "result_type": "items"
+    },
+    {
+      "title": "El \u201cboom\u201d de los juegos de azar en Espa\u00f1a",
+      "url": "https://www.zamoranews.com/articulo/zamora-magazine/boom-juegos-azar-espana/20231016094818260881.html",
+      "snippet": "Oct 16, 2023 \u2014 En los casinos online es posible depositar y retirar fondos con infinidad de m\u00e9todos de pago diferentes, desde transferencias bancarias y\u00a0...",
+      "rank_absolute": 70,
+      "rank_group": 67,
+      "result_type": "items"
+    },
+    {
+      "title": "el zamorano Adri\u00e1n Vi\u00f1uela, mejor jugador de p\u00f3ker del pa\u00eds",
+      "url": "https://www.zamoranews.com/articulo/zamora/el+pokerstars+gran+madrid+tiene+due%C3%B1o%3A+el+zamorano+adri%C3%A1n+vi%C3%B1uela%2C+mejor+jugador+de+p%C3%B3ker+del+pa%C3%ADs/20220216095443196517.html",
+      "snippet": "Feb 16, 2022 \u2014 ... Poker por PokerStars, disputada en las instalaciones del Casino Gran Madrid. Adri\u00e1n se convierte en campe\u00f3n de esta parada, se lleva el\u00a0...",
+      "rank_absolute": 71,
+      "rank_group": 68,
+      "result_type": "items"
+    },
+    {
+      "title": "Explicaci\u00f3n de las diferencias entre los bonos sin dep\u00f3sito ...",
+      "url": "https://www.zamoranews.com/articulo/nacional/explicacion-diferencias-bonos-deposito-bonos-deposito/20250114125206314002.html",
+      "snippet": "Jan 14, 2025 \u2014 Hay diferentes maneras para clasificar los bonos ofrecidos por los casinos. Una de las m\u00e1s comunes es dividirlas entre Bonos en los que se\u00a0...",
+      "rank_absolute": 72,
+      "rank_group": 69,
+      "result_type": "items"
+    },
+    {
+      "title": "Regresa otra de las tradiciones semanasanteras: la del V\u00eda ...",
+      "url": "https://www.zamoranews.com/articulo/semana-santa-zamora/regresa-otra-tradiciones-semanasanteras-via-crucis-herreros/20220411110814204308.html",
+      "snippet": "Apr 11, 2022 \u2014 El Casino (donde podr\u00e1 adquirirse el vaso oficial de la fiesta), el bar discoteca Troya as\u00ed como otros bares de la plaza Mayor se han unido\u00a0...",
+      "rank_absolute": 73,
+      "rank_group": 70,
+      "result_type": "items"
+    },
+    {
+      "title": "Los vinos aut\u00f3ctonos de Arribes brillan en el Festival de ...",
+      "url": "https://www.zamoranews.com/articulo/47-comarcas/vinos-autoctonos-arribes-brillan-festival-variedades-minoritarias/20240322131610278147.html",
+      "snippet": "Mar 22, 2024 \u2014 Los vinos Siete Pelda\u00f1os elaborados por la Bodegas Pascual Fern\u00e1ndez fueron los protagonistas en una cita celebrada en el Casino de\u00a0...",
+      "rank_absolute": 74,
+      "rank_group": 71,
+      "result_type": "items"
+    },
+    {
+      "title": "Meseta Crew: Vecindades convierte a Zamora en referente ...",
+      "url": "https://www.zamoranews.com/articulo/agenda/meseta-crew-vecindades-convierte-zamora-referente-internacional-diseno-29-septiembre-4-octubre/20250930134321354964.html",
+      "snippet": "Sep 30, 2025 \u2014 3 de octubre, 9:00 h.: Oseain en USAL y 19:30 h.: mesa redonda sobre Patrimonio Gr\u00e1fico de Castilla y Le\u00f3n en Casino Caf\u00e9, moderada por David\u00a0...",
+      "rank_absolute": 75,
+      "rank_group": 72,
+      "result_type": "items"
+    },
+    {
+      "title": "Fermoselle y Moraleja del Vino se hermanan en una ...",
+      "url": "https://www.zamoranews.com/articulo/47-comarcas/fermoselle-moraleja-vino-hermanan-jornada-cultural-tradicional/20241002091723301872.html",
+      "snippet": "Oct 2, 2024 \u2014 El almuerzo se llev\u00f3 a cabo en dos conocidos restaurantes locales, El Antiguo Casino de los Arribes y la Posada De Do\u00f1a Urraca, donde los\u00a0...",
+      "rank_absolute": 76,
+      "rank_group": 73,
+      "result_type": "items"
+    },
+    {
+      "title": "Ventajas de los casinos online",
+      "url": "https://www.zamoranews.com/articulo/magazine/ventajas-casinos-online/20220218181921196790.html",
+      "snippet": "Feb 18, 2022 \u2014 En los \u00faltimos meses, con esto de la pandemia por Covid-19, el confinamiento, y los nuevos modos de vida que han ido apareciendo mientras\u00a0...",
+      "rank_absolute": 77,
+      "rank_group": 74,
+      "result_type": "items"
+    },
+    {
+      "title": "El zamorano Gonzalo Gonz\u00e1lez Ramos ya es Hijo ...",
+      "url": "https://www.zamoranews.com/articulo/zamora/zamorano-gonzalo-gonzalez-ramos-es-hijo-adoptivo-ciudad-oviedo/20240604114403286373.html",
+      "snippet": "Jun 4, 2024 \u2014 Nacido y criado en Zamora, Gonzalo Gonz\u00e1lez de 95 a\u00f1os, fue el fundador en 1977 de Calzados Casino que llegaron a contar con hasta 28\u00a0...",
+      "rank_absolute": 78,
+      "rank_group": 75,
+      "result_type": "items"
+    },
+    {
+      "title": "Tras los pasos de Lorca en Zamora",
+      "url": "https://www.zamoranews.com/articulo/cultura-turismo/tras+los+pasos+de+lorca+en+zamora/20221024224639226116.html",
+      "snippet": "Oct 24, 2022 \u2014 Un acto en el Casino, el mismo lugar en el que hace 106 a\u00f1os toc\u00f3 el piano, evoc\u00f3 la memoria de la primera visita del poeta andaluz a la\u00a0...",
+      "rank_absolute": 79,
+      "rank_group": 76,
+      "result_type": "items"
+    },
+    {
+      "title": "Ertzaintza | \u00daltimas noticias Zamora News",
+      "url": "https://www.zamoranews.com/tags/ertzaintza/",
+      "snippet": "Ertzaintza \u00b7 Desarticulada una banda implicada en 42 robos con fuerza, la mayor\u00eda en CyL \u00b7 Cae una organizaci\u00f3n criminal itinerante que comet\u00eda estafas en casinos ...",
+      "rank_absolute": 80,
+      "rank_group": 77,
+      "result_type": "items"
+    },
+    {
+      "title": "Los incre\u00edbles beneficios que tiene jugar y apostar online",
+      "url": "https://www.zamoranews.com/articulo/zamora-magazine/increibles-beneficios-que-tiene-jugar-apostar-online/20220503092504207425.html",
+      "snippet": "May 4, 2022 \u2014 7. Muchos casinos online ofrecen bonos de inscripci\u00f3n y otras ofertas promocionales. 8. Puedes jugar de forma an\u00f3nima si lo deseas, sin tener\u00a0...",
+      "rank_absolute": 81,
+      "rank_group": 78,
+      "result_type": "items"
+    },
+    {
+      "title": "Redacci\u00f3n - Zamora News - P\u00e1gina 2438",
+      "url": "https://www.zamoranews.com/author/redaccion/?page=2438",
+      "snippet": "Militares de refuerzo en la campa\u00f1a de vacunaci\u00f3n de la tercera dosis \u00b7 9:41 ; Entrega de medicamentos Cruz Roja \u00b7 9:38 ; Carrera Argusino Vive \u00b7 9:34 ; Casino online.",
+      "rank_absolute": 82,
+      "rank_group": 79,
+      "result_type": "items"
+    },
+    {
+      "title": "Casinos Online: Estrategias para aprovechar mejor los ...",
+      "url": "https://www.zamoranews.com/articulo/magazine/casinos-online-estrategias-aprovechar-mejor-juegos-linea/20240116175637270532.html",
+      "snippet": "Jan 16, 2024 \u2014 En la era digital, los casinos online se han convertido en una forma popular de entretenimiento, ofreciendo emoci\u00f3n y oportunidades de\u00a0...",
+      "rank_absolute": 83,
+      "rank_group": 80,
+      "result_type": "items"
+    },
+    {
+      "title": "Una discoteca de Zamora considera hacer test de ...",
+      "url": "https://www.zamoranews.com/articulo/zamora/discoteca-zamora-considera-hacer-test-antigenos-nochevieja/20211230094608191186.html",
+      "snippet": "Dec 30, 2021 \u2014 Por seguridad, el Casino de Zamora buscar\u00e1 acortar riesgos proponiendo realizar un test de ant\u00edgenos en la entrada del local a los asistentes en\u00a0...",
+      "rank_absolute": 84,
+      "rank_group": 81,
+      "result_type": "items"
+    },
+    {
+      "title": "El impacto que las tendencias latinoamericanas del ...",
+      "url": "https://www.zamoranews.com/articulo/zamora-magazine/impacto-que-tendencias-latinoamericanas-gambling-nuestro-pais/20230308094227238344.html",
+      "snippet": "Mar 8, 2023 \u2014 Muchos jugadores prefieren los casinos en l\u00ednea, como Mr Bet casino. Uno de los motivos es que les permiten jugar desde la comodidad de su\u00a0...",
+      "rank_absolute": 85,
+      "rank_group": 82,
+      "result_type": "items"
+    },
+    {
+      "title": "Noche de intervenciones por desprendimiento de cascotes ...",
+      "url": "https://www.zamoranews.com/articulo/sucesos/noche-intervenciones-desprendimiento-cascoques-varios-edificios-ciudad/20231006090916259902.html",
+      "snippet": "Oct 6, 2023 \u2014 ... casino. Unas intervenciones que se han saldado sin m\u00e1s da\u00f1os que los puramente materiales.",
+      "rank_absolute": 86,
+      "rank_group": 83,
+      "result_type": "items"
+    },
+    {
+      "title": "Soft2Bet: innovaci\u00f3n, expansi\u00f3n y liderazgo en el sector ...",
+      "url": "https://www.zamoranews.com/articulo/zamora-magazine/soft2bet-innovacion-expansion-liderazgo-sector-igaming-europeo/20250724090728343215.html",
+      "snippet": "Jul 24, 2025 \u2014 ... casinos online y apuestas deportivas. ai-generated-9430816_1280 ... En 2024, la compa\u00f1\u00eda transform\u00f3 su plataforma MEGA (Motivational Engineering\u00a0...",
+      "rank_absolute": 87,
+      "rank_group": 84,
+      "result_type": "items"
+    },
+    {
+      "title": "Colaboraciones exitosas que hacen historia",
+      "url": "https://www.zamoranews.com/articulo/zamora-magazine/colaboraciones-exitosas-que-hacen-historia/20211203085232187726.html",
+      "snippet": "Dec 3, 2021 \u2014 A la cabeza de esa lista va sin lugar a dudas Playtech, empresa focalizada en el desarrollo de programas para casinos online. Su oferta de juego\u00a0...",
+      "rank_absolute": 88,
+      "rank_group": 85,
+      "result_type": "items"
+    },
+    {
+      "title": "Vasos serigrafiados y pasaportes: una tradici\u00f3n que ...",
+      "url": "https://www.zamoranews.com/articulo/zamora/vasos-serigrafiados-pasaportes-tradicion-que-perdura-semana-santa-zamorana/20240321193614278056.html",
+      "snippet": "Mar 21, 2024 \u2014 Este gesto organizado por Casino/Brutal y sumado al pasaporte con el recorrido oficial, promete una experiencia a\u00fan m\u00e1s inmersiva y\u00a0...",
+      "rank_absolute": 89,
+      "rank_group": 86,
+      "result_type": "items"
+    },
+    {
+      "title": "Agenda - P\u00e1gina 9 | \u00daltimas noticias Zamora News",
+      "url": "https://www.zamoranews.com/agenda/?page=9",
+      "snippet": "Jun 3, 2025 \u2014 ... Casino de Zamora. Agenda. El Casino de Zamora acoge la pre-fiesta del reggaeton \u00b7 Redacci\u00f3n 30/may/25 9:43. El Casino Caf\u00e9 Zamora\u00a0...",
+      "rank_absolute": 90,
+      "rank_group": 87,
+      "result_type": "items"
+    },
+    {
+      "title": "El tema m\u00e1s zamorano, en el nuevo disco que prepara ...",
+      "url": "https://www.zamoranews.com/articulo/47-comarcas/musica-zamorano-alberto-jambrina-nuevo-disco-entavia-micromecenazgo/20240605002214286441.html",
+      "snippet": "Jun 5, 2024 \u2014 ... Casino\" de Sanzoles, est\u00e1 interpretado por Alberto Jambrina. Grabaci\u00f3n del romance el gal\u00e1n y la calavera de Entav\u00eda photo_camera Grabaci\u00f3n\u00a0...",
+      "rank_absolute": 91,
+      "rank_group": 88,
+      "result_type": "items"
+    },
+    {
+      "title": "Espa\u00f1a, quinto pa\u00eds de Europa con m\u00e1s ingresos por ...",
+      "url": "https://www.zamoranews.com/articulo/reportajes/espana-quinto-pais-europa-mas-ingresos-juegos-azar/20210421155439159905.html",
+      "snippet": "Apr 21, 2021 \u2014 ... casinos y loter\u00edas online. De hecho los juegos online no han ... Casino, con un 41,23%, y 350,80 millones de euro; el P\u00f3quer (12,96\u00a0...",
+      "rank_absolute": 92,
+      "rank_group": 89,
+      "result_type": "items"
+    },
+    {
+      "title": "Revivir la visita de Lorca a Zamora, as\u00ed es la propuesta 106 ...",
+      "url": "https://www.zamoranews.com/articulo/zamora/revivir-visita-lorca-zamora-asi-es-propuesta-106-anos-despues/20221023110841225929.html",
+      "snippet": "Oct 23, 2022 \u2014 Para ello, ha organizado un concierto-recital en el Casino, situado en la calle Santa Clara, 2. El mismo lugar que fue testigo de aquella\u00a0...",
+      "rank_absolute": 93,
+      "rank_group": 90,
+      "result_type": "items"
+    },
+    {
+      "title": "Familia | \u00daltimas noticias Zamora News",
+      "url": "https://www.zamoranews.com/tags/familia/",
+      "snippet": "... Casino trae aire fresco al centro con un nuevo local \u00b7 Paco Colmenero 11/abr/25 17:13. bomberos apagando el fuego de un coche. Sucesos. Arde un\u00a0...",
+      "rank_absolute": 94,
+      "rank_group": 91,
+      "result_type": "items"
+    },
+    {
+      "title": "Redacci\u00f3n - Zamora News - P\u00e1gina 1309",
+      "url": "https://www.zamoranews.com/author/redaccion/?page=1309",
+      "snippet": "18:02. juego de p\u00f3ker. Magazine. Casinos Online: Estrategias para aprovechar mejor los juegos en l\u00ednea \u00b7 Redacci\u00f3n 16/ene/24 17:56. Donaci\u00f3n de sangre\u00a0...",
+      "rank_absolute": 95,
+      "rank_group": 92,
+      "result_type": "items"
+    },
+    {
+      "title": "Hemeroteca - 21 de mayo de 2025",
+      "url": "https://www.zamoranews.com/archive/content/2025/05/21/?page=2",
+      "snippet": "May 21, 2025 \u2014 ... Casino Caf\u00e9 \u00b7 Redacci\u00f3n 21/may/25 12:49. Castilla y Le\u00f3n. Presentaci\u00f3n del nuevo cami\u00f3n barredora. Castilla y Le\u00f3n. La Junta financia\u00a0...",
+      "rank_absolute": 96,
+      "rank_group": 93,
+      "result_type": "items"
+    },
+    {
+      "title": "Todo al negro, el espect\u00e1culo de gran \u00e9xito que llega a ...",
+      "url": "https://www.zamoranews.com/articulo/cultura-turismo/todo-negro-espectaculo-gran-exito-que-llega-zamora/20220418100023205978.html",
+      "snippet": "Apr 18, 2022 \u2014 ... Vegas. Pero como Las Vegas queda a desmano, Miguel Lago ha encontrado la mejor soluci\u00f3n, traer su propio casino a Zamora. Es por eso que\u00a0...",
+      "rank_absolute": 97,
+      "rank_group": 94,
+      "result_type": "items"
+    },
+    {
+      "title": "Nuestros compa\u00f1eros de SALAMANCArtv AL D\u00cdA cumplen ...",
+      "url": "https://www.zamoranews.com/articulo/cultura-turismo/salamancartv-dia-cumple-10-anos-madurez-red/20220409082353204008.html",
+      "snippet": "Apr 9, 2022 \u2014 ... Casino de Salamanca que ha contado con la presencia de m\u00e1s de 200 personas fieles a este grupo de comunicaci\u00f3n, que ha logrado convertirse\u00a0...",
+      "rank_absolute": 98,
+      "rank_group": 95,
+      "result_type": "items"
+    },
+    {
+      "title": "Zamora - P\u00e1gina 80 | \u00daltimas noticias ...",
+      "url": "https://www.zamoranews.com/blog/section/zamora/?page=80",
+      "snippet": "Apr 15, 2025 \u2014 ... Casino trae aire fresco al centro con un nuevo local \u00b7 Paco Colmenero 11/abr/25 17:13. El nuevo local no solo busca dar\u00a0...",
+      "rank_absolute": 99,
+      "rank_group": 96,
+      "result_type": "items"
+    },
+    {
+      "title": "Un grupo de zamoranos denuncian la negativa de una ...",
+      "url": "https://www.zamoranews.com/articulo/zamora/grupo-jovenes-zamoranos-denuncia-respuesta-discoteca-devolucion-entrada-nochevieja/20211230122612191217.html",
+      "snippet": "Dec 30, 2021 \u2014 ... Casino Caf\u00e9 Zamora. A trav\u00e9s de un correo electr\u00f3nico trascendido a Zamora News, un grupo de j\u00f3venes de la capital zamorana solicitaron a\u00a0...",
+      "rank_absolute": 100,
+      "rank_group": 97,
+      "result_type": "items"
+    }
+  ]
+}

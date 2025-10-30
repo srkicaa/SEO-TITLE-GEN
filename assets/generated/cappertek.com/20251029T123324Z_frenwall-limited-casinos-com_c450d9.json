@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:33:24Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "cappertek.com",
+    "anchor_keyword": "frenwall-limited-casinos.com",
+    "anchor_country": "Sweden",
+    "target_url": "https://frenwall-limited-casinos.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Top Casino Banking Methods for Sports Bettors in Sweden",
+      "rationale": "Fits CapperTek\u2019s finance/tooling angle and lets us reference secure payment options; we can naturally point to frenwall-limited-casinos.com as a resource for Sweden-specific method availability and fees."
+    },
+    {
+      "title": "Sports Betting vs. Casino Play in Sweden: Which Aligns With Your Edge?",
+      "rationale": "Appeals to handicappers comparing EV and variance; use frenwall-limited-casinos.com to support sections on Swedish market norms, RTP ranges, and house edges."
+    },
+    {
+      "title": "Comparing Slot Game Volatility at Swedish Online Casinos",
+      "rationale": "A data-minded breakdown for cappers; link to frenwall-limited-casinos.com when citing examples of volatility categories and game libraries accessible to Sweden."
+    },
+    {
+      "title": "Spot the Signs of Risky Online Casinos in Sweden and Protect Your Bankroll",
+      "rationale": "Security-focused content resonates with CapperTek readers; frenwall-limited-casinos.com can be referenced for compliance checks, license info, and safer alternatives in Sweden."
+    },
+    {
+      "title": "Sweden\u2019s Online Casino Landscape: Practical Insights for Cappers",
+      "rationale": "High-level market overview with a bettor\u2019s lens; include frenwall-limited-casinos.com as a source for current Sweden-facing platforms, limits, and feature comparisons."
+    }
+  ],
+  "titles_context": [
+    "What Are Online Casino Bonuses? Everything You Need ...",
+    "Top 5 Astropay-Friendly Online Casinos of the Year",
+    "The best online casino for real money - what does it mean?",
+    "Sports and Betting Blogs",
+    "Comparing Slot Games at Polish Online Casinos",
+    "Sports Betting or Casino Games: Which is More Fun for You?",
+    "The Phenomenon of 777 Slots: Why Do They Remain Casino ...",
+    "Handicapping Tools Social Casino",
+    "Plinko thrills and flexible ways to drop the ball",
+    "Top Casino Banking Methods for Sports Bettors",
+    "Ruby Fortune Casino Review: Bonus Up to $750",
+    "The 5 Benefits Of Offshore Betting That You Might Not ...",
+    "Spot the Signs of Scam Casinos and Protect Your Winnings",
+    "Game Simulator",
+    "The Best Europe Online Casinos for Sports Cappers and ...",
+    "A Closer Look at Blockchain-Based Casino Platforms",
+    "Twist Game Slot Review \u2014 Play Crypto Slots at BC Game ...",
+    "CapperTek's Predictions Give Sports Bettors Casino-Grade ...",
+    "Foreign Online Casinos for Dutch Players: Best Picks",
+    "Does Bet365 Accept Chime? We Checked So You Don't ...",
+    "CapperTek - Make Smarter Sports Betting Picks and Predictions",
+    "Copy Mikki Mase Roulette Strategy (Whole Vegas Banned ...",
+    "Comparing No Verification Sports Betting and Online ...",
+    "Why Most Casino Dealers Are Women",
+    "DayTradeSports.com Profile - Sports Betting Picks"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://frenwall-limited-casinos.com/ that feel at home on cappertek.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): frenwall-limited-casinos.com\n\nAnchor operates in: Sweden. \n\nI need to have the country in the title.\n\nReference titles:\n- What Are Online Casino Bonuses? Everything You Need ...\n- Top 5 Astropay-Friendly Online Casinos of the Year\n- The best online casino for real money - what does it mean?\n- Sports and Betting Blogs\n- Comparing Slot Games at Polish Online Casinos\n- Sports Betting or Casino Games: Which is More Fun for You?\n- The Phenomenon of 777 Slots: Why Do They Remain Casino ...\n- Handicapping Tools Social Casino\n- Plinko thrills and flexible ways to drop the ball\n- Top Casino Banking Methods for Sports Bettors\n- Ruby Fortune Casino Review: Bonus Up to $750\n- The 5 Benefits Of Offshore Betting That You Might Not ...\n- Spot the Signs of Scam Casinos and Protect Your Winnings\n- Game Simulator\n- The Best Europe Online Casinos for Sports Cappers and ...\n- A Closer Look at Blockchain-Based Casino Platforms\n- Twist Game Slot Review \u2014 Play Crypto Slots at BC Game ...\n- CapperTek's Predictions Give Sports Bettors Casino-Grade ...\n- Foreign Online Casinos for Dutch Players: Best Picks\n- Does Bet365 Accept Chime? We Checked So You Don't ...\n- CapperTek - Make Smarter Sports Betting Picks and Predictions\n- Copy Mikki Mase Roulette Strategy (Whole Vegas Banned ...\n- Comparing No Verification Sports Betting and Online ...\n- Why Most Casino Dealers Are Women\n- DayTradeSports.com Profile - Sports Betting Picks\n\nGuidance:\n1. Combine your own knowledge of cappertek.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to cappertek.com while naturally justifying a link to https://frenwall-limited-casinos.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude frenwall-limited-casinos.com and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Sweden where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 975,
+    "completion_tokens": 799
+  },
+  "cost_usd": 0.06744
+}

@@ -1,0 +1,800 @@
+{
+  "mode": "live",
+  "task_id": "10231207-4117-0121-0000-3b9af9400ed9",
+  "query": "site:ugeavisen.dk casino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Online casino i 2025 - hvad kan vi forvente?",
+      "url": "https://ugeavisen.dk/viborgnyt-annoncoerbetaltindhold/online-casino-i-2025-hvad-kan-vi-forvente",
+      "snippet": "Dec 12, 2024 \u2014 I 2025 kan vi forvente en eksplosion af nye og innovative casino spil. Spiludviklere vil forts\u00e6tte med at skubbe gr\u00e6nserne for, hvad der er\u00a0...",
+      "rank_absolute": 2,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Danske Casino Sider: En Vejledning til Sikker og ...",
+      "url": "https://ugeavisen.dk/ugeavisenodense/danske-casino-sider-en-vejledning-til-sikker-og-underholdende-spiloplevelser",
+      "snippet": "Oct 16, 2024 \u2014 Danske casino sider tilbyder spillere en bred vifte af spil, bonusser og kampagner, som g\u00f8r online gambling b\u00e5de sjovt og sp\u00e6ndende. Men med et\u00a0...",
+      "rank_absolute": 3,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Introduktion til online casino verdenen",
+      "url": "https://ugeavisen.dk/ugeavisenodense/introduktion-til-online-casino-verdenen",
+      "snippet": "Et online casino er en digital platform, hvor man kan spille forskellige casino spil over internettet. Det fungerer i store tr\u00e6k ligesom et fysisk casino. Du\u00a0...",
+      "rank_absolute": 4,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "S\u00e5dan sikrer du dig den bedste oplevelse p\u00e5 et online casino",
+      "url": "https://ugeavisen.dk/hedenstedjuelsmindeavis-annoncoerbetaltindhold/saadan-sikrer-du-dig-den-bedste-oplevelse-paa-et-online-casino",
+      "snippet": "Jun 26, 2025 \u2014 Online casino er hovedsageligt for individer, men mange sider har chatfunktioner og andre former for sociale aspekter. Dette kan v\u00e6re med\u00a0...",
+      "rank_absolute": 5,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "F\u00e5 mest muligt ud af casinospil med disse eksklusive ...",
+      "url": "https://ugeavisen.dk/annoncoerbetaltindhold/faa-mest-muligt-ud-af-casinospil-med-disse-eksklusive-casinokampagner",
+      "snippet": "2 days ago \u2014 Mange online casinoer i Danmark tilbyder nemlig l\u00f8bende casino kampagner og casino tilbud, som retter sig mod f.eks. loyale brugere. Disse\u00a0...",
+      "rank_absolute": 6,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "S\u00e5dan finder du det bedste online casino med sjove ...",
+      "url": "https://ugeavisen.dk/annoncoerbetaltindhold/saadan-finder-du-det-bedste-online-casino-med-sjove-bonusser-2025-10-1",
+      "snippet": "Oct 1, 2025 \u2014 Mange casino-sider lokker med store casino bonusser, som gratis spins eller penge, du kan spille for. Det lyder rigtig sp\u00e6ndende og mega fedt,\u00a0...",
+      "rank_absolute": 7,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "Online casinoer bliver stadig mere popul\u00e6re i Danmark",
+      "url": "https://ugeavisen.dk/ugeavisenodense/online-casinoer-bliver-stadig-mere-populaere-i-danmark",
+      "snippet": "Aug 28, 2025 \u2014 Flere og flere danskere finder vej til online casinoer, hvor underholdning, sp\u00e6nding og fleksibilitet g\u00e5r h\u00e5nd i h\u00e5nd. Det handler ikke l\u00e6ngere\u00a0...",
+      "rank_absolute": 8,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Danske casinoer: Fordele og ulemper ved ...",
+      "url": "https://ugeavisen.dk/ugeavisenodense/danske-casinoer-fordele-og-ulemper-ved-danske-casino-sider",
+      "snippet": "Oct 7, 2024 \u2014 En af de st\u00f8rste fordele ved danske casinoer er den bekvemmelighed, de tilbyder. Spillere kan tilg\u00e5 deres yndlingsspil n\u00e5r som helst og hvor som\u00a0...",
+      "rank_absolute": 9,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "En guide til de mest popul\u00e6re kasinospil",
+      "url": "https://ugeavisen.dk/annoncoerbetaltindhold/en-guide-til-de-mest-populaere-kasinospil",
+      "snippet": "Feb 27, 2025 \u2014 Roulette er et af de mest ikoniske kasinospil, hvor en kugle drejer rundt i et hjul med nummererede felter. Spillerne satser p\u00e5, hvor kuglen\u00a0...",
+      "rank_absolute": 10,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "S\u00e5 mange millioner tjente Casino Munkebjerg, og rouletten ...",
+      "url": "https://ugeavisen.dk/ugeavisenvejle/overskuddet-steg-saa-mange-millioner-tjente-casino-munkebjerg-og-rouletten-ruller-ogsaa-hurtigt-i-aar",
+      "snippet": "Mar 29, 2023 \u2014 Casino Munkebjerg kan se tilbage p\u00e5 et godt \u00e5r, hvor overskuddet blev tredoblet. Egenkapitalen voksede med godt halvanden million kroner.",
+      "rank_absolute": 11,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "S\u00e5dan f\u00e5r man det bedste ud af sin casino-oplevelse",
+      "url": "https://ugeavisen.dk/ugeavisenodense-annoncoerbetaltindhold/saadan-faar-man-det-bedste-ud-af-sin-casino-oplevelse",
+      "snippet": "Aug 30, 2023 \u2014 ... casino-oplevelse til en god oplevelse p\u00e5 sigt. Fra at forvalte sine midler med omhu og ansvar til at forst\u00e5 de forskellige spil og\u00a0...",
+      "rank_absolute": 12,
+      "rank_group": 11,
+      "result_type": "items"
+    },
+    {
+      "title": "S\u00e5dan v\u00e6lger du det bedste danske online casino",
+      "url": "https://ugeavisen.dk/ugeavisenodense/saadan-vaelger-du-det-bedste-danske-online-casino",
+      "snippet": "Oct 7, 2024 \u2014 Denne artikel er sponsoreret af CASINOPENGE. At spille p\u00e5 online casino kan v\u00e6re b\u00e5de sp\u00e6ndende og udfordrende, is\u00e6r for dem der er nye i\u00a0...",
+      "rank_absolute": 13,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "Find det bedste casino i Danmark i dag med f\u00e5, smarte tricks",
+      "url": "https://ugeavisen.dk/ugeavisenodense/find-det-bedste-casino-i-danmark-i-dag-med-faa-smarte-tricks",
+      "snippet": "Jul 16, 2025 \u2014 Denne artikel er sponsoreret af Bedste kasinosider. Vil du gerne finde nogle gode steder p\u00e5 nettet, hvor man kan spille spil, s\u00e5som online\u00a0...",
+      "rank_absolute": 14,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "Ansvarligt spil vinder frem i danske online casinoer",
+      "url": "https://ugeavisen.dk/ugeavisenodense/ansvarligt-spil-vinder-frem-i-danske-online-casinoer",
+      "snippet": "Oct 7, 2024 \u2014 Denne udvikling underst\u00f8ttes af b\u00e5de spillere, casino-operat\u00f8rer og offentlige myndigheder, der ogs\u00e5 \u00f8nsker at skabe et mere sikkert, trygti og\u00a0...",
+      "rank_absolute": 15,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "Virtual reality og online casinoer: Fremtiden for immersivt spil",
+      "url": "https://ugeavisen.dk/ugeavisenodense-annoncoerbetaltindhold/virtual-reality-og-online-casinoer-fremtiden-for-immersivt-spil",
+      "snippet": "Aug 21, 2024 \u2014 Med VR kan spillere f\u00e5 en langt mere fordybende oplevelse, der minder om atmosf\u00e6ren i et rigtigt casino, alt sammen fra komforten i deres eget\u00a0...",
+      "rank_absolute": 16,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "Lykke eller logik? Videnskaben bag held i gambling",
+      "url": "https://ugeavisen.dk/ugeavisenodense/lykke-eller-logik-videnskaben-bag-held-i-gambling",
+      "snippet": "Apr 22, 2025 \u2014 ... casino-spil. Forbindelsen mellem held og gambling. Artiklen forts\u00e6tter efter annoncen. N\u00e5r de fleste s\u00e6tter sig ved spillebordet eller\u00a0...",
+      "rank_absolute": 17,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "Kineser f\u00e5r ti m\u00e5neders f\u00e6ngsel for snyd p\u00e5 casino",
+      "url": "https://ugeavisen.dk/alarm112/kineser-faar-ti-maaneders-faengsel-for-snyd-paa-casino",
+      "snippet": "Sep 19, 2023 \u2014 Kineser brugte skjult kamera til at snyde sig til store gevinster p\u00e5 casino. Det koster ti m\u00e5neder i f\u00e6ngsel.",
+      "rank_absolute": 18,
+      "rank_group": 17,
+      "result_type": "items"
+    },
+    {
+      "title": "Hvorfor nye danske casinoer kan v\u00e6re det bedste valg for dig",
+      "url": "https://ugeavisen.dk/ugeavisenodense-annoncoerbetaltindhold/hvorfor-nye-danske-casinoer-kan-vaere-det-bedste-valg-for-dig",
+      "snippet": "Dec 28, 2023 \u2014 Der er mange valgmuligheder, og det kan v\u00e6re udfordrende at finde det bedste casino for dig. Men m\u00e5ske er det v\u00e6rd at overveje et af de nye\u00a0...",
+      "rank_absolute": 19,
+      "rank_group": 18,
+      "result_type": "items"
+    },
+    {
+      "title": "Hans arrangerer stor julefest i Skovpavillonen | ugeavisen.dk",
+      "url": "https://ugeavisen.dk/lokalavisenassens/doegnbraenderen-fra-aborg-kom-paa-ideen-da-han-spillede-casino-med-sin-gamle-far-hans-arrangerer-stor-julefest-i-skovpavillonen",
+      "snippet": "Dec 17, 2022 \u2014 'D\u00f8gnbr\u00e6nderen fra Aborg' kom p\u00e5 id\u00e9en, da han spillede Casino med sin gamle far: Hans arrangerer stor julefest i Skovpavillonen. Hans Hansen\u00a0...",
+      "rank_absolute": 20,
+      "rank_group": 19,
+      "result_type": "items"
+    },
+    {
+      "title": "Dansk online casino: en voksende industri - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisenodense/dansk-online-casino-en-voksende-industri",
+      "snippet": "Jul 12, 2024 \u2014 Denne artikel er sponsoreret af CampoBet. Den danske online casino industri har gennemg\u00e5et en markant v\u00e6kst i de seneste \u00e5r.",
+      "rank_absolute": 21,
+      "rank_group": 20,
+      "result_type": "items"
+    },
+    {
+      "title": "Annonc\u00f8rbetalt indhold \u2192 L\u00e6s de seneste nyheder her",
+      "url": "https://ugeavisen.dk/midtsyd-annoncoerbetaltindhold",
+      "snippet": "3 tips til at spille online live casino \u00b7 Annonc\u00f8rbetalt indhold. T\u00e6ppefliser som det optimale valg for virksomheder: Alsidinge, \u00f8konomiske og \u00e6stetisk\u00a0...",
+      "rank_absolute": 22,
+      "rank_group": 21,
+      "result_type": "items"
+    },
+    {
+      "title": "Open By Night: Kroen inviterer til casino p\u00e5 Torvet",
+      "url": "https://ugeavisen.dk/giveavis/open-by-night-kroen-inviterer-til-casino-paa-torvet",
+      "snippet": "Jun 1, 2020 \u2014 N\u00e5r Give Handel & Erhverv den 4. juni om aftenen sparker d\u00f8rene op for sommerens f\u00f8rste Open By Night-event, vil Lasse Lindberg fra kroen\u00a0...",
+      "rank_absolute": 23,
+      "rank_group": 22,
+      "result_type": "items"
+    },
+    {
+      "title": "Olga dealer poker p\u00e5 Casino Marienlyst - Helsing\u00f8r Dagblad",
+      "url": "https://ugeavisen.dk/lokalavisennordsjaelland/olga-dealer-poker-paa-casino-marienlyst",
+      "snippet": "Feb 26, 2019 \u2014 20-\u00e5rig kvinde fra Snekkersten har f\u00e5et et utraditionelt job.HELSING\u00d8R: Royal flush hedder den absolut bedste h\u00e5nd i poker.",
+      "rank_absolute": 24,
+      "rank_group": 23,
+      "result_type": "items"
+    },
+    {
+      "title": "Inspiration til gode online spil til juleferien - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/lokalavisennordsjaelland-annoncoerbetaltindhold/inspiration-til-gode-online-spil-til-juleferien",
+      "snippet": "Dec 12, 2024 \u2014 Online casino spil. Online casino spil er en popul\u00e6r form for underholdning, der bringer sp\u00e6ndingen fra casinoet direkte ind i din stue. Du\u00a0...",
+      "rank_absolute": 25,
+      "rank_group": 24,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino Munkebjerg med i virtuelt kasino-univers | ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisenvejle/casino-munkebjerg-med-i-virtuelt-kasino-univers",
+      "snippet": "Indsatsen er et virtuelt casino-univers udviklet af og til danskerne. Casino Munkebjerg er g\u00e5et sammen med Casino Copenhagen, Casino Odense og Casino Marienlyst\u00a0...",
+      "rank_absolute": 26,
+      "rank_group": 25,
+      "result_type": "items"
+    },
+    {
+      "title": "F\u00e5 den ultimative casinounderholdning med online casino spil",
+      "url": "https://ugeavisen.dk/ugeavisenodense-annoncoerbetaltindhold/faa-den-ultimative-casinounderholdning-med-online-casino-spil",
+      "snippet": "May 30, 2023 \u2014 Det g\u00e6lder b\u00e5de klassiske casinospil som blackjack og roulette, men ogs\u00e5 moderne video slots med masser af bonusfunktioner og jackpots. Endelig\u00a0...",
+      "rank_absolute": 27,
+      "rank_group": 26,
+      "result_type": "items"
+    },
+    {
+      "title": "Digitale trends danskerne har omfavnet i 2025 - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/annoncoerbetaltindhold/digitale-trends-danskerne-har-omfavnet-i-2025",
+      "snippet": "Sep 15, 2025 \u2014 Flere og flere logger ind p\u00e5 online casino danmark platforme, hvor det er muligt at spille alt fra klassiske slots til bordspil som blackjack og\u00a0...",
+      "rank_absolute": 28,
+      "rank_group": 27,
+      "result_type": "items"
+    },
+    {
+      "title": "Politi efterlyser ejere af 70 \u00e5r gammelt stj\u00e5let julebestik",
+      "url": "https://ugeavisen.dk/alarm112/politi-efterlyser-ejere-af-70-aar-gammelt-stjaalet-julebestik",
+      "snippet": "Feb 14, 2024 \u2014 Mangler du et s\u00e6t julebestik fra 1950'erne? Eller en stor s\u00f8lvske med en dato fra 1919 indgravet i? Et s\u00f8lvarmb\u00e5nd fra Casino Copenhagen?",
+      "rank_absolute": 29,
+      "rank_group": 28,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino live bringer de fysiske spillehaller hjem i stuen",
+      "url": "https://ugeavisen.dk/ugeavisenkolding-annoncoerbetaltindhold/casino-live-bringer-de-fysiske-spillehaller-hjem-i-stuen",
+      "snippet": "Aug 16, 2023 \u2014 P\u00e5 E-gaming-markedet har et relativt nyt f\u00e6nomen vundet indpas: Casino live p\u00e5 platforme som https://betinia.dk/dk/live-casino giver spillerne\u00a0...",
+      "rank_absolute": 30,
+      "rank_group": 29,
+      "result_type": "items"
+    },
+    {
+      "title": "VB-profiler dribler p\u00e5 Casino Munkebjerg - Vejle - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisenvejle/vb-profiler-dribler-paa-casino-munkebjerg",
+      "snippet": "Dec 28, 2015 \u2014 vinding - To millioner g\u00e6ster har bes\u00f8gt Casino Munkebjerg, siden det \u00e5bnede som landets f\u00f8rste nyt\u00e5rsaften 1990, tre timer f\u00f8r Casino ...",
+      "rank_absolute": 31,
+      "rank_group": 30,
+      "result_type": "items"
+    },
+    {
+      "title": "Hvordan finder man de bedste casinospil online? | ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisenodense-annoncoerbetaltindhold/hvordan-finder-man-de-bedste-casinospil-online",
+      "snippet": "Aug 31, 2022 \u2014 Denne artikel er sponsoreret af casinodanmark.com. Hele processen med at finde det rigtige casino kan v\u00e6re overv\u00e6ldende,\u00a0...",
+      "rank_absolute": 32,
+      "rank_group": 31,
+      "result_type": "items"
+    },
+    {
+      "title": "S\u00e5dan sikrer du ansvarligt spil p\u00e5 online casinoer | ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisenodense/saadan-sikrer-du-ansvarligt-spil-paa-online-casinoer",
+      "snippet": "Nov 20, 2024 \u2014 I dag er der en stigende tendens hvor flere og flere laver sportsv\u00e6ddem\u00e5l og spiller online casino, som eksempelvis online poker, online bingo\u00a0...",
+      "rank_absolute": 33,
+      "rank_group": 32,
+      "result_type": "items"
+    },
+    {
+      "title": "R\u00f8veriet mod Casino Munkebjerg er aldrig opklaret",
+      "url": "https://ugeavisen.dk/ugeavisenvejle/roeveriet-mod-casino-munkebjerg-er-aldrig-opklaret",
+      "snippet": "Dec 21, 2015 \u2014 Vinding - Natten til torsdag 27. august 2009 blev kasinoet Casino Munkebjerg udsat for r\u00f8veri af to maskerede m\u00e6nd med en maskinpistol.",
+      "rank_absolute": 34,
+      "rank_group": 33,
+      "result_type": "items"
+    },
+    {
+      "title": "L\u00f8gumkloster: Elever gik p\u00e5 casino - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/digeposten/loegumkloster-elever-gik-paa-casino",
+      "snippet": "Feb 14, 2014 \u2014 Sidste skoledag inden vinterferien, blev den Tyske Skole i L\u00f8gumkloster forvandlet til et festligt Casino. Eleverne havde fundet deres\u00a0...",
+      "rank_absolute": 35,
+      "rank_group": 34,
+      "result_type": "items"
+    },
+    {
+      "title": "3 tips til at spille online live casino | ugeavisen.dk",
+      "url": "https://ugeavisen.dk/midtsyd-annoncoerbetaltindhold/3-tips-til-at-spille-online-live-casino",
+      "snippet": "Nov 29, 2023 \u2014 Der er is\u00e6r nogle spil, som er blevet meget popul\u00e6re som online live casino. Det er de klassiske spil som roulette, poker og blackjack. Her har\u00a0...",
+      "rank_absolute": 36,
+      "rank_group": 35,
+      "result_type": "items"
+    },
+    {
+      "title": "Ugens foto: Det gamle Munkebjerg - Vejle - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisenvejle/ugens-foto-det-gamle-munkebjerg",
+      "snippet": "Feb 21, 2025 \u2014 Casino Munkebjerg Vejle \u00e5bnede nyt\u00e5rsaftensdag 1990. Mange husker nok, at hotellet blev ramt af en brand 27. december 2012. Branden br\u00f8d ud\u00a0...",
+      "rank_absolute": 37,
+      "rank_group": 36,
+      "result_type": "items"
+    },
+    {
+      "title": "R\u00f8vere taber pengeskab under flugt fra spillehal i Nordsj\u00e6lland",
+      "url": "https://ugeavisen.dk/alarm112/roevere-taber-pengeskab-under-flugt-fra-spillehal-i-nordsjaelland",
+      "snippet": "Nov 13, 2023 \u2014 To personer begik mandag aften r\u00f8veri mod Casino House i Sm\u00f8rum og l\u00f8b fra stedet med et pengeskab.",
+      "rank_absolute": 38,
+      "rank_group": 37,
+      "result_type": "items"
+    },
+    {
+      "title": "Annonc\u00f8rbetalt indhold - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/hedenstedjuelsmindeavis-annoncoerbetaltindhold",
+      "snippet": "S\u00e5dan sikrer du dig den bedste oplevelse p\u00e5 et online casino \u00b7 Annonc\u00f8rbetalt indhold. Moderne indend\u00f8rslamper skaber stilfuld belysning med dansk design.",
+      "rank_absolute": 39,
+      "rank_group": 38,
+      "result_type": "items"
+    },
+    {
+      "title": "Hemmelighederne ved Progressive Jackpots i Online Slots",
+      "url": "https://ugeavisen.dk/ugeavisenodense-annoncoerbetaltindhold/hemmelighederne-ved-progressive-jackpots-i-online-slots",
+      "snippet": "Sep 24, 2024 \u2014 Online slots har uden tvivl v\u00e6ret en k\u00e6mpe udvikling, og n\u00e6rmest en revolution n\u00e5r det kommer til online gambling industrien. Og \u00e9t af de mest\u00a0...",
+      "rank_absolute": 40,
+      "rank_group": 39,
+      "result_type": "items"
+    },
+    {
+      "title": "\u00d8lhanerne skal hvile ved midnat: Tr\u00e6ls, men kunne have ...",
+      "url": "https://ugeavisen.dk/elbobladet/oelhanerne-skal-hvile-ved-midnat-traels-men-kunne-have-vaeret-vaerre-lyder-det-fra-lokale-barer",
+      "snippet": "Dec 8, 2021 \u2014 Ogs\u00e5 hos Den Engelske Pub ved Ryes Plads f\u00e5r de nye stramninger betydning, om end det er i mindre grad end Casino Bodega. Mens pubben lukker ved\u00a0...",
+      "rank_absolute": 41,
+      "rank_group": 40,
+      "result_type": "items"
+    },
+    {
+      "title": "Bennys kasino er landets f\u00f8rste | ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisenvejle/bennys-kasino-er-landets-foerste",
+      "snippet": "Dec 16, 2015 \u2014 vinding - Sm\u00e5 to millioner g\u00e6ster har bes\u00f8gt Casino Munkebjerg siden \u00e5bningen nyt\u00e5rsaften 1990. Samtidig bliver 2015 et rekord\u00e5r med i\u00a0...",
+      "rank_absolute": 42,
+      "rank_group": 41,
+      "result_type": "items"
+    },
+    {
+      "title": "Trumps mange projekter - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/udland/trumps-mange-projekter",
+      "snippet": "Dec 9, 2022 \u2014 Donald Trump og hans selskab The Donald Trump Organization har flere forfejlede casino- og hotelprojekter bag sig.",
+      "rank_absolute": 43,
+      "rank_group": 42,
+      "result_type": "items"
+    },
+    {
+      "title": "Kendt cykelforretning fordoblede overskuddet | fyens.dk",
+      "url": "https://ugeavisen.dk/ugeavisenodense/kendt-cykelforretning-fordoblede-overskuddet-men-ejer-ved-ikke-helt-hvorfor",
+      "snippet": "Apr 4, 2023 \u2014 Her kan du f\u00e5 et overblik over de seneste regnskaber fra Odense, der blandt andet t\u00e6ller et tidligere byr\u00e5dsmedlem, et casino,\u00a0...",
+      "rank_absolute": 44,
+      "rank_group": 43,
+      "result_type": "items"
+    },
+    {
+      "title": "83 ulovlige spilhjemmesider med roulette og poker er lukket ned",
+      "url": "https://ugeavisen.dk/alarm112/83-hjemmesider-med-ulovligt-spil-er-blevet-blokeret",
+      "snippet": "Feb 27, 2024 \u2014 Personer med trang til gambling har f\u00e5et f\u00e6rre steder at s\u00f8ge hen, n\u00e5r lysten til at spille melder sig. Spillemyndigheden, der f\u00f8rer tilsyn\u00a0...",
+      "rank_absolute": 45,
+      "rank_group": 44,
+      "result_type": "items"
+    },
+    {
+      "title": "S\u00e5dan starter du dit eventyrlige sabbat\u00e5r med et job i udlandet",
+      "url": "https://ugeavisen.dk/ugeavisenodense/saadan-starter-du-dit-eventyrlige-sabbataar-med-et-job-i-udlandet",
+      "snippet": "Sep 30, 2024 \u2014 Der er et bredt udvalg af jobs tilg\u00e6ngelige for dem, der \u00f8nsker at arbejde i udlandet. Fra kundeservice, IT support, m\u00f8debooker og online casino ...",
+      "rank_absolute": 46,
+      "rank_group": 45,
+      "result_type": "items"
+    },
+    {
+      "title": "F\u00e6llesskab og digital underholdning i lokalsamfundet",
+      "url": "https://ugeavisen.dk/ugeavisenodense/faellesskab-og-digital-underholdning-i-lokalsamfundet",
+      "snippet": "Apr 24, 2025 \u2014 De tilbyder et bredt udvalg af spil fra slots til poker og blackjack, hvilket giver spillere en autentisk casino-oplevelse hjemmefra. Men\u00a0...",
+      "rank_absolute": 47,
+      "rank_group": 46,
+      "result_type": "items"
+    },
+    {
+      "title": "Elever fra L\u00f8gumkloster p\u00e5 Casino - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/digeposten/elever-fra-loegumkloster-paa-casino",
+      "snippet": "Feb 17, 2014 \u2014 Sidste skoledag inden vinterferien, blev den Tyske Skole i L\u00f8gumkloster forvandlet til et festligt Casino.",
+      "rank_absolute": 48,
+      "rank_group": 47,
+      "result_type": "items"
+    },
+    {
+      "title": "James Bond med symfoniorkester - Vejle - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisenvejle/james-bond-med-symfoniorkester",
+      "snippet": "Nov 5, 2018 \u2014 Vejle: James Bond indtager fredag 9. november Vejle Musikteater, n\u00e5r filmen \"Casino Royale\" vises p\u00e5 det store l\u00e6rred - akkompagneret af\u00a0...",
+      "rank_absolute": 49,
+      "rank_group": 48,
+      "result_type": "items"
+    },
+    {
+      "title": "Benovet Mads Mikkelsen: Harrison Ford r\u00e5bte af mig",
+      "url": "https://ugeavisen.dk/oplevelser-og-kultur/benovet-mads-mikkelsen-harrison-ford-raabte-af-mig",
+      "snippet": "Jul 12, 2023 \u2014 Og danskeren er da ogs\u00e5 fuld af saftige fort\u00e6llinger fra optagelserne til film som \"Casino Royale\", \"Doctor Strange\" og senest \"Indiana\u00a0...",
+      "rank_absolute": 50,
+      "rank_group": 49,
+      "result_type": "items"
+    },
+    {
+      "title": "S\u00e5dan tjener du penge p\u00e5 nettet - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/vanloese/saadan-tjener-du-penge-paa-nettet",
+      "snippet": "Mar 2, 2018 \u2014 ... casino. Casinoet vil dog altid have en statistisk fordel. Men du bruger den rigtige strategi i spil som blackjack og roulette, kan du\u00a0...",
+      "rank_absolute": 51,
+      "rank_group": 50,
+      "result_type": "items"
+    },
+    {
+      "title": "SE BILLEDERNE: Skide godt, Egon - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/kolding/se-billederne-skide-godt-egon",
+      "snippet": "Sep 2, 2015 \u2014 L\u00f8rdag den 12. september f\u00e5r Kolding et gensyn med Egon Kjer. Den i dag 69-\u00e5rige musiker drev og ejede igennem 1980'erne det popul\u00e6re Casino ...",
+      "rank_absolute": 52,
+      "rank_group": 51,
+      "result_type": "items"
+    },
+    {
+      "title": "Sportsbar \u00e5bner i Skjern | ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugepostenskjern/sportsbar-aabner-i-skjern",
+      "snippet": "Dec 3, 2019 \u2014 Byens Casino og Sportsbar har ogs\u00e5 masser af spillemaskiner. Marco Saker (tv) st\u00e5r ag Skjerns nye sportsbar, mens Casper Danielsen vil v\u00e6re\u00a0...",
+      "rank_absolute": 53,
+      "rank_group": 52,
+      "result_type": "items"
+    },
+    {
+      "title": "Fra fuglekender til hemmelig agent - Bramming - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/bramming/fra-fuglekender-til-hemmelig-agent",
+      "snippet": "Aug 26, 2019 \u2014 Den f\u00f8rste bog, Casino Royale, udkom i 1953 og blev hurtigt popul\u00e6r. I de f\u00f8lgende 13 \u00e5r udkom der hvert \u00e5r en ny bog om den hemmelige agent\u00a0...",
+      "rank_absolute": 54,
+      "rank_group": 53,
+      "result_type": "items"
+    },
+    {
+      "title": "Grease - det bliver bare fedt! - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/oelgod/grease-det-bliver-bare-fedt",
+      "snippet": "Aug 8, 2017 \u2014 Eksempelvis er sangeren fra dansekonkurrencen Johnny Casino blevet til Jessica Casino, forklarer Freddi Nielsen. T-Birds i en intellektuel\u00a0...",
+      "rank_absolute": 55,
+      "rank_group": 54,
+      "result_type": "items"
+    },
+    {
+      "title": "Tr\u00e6ngsel, alarm og gambling i Lysby - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/odderavis/traengsel-alarm-og-gambling-i-lysby",
+      "snippet": "Nov 29, 2018 \u2014 Det v\u00e6re alt lige fra restauranter, et kasino, en sk\u00f8nhedssalon, en kaffebar, en bolsjebutik og s\u00e5 naturligvis offentlige instanser som et\u00a0...",
+      "rank_absolute": 56,
+      "rank_group": 55,
+      "result_type": "items"
+    },
+    {
+      "title": "Rejser er aflyst og jobbet ligger stille: Men vigtigst er det, at vi ...",
+      "url": "https://ugeavisen.dk/ugeavisenodense/rejser-er-aflyst-og-jobbet-ligger-stille-men-vigtigst-er-det-at-vi-alle-stadig-er-raske",
+      "snippet": "Apr 7, 2020 \u2014 Onsdag den 11. marts s\u00e5 Eva Lyndgaard, Operations Manager hos Casino Odense, ligesom mange andre danskere, statsminister Mette Frederiks\u00a0...",
+      "rank_absolute": 57,
+      "rank_group": 56,
+      "result_type": "items"
+    },
+    {
+      "title": "Sp\u00e6ndende studieuge p\u00e5 Rask M\u00f8lle Skole - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/toerringfolkeblad/spaendende-studieuge-paa-rask-moelle-skole",
+      "snippet": "Sep 25, 2017 \u2014 I overbygningen var eleverne fordelt p\u00e5 hold p\u00e5 forskellige v\u00e6rksteder, som tropecaf\u00e9, casino, adventurerace og medie. P\u00e5 fire af\u00a0...",
+      "rank_absolute": 58,
+      "rank_group": 57,
+      "result_type": "items"
+    },
+    {
+      "title": "Jesper vandt 3,8 millioner kroner - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisenvejle/jesper-vandt-3-8-millioner-kroner",
+      "snippet": "Dec 18, 2015 \u2014 Et \u00f8jeblik efter havde han vundet 3.803.182 kroner p\u00e5 en af Casino Munkebjergs spillemaskiner. Den st\u00f8rste gevinst nogen hidtil har vundet\u00a0...",
+      "rank_absolute": 59,
+      "rank_group": 58,
+      "result_type": "items"
+    },
+    {
+      "title": "Lokal mand starter rejsebureau op igen efter tre \u00e5rs pause",
+      "url": "https://ugeavisen.dk/bjerringbroavis/lokal-mand-starter-rejsebureau-op-igen-efter-tre-aars-pause",
+      "snippet": "Mar 31, 2023 \u2014 Hotellet er brugt i James Bond filmen \u201dCasino Royale\u201d. Her kan man tillige forl\u00e6nge rejsen og tilv\u00e6lge tre ekstra n\u00e6tters spaophold\u00a0...",
+      "rank_absolute": 60,
+      "rank_group": 59,
+      "result_type": "items"
+    },
+    {
+      "title": "Hvor finder jeg casino bonusser henne? - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisenodense-annoncoerbetaltindhold/hvor-finder-jeg-casino-bonusser-henne",
+      "snippet": "Nov 9, 2023 \u2014 Denne artikel er sponsoreret af Casinodeal.dk. Hvis du er en spilentusiast, ved du sikkert hvor vigtigt det er at f\u00e5 mest muligt ud af dine\u00a0...",
+      "rank_absolute": 61,
+      "rank_group": 60,
+      "result_type": "items"
+    },
+    {
+      "title": "S\u00e6lg Frederiksberg Slot og flyt h\u00e6rens officersskole til Fyn ...",
+      "url": "https://ugeavisen.dk/frederiksberg/saelg-frederiksberg-slot-og-flyt-haerens-officersskole-til-fyn-nej-tak",
+      "snippet": "Jan 15, 2021 \u2014 Det n\u00e6ste bliver m\u00e5ske, at ultra liberale forsl\u00e5r, at det vil v\u00e6re endnu bedre at omdanne Frederiksberg Slot til hotel eller 'Casino ...",
+      "rank_absolute": 62,
+      "rank_group": 61,
+      "result_type": "items"
+    },
+    {
+      "title": "Dramatisk kortkrig i Munkebjergskoven - Vejle - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisenvejle/dramatisk-kortkrig-i-munkebjergskoven",
+      "snippet": "Feb 26, 2018 \u2014 Ni h\u00e5befulde spillere satte sig ved finalebordet ved \u00e5rets Munkebjerg Poker Tour, der blev set af hundredvis af tilskuere p\u00e5 nettet.",
+      "rank_absolute": 63,
+      "rank_group": 62,
+      "result_type": "items"
+    },
+    {
+      "title": "Mere sport og lottopuljer sk\u00e6pper i kassen hos Danske Spil",
+      "url": "https://ugeavisen.dk/erhverv/mere-sport-og-lottopuljer-skaepper-i-kassen-hos-danske-spil-2022-12-14",
+      "snippet": "Sep 2, 2021 \u2014 Danske Spil n\u00e6vner ogs\u00e5, at overskuddet er steget, p\u00e5 trods af at spilleafgiften p\u00e5 odds og casino ved nyt\u00e5r steg fra 20 procent til 28 procent.",
+      "rank_absolute": 64,
+      "rank_group": 63,
+      "result_type": "items"
+    },
+    {
+      "title": "Nyhedsarkiv - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/arkiv/2015/9/2",
+      "snippet": "Sep 2, 2015 \u2014 ... Casino i L\u00e5sbygade i Kolding, som mange endnu husker. Han musikalske liv har bragt ham fra S\u00f8nderjylland, over Keld &amp; The Donkeys til\u00a0...",
+      "rank_absolute": 65,
+      "rank_group": 64,
+      "result_type": "items"
+    },
+    {
+      "title": "11 dage i pokerens tegn p\u00e5 Munkebjerg - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisenvejle/11-dage-i-pokerens-tegn-paa-munkebjerg",
+      "snippet": "Jan 31, 2018 \u2014 Det vil alt sammen v\u00e6re at finde, n\u00e5r Casino Munkebjerg fra 9 til 19. februar l\u00e6gger ramme til Munkebjerg Poker Tour, en \u00e5rlig poker\u00a0...",
+      "rank_absolute": 66,
+      "rank_group": 65,
+      "result_type": "items"
+    },
+    {
+      "title": "L\u00e6nge ventet Bond-film roses af danske anmeldere",
+      "url": "https://ugeavisen.dk/oplevelser-og-kultur/laenge-ventet-bond-film-roses-af-danske-anmeldere",
+      "snippet": "Sep 29, 2021 \u2014 - Siden Daniel Craig overtog licensen til at dr\u00e6be i \"Casino Royale\" fra 2006, er han blevet voksen og f\u00f8lsom. Han bl\u00f8der faktisk, n\u00e5r man\u00a0...",
+      "rank_absolute": 67,
+      "rank_group": 66,
+      "result_type": "items"
+    },
+    {
+      "title": "Det koster Munkebjerg penge at \u00e5bne: Vi styrtbl\u00f8der",
+      "url": "https://ugeavisen.dk/ugeavisenvejle/det-koster-munkebjerg-penge-at-aabne-vi-styrtbloeder",
+      "snippet": "May 18, 2020 \u2014 Munkebjerg styrtbl\u00f8der, men \u00e5bner alligevel sine restauranter for g\u00e6sternes skyld. Regner med at tabe fire millioner kroner i tilskud frem\u00a0...",
+      "rank_absolute": 68,
+      "rank_group": 67,
+      "result_type": "items"
+    },
+    {
+      "title": "Nye film i Scala: S\u00f8de nisser og aggressive gamblere",
+      "url": "https://ugeavisen.dk/ugeavisensvendborg/nye-film-i-scala-soede-nisser-og-aggressive-gamblere",
+      "snippet": "Nov 4, 2021 \u2014 ... casino road trip sammen med ham. Rejsen sponsoreres af den ... poker i Las Vegas. Men i fors\u00f8get p\u00e5 at holde Cirk i kort snor, drages\u00a0...",
+      "rank_absolute": 69,
+      "rank_group": 68,
+      "result_type": "items"
+    },
+    {
+      "title": "Jazz-koncert i Ansgar Kirke - Odense - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisenodense/jazz-koncert-i-ansgar-kirke",
+      "snippet": "Oct 6, 2020 \u2014 Som en kuriositet har Jens i en periode v\u00e6ret husmusiker i Odense Casino. Koncerten i Ansgars Kirke er trioens f\u00f8rste optr\u00e6den, og if\u00f8lge\u00a0...",
+      "rank_absolute": 70,
+      "rank_group": 69,
+      "result_type": "items"
+    },
+    {
+      "title": "Vejle-t\u00f8jhandler klar til agent 007: Det bliver i bedste James ...",
+      "url": "https://ugeavisen.dk/ugeavisenvejle/vejle-toejhandler-klar-til-agent-007-det-bliver-i-bedste-james-bond-stil-og-du-moeder-smukke-bond-babes",
+      "snippet": "Sep 15, 2021 \u2014 - Efter filmen er det planen, at vi skal nyde en Vesper eller to, (fra bogen Casino Royale (1953) af Ian Fleming, der best\u00e5r af seks dele\u00a0...",
+      "rank_absolute": 71,
+      "rank_group": 70,
+      "result_type": "items"
+    },
+    {
+      "title": "Musik og afslapning i ly for vinden - Kolding - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/kolding/musik-og-afslapning-i-ly-for-vinden",
+      "snippet": "Jul 31, 2017 \u2014 Det var faktisk meningen, vennerne skulle have v\u00e6ret p\u00e5 casino i Vejle, men planerne blev \u00e6ndret. - Vi har nogle kammerater, der skulle\u00a0...",
+      "rank_absolute": 72,
+      "rank_group": 71,
+      "result_type": "items"
+    },
+    {
+      "title": "Salsa i nye omgivelser - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisensvendborg/salsa-i-nye-omgivelser",
+      "snippet": "Mar 4, 2022 \u2014 Der er inspiration til improvisationer, der danses to og to, og ind imellem i grupper, n\u00e5r den cubanske folkedans, rueda de casino, danses.",
+      "rank_absolute": 73,
+      "rank_group": 72,
+      "result_type": "items"
+    },
+    {
+      "title": "Det var p\u00e5 Frederiksberg. Det var i maj... | ugeavisen.dk",
+      "url": "https://ugeavisen.dk/frederiksberg/det-var-paa-frederiksberg-det-var-i-maj",
+      "snippet": "May 25, 2020 \u2014 Den stammer fra folkekomedien 'Miss Danmark' p\u00e5 Casino Teatret 1933, hvor titelrolleindehaveren Jenny Larsen sang, s\u00e5 der ikke var et \u00f8je t\u00f8rt.",
+      "rank_absolute": 74,
+      "rank_group": 73,
+      "result_type": "items"
+    },
+    {
+      "title": "Hotel og kasino klar til at \u00e5bne igen - Vejle - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisenvejle/hotel-og-kasino-klar-til-at-aabne-igen",
+      "snippet": "Apr 22, 2020 \u2014 Kasinoet ogs\u00e5 i top. Samtidig med moderniseringen af hotellet har Casino Munkebjerg f\u00e5et en overhaling. En modernisering, Benny Bredgaard,\u00a0...",
+      "rank_absolute": 75,
+      "rank_group": 74,
+      "result_type": "items"
+    },
+    {
+      "title": "Dansk revys fader - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/forside/dansk-revys-fader",
+      "snippet": "Mar 4, 2013 \u2014 Kl. 21 om aftenen var der p\u00e5 Casino i K\u00f8benhavn den f\u00f8rste revy nogensinde. Navnet var 'Nyt\u00e5rsnat 1850' med tilf\u00f8jelsen: \u00bbTryllefarce med Sange\u00a0...",
+      "rank_absolute": 76,
+      "rank_group": 75,
+      "result_type": "items"
+    },
+    {
+      "title": "Julen kom hjem for udsatte i Det Bruunske Pakhus",
+      "url": "https://ugeavisen.dk/elbobladet/julen-kom-hjem-for-udsatte-i-det-bruunske-pakhus",
+      "snippet": "Dec 28, 2020 \u2014 Og han sender venlige hilsener til sponsorerne Loge 117, Cyanit, Dagrofa , Casino Bar, Innerwhell samt flere, der ikke har \u00f8nsket at blive\u00a0...",
+      "rank_absolute": 77,
+      "rank_group": 76,
+      "result_type": "items"
+    },
+    {
+      "title": "Dennis Bond og Darling g\u00f8r klar til Late Night - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/bramming/dennis-bond-og-darling-goer-klar-til-late-night",
+      "snippet": "Jul 25, 2019 \u2014 Vi har Casino Royale ovre i Caf\u00e9 Nice Ice, fort\u00e6ller Mette Darling Larsen. Kunderne kan ogs\u00e5 deltage i en konkurrence, en for b\u00f8rn og en for\u00a0...",
+      "rank_absolute": 78,
+      "rank_group": 77,
+      "result_type": "items"
+    },
+    {
+      "title": "Derfor skal danskerne blive bedre til at bev\u00e6ge sig rundt p\u00e5 ...",
+      "url": "https://ugeavisen.dk/kolding/derfor-skal-danskerne-blive-bedre-til-at-bevaege-sig-rundt-paa-internettet",
+      "snippet": "Jul 10, 2025 \u2014 Om man er p\u00e5 jagt efter de bedste casino bonusser, en opskrift p\u00e5 boller i karry eller en strikkeopskrift, s\u00e5 kan selv den kloge blive narret.",
+      "rank_absolute": 79,
+      "rank_group": 78,
+      "result_type": "items"
+    },
+    {
+      "title": "Kolding: Michael startede forfra - nu vil han hj\u00e6lpe andre",
+      "url": "https://ugeavisen.dk/kolding/kolding-michael-startede-forfra-nu-vil-han-hjaelpe-andre",
+      "snippet": "Nov 9, 2016 \u2014 Han er stadig ofte i Odense, da han arbejder som inspekt\u00f8r p\u00e5 Casino Odense, som han har v\u00e6ret tilknyttet i 14 \u00e5r. ... gambling i hovedet.",
+      "rank_absolute": 80,
+      "rank_group": 79,
+      "result_type": "items"
+    },
+    {
+      "title": "QUIZ: Hvor meget ved du om James Bond-filmene?",
+      "url": "https://ugeavisen.dk/indland/quiz-hvor-meget-ved-du-om-james-bond-filmene-2022-11-29",
+      "snippet": "Sep 28, 2021 \u2014 c) MI6. 8. Hvilket navn giver James Bond sin martini i \"Casino Royale\" fra 2006? a) Vesper. b) Velvet. c) Royale. 9. Skuespilleren Timothy\u00a0...",
+      "rank_absolute": 81,
+      "rank_group": 80,
+      "result_type": "items"
+    },
+    {
+      "title": "EfB sl\u00f8jfer kontanter p\u00e5 stadion - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/esbjerg/efb-sloejfer-kontanter-paa-stadion",
+      "snippet": "Sep 2, 2018 \u2014 Det er ligesom, hvis du er p\u00e5 casino, hvor der er forskellige coins. En fransk hotdog koster den ene farve en \u00f8l koster den anden, siger\u00a0...",
+      "rank_absolute": 82,
+      "rank_group": 81,
+      "result_type": "items"
+    },
+    {
+      "title": "Guides hj\u00e6lper dig i gang med online spilleautomater",
+      "url": "https://ugeavisen.dk/valby/guides-hjaelper-dig-i-gang-med-online-spilleautomater",
+      "snippet": "Mar 22, 2018 \u2014 Mange spiludviklere og online casino-sider tilbyder utallige spillemuligheder for den h\u00e5befulde bruger, der s\u00f8ger det sus man f\u00e5r ved online\u00a0...",
+      "rank_absolute": 83,
+      "rank_group": 82,
+      "result_type": "items"
+    },
+    {
+      "title": "Discount-priser p\u00e5 leget\u00f8j - Bramming - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/bramming/discount-priser-paa-legetoej",
+      "snippet": "Aug 26, 2019 \u2014 - Vi indretter cafeen som en vaske\u00e6gte casino med roulette og pokerbord. Jeg har f\u00e5et bevilling, s\u00e5 jeg kan servere \u201drigtige\u201d Martini-drinks\u00a0...",
+      "rank_absolute": 84,
+      "rank_group": 83,
+      "result_type": "items"
+    },
+    {
+      "title": "Hotelkongen af Munkebjerg begyndte som piccolo: Han ...",
+      "url": "https://ugeavisen.dk/ugeavisenvejle/artikel/hotelkongen-af-munkebjerg-begyndte-som-piccolo-han-bragte-mad-over-til-direkt%C3%B8rvillaen",
+      "snippet": "Jul 9, 2020 \u2014 Casino Munkebjerg fik et bedre resultat i 2019 end i 2018. Arkivfoto ... Huset vinder altid - Casino Munkebjerg \u00f8ger overskuddet. Varmen\u00a0...",
+      "rank_absolute": 85,
+      "rank_group": 84,
+      "result_type": "items"
+    },
+    {
+      "title": "Helga var nummer et ved rouletten | ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisenvejle/helga-var-nummer-et-ved-rouletten",
+      "snippet": "Jan 8, 2016 \u2014 Casino Munkebjergs f\u00f8rste g\u00e6st, Helga Ladegaard, havde datteren, Anne Mette Fromberg, med til jubil\u00e6umsreceptionen. Foto: Angelina Owino. - +\u00a0...",
+      "rank_absolute": 86,
+      "rank_group": 85,
+      "result_type": "items"
+    },
+    {
+      "title": "Vinder af 53 millioner: Nu g\u00f8r poker-stjerne comeback i Vejle",
+      "url": "https://ugeavisen.dk/ugeavisenvejle/vinder-af-53-millioner-nu-goer-poker-stjerne-comeback-i-vejle",
+      "snippet": "Feb 27, 2017 \u2014 Peter Eastgate deltager ikke kun i Munkebjerg Poker Tour men ogs\u00e5 i et s\u00e5kaldt \"cashgame\" p\u00e5 Casino Munkebjerg, hvor der spilles om kontanter.",
+      "rank_absolute": 87,
+      "rank_group": 86,
+      "result_type": "items"
+    },
+    {
+      "title": "Hvad kan man f\u00e5 for en spir? - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/vanloese/hvad-kan-man-faa-for-en-spir",
+      "snippet": "May 29, 2018 \u2014 R\u00f8dkilde Skole var for en dag omdannet til Kilder\u00f8d med butikker, fris\u00f8r, bank, cafeer, fodbad og s\u00e5gar et casino.",
+      "rank_absolute": 88,
+      "rank_group": 87,
+      "result_type": "items"
+    },
+    {
+      "title": "Gratis jule-pizza-fest - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugepostenskjern/gratis-jule-pizza-fest",
+      "snippet": "Dec 18, 2019 \u2014 ... casino, \u00d8stergade 4 eller p\u00e5 Restaurant Corner,\" skriver Aykus Seker i opslaget, hvor han ogs\u00e5 sender en stor tak til de butikker, der har\u00a0...",
+      "rank_absolute": 89,
+      "rank_group": 88,
+      "result_type": "items"
+    },
+    {
+      "title": "En aften med hr. Weyse - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisenvejle/en-aften-med-hr-weyse",
+      "snippet": "Oct 3, 2018 \u2014 Med en billet til foredraget, der finder sted 9. oktober klokken 19, er der gratis adgang til Casino Munkebjerg. Der er i \u00f8vrigt ogs\u00e5 mulighed\u00a0...",
+      "rank_absolute": 90,
+      "rank_group": 89,
+      "result_type": "items"
+    },
+    {
+      "title": "Danmarksmester fra \u00d8stjysk K\u00f8reselskab - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/toerringfolkeblad/danmarksmester-fra-oestjysk-koereselskab",
+      "snippet": "Jul 30, 2018 \u2014 ... Casino Z i klassen sv\u00e6r derby og blev danmarksmester ... Han k\u00f8rte med sit tospand miniatureheste Katrinesmindes Once Again Willie og Egeh\u00f8j's\u00a0...",
+      "rank_absolute": 91,
+      "rank_group": 90,
+      "result_type": "items"
+    },
+    {
+      "title": "Friskole blev omdannet til byen Bakkeby - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/braedstrupavis/friskole-blev-omdannet-til-byen-bakkeby",
+      "snippet": "Feb 1, 2019 \u2014 Eleverne havde l\u00f8bende tid til at bev\u00e6ge sig rundt som kunder hos vennerne. Bakkebys Casino var et popul\u00e6rt samlingssted for b\u00e5de store og sm\u00e5.",
+      "rank_absolute": 92,
+      "rank_group": 91,
+      "result_type": "items"
+    },
+    {
+      "title": "H\u00f8j feber og 310.000 kroner rigere - Vejle - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisenvejle/hoej-feber-og-310-000-kroner-rigere",
+      "snippet": "Feb 21, 2018 \u2014 Det blev en deltager fra Vejle, der l\u00f8b med hovedpr\u00e6mien p\u00e5 310.000 kroner, da finalen ved hovedturneringen i dette \u00e5rs Munkebjerg Poker\u00a0...",
+      "rank_absolute": 93,
+      "rank_group": 92,
+      "result_type": "items"
+    },
+    {
+      "title": "SE BILLEDERNE: Shannet gav cirkusfest til asylb\u00f8rn",
+      "url": "https://ugeavisen.dk/amager/se-billederne-shannet-gav-cirkusfest-til-asylboern",
+      "snippet": "May 29, 2018 \u2014 KONGELUNDEN: For et par uger siden vandt Shannet Nielsen fra Sundby\u00f8ster 'Den Ultimative Fest' til en v\u00e6rdi af 75.000 kr. p\u00e5 spillesiden Casino.",
+      "rank_absolute": 94,
+      "rank_group": 93,
+      "result_type": "items"
+    },
+    {
+      "title": "Klar med crooner-nyt\u00e5r i Holstebro - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/holstebroonsdag/klar-med-crooner-nytaar-i-holstebro",
+      "snippet": "Dec 17, 2019 \u2014 I midten af 1960'erne slog Frank Sinatra og Count Basie & The Orchestra deres folder p\u00e5 The Sands Hotel and Casino i Las Vegas. Det\u00a0...",
+      "rank_absolute": 95,
+      "rank_group": 94,
+      "result_type": "items"
+    },
+    {
+      "title": "Mange online casino-sider tilbyder starthj\u00e6lp - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/valby/mange-online-casino-sider-tilbyder-starthjaelp",
+      "snippet": "Apr 5, 2018 \u2014 Bonusser, gratis spins og specielle tilbud er alle tilbud, som mange online casino-sider tilbyder til kunder, der opretter konto hos dem.",
+      "rank_absolute": 96,
+      "rank_group": 95,
+      "result_type": "items"
+    },
+    {
+      "title": "Mange lod sig fork\u00e6le p\u00e5 Munkebjerg Hotel - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisenvejle/mange-lod-sig-forkaele-paa-munkebjerg-hotel",
+      "snippet": "May 29, 2017 \u2014 Samtidig blev Munkebjerg Hotels Jubil\u00e6umsbryg sk\u00e6nket i glassene i Casino ... Der var tr\u00e6ngsel i Casino Munkebjerg, hvor alle voksne kvit og frit\u00a0...",
+      "rank_absolute": 97,
+      "rank_group": 96,
+      "result_type": "items"
+    },
+    {
+      "title": "Tre timer - tre stjerner - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/holstebroonsdag/tre-timer-tre-stjerner",
+      "snippet": "Feb 14, 2013 \u2014 I Columbia Hotel og Casino ligger restaurant La Belle Epoque. Selve hotellet ligger direkte p\u00e5 badestranden og er en ombygget 1914-tals\u00a0...",
+      "rank_absolute": 98,
+      "rank_group": 97,
+      "result_type": "items"
+    },
+    {
+      "title": "DM for H-b\u00e5de i Struer pr\u00e6get af aflysninger - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/ugeavisenstruer/dm-for-h-baade-i-struer-praeget-af-aflysninger",
+      "snippet": "Jul 8, 2019 \u2014 P\u00e5 tredjepladsen kom Claus Hovgaard med mandskabet Jacob Hald og Palle Koch i b\u00e5den Casino Munkebjerg, Sejlklubben Neptun Vejle. St\u00e6vnet\u00a0...",
+      "rank_absolute": 99,
+      "rank_group": 98,
+      "result_type": "items"
+    },
+    {
+      "title": "Hemmelig agent g\u00e5r til filmen \u2013 og i g\u00e5gaden - Ugeavisen.dk",
+      "url": "https://ugeavisen.dk/bramming/hemmelig-agent-gaar-til-filmen-og-i-gaagaden",
+      "snippet": "Aug 26, 2019 \u2014 Hvis man tager en smoking p\u00e5, og ligner en Bond p\u00e5 vej til casino, s\u00e5 b\u00f8r man have en pistol \u2013 eller m\u00e5ske mere afv\u00e6bnende \u2013 et glas vodka-\u00a0...",
+      "rank_absolute": 100,
+      "rank_group": 99,
+      "result_type": "items"
+    }
+  ]
+}

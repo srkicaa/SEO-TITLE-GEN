@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-22T07:48:07Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "gaffa.dk",
+    "anchor_keyword": "Dansk casino uden ROFUS",
+    "anchor_country": "",
+    "target_url": "https://www.worldclasstrotting.com/dk/casino-uden-rofus/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Soundtracks Til En Hjemme-Casinoaften: Fra Jazzede Hotelbarer Til Synthwave",
+      "rationale": "Matcher GAFFAs musik- og stemningsguides og giver naturlig anledning til at forklare danske regler for onlinespil og ROFUS i br\u00f8dteksten, hvor et link om Dansk casino uden ROFUS kan uddybe forskelle og ansvarligt spil."
+    },
+    {
+      "title": "N\u00e5r Pop M\u00f8der Poker: Musikalske \u00f8Jeblikke Fra Spillebordets Verden",
+      "rationale": "En kulturel vinkel p\u00e5 musik i spilscenarier passer til GAFFAs tone. Et link kan informere om danske rammer for online spil og begrebet ROFUS, indsat med ankerteksten i neutral, oplysende sammenh\u00e6ng."
+    },
+    {
+      "title": "Playlister Til Live-Spil: S\u00e5dan Skaber Du Autentisk Casinostemning Derhjemme",
+      "rationale": "Praktisk, musikfokuseret format som GAFFA ofte laver. I teksten kan der linkes til en forklaring af, hvad ROFUS er, og hvordan danske spillere navigerer lovligt og ansvarligt (via Dansk casino uden ROFUS som informativt anker)."
+    },
+    {
+      "title": "Fra Vegas-Vibes Til Nordisk Melankoli: Musikken Der Matcher Sp\u00e6ndingens Puls",
+      "rationale": "Forener internationale referencer med dansk musiksmag. Et informativt link kan belyse den danske kontekst for online spil og ROFUS, uden at titlen eller teksten bliver kommerciel."
+    },
+    {
+      "title": "Kultur, Spil Og Sk\u00e6rmtid: Hvad Siger Musikken Om Vores Onlinevaner?",
+      "rationale": "Kritisk-kulturel vinkel som passer til GAFFAs features. Et link kan oplyse om danske regler, ROFUS og begrebet Dansk casino uden ROFUS i en faktaboks eller note for l\u00e6sere, der vil forst\u00e5 rammerne."
+    }
+  ],
+  "titles_context": [
+    "De bedste soundtracks til en casino-aften med vennerne",
+    "Melankoliens hotelbar og casino",
+    "Casino Funk",
+    "Drake afsl\u00f8rer milliontab p\u00e5 gambling: \"Helt sindssyge\"",
+    "Tendenser i dansk online casino kultur: Betinia casino",
+    "Casino Couture: Spillets Modeudvikling",
+    "Se alle GAFFA Danmarks annonceartikler",
+    "Autentisk casinostemning med live casino-spil online",
+    "Brug computeren til at h\u00f8re musik og spille online casino spil",
+    "Musikkens rolle i forbedringen af online casinospil - Gaffa",
+    "Her er de bedste fund fra Music Week Poland - Gaffa",
+    "Peter Sommer og Simon Kvamm i sk\u00f8n toenighed - Gaffa",
+    "Quiz og vind med GAFFA & Maria Casino hver fredag",
+    "Kom Vi L\u00f8ber udgiver singlen \"Engine Malfunction\" - Gaffa",
+    "Undercover: Peter Sommer - Gaffa",
+    "Det skete der til Arctic Monkeys' f\u00f8rste koncert i tre og et halvt \u00e5r",
+    "Skanderborgs stolte s\u00f8n sejrede \u2013 og sendte s\u00e6rlige hilsner ...",
+    "JULEKALENDER-L\u00c5GE 24: H\u00f8r \u00e5rets bedste sang if\u00f8lge ...",
+    "Redaktionen - Gaffa",
+    "Bagkataloget i enkle, nye kostumer - Gaffa",
+    "Vinderne af Steppeulven er fundet - Gaffa",
+    "Peter Sommer: Konformitet kan brydes p\u00e5 en smuk m\u00e5de - Gaffa",
+    "Peter Sommer: Her er otte sange, der betyder noget s\u00e6rligt for ...",
+    "Chris Cornell giver to danske koncerter - Gaffa",
+    "Podcasts, casino-spil og Netflix p\u00e5 mobilen - Gaffa"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.worldclasstrotting.com/dk/casino-uden-rofus/ that feel at home on gaffa.dk.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Dansk casino uden ROFUS\n\nAnchor operates in: Unspecified\n\nReference titles:\n- De bedste soundtracks til en casino-aften med vennerne\n- Melankoliens hotelbar og casino\n- Casino Funk\n- Drake afsl\u00f8rer milliontab p\u00e5 gambling: \"Helt sindssyge\"\n- Tendenser i dansk online casino kultur: Betinia casino\n- Casino Couture: Spillets Modeudvikling\n- Se alle GAFFA Danmarks annonceartikler\n- Autentisk casinostemning med live casino-spil online\n- Brug computeren til at h\u00f8re musik og spille online casino spil\n- Musikkens rolle i forbedringen af online casinospil - Gaffa\n- Her er de bedste fund fra Music Week Poland - Gaffa\n- Peter Sommer og Simon Kvamm i sk\u00f8n toenighed - Gaffa\n- Quiz og vind med GAFFA & Maria Casino hver fredag\n- Kom Vi L\u00f8ber udgiver singlen \"Engine Malfunction\" - Gaffa\n- Undercover: Peter Sommer - Gaffa\n- Det skete der til Arctic Monkeys' f\u00f8rste koncert i tre og et halvt \u00e5r\n- Skanderborgs stolte s\u00f8n sejrede \u2013 og sendte s\u00e6rlige hilsner ...\n- JULEKALENDER-L\u00c5GE 24: H\u00f8r \u00e5rets bedste sang if\u00f8lge ...\n- Redaktionen - Gaffa\n- Bagkataloget i enkle, nye kostumer - Gaffa\n- Vinderne af Steppeulven er fundet - Gaffa\n- Peter Sommer: Konformitet kan brydes p\u00e5 en smuk m\u00e5de - Gaffa\n- Peter Sommer: Her er otte sange, der betyder noget s\u00e6rligt for ...\n- Chris Cornell giver to danske koncerter - Gaffa\n- Podcasts, casino-spil og Netflix p\u00e5 mobilen - Gaffa\n\nGuidance:\n1. Combine your own knowledge of gaffa.dk's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to gaffa.dk while naturally justifying a link to https://www.worldclasstrotting.com/dk/casino-uden-rofus/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Dansk casino uden ROFUS and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1149,
+    "completion_tokens": 998
+  },
+  "cost_usd": 0.08286
+}

@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-26T10:58:15Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "nationaldirectory.com.au",
+    "anchor_keyword": "crypto slots casino",
+    "anchor_country": "",
+    "target_url": "https://www.razed.com/casino/slots/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Pokies and Online Slots: a Practical Guide for Australian Adults",
+      "rationale": "Fits nationaldirectory.com.au\u2019s informational listings by offering a neutral overview of pokies/slots. Links naturally to Razed\u2019s slots hub for mechanics, RTP, and feature explanations relevant to Australia-based readers."
+    },
+    {
+      "title": "Understanding Slot Machine Mechanics: RTP, Volatility and Features (AU)",
+      "rationale": "Educational angle suits directory content. A link to Razed\u2019s casino/slots page provides deeper, brand-agnostic explanations of RTP, variance, paylines, and bonus features for Australian users."
+    },
+    {
+      "title": "Responsible Play Tips for Slots and Pokies in Australia",
+      "rationale": "Responsible gambling content is appropriate for an Australian directory audience. Razed\u2019s resource can support tips with clear explanations of slot design and pacing without promoting specific operators."
+    },
+    {
+      "title": "Modern Online Slots Explained for NSW and Beyond",
+      "rationale": "Localised to New South Wales while remaining applicable nationally. Razed\u2019s slots page offers in-depth learning material on modern slot formats and terminology that complements this listing."
+    },
+    {
+      "title": "Before You Spin: What Australians Should Know About Digital Pokies",
+      "rationale": "A pre-play checklist style title fits informational categories. Linking to Razed\u2019s slots section adds authoritative guidance on odds, features, and common pitfalls for Australian audiences."
+    }
+  ],
+  "titles_context": [
+    "HOT FLUSH CASINO",
+    "Casinos & Gambling Venues - New South Wales - Tinpot",
+    "SLOTVIP Casino",
+    "Poultry Retail Specialists - New South Wales - Casino Municipality",
+    "About Us - Club 8 Casino",
+    "Gun & Ammunition Dealers - New South Wales - Casino",
+    "The Casino Playbook: Digital Marketing Tactics That Actually ...",
+    "North Casino Mini Mart",
+    "Casino Hire Melbourne",
+    "77JL net ph",
+    "Gallery - Blackjack Nights",
+    "Pkjili com ph",
+    "Leovegas org in",
+    "C.W.A. Rest Rooms",
+    "Normoyle G L",
+    "George Auckram Fencing Supplies",
+    "Engine Reconditioning Equipment &/or Machinery",
+    "Win Win",
+    "Bill Williams Chemist",
+    "Elizabeth Thompson",
+    "Latest Listings",
+    "How 5G Technology is Changing Lives in Australia",
+    "Entertaiment",
+    "Andy Turner",
+    "Daniel Krause"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.razed.com/casino/slots/ that feel at home on nationaldirectory.com.au.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): crypto slots casino\n\nAnchor operates in: Unspecified\n\nReference titles:\n- HOT FLUSH CASINO\n- Casinos & Gambling Venues - New South Wales - Tinpot\n- SLOTVIP Casino\n- Poultry Retail Specialists - New South Wales - Casino Municipality\n- About Us - Club 8 Casino\n- Gun & Ammunition Dealers - New South Wales - Casino\n- The Casino Playbook: Digital Marketing Tactics That Actually ...\n- North Casino Mini Mart\n- Casino Hire Melbourne\n- 77JL net ph\n- Gallery - Blackjack Nights\n- Pkjili com ph\n- Leovegas org in\n- C.W.A. Rest Rooms\n- Normoyle G L\n- George Auckram Fencing Supplies\n- Engine Reconditioning Equipment &/or Machinery\n- Win Win\n- Bill Williams Chemist\n- Elizabeth Thompson\n- Latest Listings\n- How 5G Technology is Changing Lives in Australia\n- Entertaiment\n- Andy Turner\n- Daniel Krause\n\nGuidance:\n1. Combine your own knowledge of nationaldirectory.com.au's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to nationaldirectory.com.au while naturally justifying a link to https://www.razed.com/casino/slots/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude crypto slots casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 790,
+    "completion_tokens": 727
+  },
+  "cost_usd": 0.05942
+}

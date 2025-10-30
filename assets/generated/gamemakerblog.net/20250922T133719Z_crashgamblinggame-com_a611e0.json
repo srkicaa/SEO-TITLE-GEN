@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-22T13:37:19Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "gamemakerblog.net",
+    "anchor_keyword": "crashgamblinggame.com",
+    "anchor_country": "",
+    "target_url": "https://crashgamblinggame.com",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "The Anatomy of Crash Games: Risk Curves, Multipliers, and Timers Explained",
+      "rationale": "Fits GameMakerBlog\u2019s analytical style and lets supporting copy link to crashgamblinggame.com as a foundational explainer on crash mechanics and gameplay flow (global/Unspecified)."
+    },
+    {
+      "title": "Bankroll Systems for High\u2011volatility Casino Modes (Crash, Plinko, and More)",
+      "rationale": "Educational, non\u2011promo angle typical of the site; supporting text can naturally cite crashgamblinggame.com for prudent staking methods and volatility insights relevant to crash formats (Unspecified)."
+    },
+    {
+      "title": "Streaming Meets Instant Math: How Real\u2011time Odds Shape the Crash Meta",
+      "rationale": "Aligns with prior pieces on live streaming and casino tech; a paragraph can link to crashgamblinggame.com for beginner\u2011friendly definitions and strategy context around crash odds and timing (global)."
+    },
+    {
+      "title": "Crypto UX for Fast\u2011paced Casino Play: Wallets, Limits, and On\u2011chain Fairness",
+      "rationale": "Reflects the blog\u2019s crypto/gambling crossover; supporting copy can point to crashgamblinggame.com for provably fair explanations and practical tips specific to crash gameplay (Unspecified)."
+    },
+    {
+      "title": "Mobile Design Patterns That Keep Multiplier Games Playable on the Go",
+      "rationale": "Matches the site\u2019s mobile gaming coverage; a section can link to crashgamblinggame.com as a resource on mobile\u2011first crash interfaces, controls, and session management (global)."
+    }
+  ],
+  "titles_context": [
+    "Top 5 Casino Promotions You Need to Know - GameMakerBlog",
+    "Use Free Spins in Slot Games to Maximize Your Play Time",
+    "Zoome Casino \u2013 Your Gateway to the Perfect Casino Online ...",
+    "The Role of Live Streaming in Modern Casino Play",
+    "Minimum Deposit Casino - GameMakerBlog",
+    "Most Popular Casino Games for Low-Stakes Players",
+    "Most Mobile Casino Games to Play On the Go - GameMakerBlog",
+    "The Differences Between Classic and Modern Online Casino ...",
+    "Leading 5 Altcoins to Use in Online Casinos (And the Ones to ...",
+    "The Most Innovative Live Dealer Games You Should Try",
+    "Expert Tips for Casino Players Maximizing Your Winnings",
+    "GameMakerBlog: Home",
+    "5 Real Money Slots in 2025 - GameMakerBlog",
+    "Casino Game Shows: What These Are & Who Will Like Them",
+    "The Ultimate Five Slots For Casino High Rollers",
+    "How AI is Revolutionizing the Online Casino Experience",
+    "Gaming Gossip Archives - GameMakerBlog",
+    "Crypto Spins in Your Pocket: Smooth Ride or Risky Crash?",
+    "Most Payment Methods for Online Gambling - GameMakerBlog",
+    "A Beginner's Guide to Playing Online Casino Games in ...",
+    "American, European, and French Roulette Online",
+    "Latest Archives - GameMakerBlog",
+    "The Right Cryptocurrencies for Online Gambling in 2025",
+    "Poker vs. Video Poker | Which One to Choose - GameMakerBlog",
+    "Fast Coins, More Spins: My Leading Altcoins for Gambling ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://crashgamblinggame.com that feel at home on gamemakerblog.net.\n\nReference SERP keyword: casino \nAnchor keyword (use only if natural): crashgamblinggame.com\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Top 5 Casino Promotions You Need to Know - GameMakerBlog\n- Use Free Spins in Slot Games to Maximize Your Play Time\n- Zoome Casino \u2013 Your Gateway to the Perfect Casino Online ...\n- The Role of Live Streaming in Modern Casino Play\n- Minimum Deposit Casino - GameMakerBlog\n- Most Popular Casino Games for Low-Stakes Players\n- Most Mobile Casino Games to Play On the Go - GameMakerBlog\n- The Differences Between Classic and Modern Online Casino ...\n- Leading 5 Altcoins to Use in Online Casinos (And the Ones to ...\n- The Most Innovative Live Dealer Games You Should Try\n- Expert Tips for Casino Players Maximizing Your Winnings\n- GameMakerBlog: Home\n- 5 Real Money Slots in 2025 - GameMakerBlog\n- Casino Game Shows: What These Are & Who Will Like Them\n- The Ultimate Five Slots For Casino High Rollers\n- How AI is Revolutionizing the Online Casino Experience\n- Gaming Gossip Archives - GameMakerBlog\n- Crypto Spins in Your Pocket: Smooth Ride or Risky Crash?\n- Most Payment Methods for Online Gambling - GameMakerBlog\n- A Beginner's Guide to Playing Online Casino Games in ...\n- American, European, and French Roulette Online\n- Latest Archives - GameMakerBlog\n- The Right Cryptocurrencies for Online Gambling in 2025\n- Poker vs. Video Poker | Which One to Choose - GameMakerBlog\n- Fast Coins, More Spins: My Leading Altcoins for Gambling ...\n\nGuidance:\n1. Combine your own knowledge of gamemakerblog.net's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to gamemakerblog.net while naturally justifying a link to https://crashgamblinggame.com.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude crashgamblinggame.com and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1014,
+    "completion_tokens": 827
+  },
+  "cost_usd": 0.0699
+}

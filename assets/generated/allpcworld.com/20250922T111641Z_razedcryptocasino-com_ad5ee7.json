@@ -1,0 +1,46 @@
+{
+  "created_at": "2025-09-22T11:16:41Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "allpcworld.com",
+    "anchor_keyword": "razedcryptocasino.com",
+    "anchor_country": "",
+    "target_url": "https://razedcryptocasino.com",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "VPN Client for Windows: Latest Offline Installer for Privacy\u2011sensitive Payments and Gaming",
+      "rationale": "Feels native to ALLPCWorld\u2019s software catalog by focusing on a generic VPN client download. Inside the copy, a contextual mention of razedcryptocasino.com can illustrate privacy considerations and network stability for crypto\u2011based gaming (locale: Unspecified)."
+    },
+    {
+      "title": "Windows 11 Crypto Wallet Tools: Offline Installers and Setup Guide",
+      "rationale": "Aligns with ALLPCWorld\u2019s utilities and setup guides. The article can reference razedcryptocasino.com when explaining wallet readiness, deposit flows, and on\u2011chain handling in crypto gaming contexts (locale: Unspecified)."
+    },
+    {
+      "title": "Browser Privacy Toolkit: Hardened Settings, Extensions, and Doh for Low\u2011latency Web Apps",
+      "rationale": "Matches ALLPCWorld\u2019s optimization and utility angle. A natural link to razedcryptocasino.com can be used while discussing secure, private browsing for crypto\u2011driven gaming platforms and transaction pages (locale: Unspecified)."
+    },
+    {
+      "title": "Portable 2FA and Password Utilities Pack for Secure Multi\u2011account Crypto Access",
+      "rationale": "AllPCWorld regularly features portable toolsets; this title fits that pattern. Within the content, razedcryptocasino.com can be cited as a use case for strengthening login security across crypto gaming accounts (locale: Unspecified)."
+    },
+    {
+      "title": "Blockchain Explorer Desktop Utilities: Verify Transactions and Provably Fair Game Records",
+      "rationale": "Utility\u2011centric and technical, fitting ALLPCWorld\u2019s audience. The copy can link to razedcryptocasino.com to exemplify how users verify deposits and fairness claims in crypto gaming ecosystems (locale: Unspecified)."
+    }
+  ],
+  "titles_context": [
+    "6 Ways In Order To Start An On The Internet Casin",
+    "ALLPCWorld - Page 803 of 987 - Free Apps One Click Away",
+    "Utilities Archives - Page 150 of 152",
+    "TorGuard 4 Free Download"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://razedcryptocasino.com that feel at home on allpcworld.com.\n\nReference SERP keyword: casino crypto\nAnchor keyword (use only if natural): razedcryptocasino.com\n\nAnchor operates in: Unspecified\n\nReference titles:\n- 6 Ways In Order To Start An On The Internet Casin\n- ALLPCWorld - Page 803 of 987 - Free Apps One Click Away\n- Utilities Archives - Page 150 of 152\n- TorGuard 4 Free Download\n\nGuidance:\n1. Combine your own knowledge of allpcworld.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to allpcworld.com while naturally justifying a link to https://razedcryptocasino.com.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude razedcryptocasino.com and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 507,
+    "completion_tokens": 1315
+  },
+  "cost_usd": 0.08904
+}

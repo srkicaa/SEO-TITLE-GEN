@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T11:00:20Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "southfloridareporter.com",
+    "anchor_keyword": "playusa.com",
+    "anchor_country": "",
+    "target_url": "https://www.playusa.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Where Florida\u2019s Online Casino Debate Stands Now \u2014 What South Floridians Should Know",
+      "rationale": "Explains the current legal landscape in Florida with a local focus; links naturally to PlayUSA\u2019s Florida legal updates and state-by-state explanations for added context and timelines."
+    },
+    {
+      "title": "Geolocation 101 for Florida Players: Why Your Phone\u2019s Location Decides If You Can Play",
+      "rationale": "Breaks down location rules affecting South Florida readers; PlayUSA offers clear geolocation guides and compliance tips that expand on the technical and legal requirements."
+    },
+    {
+      "title": "From Brick\u2011and\u2011mortar to Mobile: How Casino Trends Are Shaping South Florida Leisure",
+      "rationale": "Connects local entertainment habits with broader iGaming trends; PlayUSA provides market insights, data, and analysis that support the trend discussion with authoritative context."
+    },
+    {
+      "title": "Why VPN Workarounds Don\u2019t Beat Florida Rules\u2014and Safer Ways to Play Responsibly",
+      "rationale": "Addresses a common local misconception while promoting responsible play; PlayUSA covers legal risks of VPN use and outlines safer gambling tools and resources."
+    },
+    {
+      "title": "Tourism, Jobs, and Play: How Casino Policy Ripples Through South Florida\u2019s Economy",
+      "rationale": "Explores regional economic impacts suited to South Florida Reporter readers; PlayUSA\u2019s reporting on regulations and market effects can substantiate the policy and tourism angles."
+    }
+  ],
+  "titles_context": [
+    "Florida Casino Winner Turns $25 into Six-Figure Slot ...",
+    "A Spotlight on Florida's Most Popular Casinos",
+    "Online casino, smartphone with slot machine with jackpot ...",
+    "Florida's Current Legal Status and Options for Online ...",
+    "Top Real Money Casino Sites Ranked by Games & Payouts",
+    "Casino jackpot and gambling concept background. ...",
+    "Casino Miami Jai-Alai",
+    "Casino Machine Games Are Why Airports Just Got More Fun",
+    "$30 Bet Turns Into $151000 Jackpot at Seminole Casino ...",
+    "International Online Casino Regulations",
+    "Impact of Online Casino Laws on South Florida Tourism",
+    "Most Common Slang Terms and Terminology Used in The ...",
+    "Geolocation and Online Casinos: What Florida Players Must ...",
+    "The Five Highest-Paying Online Slots in the World",
+    "Seminole Hard Rock Hotel & Casino Tampa Unveils Over $65 ...",
+    "How Florida's Proposed Sweepstakes Casino Ban Drives ...",
+    "Crucial Tips to Help Find a Reliable Online Casino",
+    "Magic City Casino - South Florida Reporter",
+    "South Floridians Are Embracing VPN-Friendly Online Casinos",
+    "Best iGaming Comparison Sites for Smarter and Safer Online ...",
+    "How to Deposit and Withdraw Bitcoin at 1win Casino \u2013 Fast ...",
+    "From Miami to Toronto: How Casino Culture Differs Between South ...",
+    "Luck Be a Lady: A Guide to South Florida's Premier Casinos",
+    "5 Noteworthy Trends In The Online Casino Market",
+    "Gambling Archives - South Florida Reporter"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.playusa.com/ that feel at home on southfloridareporter.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): playusa.com\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Florida Casino Winner Turns $25 into Six-Figure Slot ...\n- A Spotlight on Florida's Most Popular Casinos\n- Online casino, smartphone with slot machine with jackpot ...\n- Florida's Current Legal Status and Options for Online ...\n- Top Real Money Casino Sites Ranked by Games & Payouts\n- Casino jackpot and gambling concept background. ...\n- Casino Miami Jai-Alai\n- Casino Machine Games Are Why Airports Just Got More Fun\n- $30 Bet Turns Into $151000 Jackpot at Seminole Casino ...\n- International Online Casino Regulations\n- Impact of Online Casino Laws on South Florida Tourism\n- Most Common Slang Terms and Terminology Used in The ...\n- Geolocation and Online Casinos: What Florida Players Must ...\n- The Five Highest-Paying Online Slots in the World\n- Seminole Hard Rock Hotel & Casino Tampa Unveils Over $65 ...\n- How Florida's Proposed Sweepstakes Casino Ban Drives ...\n- Crucial Tips to Help Find a Reliable Online Casino\n- Magic City Casino - South Florida Reporter\n- South Floridians Are Embracing VPN-Friendly Online Casinos\n- Best iGaming Comparison Sites for Smarter and Safer Online ...\n- How to Deposit and Withdraw Bitcoin at 1win Casino \u2013 Fast ...\n- From Miami to Toronto: How Casino Culture Differs Between South ...\n- Luck Be a Lady: A Guide to South Florida's Premier Casinos\n- 5 Noteworthy Trends In The Online Casino Market\n- Gambling Archives - South Florida Reporter\n\nGuidance:\n1. Combine your own knowledge of southfloridareporter.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to southfloridareporter.com while naturally justifying a link to https://www.playusa.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude playusa.com and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 994,
+    "completion_tokens": 737
+  },
+  "cost_usd": 0.0641
+}

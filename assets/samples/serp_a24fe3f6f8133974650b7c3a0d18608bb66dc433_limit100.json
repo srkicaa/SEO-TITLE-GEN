@@ -1,0 +1,800 @@
+{
+  "mode": "live",
+  "task_id": "09261444-4117-0121-0000-2025e5cdbc08",
+  "query": "site:boringmagazine.com travel",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Top 10 Safe Travel Tips Every Traveler Should Know",
+      "url": "https://boringmagazine.com/top-10-safe-travel-tips-every-traveler-should-know/",
+      "snippet": "Discover essential tips for safe travel, from health precautions to secure accommodations, ensuring a worry-free journey every time.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Travel Archives - Boringmagazine.com",
+      "url": "https://boringmagazine.com/travel/",
+      "snippet": "The Boring Magazine is a knowledge hub for Measurement, Technology, Business Guides & Ideas, Latest News, Entertainment, and Celebrity Networth. Quick Links.",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "How To Travel More Safely This Summer",
+      "url": "https://boringmagazine.com/how-to-travel-more-safely-this-summer/",
+      "snippet": "Include essentials like a basic first aid kit, important medications, photocopies of your passport and travel documents, and a list of emergency contacts.",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Travel Archives - Page 4 Of 6 - Boringmagazine.com",
+      "url": "https://boringmagazine.com/travel/page/4/",
+      "snippet": "Hotel Tips for a Smarter, More Enjoyable Stay. Whether you're traveling for business, leisure, or a bit of both, your hotel experience can make or break your\u00a0...",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "4 Experiential Activities Redefining Family Vacations In 2025",
+      "url": "https://boringmagazine.com/4-experiential-activities-redefining-family-vacations-in-2025/",
+      "snippet": "May 21, 2025 \u2014 Discover unforgettable family vacations with kid-friendly destinations, fun activities, and travel tips to create lasting memories together.",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "Why Australia Offers One Of The Most Well-rounded Travel ...",
+      "url": "https://boringmagazine.com/why-australia-offers-one-of-the-most-well-rounded-travel-experiences/",
+      "snippet": "Australia is a vast, diverse country known for stunning landscapes, unique wildlife, vibrant cities, rich culture, and outdoor adventure opportunities.",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "How To Maximize Your Star Alliance Round The World ...",
+      "url": "https://boringmagazine.com/how-to-maximize-your-star-alliance-round-the-world-flight-experience/",
+      "snippet": "Apr 16, 2025 \u2014 This guide will guide you through the smart traveller's tactics for getting the most out of your Star Alliance round the world flights.",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Do Travel Agents In Australia Offer Better Travel Insurance ...",
+      "url": "https://boringmagazine.com/do-travel-agents-in-australia-offer-better-travel-insurance-options/",
+      "snippet": "4 days ago \u2014 Travel insurance protects you from unexpected events during your trip. These may include: Flight delays or cancellations; Lost baggage; Medical\u00a0...",
+      "rank_absolute": 8,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "Fun Things To Do In El Paso On Your Trip With Family",
+      "url": "https://boringmagazine.com/fun-things-to-do-in-el-paso-on-your-trip-with-family/",
+      "snippet": "May 13, 2025 \u2014 Explore top family-friendly things to do in El Paso\u2014from parks and museums to festivals and food. Plan the perfect trip with guides from\u00a0...",
+      "rank_absolute": 10,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "Things To Know Before You Hit The Road To The Smoky ...",
+      "url": "https://boringmagazine.com/things-to-know-before-you-hit-the-road-to-the-smoky-mountains/",
+      "snippet": "Aug 11, 2025 \u2014 Before hitting the Smoky Mountains, know key travel tips, weather info, safety advice, must-see spots, and local attractions for a great\u00a0...",
+      "rank_absolute": 11,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "A Definitive Guide To The World's Premier Game Cruises ...",
+      "url": "https://boringmagazine.com/a-definitive-guide-to-the-worlds-premier-game-cruises-for-the-discerning-traveler/",
+      "snippet": "Sep 1, 2025 \u2014 Explore the world's premier game cruises, offering the ultimate luxury and adventure for discerning travelers seeking unique experiences at\u00a0...",
+      "rank_absolute": 12,
+      "rank_group": 11,
+      "result_type": "items"
+    },
+    {
+      "title": "Unique Vacation Rentals In The United States",
+      "url": "https://boringmagazine.com/unique-vacation-rentals-in-the-united-states/",
+      "snippet": "May 5, 2025 \u2014 From repurposed shipping containers to whimsical treehouses, these accommodations provide memorable experiences that go beyond the ordinary.",
+      "rank_absolute": 13,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "Top Tech Tools To Simplify Your Cross Country Moving ...",
+      "url": "https://boringmagazine.com/top-tech-tools-to-simplify-your-cross-country-moving-experience/",
+      "snippet": "May 29, 2025 \u2014 In this article, we'll explore the top tech tools that simplify every stage of a long-distance move\u2014from planning and packing to travel,\u00a0...",
+      "rank_absolute": 14,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "Trusted By Travelers: Radical Storage Offers The Best ...",
+      "url": "https://boringmagazine.com/trusted-by-travelers-radical-storage-offers-the-best-luggage-storage-boston-experience/",
+      "snippet": "Jun 24, 2025 \u2014 Trusted by travelers, Radical Storage offers the best luggage storage experience in Boston\u2014secure, convenient locations so you can explore\u00a0...",
+      "rank_absolute": 15,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "EasyTerra USA Car Rental Comparison: How To Find The ...",
+      "url": "https://boringmagazine.com/easyterra-usa-car-rental-comparison-how-to-find-the-best-deals-for-your-trip/",
+      "snippet": "May 19, 2025 \u2014 EasyTerra USA is an online platform that helps people compare car rental prices in the United States. It collects rental offers from many\u00a0...",
+      "rank_absolute": 16,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "5 Common Things That Are 17 Inches Long/Big",
+      "url": "https://boringmagazine.com/how-long-is-17-inches/",
+      "snippet": "Oct 23, 2024 \u2014 A smaller guitar, such as a travel guitar, is often around 17 inches in length, which can help visualize this measurement. How to Measure 17\u00a0...",
+      "rank_absolute": 17,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "Historic UK Palaces You Can Visit Today (And Why ...",
+      "url": "https://boringmagazine.com/historic-uk-palaces-you-can-visit-today-and-why-you-should/",
+      "snippet": "Apr 20, 2025 \u2014 Step Into Royal History: Discover the UK's Most Iconic Palaces From tales of Tudor intrigue to royal weddings and wartime secrets.",
+      "rank_absolute": 18,
+      "rank_group": 17,
+      "result_type": "items"
+    },
+    {
+      "title": "Best Saltwater Fishing Rods For Travelers",
+      "url": "https://boringmagazine.com/best-saltwater-fishing-rods-for-travelers-compact-options-that-deliver-performance/",
+      "snippet": "Aug 6, 2025 \u2014 Discover the best saltwater fishing rods for travelers\u2014compact, portable options that deliver top performance, durability, and convenience\u00a0...",
+      "rank_absolute": 19,
+      "rank_group": 18,
+      "result_type": "items"
+    },
+    {
+      "title": "5 Common Things That Are 8.5 Inches Long",
+      "url": "https://boringmagazine.com/how-long-is-8-5-inches/",
+      "snippet": "Oct 5, 2024 \u2014 You can measure 8.5 inches while traveling using these simple techniques: Pacing: Count your steps, knowing that an average adult step is about\u00a0...",
+      "rank_absolute": 20,
+      "rank_group": 19,
+      "result_type": "items"
+    },
+    {
+      "title": "12 Common Things That Are 9 Inches Long",
+      "url": "https://boringmagazine.com/how-long-is-9-inches/",
+      "snippet": "Aug 18, 2024 \u2014 Travel-sized Bottle: Height of a slightly larger travel bottle. Travel Wallet: Length of a standard travel wallet or passport holder.",
+      "rank_absolute": 21,
+      "rank_group": 20,
+      "result_type": "items"
+    },
+    {
+      "title": "Comparing HarbourFront And Johor Bahru Ferry Terminals ...",
+      "url": "https://boringmagazine.com/comparing-harbourfront-and-johor-bahru-ferry-terminals-to-batam/",
+      "snippet": "Jun 2, 2025 \u2014 The HarbourFront Ferry Terminal is usually where you can travel to Batam the fastest. From HarbourFront, it takes 45 to 70 minutes to reach the\u00a0...",
+      "rank_absolute": 22,
+      "rank_group": 21,
+      "result_type": "items"
+    },
+    {
+      "title": "13 Common Things That Are 8 Inches Long",
+      "url": "https://boringmagazine.com/how-long-is-8-inches/",
+      "snippet": "Aug 18, 2024 \u2014 8 inches is approximately 20.3 centimeters. This length is roughly equivalent to the height of a small tablet or a large smartphone.",
+      "rank_absolute": 23,
+      "rank_group": 22,
+      "result_type": "items"
+    },
+    {
+      "title": "9 Common Things That Are 3 Inches Long",
+      "url": "https://boringmagazine.com/how-long-is-3-inches/",
+      "snippet": "Aug 18, 2024 \u2014 Compact Makeup Case: Many small makeup cases or compact mirrors are around 3 inches. Travel Wallet: A small travel wallet or passport holder\u00a0...",
+      "rank_absolute": 24,
+      "rank_group": 23,
+      "result_type": "items"
+    },
+    {
+      "title": "Blog Archives - Boringmagazine.com",
+      "url": "https://boringmagazine.com/blog/",
+      "snippet": "Do Travel Agents in Australia Offer Better Travel Insurance Options? by Steve Fletcher.",
+      "rank_absolute": 25,
+      "rank_group": 24,
+      "result_type": "items"
+    },
+    {
+      "title": "Why Trendsmagazines Matters For Modern Readers",
+      "url": "https://boringmagazine.com/stay-ahead-of-global-shifts-why-trendsmagazines-matters-for-modern-readers/",
+      "snippet": "1 day ago \u2014 Readers following wellness, travel, and fashion trends reported improved personal routines, meaningful travel experiences, and enhanced cultural\u00a0...",
+      "rank_absolute": 26,
+      "rank_group": 25,
+      "result_type": "items"
+    },
+    {
+      "title": "12 Common Things That Are 4 Inches Long",
+      "url": "https://boringmagazine.com/how-long-is-4-inches/",
+      "snippet": "Aug 27, 2024 \u2014 Are you wondering how long is 4 inches? We got you, in this blog, you'll explore objects used in daily life that you can use in measurement.",
+      "rank_absolute": 27,
+      "rank_group": 26,
+      "result_type": "items"
+    },
+    {
+      "title": "Is Spirit Airlines Going Out Of Business - Real Or Rumors",
+      "url": "https://boringmagazine.com/is-spirit-airlines-going-out-of-business/",
+      "snippet": "Nov 3, 2024 \u2014 No, Spirit Airlines is not going out of business. The airline continues to operate and provide affordable flights across various\u00a0...",
+      "rank_absolute": 28,
+      "rank_group": 27,
+      "result_type": "items"
+    },
+    {
+      "title": "9 Common Things That Are 6 Inches Long",
+      "url": "https://boringmagazine.com/how-long-is-6-inches/",
+      "snippet": "Aug 18, 2024 \u2014 Are you wondering how long is 6 inches? We got you, in this blog, you'll explore objects used in daily life that you can use in measurement.",
+      "rank_absolute": 29,
+      "rank_group": 28,
+      "result_type": "items"
+    },
+    {
+      "title": "Why The Ola S1 X+ Makes Daily Commutes Smarter (and ...",
+      "url": "https://boringmagazine.com/why-the-ola-s1-x-makes-daily-commutes-smarter-and-greener/",
+      "snippet": "Jun 19, 2025 \u2014 The S1 X+ offers a solid 151 km on a full charge\u2014enough for 4\u20135 days of commuting if you travel around 30 km daily. Just plug it in overnight (\u00a0...",
+      "rank_absolute": 30,
+      "rank_group": 29,
+      "result_type": "items"
+    },
+    {
+      "title": "12 Common Things That Are 7 Inches Long",
+      "url": "https://boringmagazine.com/how-long-is-7-inches/",
+      "snippet": "Portable Power Bank ; Kitchen Knife; Compact Flashlight; Hardcover Book; Small Tablet; Travel-sized Hairbrush; Screwdriver; Banana; Small Hand Sanitizer Bottle\u00a0...",
+      "rank_absolute": 31,
+      "rank_group": 30,
+      "result_type": "items"
+    },
+    {
+      "title": "Education Archives - Boringmagazine.com",
+      "url": "https://boringmagazine.com/education/",
+      "snippet": "Teaching English as a Foreign Language (TEFL ) has become one of the most phenomenal methods for traveling abroad, experiencing vastly... Steve Fletcher | July\u00a0...",
+      "rank_absolute": 32,
+      "rank_group": 31,
+      "result_type": "items"
+    },
+    {
+      "title": "How to Make Train in Infinite Craft \u2013 6 Steps Recipe",
+      "url": "https://boringmagazine.com/how-to-make-train-in-infinite-craft/",
+      "snippet": "Nov 27, 2024 \u2014 Here are 6 easy steps to craft a train when you already possess four basic elements: Earth, Water, Fire, and Wind, to create a new component.",
+      "rank_absolute": 33,
+      "rank_group": 32,
+      "result_type": "items"
+    },
+    {
+      "title": "Top 10 Hair Transplant Clinics In Turkey (2025 Edition)",
+      "url": "https://boringmagazine.com/top-10-hair-transplant-clinics-in-turkey-2025-edition/",
+      "snippet": "Jul 25, 2025 \u2014 With 92% average graft survival rates, real surgeons, and advanced recovery protocols, Turkey is now the global capital for hair restoration.",
+      "rank_absolute": 34,
+      "rank_group": 33,
+      "result_type": "items"
+    },
+    {
+      "title": "Is La Mesa RV Going Out Of Business - Real Or Rumors",
+      "url": "https://boringmagazine.com/is-la-mesa-rv-going-out-of-business/",
+      "snippet": "Dec 7, 2024 \u2014 No, La Mesa RV is not going out of business. While rumors may surface regarding the company's status due to shifts in the RV industry or\u00a0...",
+      "rank_absolute": 35,
+      "rank_group": 34,
+      "result_type": "items"
+    },
+    {
+      "title": "Blogging Archives - Boringmagazine.com",
+      "url": "https://boringmagazine.com/blogging/",
+      "snippet": "TEFL Travel Tips : How to Prepare for Life and Work Abroad. by Steve Fletcher. September 13, 2025. Creative Professionals. The Risk of Being\u00a0...",
+      "rank_absolute": 36,
+      "rank_group": 35,
+      "result_type": "items"
+    },
+    {
+      "title": "Law Archives - Page 2 Of 8",
+      "url": "https://boringmagazine.com/law/page/2/",
+      "snippet": "Jul 3, 2025 \u2014 Do Travel Agents in Australia Offer Better Travel Insurance Options?",
+      "rank_absolute": 37,
+      "rank_group": 36,
+      "result_type": "items"
+    },
+    {
+      "title": "How to Make Pink in Infinite Craft \u2013 6 Steps Recipe",
+      "url": "https://boringmagazine.com/how-to-make-pink-in-infinite-craft/",
+      "snippet": "Nov 30, 2024 \u2014 Here are 6 easy steps to craft a pink when you already possess four basic elements: Earth, Water, Fire, and Wind, to create a new component.",
+      "rank_absolute": 38,
+      "rank_group": 37,
+      "result_type": "items"
+    },
+    {
+      "title": "How to Make Lincoln in Infinite Craft \u2013 6 Steps Recipe",
+      "url": "https://boringmagazine.com/how-to-make-lincoln-in-infinite-craft/",
+      "snippet": "Nov 27, 2024 \u2014 Here are 6 easy steps to craft a Lincoln when you already possess four basic elements: Earth, Water, Fire, and Wind, to create a new component.",
+      "rank_absolute": 39,
+      "rank_group": 38,
+      "result_type": "items"
+    },
+    {
+      "title": "Cilfqtacmitd For Everyday Use And Lasting Benefits",
+      "url": "https://boringmagazine.com/cilfqtacmitd-for-everyday-use-and-lasting-benefits/",
+      "snippet": "4 days ago \u2014 Cilfqtacmitd for everyday use\u2014boost wellness, enhance lifestyle, and enjoy lasting benefits with this unique solution for daily living.",
+      "rank_absolute": 40,
+      "rank_group": 39,
+      "result_type": "items"
+    },
+    {
+      "title": "Is Western Express Going Out Of Business - Real Or Rumors",
+      "url": "https://boringmagazine.com/is-western-express-going-out-of-business/",
+      "snippet": "Nov 8, 2024 \u2014 No, Western Express is not going out of business. The company continues to operate and remains active in the logistics and transportation\u00a0...",
+      "rank_absolute": 41,
+      "rank_group": 40,
+      "result_type": "items"
+    },
+    {
+      "title": "Master The Tefl Journey: Unlock Global Teaching ...",
+      "url": "https://boringmagazine.com/master-the-tefl-journey-unlock-global-teaching-opportunities/",
+      "snippet": "Jul 15, 2025 \u2014 Teaching English as a Foreign Language (TEFL) has become one of the most phenomenal methods for traveling abroad, experiencing vastly\u00a0...",
+      "rank_absolute": 42,
+      "rank_group": 41,
+      "result_type": "items"
+    },
+    {
+      "title": "How To Make Googleplex \ud83c\udf00 In Infinite Craft - 6 Steps Recipe",
+      "url": "https://boringmagazine.com/how-to-make-googleplex-in-infinite-craft/",
+      "snippet": "Dec 1, 2024 \u2014 TEFL Travel Tips: How to Prepare for Life and Work Abroad. by Steve Fletcher. September 13, 2025. Creative Professionals. The\u00a0...",
+      "rank_absolute": 43,
+      "rank_group": 42,
+      "result_type": "items"
+    },
+    {
+      "title": "Is O'charley's Going Out Of Business - Real Or Rumors",
+      "url": "https://boringmagazine.com/is-charleys-going-out-of-business/",
+      "snippet": "Oct 29, 2024 \u2014 Do Travel Agents in Australia Offer Better Travel Insurance Options? by\u00a0...",
+      "rank_absolute": 44,
+      "rank_group": 43,
+      "result_type": "items"
+    },
+    {
+      "title": "Simplify Your Finances And Take Control Of Your Money ...",
+      "url": "https://boringmagazine.com/simplify-your-finances-and-take-control-of-your-money-today/",
+      "snippet": "3 days ago \u2014 Do Travel Agents in Australia Offer Better Travel Insurance Options? by\u00a0...",
+      "rank_absolute": 45,
+      "rank_group": 44,
+      "result_type": "items"
+    },
+    {
+      "title": "RI Mining Introduces First Green XRP Cloud ...",
+      "url": "https://boringmagazine.com/ri-mining-introduces-first-green-xrp-cloud-mining-contract-earn-20k-daily/",
+      "snippet": "3 days ago \u2014 Do Travel Agents in Australia Offer Better Travel Insurance Options? by\u00a0...",
+      "rank_absolute": 46,
+      "rank_group": 45,
+      "result_type": "items"
+    },
+    {
+      "title": "Review Archives - Page 7 Of 10 - Boringmagazine.com",
+      "url": "https://boringmagazine.com/review/page/7/",
+      "snippet": "Family Travel Hacks: How To Plan and Enjoy Your Next Family Adventure ... Travel \u00b7 Who Owns \u00b7 Boring Magazine Logo. The Boring Magazine is a\u00a0...",
+      "rank_absolute": 47,
+      "rank_group": 46,
+      "result_type": "items"
+    },
+    {
+      "title": "Jeep Roof Racks Which One Is Right For Your Off-Road ...",
+      "url": "https://boringmagazine.com/jeep-roof-racks-which-one-is-right-for-your-off-road-needs/",
+      "snippet": "Apr 8, 2025 \u2014 It offers a strong, expansive platform that can support everything from rooftop tents to storage boxes. It's ideal for long off-road trips where\u00a0...",
+      "rank_absolute": 48,
+      "rank_group": 47,
+      "result_type": "items"
+    },
+    {
+      "title": "Business Archives - Page 9 Of 36 - Boringmagazine.com",
+      "url": "https://boringmagazine.com/business/page/9/",
+      "snippet": "Do Travel Agents in Australia Offer Better Travel Insurance Options? by Steve Fletcher.",
+      "rank_absolute": 49,
+      "rank_group": 48,
+      "result_type": "items"
+    },
+    {
+      "title": "The Ultimate Guide To Climbing Mount Kilimanjaro Without ...",
+      "url": "https://boringmagazine.com/the-ultimate-guide-to-climbing-mount-kilimanjaro-without-stress/",
+      "snippet": "Sep 18, 2025 \u2014 Start training at least three to six months before your trip. Incorporate a mix of cardio, strength training, and hiking into your routine. Aim\u00a0...",
+      "rank_absolute": 50,
+      "rank_group": 49,
+      "result_type": "items"
+    },
+    {
+      "title": "Zip-Code Justice: Why Drug Punishment In America ...",
+      "url": "https://boringmagazine.com/zip-code-justice-why-drug-punishment-in-america-depends-on-where-you-live/",
+      "snippet": "3 days ago \u2014 Do Travel Agents in Australia Offer Better Travel Insurance Options? by\u00a0...",
+      "rank_absolute": 51,
+      "rank_group": 50,
+      "result_type": "items"
+    },
+    {
+      "title": "Fashion Archives - Boringmagazine.com",
+      "url": "https://boringmagazine.com/fashion/",
+      "snippet": "TEFL Travel Tips: How to Prepare for Life and Work Abroad. by Steve Fletcher. September 13, 2025. Creative Professionals. The Risk of Being\u00a0...",
+      "rank_absolute": 52,
+      "rank_group": 51,
+      "result_type": "items"
+    },
+    {
+      "title": "The Best And Most Popular Online Games In Canada",
+      "url": "https://boringmagazine.com/most-popular-online-games-in-canada-2025/",
+      "snippet": "Jun 26, 2025 \u2014 By making casino games mobile-optimized, players no longer have to travel long distances to land-based casinos to bet on their favorite slot\u00a0...",
+      "rank_absolute": 53,
+      "rank_group": 52,
+      "result_type": "items"
+    },
+    {
+      "title": "HONOR 400 AI Features: A Leap In Smartphone Intelligence",
+      "url": "https://boringmagazine.com/what-makes-honor-400s-ai-features-stand-out/",
+      "snippet": "Jun 23, 2025 \u2014 It handles both text and audio formats, making it ideal for international travel, cross-border communication, and language learning. ... TEFL\u00a0...",
+      "rank_absolute": 54,
+      "rank_group": 53,
+      "result_type": "items"
+    },
+    {
+      "title": "Smart & Portable Chargers: Benefits Of Retractable Cable ...",
+      "url": "https://boringmagazine.com/smart-portable-chargers-benefits-of-retractable-cable-design/",
+      "snippet": "May 23, 2025 \u2014 The Gitryin Retractable Charger has been designed with versatility in mind. For those who travel a lot, space-saving design means no more messy\u00a0...",
+      "rank_absolute": 55,
+      "rank_group": 54,
+      "result_type": "items"
+    },
+    {
+      "title": "William Gregory Buckingham: Lindsey Buckingham's Son ...",
+      "url": "https://boringmagazine.com/william-gregory-buckingham/",
+      "snippet": "Feb 1, 2025 \u2014 Growing up in the shadow of rock royalty, William's early years were likely filled with music, travel, and the unique dynamics of being the\u00a0...",
+      "rank_absolute": 56,
+      "rank_group": 55,
+      "result_type": "items"
+    },
+    {
+      "title": "What Social Reviews Can Say About an Instagram Profile's ...",
+      "url": "https://boringmagazine.com/what-social-reviews-can-say-about-an-instagram-profiles-growth/",
+      "snippet": "May 22, 2025 \u2014 Companies in fashion, travel, or wellness can usually enjoy quicker growth than those in the most narrow sectors. Nonetheless, the biggest\u00a0...",
+      "rank_absolute": 57,
+      "rank_group": 56,
+      "result_type": "items"
+    },
+    {
+      "title": "The Ethical Employer's Guide To Carbon Literacy And First ...",
+      "url": "https://boringmagazine.com/the-ethical-employers-guide-to-carbon-literacy-and-first-aid-at-work/",
+      "snippet": "May 13, 2025 \u2014 Switching to energy-efficient lighting, using local suppliers, and reducing travel by improving remote work options all help. Even changing\u00a0...",
+      "rank_absolute": 58,
+      "rank_group": 57,
+      "result_type": "items"
+    },
+    {
+      "title": "Who Is Janel Bloodsworth - Age & Life Of Tom Guiry's Wife",
+      "url": "https://boringmagazine.com/who-is-janel-bloodsworth/",
+      "snippet": "Jan 20, 2025 \u2014 Do Travel Agents in Australia Offer Better Travel Insurance Options? by\u00a0...",
+      "rank_absolute": 59,
+      "rank_group": 58,
+      "result_type": "items"
+    },
+    {
+      "title": "Choosing The Right Registered Agent For Your Business",
+      "url": "https://boringmagazine.com/choosing-the-right-registered-agent-for-your-business-roles-risks-and-benefits/",
+      "snippet": "Sep 9, 2025 \u2014 Travel \u00b7 Who Owns \u00b7 Boring Magazine Logo. The Boring Magazine is a knowledge hub for Measurement, Technology, Business Guides & Ideas, Latest\u00a0...",
+      "rank_absolute": 60,
+      "rank_group": 59,
+      "result_type": "items"
+    },
+    {
+      "title": "Michelle Suzanne Mellencamp Age & Life of John ...",
+      "url": "https://boringmagazine.com/michelle-suzanne-mellencamp/",
+      "snippet": "Jan 24, 2025 \u2014 Do Travel Agents in Australia Offer Better Travel Insurance Options? by\u00a0...",
+      "rank_absolute": 61,
+      "rank_group": 60,
+      "result_type": "items"
+    },
+    {
+      "title": "Who Is Tesehki Husband? Drama Unfolds",
+      "url": "https://boringmagazine.com/tesehki-husband/",
+      "snippet": "Apr 23, 2025 \u2014 Social Media Influencer. Social Media, Instagram, Twitter, TikTok. Shared Interests, Travel, Charity, Tech. Who is Tesehki Married to? Ever\u00a0...",
+      "rank_absolute": 62,
+      "rank_group": 61,
+      "result_type": "items"
+    },
+    {
+      "title": "How Product Listing Optimisation Services Can Save You ...",
+      "url": "https://boringmagazine.com/how-product-listing-optimisation-services-can-save-you-money-on-ads/",
+      "snippet": "Sep 16, 2025 \u2014 TEFL Travel Tips: How to Prepare for Life and Work Abroad. by Steve Fletcher. September 13, 2025. Creative Professionals. The\u00a0...",
+      "rank_absolute": 63,
+      "rank_group": 62,
+      "result_type": "items"
+    },
+    {
+      "title": "Clinical Placement Tips For Psychiatric Nurse Practitioner ...",
+      "url": "https://boringmagazine.com/clinical-placement-tips-for-psychiatric-nurse-practitioner-students/",
+      "snippet": "Sep 3, 2025 \u2014 TEFL Travel Tips: How to Prepare for Life and Work Abroad. by Steve Fletcher. September 13, 2025. Creative Professionals. The\u00a0...",
+      "rank_absolute": 64,
+      "rank_group": 63,
+      "result_type": "items"
+    },
+    {
+      "title": "Who Is Bunny Hayler - Age & Life Of Kieran ...",
+      "url": "https://boringmagazine.com/who-is-bunny-hayler/",
+      "snippet": "Dec 23, 2024 \u2014 Do Travel Agents in Australia Offer Better Travel Insurance Options? by\u00a0...",
+      "rank_absolute": 65,
+      "rank_group": 64,
+      "result_type": "items"
+    },
+    {
+      "title": "Cleive Ester Adams: Life & Legacy Of Sonya Curry's Father",
+      "url": "https://boringmagazine.com/cleive-ester-adams/",
+      "snippet": "Dec 16, 2024 \u2014 Do Travel Agents in Australia Offer Better Travel Insurance Options? by\u00a0...",
+      "rank_absolute": 66,
+      "rank_group": 65,
+      "result_type": "items"
+    },
+    {
+      "title": "Is Sensa138 Mobile App 2025: Play Anytime, Anywhere ...",
+      "url": "https://boringmagazine.com/is-sensa138-mobile-app-2025-play-anytime-anywhere-around-the-world/",
+      "snippet": "Sep 15, 2025 \u2014 TEFL Travel Tips: How to Prepare for Life and Work Abroad. by Steve Fletcher. September 13, 2025. Creative Professionals. The\u00a0...",
+      "rank_absolute": 67,
+      "rank_group": 66,
+      "result_type": "items"
+    },
+    {
+      "title": "How to Make Vape in Infinite Craft \u2013 6 Steps Recipe",
+      "url": "https://boringmagazine.com/how-to-make-vape-in-infinite-craft/",
+      "snippet": "Nov 30, 2024 \u2014 TEFL Travel Tips: How to Prepare for Life and Work Abroad. by Steve Fletcher. September 13, 2025. Creative Professionals. The\u00a0...",
+      "rank_absolute": 68,
+      "rank_group": 67,
+      "result_type": "items"
+    },
+    {
+      "title": "What Every Warehouse Manager Should Know About ...",
+      "url": "https://boringmagazine.com/what-every-warehouse-manager-should-know-about-equipment-downtime/",
+      "snippet": "May 30, 2025 \u2014 TEFL Travel Tips: How to Prepare for Life and Work Abroad. by Steve Fletcher. September 13, 2025. Creative Professionals. The\u00a0...",
+      "rank_absolute": 69,
+      "rank_group": 68,
+      "result_type": "items"
+    },
+    {
+      "title": "How To Make Marriage \ud83d\udc8d In Infinite Craft - 6 Steps Recipe",
+      "url": "https://boringmagazine.com/how-to-make-marriage-in-infinite-craft/",
+      "snippet": "Nov 30, 2024 \u2014 TEFL Travel Tips: How to Prepare for Life and Work Abroad. by Steve Fletcher. September 13, 2025. Creative Professionals. The\u00a0...",
+      "rank_absolute": 70,
+      "rank_group": 69,
+      "result_type": "items"
+    },
+    {
+      "title": "Why Online Gaming Platforms Are Outpacing Their Land- ...",
+      "url": "https://boringmagazine.com/why-online-gaming-platforms-are-outpacing-their-land-based-counterparts/",
+      "snippet": "Apr 1, 2025 \u2014 You can play casino games in between your hectic days, no matter whether it's a lunch break or you are travelling somewhere. #2 Game Variety. If\u00a0...",
+      "rank_absolute": 71,
+      "rank_group": 70,
+      "result_type": "items"
+    },
+    {
+      "title": "Jack Quaid Age, Height & Life Of Dennis Quaid Son",
+      "url": "https://boringmagazine.com/who-is-jack-quaid/",
+      "snippet": "Dec 25, 2024 \u2014 Do Travel Agents in Australia Offer Better Travel Insurance Options? by\u00a0...",
+      "rank_absolute": 72,
+      "rank_group": 71,
+      "result_type": "items"
+    },
+    {
+      "title": "Shade Matters: The Best Trees To Plant For Beating ...",
+      "url": "https://boringmagazine.com/shade-matters-the-best-trees-to-plant-for-beating-the-summer-heat/",
+      "snippet": "May 22, 2025 \u2014 So grab a shovel, choose wisely, and let the shade begin. Search. Search. Recent Posts. TEFL Travel Tips: How to Prepare for Life and Work\u00a0...",
+      "rank_absolute": 73,
+      "rank_group": 72,
+      "result_type": "items"
+    },
+    {
+      "title": "Sergio Giuseppe Ripa - Age, Net Worth & Linda Ripa Son ...",
+      "url": "https://boringmagazine.com/sergio-giuseppe-ripa/",
+      "snippet": "Jan 17, 2025 \u2014 Do Travel Agents in Australia Offer Better Travel Insurance Options? by\u00a0...",
+      "rank_absolute": 74,
+      "rank_group": 73,
+      "result_type": "items"
+    },
+    {
+      "title": "Is MidwayUSA Going Out Of Business - Real Or Rumors",
+      "url": "https://boringmagazine.com/is-midwayusa-going-out-of-business/",
+      "snippet": "Dec 7, 2024 \u2014 Do Travel Agents in Australia Offer Better Travel Insurance Options? by\u00a0...",
+      "rank_absolute": 75,
+      "rank_group": 74,
+      "result_type": "items"
+    },
+    {
+      "title": "Legacy Of Francisca Garc\u00eda Acevedo: Family And Resilience",
+      "url": "https://boringmagazine.com/francisca-garcia-acevedo/",
+      "snippet": "Dec 4, 2024 \u2014 Do Travel Agents in Australia Offer Better Travel Insurance Options? by\u00a0...",
+      "rank_absolute": 76,
+      "rank_group": 75,
+      "result_type": "items"
+    },
+    {
+      "title": "On Trend For Wedding Season: Popular Bridesmaid Dress ...",
+      "url": "https://boringmagazine.com/on-trend-for-wedding-season-popular-bridesmaid-dress-colors/",
+      "snippet": "May 19, 2025 \u2014 TEFL Travel Tips: How to Prepare for Life and Work Abroad. by Steve Fletcher. September 13, 2025. Creative Professionals. The\u00a0...",
+      "rank_absolute": 77,
+      "rank_group": 76,
+      "result_type": "items"
+    },
+    {
+      "title": "Catalina Stoltz - Daughter Of Eric Stoltz & Bernadette Moley",
+      "url": "https://boringmagazine.com/catalina-stoltz/",
+      "snippet": "Dec 5, 2024 \u2014 She enjoys outdoor adventures, travel, and indulging in culinary experiences. These hobbies allow her to unwind and remain grounded amidst the\u00a0...",
+      "rank_absolute": 78,
+      "rank_group": 77,
+      "result_type": "items"
+    },
+    {
+      "title": "Who Is Kemba Smith Husband? Patrick Pradia's Role In ...",
+      "url": "https://boringmagazine.com/kemba-smith-husband/",
+      "snippet": "Apr 26, 2025 \u2014 TEFL Travel Tips: How to Prepare for Life and Work Abroad. by Steve Fletcher. September 13, 2025. Creative Professionals. The\u00a0...",
+      "rank_absolute": 79,
+      "rank_group": 78,
+      "result_type": "items"
+    },
+    {
+      "title": "Exploring The Best Multiplayer Games For Endless Fun",
+      "url": "https://boringmagazine.com/exploring-the-best-multiplayer-games-for-endless-fun/",
+      "snippet": "Jul 28, 2025 \u2014 The future of multiplayer gaming is very exciting and the best is yet to come. Search. Search. Recent Posts. TEFL Travel Tips: How to Prepare\u00a0...",
+      "rank_absolute": 80,
+      "rank_group": 79,
+      "result_type": "items"
+    },
+    {
+      "title": "Grace Charis Rose To Fame And Built An Impressive Net ...",
+      "url": "https://boringmagazine.com/grace-charis/",
+      "snippet": "May 28, 2025 \u2014 What lifestyle does she lead? Grace Charis enjoys a luxurious yet balanced lifestyle with investments in real estate, travel, and fashion.",
+      "rank_absolute": 81,
+      "rank_group": 80,
+      "result_type": "items"
+    },
+    {
+      "title": "5 Best Trails In Koh Samui For Scenic Hikes And Nature ...",
+      "url": "https://boringmagazine.com/5-best-trails-in-koh-samui-for-scenic-hikes-and-nature-adventures/",
+      "snippet": "Apr 9, 2025 \u2014 Travel \u00b7 Contact Us \u00b7 Home \u00bb Travel \u00bb 5 Best Trails in Koh Samui for Scenic Hikes and Nature Adventures. Travel. 5 Best Trails in Koh Samui for\u00a0...",
+      "rank_absolute": 82,
+      "rank_group": 81,
+      "result_type": "items"
+    },
+    {
+      "title": "Priscilla Esterline - Legacy & John Mellencamp's Ex Life",
+      "url": "https://boringmagazine.com/priscilla-esterline/",
+      "snippet": "Jan 24, 2025 \u2014 Do Travel Agents in Australia Offer Better Travel Insurance Options? by\u00a0...",
+      "rank_absolute": 83,
+      "rank_group": 82,
+      "result_type": "items"
+    },
+    {
+      "title": "Is Orvis Going Out Of Business - Real Or Rumors",
+      "url": "https://boringmagazine.com/is-orvis-going-out-of-business/",
+      "snippet": "Oct 24, 2024 \u2014 is humbl closing? old navy shutdown. Search. Search. Recent Posts. TEFL Travel Tips: How to Prepare for Life and Work Abroad. by\u00a0...",
+      "rank_absolute": 84,
+      "rank_group": 83,
+      "result_type": "items"
+    },
+    {
+      "title": "How To Choose Professional Tree Care Services",
+      "url": "https://boringmagazine.com/how-to-choose-professional-tree-care-services/",
+      "snippet": "Sep 16, 2025 \u2014 Travel \u00b7 Who Owns \u00b7 Boring Magazine Logo. The Boring Magazine is a knowledge hub for Measurement, Technology, Business Guides & Ideas, Latest\u00a0...",
+      "rank_absolute": 85,
+      "rank_group": 84,
+      "result_type": "items"
+    },
+    {
+      "title": "Compact And Cute Grinders You'll Love To Show Off",
+      "url": "https://boringmagazine.com/compact-and-cute-grinders-youll-love-to-show-off/",
+      "snippet": "Jul 25, 2025 \u2014 This grinder brings charm and cheer to every session, especially for those who love pets. Its small size makes it ideal for traveling, fitting\u00a0...",
+      "rank_absolute": 86,
+      "rank_group": 85,
+      "result_type": "items"
+    },
+    {
+      "title": "The Life Of Mary Joan Hansen: Ex-Wife Of Chris Hansen",
+      "url": "https://boringmagazine.com/mary-joan-hansen/",
+      "snippet": "Dec 17, 2024 \u2014 Do Travel Agents in Australia Offer Better Travel Insurance Options? by\u00a0...",
+      "rank_absolute": 87,
+      "rank_group": 86,
+      "result_type": "items"
+    },
+    {
+      "title": "Michael Consuelos - Age, Net Worth, Career & Relationship",
+      "url": "https://boringmagazine.com/michael-consuelos/",
+      "snippet": "Jan 15, 2025 \u2014 Do Travel Agents in Australia Offer Better Travel Insurance Options? by\u00a0...",
+      "rank_absolute": 88,
+      "rank_group": 87,
+      "result_type": "items"
+    },
+    {
+      "title": "Azure Luna Buck And L'Wren True Buck - Jon B's Daughters",
+      "url": "https://boringmagazine.com/azure-luna-buck-and-l-wren-true-buck/",
+      "snippet": "Jan 3, 2025 \u2014 Do Travel Agents in Australia Offer Better Travel Insurance Options? by\u00a0...",
+      "rank_absolute": 89,
+      "rank_group": 88,
+      "result_type": "items"
+    },
+    {
+      "title": "Who Is Juliette Vann? Life Of Darius McCrary's Ex-Wife",
+      "url": "https://boringmagazine.com/who-is-juliette-vann/",
+      "snippet": "Jan 7, 2025 \u2014 Do Travel Agents in Australia Offer Better Travel Insurance Options? by\u00a0...",
+      "rank_absolute": 90,
+      "rank_group": 89,
+      "result_type": "items"
+    },
+    {
+      "title": "9 Unexpected Ways Old School Crafts Are Making A ...",
+      "url": "https://boringmagazine.com/9-unexpected-ways-old-school-crafts-are-making-a-comeback/",
+      "snippet": "Aug 13, 2025 \u2014 Craft Tourism and Hands-On Workshops. Travel is now being paired with learning traditional skills. Many people are booking craft-based trips\u00a0...",
+      "rank_absolute": 91,
+      "rank_group": 90,
+      "result_type": "items"
+    },
+    {
+      "title": "Best Way To Set Up A Company In The UK: A Simple Step- ...",
+      "url": "https://boringmagazine.com/best-way-to-set-up-a-company-in-the-uk-a-simple-step-by-step-guide/",
+      "snippet": "Jul 8, 2025 \u2014 Travel Experience Luxurious. Tips to Make Your Travel Experience Luxurious. by Steve Fletcher. July 8, 2025. Dream Office. Building Your Dream\u00a0...",
+      "rank_absolute": 92,
+      "rank_group": 91,
+      "result_type": "items"
+    },
+    {
+      "title": "Icons8 Api: Build\u2011ready Asset Pipeline For Teams Under ...",
+      "url": "https://boringmagazine.com/icons8-api-build%E2%80%91ready-asset-pipeline-for-teams-under-deadline/",
+      "snippet": "Sep 17, 2025 \u2014 Social teams choose audio that will not trip platform alarms. Utilities. Three realistic time savers: an upscaler that sharpens and denoises, a\u00a0...",
+      "rank_absolute": 93,
+      "rank_group": 92,
+      "result_type": "items"
+    },
+    {
+      "title": "How Far Is 500 Feet? Things To Help You Visualize",
+      "url": "https://boringmagazine.com/how-far-is-500-feet/",
+      "snippet": "May 16, 2025 \u2014 TEFL Travel Tips: How to Prepare for Life and Work Abroad. by Steve Fletcher. September 13, 2025. Creative Professionals. The\u00a0...",
+      "rank_absolute": 94,
+      "rank_group": 93,
+      "result_type": "items"
+    },
+    {
+      "title": "The Boring Magazine - Latest News For Tech & Entertainment ...",
+      "url": "https://boringmagazine.com/",
+      "snippet": "Travel \u00b7 Contact Us. Simplify Your Finances and Take Control of Your Money Today. Business. Simplify Your Finances and Take Control of Your Money Today. Steve\u00a0...",
+      "rank_absolute": 95,
+      "rank_group": 94,
+      "result_type": "items"
+    },
+    {
+      "title": "5 Common Things That Are 18 Inches Long/Big",
+      "url": "https://boringmagazine.com/how-long-is-18-inches/",
+      "snippet": "Oct 16, 2024 \u2014 How to Measure 18 Inches While Traveling Without Tools: Easy Methods \u00b7 Pacing: Count your steps, knowing that an average adult step is about 24-\u00a0...",
+      "rank_absolute": 96,
+      "rank_group": 95,
+      "result_type": "items"
+    },
+    {
+      "title": "5 Common Things That Are 16 Inches Long/Big",
+      "url": "https://boringmagazine.com/how-long-is-16-inches/",
+      "snippet": "Oct 16, 2024 \u2014 How to Measure 16 Inches While Traveling Without Tools: Big and Easy Methods \u00b7 Use Your Arm: The length from elbow to fingertips for many adults\u00a0...",
+      "rank_absolute": 97,
+      "rank_group": 96,
+      "result_type": "items"
+    },
+    {
+      "title": "About - Boringmagazine.com",
+      "url": "https://boringmagazine.com/about/",
+      "snippet": "Travel \u00b7 Contact Us \u00b7 Home \u00bb About. Welcome to Boring Magazine \u2013 Your Go-To Hub for Insights and Inspiration! Hey there! We're thrilled you stopped by. At the\u00a0...",
+      "rank_absolute": 98,
+      "rank_group": 97,
+      "result_type": "items"
+    },
+    {
+      "title": "5 Common Objects That Are 7.5 Inches Big/Long",
+      "url": "https://boringmagazine.com/how-big-is-7-5-inches/",
+      "snippet": "Oct 15, 2024 \u2014 How to Measure 7.5 Inches While Traveling Without Tools: Easy Methods \u00b7 Use a Tablet or Smartphone: Many smartphones and tablets are close to\u00a0...",
+      "rank_absolute": 99,
+      "rank_group": 98,
+      "result_type": "items"
+    },
+    {
+      "title": "Fitness Archives - Boringmagazine.com",
+      "url": "https://boringmagazine.com/fitness/",
+      "snippet": "Travel \u00b7 Who Owns \u00b7 Boring Magazine Logo. The Boring Magazine is a knowledge hub for Measurement, Technology, Business Guides & Ideas, Latest News,\u00a0...",
+      "rank_absolute": 100,
+      "rank_group": 99,
+      "result_type": "items"
+    }
+  ]
+}

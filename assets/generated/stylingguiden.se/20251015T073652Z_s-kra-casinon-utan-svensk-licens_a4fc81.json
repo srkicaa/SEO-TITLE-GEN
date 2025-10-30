@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-15T07:36:52Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "stylingguiden.se",
+    "anchor_keyword": "S\u00e4kra casinon utan svensk licens",
+    "anchor_country": "Sweden",
+    "target_url": "https://www.umamicart.com/sv/casino/utan-bankid/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Kl\u00e4dkod Och Etikett F\u00f6r En Digital Casinokv\u00e4ll Hemifr\u00e5n",
+      "rationale": "Knyter an till StylingGuiden.se:s fokus p\u00e5 stil och beteende, samtidigt som en l\u00e4nk kan f\u00f6rdjupa hur inloggning och identitetskontroller fungerar vid spel online utan traditionell BankID-process."
+    },
+    {
+      "title": "S\u00e5 Funkar Bankid, E-Pl\u00e5nb\u00f6cker Och Andra Inloggningss\u00e4tt P\u00e5 Casinon",
+      "rationale": "Informativt format i linje med sajtens guider om betalningar; l\u00e4nken kan ge l\u00e4saren en f\u00f6rklaring av alternativ n\u00e4r BankID inte anv\u00e4nds och vilka rutiner som g\u00e4ller."
+    },
+    {
+      "title": "Svenska Stilval F\u00f6r Casinokv\u00e4llen: Fr\u00e5n Looken Till Smartare Betalvanor",
+      "rationale": "F\u00f6renar mode- och livsstilsvinkel med praktiska r\u00e5d om betalningsmetoder; l\u00e4nken kan erbjuda f\u00f6rdjupning kring ID-l\u00f6s inloggning och s\u00e4kerhetsaspekter."
+    },
+    {
+      "title": "Planera En Casinofest: Inredning, Dresscode Och Digital S\u00e4kerhet",
+      "rationale": "Passar sajtens fest- och stylinginneh\u00e5ll; ger naturlig motivering att l\u00e4nka till en resurs som f\u00f6rklarar tryggare inloggning och verifiering online utan BankID."
+    },
+    {
+      "title": "Nyb\u00f6rjarguide Till Casinon Online: Etikett, Betalningar Och Ansvarsfullt Spel",
+      "rationale": "Handfast guide som k\u00e4nns hemma p\u00e5 StylingGuiden.se; l\u00e4nken kan komplettera med tydlig genomg\u00e5ng av hur man spelar n\u00e4r BankID inte anv\u00e4nds och vad man b\u00f6r t\u00e4nka p\u00e5 f\u00f6r s\u00e4kerhet."
+    }
+  ],
+  "titles_context": [
+    "Att hitta det b\u00e4st l\u00e4mpade Online Casinot: Var b\u00f6rjar man?",
+    "Kl\u00e4dkoder p\u00e5 casinon i Las Vegas - StylingGuiden.se",
+    "Hur fungerar blackjack p\u00e5 ett live casino? | StylingGuiden.se",
+    "Vilken stil f\u00f6r en kv\u00e4ll p\u00e5 casinot? Kl\u00e4dkod, identitet och slots",
+    "Stil hos de b\u00e4sta Utl\u00e4ndska Casinon - StylingGuiden.se",
+    "Tips f\u00f6r nyb\u00f6rjare till online casino i 2022 | StylingGuiden.se",
+    "S\u00e5 viktiga \u00e4r betalningsmetoder p\u00e5 online casinon",
+    "En kv\u00e4ll p\u00e5 casinot: Kl\u00e4dkod | StylingGuiden.se",
+    "S\u00e5 designar du ett slotsspel p\u00e5 casino p\u00e5 n\u00e4tet",
+    "Alla bra saker Swish kan anv\u00e4ndas till - StylingGuiden.se",
+    "Snygga kl\u00e4dtips f\u00f6r en lyckad casinokv\u00e4ll - StylingGuiden.se",
+    "7 Inredningstips f\u00f6r den ultimata casinofesten - StylingGuiden.se",
+    "Allm\u00e4nt - L\u00e4s allt du beh\u00f6ver veta om (2025) - StylingGuiden.se",
+    "Allm\u00e4nt - L\u00e4s allt du beh\u00f6ver veta om (2025) - StylingGuiden.se",
+    "Michael Kors Axelremsv\u00e4ska (2025) | 8 v\u00e4skor du inte f\u00e5r missa",
+    "Fest med casinotema - tips & r\u00e5d | StylingGuiden.se",
+    "B\u00e4sta lockt\u00e5ng f\u00f6r hemmabruk - hot tools - StylingGuiden.se",
+    "Stiliga profilkl\u00e4der f\u00f6r alla tillf\u00e4llen - StylingGuiden.se",
+    "Hur modeikoner och digitala designers inspirerar varandra",
+    "Hitta den perfekta passformen med r\u00e4tt BH - StylingGuiden.se",
+    "Allm\u00e4nt - L\u00e4s allt du beh\u00f6ver veta om (2025) - StylingGuiden.se",
+    "5 produkter som motverkar skadat h\u00e5r och kluvna toppar",
+    "Uppt\u00e4ck m\u00f6jligheten med t-shirts till grossistpriser!",
+    "Hitta r\u00e4tt verktyg f\u00f6r n\u00e4sta projekt - StylingGuiden.se",
+    "Sminkspegel med belysning - StylingGuiden.se"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.umamicart.com/sv/casino/utan-bankid/ that feel at home on stylingguiden.se.\n\nReference SERP keyword: casinon\nAnchor keyword (use only if natural): S\u00e4kra casinon utan svensk licens\n\nAnchor operates in: Sweden\n\nReference titles:\n- Att hitta det b\u00e4st l\u00e4mpade Online Casinot: Var b\u00f6rjar man?\n- Kl\u00e4dkoder p\u00e5 casinon i Las Vegas - StylingGuiden.se\n- Hur fungerar blackjack p\u00e5 ett live casino? | StylingGuiden.se\n- Vilken stil f\u00f6r en kv\u00e4ll p\u00e5 casinot? Kl\u00e4dkod, identitet och slots\n- Stil hos de b\u00e4sta Utl\u00e4ndska Casinon - StylingGuiden.se\n- Tips f\u00f6r nyb\u00f6rjare till online casino i 2022 | StylingGuiden.se\n- S\u00e5 viktiga \u00e4r betalningsmetoder p\u00e5 online casinon\n- En kv\u00e4ll p\u00e5 casinot: Kl\u00e4dkod | StylingGuiden.se\n- S\u00e5 designar du ett slotsspel p\u00e5 casino p\u00e5 n\u00e4tet\n- Alla bra saker Swish kan anv\u00e4ndas till - StylingGuiden.se\n- Snygga kl\u00e4dtips f\u00f6r en lyckad casinokv\u00e4ll - StylingGuiden.se\n- 7 Inredningstips f\u00f6r den ultimata casinofesten - StylingGuiden.se\n- Allm\u00e4nt - L\u00e4s allt du beh\u00f6ver veta om (2025) - StylingGuiden.se\n- Allm\u00e4nt - L\u00e4s allt du beh\u00f6ver veta om (2025) - StylingGuiden.se\n- Michael Kors Axelremsv\u00e4ska (2025) | 8 v\u00e4skor du inte f\u00e5r missa\n- Fest med casinotema - tips & r\u00e5d | StylingGuiden.se\n- B\u00e4sta lockt\u00e5ng f\u00f6r hemmabruk - hot tools - StylingGuiden.se\n- Stiliga profilkl\u00e4der f\u00f6r alla tillf\u00e4llen - StylingGuiden.se\n- Hur modeikoner och digitala designers inspirerar varandra\n- Hitta den perfekta passformen med r\u00e4tt BH - StylingGuiden.se\n- Allm\u00e4nt - L\u00e4s allt du beh\u00f6ver veta om (2025) - StylingGuiden.se\n- 5 produkter som motverkar skadat h\u00e5r och kluvna toppar\n- Uppt\u00e4ck m\u00f6jligheten med t-shirts till grossistpriser!\n- Hitta r\u00e4tt verktyg f\u00f6r n\u00e4sta projekt - StylingGuiden.se\n- Sminkspegel med belysning - StylingGuiden.se\n\nGuidance:\n1. Combine your own knowledge of stylingguiden.se's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to stylingguiden.se while naturally justifying a link to https://www.umamicart.com/sv/casino/utan-bankid/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude S\u00e4kra casinon utan svensk licens and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Sweden where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1313,
+    "completion_tokens": 1199
+  },
+  "cost_usd": 0.0982
+}

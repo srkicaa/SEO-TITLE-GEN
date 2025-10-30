@@ -1,0 +1,808 @@
+{
+  "mode": "live",
+  "task_id": "09221409-4117-0121-0000-40067cec167f",
+  "query": "site:roger.com casino crypto",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "6 Bitcoin Casino Bonuses That Surprise New Players",
+      "url": "https://www.roger.com/articles/crypto/best-bitcoin-casino-bonuses/",
+      "snippet": "Bitcoin casino bonuses are usually more flexible and generous than standard promos. Discover the six best BTC bonuses and how to get them online today.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Koning Casino: Crypto Casino Review + Welcome Bonus ...",
+      "url": "https://www.roger.com/operator/koning-casino/",
+      "snippet": "Koning Casino is unlicensed and is classed as an offshore crypto casino. ... Koning Casino is currently offering online Casino, Live Casino, Sport options\u00a0...",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Crypto Blog Articles: All Things Crypto And Bitcoin Related",
+      "url": "https://www.roger.com/articles/crypto/",
+      "snippet": "Compared to traditional online casinos, crypto casinos offer more flexible and rewarding bonuses. New players, especially, should explore crypto-friendly\u00a0...",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "NIYVI Casino",
+      "url": "https://www.roger.com/operator/niyvi-casino/",
+      "snippet": "Join up at NIYVI Casino and you could grab yourself a new player welcome offer of 50 free spins + 100% deposit match. New crypto casino in 2024.",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Bitcoin.com Casino: Platform Review + Share Of 1 BTC Here",
+      "url": "https://www.roger.com/operator/bitcoin-com-casino/",
+      "snippet": "We've reviewed Bitcoin.com Casino in full and have checked out their new player welcome offer where you can get a share of one Bitcoin as a new player.",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "Online Casino Operators Blog",
+      "url": "https://www.roger.com/articles/operators/",
+      "snippet": "A look at the online casino options from around the world, including licensed operators and new offshore casinos that accept cryptocurrency.",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "BC.GAME - Win Up To 500 USDT (Crypto Casino)",
+      "url": "https://www.roger.com/operator/bc-game/",
+      "snippet": "BC.GAME is a Cura\u00e7ao licensed crypto casino offering new players the chance to win up to 500 USDT when joining and making your first deposit.",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "How AI and Blockchain Are Powering Up iGaming in 2025",
+      "url": "https://www.roger.com/articles/what-is/ai-and-blockchain-impacts-on-online-casinos/",
+      "snippet": "AI and blockchain technology are two powerhouses fuelling changes in the iGaming industry. But is this for the better? Discover how they may affect you now.",
+      "rank_absolute": 8,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "8 of the Best Bitcoin Casinos",
+      "url": "https://www.roger.com/articles/operators/bitcoin-casinos/",
+      "snippet": "A comparison of the best 8 Bitcoin casinos. Find a BTC casino that suits you and join up today. Deposit and withdraw winnings in Bitcoin.",
+      "rank_absolute": 9,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "How Safe Are Crypto Casinos? Beginner's Guide",
+      "url": "https://www.roger.com/articles/crypto/how-safe-are-crypto-casinos/",
+      "snippet": "Crypto casinos are one of the hottest additions to the gambling industry, but are they 100% safe? Discover how safe cryptocurrency casinos really are now.",
+      "rank_absolute": 10,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "How To Understand The Workings Of A Crypto Casino In 2024",
+      "url": "https://www.roger.com/articles/crypto/understanding-the-workings-of-a-crypto-casino/",
+      "snippet": "Learn how to choose a reliable crypto casino, register, make deposits, and increase win potential with this guide. Start gambling with Bitcoin today!",
+      "rank_absolute": 12,
+      "rank_group": 11,
+      "result_type": "items"
+    },
+    {
+      "title": "The Best Casino Aggregators In 2025",
+      "url": "https://www.roger.com/articles/what-is/best-casino-aggregators-2025/",
+      "snippet": "Crypto-Friendly Support \u2014 SoftSwiss was one of the first aggregators to embrace cryptocurrency gaming, providing seamless blockchain-based transactions.",
+      "rank_absolute": 13,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "What To Look For From A Sweepstake Casino",
+      "url": "https://www.roger.com/articles/sweepstakes/what-to-look-for-from-a-new-sweepstakes-casino/",
+      "snippet": "Skrill; Trustly; Google Pay; Apple Pay; Bank transfer; Even specific cryptocurrencies on crypto-friendly sweepstakes casinos. Redemption methods & thresholds.",
+      "rank_absolute": 14,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "What Are The Safest iGaming Payment Methods?",
+      "url": "https://www.roger.com/articles/deposits-and-withdrawals/safest-igaming-payment-options/",
+      "snippet": "That's why reputable casinos are integrating the fastest, most secure payment methods. Whether using traditional fiat or cryptocurrencies, safety comes first.",
+      "rank_absolute": 15,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "Online Casinos in Europe: Future Trends & Impacts to Watch",
+      "url": "https://www.roger.com/articles/regulatory/online-casinos-in-europe-trends/",
+      "snippet": "The future of live online casino gaming in Europe is looking bright, fueled by tech advances, changing regulations, and growing player demand.",
+      "rank_absolute": 16,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "1000x Busta Casino Game : 4TheReel Game With 97% RTP",
+      "url": "https://www.roger.com/game/1000x-busta-casino-game/",
+      "snippet": "The RTP of 1000x Busta Casino Game is 97%, putting it ahead of most other slot games in the online casino space today.",
+      "rank_absolute": 17,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "50 Free Spins Plus 100% Match Up: NIYVI Crypto Casino ...",
+      "url": "https://www.roger.com/offers/50-free-spins-on-select-slots-plus-100-percent-match-up-bonus-deposit-20usd-niyvi-casino-rest-of-world/",
+      "snippet": "NIYVI Casino is a new crypto casino in 2024, offering new players who are looking for an anonymous, crypto-only casino the chance to claim a welcome bonus\u00a0...",
+      "rank_absolute": 18,
+      "rank_group": 17,
+      "result_type": "items"
+    },
+    {
+      "title": "Why Players Are Favouring Less Restrictive Online Casinos",
+      "url": "https://www.roger.com/articles/crypto/why-players-are-favouring-less-restrictive-online-casinos/",
+      "snippet": "Crypto gambling sites, for example, allow players to bet using Bitcoin and other cryptocurrencies instead of fiat currencies like the British pound. There are\u00a0...",
+      "rank_absolute": 19,
+      "rank_group": 18,
+      "result_type": "items"
+    },
+    {
+      "title": "Crypto Casinos: Are They As Safe As Traditional Online Casinos?",
+      "url": "https://www.roger.com/articles/crypto/are-crypto-casinos-safe/",
+      "snippet": "Crypto vs. Regular Casinos: A Guide to Safe Online Gambling! Explore the exciting world of crypto casinos & their benefits, like faster transactions.",
+      "rank_absolute": 20,
+      "rank_group": 19,
+      "result_type": "items"
+    },
+    {
+      "title": "7slots Online Casino: High Return To Player And Good Odds",
+      "url": "https://www.roger.com/articles/casino/7slots-online-casino/",
+      "snippet": "Slots Online Casino is a popular platform accepting international players, offering loads of slot titles and payment methods, including crypto.",
+      "rank_absolute": 21,
+      "rank_group": 20,
+      "result_type": "items"
+    },
+    {
+      "title": "Spinstar Casino",
+      "url": "https://www.roger.com/operator/spinstar-casino/",
+      "snippet": "Withdraw in super quick time from Spinstar Casino by way of crypto \u2013 multiple cryptocurrencies ... Spinstar Casino offers play in the following currencies: \u20ac EUR,\u00a0...",
+      "rank_absolute": 23,
+      "rank_group": 21,
+      "result_type": "items"
+    },
+    {
+      "title": "Cryptocurrency Casinos In Japan: Bitcasino.io's Popularity",
+      "url": "https://www.roger.com/articles/crypto/the-rise-of-cryptocurrency-casinos-in-japan/",
+      "snippet": "The Japanese are amongst the earliest adopters of cryptocurrency casinos, due mainly to the ease of depositing and withdrawing anonymously.",
+      "rank_absolute": 24,
+      "rank_group": 22,
+      "result_type": "items"
+    },
+    {
+      "title": "How Crash Games Went From Weird To Wonderful",
+      "url": "https://www.roger.com/articles/what-is/how-crash-games-got-popular/",
+      "snippet": "Crash games aren't a niche no-no anymore. Now they're legitimate online casino favourites. Discover why and how to get involved online today. See more now.",
+      "rank_absolute": 25,
+      "rank_group": 23,
+      "result_type": "items"
+    },
+    {
+      "title": "5 Of The Top Online Casino Operators Globally In 2024",
+      "url": "https://www.roger.com/articles/casino/5-top-online-casinos-of-2024/",
+      "snippet": "We take a quick look at some of the top online casinos operating globally in 2024. Read about their games, customer care, security and payments.",
+      "rank_absolute": 26,
+      "rank_group": 24,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino Blog Articles: All About Casino And Online Casinos",
+      "url": "https://www.roger.com/articles/casino/",
+      "snippet": "Live dealer games have brought the real casino experience to players, whilst blockchain technology has added transparency and security to the industry. Online\u00a0...",
+      "rank_absolute": 27,
+      "rank_group": 25,
+      "result_type": "items"
+    },
+    {
+      "title": "Six Of The Best: Best Online Live Casinos",
+      "url": "https://www.roger.com/articles/operators/six-of-the-best-best-online-live-casinos/",
+      "snippet": "Compre the best online live casinos now at Roger.com. If you're seeking to play top casino games with real live dealer online, look no further!",
+      "rank_absolute": 28,
+      "rank_group": 26,
+      "result_type": "items"
+    },
+    {
+      "title": "Win Up To 500 USDT When You Spin The Wheel",
+      "url": "https://www.roger.com/offers/win-up-to-500-usdt-when-you-spin-the-welcome-wheel-deposit-20usd-equivalent-bc-game-rest-of-world/",
+      "snippet": "BC.GAME Casino is a crypto-centric online casino offering over 1,500 games, including slots, live dealer games, and provably fair originals like Crash, Dice,\u00a0...",
+      "rank_absolute": 29,
+      "rank_group": 27,
+      "result_type": "items"
+    },
+    {
+      "title": "Top Cryptocurrencies For Slots & Online Casinos In 2025",
+      "url": "https://www.roger.com/articles/crypto/top-cryptocurrencies-for-online-casinos/",
+      "snippet": "Overview of Top Cryptocurrencies in Slot Casinos \u00b7 Bitcoin: the gold standard \u00b7 Ethereum: the smart contract pioneer \u00b7 Dogecoin: the affordable alternative.",
+      "rank_absolute": 30,
+      "rank_group": 28,
+      "result_type": "items"
+    },
+    {
+      "title": "Online Casino Software Providers Blog: Latest Industry News",
+      "url": "https://www.roger.com/articles/software-providers/",
+      "snippet": "Blog articles about the people and companies behind casino, slots, bingo, and sports betting software and platforms, and what's happening in 2025.",
+      "rank_absolute": 31,
+      "rank_group": 29,
+      "result_type": "items"
+    },
+    {
+      "title": "Online Casino And Gambling Blog Articles + 2025 Bonus ...",
+      "url": "https://www.roger.com/offers-and-articles/",
+      "snippet": "A blog dedicated to online casinos, slots sites, bingo, and sports betting. Read how-tos, tips and tricks. Grab casino bonus codes whilst you're at it.",
+      "rank_absolute": 32,
+      "rank_group": 30,
+      "result_type": "items"
+    },
+    {
+      "title": "Koning Sport: Read Our Review And Claim ...",
+      "url": "https://www.roger.com/operator/koning-sport/",
+      "snippet": "Koning Sport is an unlicensed off-shore crypto casino. \u20ac11,250 Deposit Match ... What type of online betting/gambling does Koning Sport offer? Koning Sport is\u00a0...",
+      "rank_absolute": 34,
+      "rank_group": 31,
+      "result_type": "items"
+    },
+    {
+      "title": "Cryptocurrency vs Bank Transfers in Online Casino",
+      "url": "https://www.roger.com/articles/deposits-and-withdrawals/cryptocurrency-vs-bank-transfers-in-online-casinos/",
+      "snippet": "We take a look at deposit and withdrawal methods for online casino. In 2024 how does crypto stack up against traditional bank transfer deposits.",
+      "rank_absolute": 35,
+      "rank_group": 32,
+      "result_type": "items"
+    },
+    {
+      "title": "IWild Casino: Review, Ratings & Bonus Of \u20ac ...",
+      "url": "https://www.roger.com/operator/iwild-casino/",
+      "snippet": "Check out our full iWild Casino review with player ratings and new player welcome bonus of \u20ac4000 and 550 free spins on 4 big slots. Claim yours here.",
+      "rank_absolute": 36,
+      "rank_group": 33,
+      "result_type": "items"
+    },
+    {
+      "title": "Fortuneplay Casino",
+      "url": "https://www.roger.com/operator/fortuneplay-casino/",
+      "snippet": "Alongside e-wallets and debit cards, Fortuneplay also accepts a selection of cryptocurrencies. However, these aren't mandatory. 24/7 customer support with\u00a0...",
+      "rank_absolute": 37,
+      "rank_group": 34,
+      "result_type": "items"
+    },
+    {
+      "title": "7 Tips To Speed Up The Online Casino Registration Process",
+      "url": "https://www.roger.com/articles/tips-and-tricks/7-tips-for-easy-registration-at-casinos/",
+      "snippet": "Instead of personal details, you use wallet addresses for transactions. This way, you can game with just a crypto wallet and a deposit, skipping the usual\u00a0...",
+      "rank_absolute": 38,
+      "rank_group": 35,
+      "result_type": "items"
+    },
+    {
+      "title": "Top Tips for Using No Deposit Bonuses in Bitcoin Casinos",
+      "url": "https://www.roger.com/articles/crypto/no-deposit-bonus-bitcoin-casinos/",
+      "snippet": "Bitcoin casinos are becoming increasingly popular due to their ease and speed of depositing and withdrawing. But are they safe and worth the risk?",
+      "rank_absolute": 39,
+      "rank_group": 36,
+      "result_type": "items"
+    },
+    {
+      "title": "The Evolution Of Crash Gambling: Origins And Mulitpliers",
+      "url": "https://www.roger.com/articles/crypto/the-evolution-of-crash-gambling/",
+      "snippet": "As this modern form of gambling becomes more popular, you might wonder if crypto casinos as secure and reliable as traditional online casinos? Table of\u00a0...",
+      "rank_absolute": 40,
+      "rank_group": 37,
+      "result_type": "items"
+    },
+    {
+      "title": "Full Fortuneplay Casino Guide: Updated For 2025",
+      "url": "https://www.roger.com/articles/operators/fortuneplay-casino-guide/",
+      "snippet": "All withdrawals at Fortuneplay are fee-free, and both the deposit and withdrawal minimum limits sit at C$30. A range of crypto and fiat payments are accepted,\u00a0...",
+      "rank_absolute": 41,
+      "rank_group": 38,
+      "result_type": "items"
+    },
+    {
+      "title": "7Slots Casino Offers New Bonuses For Turkish Players In ...",
+      "url": "https://www.roger.com/articles/bonuses/7slots-casino-bonuses-for-turkish-players/",
+      "snippet": "Loads of different currencies are accepted at this online casino platform, including the Turkish Lira, of course, and quite a few crypto options to boot. We\u00a0...",
+      "rank_absolute": 42,
+      "rank_group": 39,
+      "result_type": "items"
+    },
+    {
+      "title": "Hidden Casino Bonus Terms That Players Frequently ...",
+      "url": "https://www.roger.com/articles/bonuses/hidden-casino-bonus-terms-overlook/",
+      "snippet": "Sep 2, 2025 \u2014 Many anonymous crypto casinos enforce what is referred to in the industry as a maximum bet trap. Such a method places a limit on what a\u00a0...",
+      "rank_absolute": 43,
+      "rank_group": 40,
+      "result_type": "items"
+    },
+    {
+      "title": "The Pros And Cons Of No-ID Casinos For Online Gambling",
+      "url": "https://www.roger.com/articles/crypto/no-id-casinos-and-gambling-anonymously/",
+      "snippet": "Drawbacks of No-ID casinos. Limited Payment Methods: Often, they only accept cryptocurrencies like Bitcoin or Ethereum. Unregulated Casinos: These casinos might\u00a0...",
+      "rank_absolute": 45,
+      "rank_group": 41,
+      "result_type": "items"
+    },
+    {
+      "title": "SpinsUp Casino: C$5000 + 300 Free Spins On Book Of Dead",
+      "url": "https://www.roger.com/operator/spinsup-casino/",
+      "snippet": "Max bet during wgr: C$7.50. Crypto deps accepted. Exp: 3d. T&Cs apply. However, the welcome bonus is broken up into your first four deposits, like\u00a0...",
+      "rank_absolute": 46,
+      "rank_group": 42,
+      "result_type": "items"
+    },
+    {
+      "title": "The Benefits Of Using A No Deposit Bonus Offer In 2025",
+      "url": "https://www.roger.com/articles/tips-and-tricks/the-benefits-of-no-deposit-bonuses-in-online-gambling/",
+      "snippet": "Many new online bitcoin casinos are offering enticing no deposit bonuses, such as bitcoin casino free spins no deposit. Promotions like this have become popular\u00a0...",
+      "rank_absolute": 47,
+      "rank_group": 43,
+      "result_type": "items"
+    },
+    {
+      "title": "Rooster Bet: C$5000 + 300 Free Spins For Canadian Players",
+      "url": "https://www.roger.com/operator/rooster-bet/",
+      "snippet": "Sport. Free spins: 300 on Book of Tut. Bonus credit: C$5,000 over 4 deposits. Payment: Fiat and Crypto. Casino ...",
+      "rank_absolute": 48,
+      "rank_group": 44,
+      "result_type": "items"
+    },
+    {
+      "title": "Blog Articles Covering Online Casino Payment Methods In ...",
+      "url": "https://www.roger.com/articles/deposits-and-withdrawals/",
+      "snippet": "Blog articles talking about online casino, slots, bingo, and sports betting deposit and withdrawal methods, from traditional to e-wallets and crypto.",
+      "rank_absolute": 49,
+      "rank_group": 45,
+      "result_type": "items"
+    },
+    {
+      "title": "Full Guide To Casino Sign-Up Bonuses & How To Use Them",
+      "url": "https://www.roger.com/articles/bonuses/guide-to-sign-up-bonuses/",
+      "snippet": "A currency bonus is a reward casinos offer when players deposit in a specific currency. For example, an Ethereum casino might offer lower fees or match deposits\u00a0...",
+      "rank_absolute": 50,
+      "rank_group": 46,
+      "result_type": "items"
+    },
+    {
+      "title": "Best Ethereum Casinos In 2025 And How To Stay Safe ...",
+      "url": "https://www.roger.com/articles/crypto/best-ethereum-casinos/",
+      "snippet": "You might have heard of Bitcoin casinos, but have you ever encountered an Ethereum operator? There are hundreds (if not thousands!) of cryptocurrency ...",
+      "rank_absolute": 51,
+      "rank_group": 47,
+      "result_type": "items"
+    },
+    {
+      "title": "Cryptologic: Everything You Need To Know About Them",
+      "url": "https://www.roger.com/articles/software-providers/cryptologic/",
+      "snippet": "... bitcoin, Cryptologic is definitely worth a second look. Share this blog. Other posts you might like. 8 of the Best Bitcoin Casinos. What is a Bitcoin casino?",
+      "rank_absolute": 52,
+      "rank_group": 48,
+      "result_type": "items"
+    },
+    {
+      "title": "Stay Safe When Playing At Online Casinos: Safer Gambling",
+      "url": "https://www.roger.com/articles/casino/how-to-stay-safe-when-playing-at-online-casinos/",
+      "snippet": "How to stay safe when playing at online casinos. Most importantly, always play at a licensed online casino, and set your deposit limits early on.",
+      "rank_absolute": 53,
+      "rank_group": 49,
+      "result_type": "items"
+    },
+    {
+      "title": "Top Foreign Casinos for 2025 in the Czech Republic",
+      "url": "https://www.roger.com/articles/casino/top-foreign-casinos-for-2025-in-the-czech-republic/",
+      "snippet": "Jun 17, 2025 \u2014 Low Minimum Deposits \u2013 for as low as \u20ac5\u2013\u20ac10, these platforms make it easy for players to jump in. Crypto Compatibility \u2013 whether it's Bitcoin,\u00a0...",
+      "rank_absolute": 54,
+      "rank_group": 50,
+      "result_type": "items"
+    },
+    {
+      "title": "Tips And Tricks: Learn Poker Strategy And How To Make ...",
+      "url": "https://www.roger.com/articles/tips-and-tricks/",
+      "snippet": "It is a rapidly changing virtual world in which crypto casinos are attracting Swedish gamblers with new recreational options. Anonymity and quick payouts\u00a0...",
+      "rank_absolute": 56,
+      "rank_group": 51,
+      "result_type": "items"
+    },
+    {
+      "title": "How Tech Is Transforming The Online Casino Industry",
+      "url": "https://www.roger.com/articles/casino/how-tech-is-transforming-the-online-casino-industry/",
+      "snippet": "How Smartphones have changed how we play \u00b7 AI and Big Data are revolutionising gambling platforms \u00b7 Crypto is shaping the future of casino games.",
+      "rank_absolute": 57,
+      "rank_group": 52,
+      "result_type": "items"
+    },
+    {
+      "title": "High RTP Slots: How To Boost Wins & Unlock Bigger ...",
+      "url": "https://www.roger.com/articles/tips-and-tricks/bonuses-in-high-rtp-online-slots/",
+      "snippet": "Bitcoin casinos are massively popular at the moment, with a growing number of players opting for crypto to broaden their choices, secure larger bonuses\u00a0...",
+      "rank_absolute": 58,
+      "rank_group": 53,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino And Gambling Affiliates: Programs And Aggregators",
+      "url": "https://www.roger.com/articles/affiliates/",
+      "snippet": "Read all about online gambling affiliate programs including casino affiliate sites, slot sites, sports betting and bingo aggregators all over the world in\u00a0...",
+      "rank_absolute": 59,
+      "rank_group": 54,
+      "result_type": "items"
+    },
+    {
+      "title": "AstroPay: The #1 Online Casino Deposit Method In Norway",
+      "url": "https://www.roger.com/articles/deposits-and-withdrawals/astropay-for-online-casino-payments-in-norway/",
+      "snippet": "Whether you prefer to use a credit card, a mobile wallet such as Apple Pay, or even cryptocurrency like Bitcoin, AstroPay has you covered. ? Hot tip! For casino ...",
+      "rank_absolute": 60,
+      "rank_group": 55,
+      "result_type": "items"
+    },
+    {
+      "title": "A New Era: The Unveiling of 2024's Online Casinos",
+      "url": "https://www.roger.com/articles/news/2024-new-online-casinos-and-technologies/",
+      "snippet": "The rising acceptance of cryptocurrencies like Bitcoin and Ethereum is offering players anonymity, heightened security, and rapidity in transactions. These\u00a0...",
+      "rank_absolute": 61,
+      "rank_group": 56,
+      "result_type": "items"
+    },
+    {
+      "title": "Why Casino Domain Names Matter & How To Choose One",
+      "url": "https://www.roger.com/articles/casino/casino-domain-names/",
+      "snippet": "... casino platform offers and the values you represent. For example, some allow cryptocurrencies, and will have \u201ccrypto\u201d or \u201cBitcoin\u201d in their domain name.",
+      "rank_absolute": 62,
+      "rank_group": 57,
+      "result_type": "items"
+    },
+    {
+      "title": "Online Casino Trends In 2023: AI, Crypto, VR Set To Disrupt",
+      "url": "https://www.roger.com/articles/news/online-casino-trends-to-watch-in-2023/",
+      "snippet": "The main advantage of cryptocurrency integration into online casinos is the anonymity and security this payment method offers. Users can keep playing without\u00a0...",
+      "rank_absolute": 63,
+      "rank_group": 58,
+      "result_type": "items"
+    },
+    {
+      "title": "Betsoft Casinos In 2024: We Review The Top 5 ...",
+      "url": "https://www.roger.com/articles/software-providers/top-betsoft-casinos-2024/",
+      "snippet": "PayDay Casino provides a variety of convenient payment options. You can make deposits and withdrawals using Visa, Mastercard, Bitcoin, Bitcoin Cash, Litecoin,\u00a0...",
+      "rank_absolute": 64,
+      "rank_group": 59,
+      "result_type": "items"
+    },
+    {
+      "title": "No-Verification Casinos: Are They Safe, Should You Use ...",
+      "url": "https://www.roger.com/articles/what-is/financial-transactions-in-no-verification-casinos/",
+      "snippet": "Anonymity vs. security. It's more popular with crypto-based iGaming sites, which allow players to fund their accounts via coins like Bitcoin, Ethereum, Litecoin\u00a0...",
+      "rank_absolute": 65,
+      "rank_group": 60,
+      "result_type": "items"
+    },
+    {
+      "title": "5 New Online Casinos Accepting Players From The USA In ...",
+      "url": "https://www.roger.com/articles/operators/new-online-casinos-accepting-us-players/",
+      "snippet": "Huge Win Casino: A crypto-only newcomer with an impressive library of 4000+ games and attractive bonuses, launched in January 2024. 7bets.io Casino: Offers a\u00a0...",
+      "rank_absolute": 67,
+      "rank_group": 61,
+      "result_type": "items"
+    },
+    {
+      "title": "RealSpin Casino Review - New For 2025",
+      "url": "https://www.roger.com/operator/realspin-casino-review/",
+      "snippet": "Alongside debit cards, bank transfers, and e-wallets, RealSpin accepts a few cryptocurrencies. These include BTC, LTC, USDT, and ETH. Operator FAQ. What payment\u00a0...",
+      "rank_absolute": 68,
+      "rank_group": 62,
+      "result_type": "items"
+    },
+    {
+      "title": "Online Casino Games Blog",
+      "url": "https://www.roger.com/articles/game/",
+      "snippet": "Read up about the latest online casino games, slots, live casino, and ... What Is? Tips & Tricks \u00b7 Operators \u00b7 Crypto \u00b7 Forex \u00b7 Poker \u00b7 Affiliates \u00b7 Regulatory.",
+      "rank_absolute": 69,
+      "rank_group": 63,
+      "result_type": "items"
+    },
+    {
+      "title": "Live Dealer Casino Blog Articles + Roulette & Blackjack Tips",
+      "url": "https://www.roger.com/articles/live-dealer/",
+      "snippet": "A blog about live dealer casinos online with blackjack, roulette, and baccarat tips, including live game shows and live casino software providers.",
+      "rank_absolute": 70,
+      "rank_group": 64,
+      "result_type": "items"
+    },
+    {
+      "title": "Why You Should Consider Playing Casino Games At Home",
+      "url": "https://www.roger.com/articles/casino/benefits-of-casino-games-at-home/",
+      "snippet": "With options like credit cards, e-wallets, and cryptocurrencies, players have a range of secure methods for deposits and withdrawals. ... gambling, gaming, and\u00a0...",
+      "rank_absolute": 71,
+      "rank_group": 65,
+      "result_type": "items"
+    },
+    {
+      "title": "Beginner's Guide To SpinsUp Casino For Canadian Players",
+      "url": "https://www.roger.com/articles/operators/spinsup-casino-guide-for-canadians/",
+      "snippet": "Min dep: C$30. FS valid on select slots (e.g., Book of Dead). Bonus & FS wgr 40x. Max bet during wgr: C$7.50. Crypto deps accepted\u00a0...",
+      "rank_absolute": 72,
+      "rank_group": 66,
+      "result_type": "items"
+    },
+    {
+      "title": "HotWins Casino: Claim Your 100 Free Spins + \u00a3100 Bonus ...",
+      "url": "https://www.roger.com/operator/hotwins-casino/",
+      "snippet": "... Crypto, Bank Transfer. What type of online betting/gambling does HotWins Casino offer? HotWins Casino is currently offering online Slots, Casino, Live Casino ...",
+      "rank_absolute": 73,
+      "rank_group": 67,
+      "result_type": "items"
+    },
+    {
+      "title": "Ruby Slots",
+      "url": "https://www.roger.com/operator/ruby-slots/",
+      "snippet": "... Crypto, Bank Transfer, Visa Electron, Discover. What type of online betting/gambling does Ruby Slots offer? Ruby Slots is currently offering online Slots\u00a0...",
+      "rank_absolute": 74,
+      "rank_group": 68,
+      "result_type": "items"
+    },
+    {
+      "title": "Play Mojo Casino",
+      "url": "https://www.roger.com/operator/play-mojo/",
+      "snippet": "... Crypto, Bank Transfer. What type of online betting/gambling does Play Mojo offer? Play Mojo is currently offering online Slots, Casino, Live Casino, Game\u00a0...",
+      "rank_absolute": 75,
+      "rank_group": 69,
+      "result_type": "items"
+    },
+    {
+      "title": "How To Choose The Best Casino Software Providers In 2024",
+      "url": "https://www.roger.com/articles/software-providers/choosing-the-best-casino-software/",
+      "snippet": "... crypto, meeting players' preferences across the board. Pay attention to the marketing tools at your disposal. Many online casino providers will have\u00a0...",
+      "rank_absolute": 76,
+      "rank_group": 70,
+      "result_type": "items"
+    },
+    {
+      "title": "Bingo Billy: $30 FREE! + 25 Extra FREE Spins",
+      "url": "https://www.roger.com/operator/bingo-billy/",
+      "snippet": "Among the line-up of casino games are keno, video poker and blackjack. ... Bingo Billy accepts the following payment methods: Visa, Mastercard, NETELLER, Crypto,\u00a0...",
+      "rank_absolute": 78,
+      "rank_group": 71,
+      "result_type": "items"
+    },
+    {
+      "title": "Best Reviewed PayPal Casinos UK In 2025",
+      "url": "https://www.roger.com/casino/paypal-casino-sites/",
+      "snippet": "Neteller and Skrill are two biggies and they are pretty much niche to all things casino and crypto. They are great payment platforms both with iOS and\u00a0...",
+      "rank_absolute": 79,
+      "rank_group": 72,
+      "result_type": "items"
+    },
+    {
+      "title": "Bodog: Est. 1994 Is A Long Established Online Sportsbook ...",
+      "url": "https://www.roger.com/operator/bodog/",
+      "snippet": "Once deposited you can play with Canadian dollars. Excellent welcome bonuses and player promotions. If you do make a deposit at the casino in Bitcoin then guess\u00a0...",
+      "rank_absolute": 80,
+      "rank_group": 73,
+      "result_type": "items"
+    },
+    {
+      "title": "Play 1000x Busta Casino Game Online",
+      "url": "https://www.roger.com/play/1000x-busta-casino-game/",
+      "snippet": "The goal is simple \u2013 you set a target and hope that the curve does not bust before it reaches this point. It is based on popular games like Crypto Busta/Cash\u00a0...",
+      "rank_absolute": 81,
+      "rank_group": 74,
+      "result_type": "items"
+    },
+    {
+      "title": "Claim No Wagering Free Spins On Slots At These Casino ...",
+      "url": "https://www.roger.com/offers?country=17500&curr=17493&minimum_deposit=17596&filter=closed",
+      "snippet": "Free Spins. And other new player bonuses and promos for online casino, slots, bingo, live casino and sports betting sites ... Crypto MoonPay. Bank Transfer",
+      "rank_absolute": 82,
+      "rank_group": 75,
+      "result_type": "items"
+    },
+    {
+      "title": "Rocket Spin Casino: Read Our Review And Claim Player ...",
+      "url": "https://www.roger.com/operator/rocket-spin/",
+      "snippet": "... Crypto, Bank Transfer. What type of online betting/gambling does Rocket Spin offer? Rocket Spin is currently offering online Slots, Casino, Live Casino, Game\u00a0...",
+      "rank_absolute": 83,
+      "rank_group": 76,
+      "result_type": "items"
+    },
+    {
+      "title": "Swedish Players Are Into Malta Casinos This 2025",
+      "url": "https://www.roger.com/articles/casino/swedish-players-malta-casino/",
+      "snippet": "Jul 24, 2025 \u2014 Malta casinos accept everything from crypto and Trustly to e-wallets and traditional cards \u2013 usually with faster withdrawals and lower limits.",
+      "rank_absolute": 84,
+      "rank_group": 77,
+      "result_type": "items"
+    },
+    {
+      "title": "The Best Casino Comparison Sites For British Players In ...",
+      "url": "https://www.roger.com/articles/casino/casino-comparison-websites-uk/",
+      "snippet": "It's a comparison site that looks at the top slot machines and slots-based online casinos operating in the UK. ... Cryptocurrency vs Bank Transfers in Online\u00a0...",
+      "rank_absolute": 85,
+      "rank_group": 78,
+      "result_type": "items"
+    },
+    {
+      "title": "C$5000 Casino Bonus + 300 Free Spins on Book of Dead ...",
+      "url": "https://www.roger.com/offers/5000cad-casino-bonus-plus-300-free-spins-on-book-of-dead-deposit-30cad-spinsup-casino-ca/",
+      "snippet": "Bonus & FS wgr 40x. Max bet during wgr: C$7.50. Crypto deps accepted. Exp: 3d. T&Cs apply. More about SpinsUp Casino and their platform.",
+      "rank_absolute": 86,
+      "rank_group": 79,
+      "result_type": "items"
+    },
+    {
+      "title": "Neteller Vs. Skrill: Which Payment Method Is Best In 2025",
+      "url": "https://www.roger.com/articles/deposits-and-withdrawals/neteller-vs-skrill/",
+      "snippet": "Crypto wallets costs 2%; Neteller costs 3.49 ... Find a slots site, online casino or live online casino operator and claim your new player welcome bonus.",
+      "rank_absolute": 87,
+      "rank_group": 80,
+      "result_type": "items"
+    },
+    {
+      "title": "Fastest Payout For Online Casinos Australia 2025",
+      "url": "https://www.roger.com/articles/what-is/online-casino-payout-australia/",
+      "snippet": "Discover Australia's fastest paying online casinos in 2025. Instant withdrawals, crypto payments & verified sites.",
+      "rank_absolute": 89,
+      "rank_group": 81,
+      "result_type": "items"
+    },
+    {
+      "title": "Koning Sport Welcome Offer: \u20ac11250 Bonus + 725 Free ...",
+      "url": "https://www.roger.com/offers/11250eur-deposit-match-plus-725-free-spins-on-popular-slots-deposit-20eur-koning-sport-nl/",
+      "snippet": "Koning Sports offers a crypto-friendly and VPN-friendly platform where sports betting is the main event of the day, but as a spin-off you've got casino and\u00a0...",
+      "rank_absolute": 90,
+      "rank_group": 82,
+      "result_type": "items"
+    },
+    {
+      "title": "Monopoly Live: Play Now For Real Money With Live Dealers",
+      "url": "https://www.roger.com/game/monopoly-live/",
+      "snippet": "Category: Live Casino. Game developer: Evolution. RTP: 96.23%. Theme: Based on the Monopoly board game. Features: Live dealers, Bonus features,\u00a0...",
+      "rank_absolute": 91,
+      "rank_group": 83,
+      "result_type": "items"
+    },
+    {
+      "title": "Everything You Should Know About Low-Rake Poker Sites",
+      "url": "https://www.roger.com/articles/poker/best-low-rake-poker-sites-guide/",
+      "snippet": "Cryptocurrency poker sites \u2013 no rake, but at what cost? Private poker clubs \u2013 a real alternative or a risky move? The downsides of playing on no-rake poker\u00a0...",
+      "rank_absolute": 92,
+      "rank_group": 84,
+      "result_type": "items"
+    },
+    {
+      "title": "Are Casino Bonuses Too Good To Be True? Expert Guide",
+      "url": "https://www.roger.com/articles/bonuses/casino-bonuses-too-good-to-be-true/",
+      "snippet": "Sep 4, 2025 \u2014 ... gambling, gaming, and casino topics. ... There are also some great promos to be had at this sister site to\u2026 A New Era of iGaming: AI, Blockchain,\u00a0...",
+      "rank_absolute": 93,
+      "rank_group": 85,
+      "result_type": "items"
+    },
+    {
+      "title": "GO.SPIN",
+      "url": "https://www.roger.com/operator/go-spin/",
+      "snippet": "... Crypto, Interac, Jeton, Astropay. What type of online betting/gambling does GO.SPIN offer? GO.SPIN is currently offering online Slots, Casino, Live Casino ...",
+      "rank_absolute": 94,
+      "rank_group": 86,
+      "result_type": "items"
+    },
+    {
+      "title": "Skrill: Is This E-Wallet Good For Online Gambling In 2025?",
+      "url": "https://www.roger.com/articles/deposits-and-withdrawals/skrill/",
+      "snippet": "These days, you have the ability to buy and sell cryptocurrencies if you wish to do so through Skrill, which will be a great feature for crypto enthusiasts.",
+      "rank_absolute": 95,
+      "rank_group": 87,
+      "result_type": "items"
+    },
+    {
+      "title": "How To Collect As Many Starter Bonuses As Possible",
+      "url": "https://www.roger.com/articles/bonuses/how-to-maximise-welcome-bonuses/",
+      "snippet": "If you don't use an eligible payment method, you won't qualify. For example, Ethereum casinos will allow players to use other currencies, but they offer special\u00a0...",
+      "rank_absolute": 96,
+      "rank_group": 88,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino Bonus Codes And Promos",
+      "url": "https://www.roger.com/articles/offers/",
+      "snippet": "Looking for new player bonus codes and promos? Look no further. Grab free spins on popular games and deposit match bonuses for casino, bingo and sports betting.",
+      "rank_absolute": 97,
+      "rank_group": 89,
+      "result_type": "items"
+    },
+    {
+      "title": "Complete Guide To 7bet Casino",
+      "url": "https://www.roger.com/articles/operators/7bet-casino-guide/",
+      "snippet": "Cryptocurrency isn't currently accepted. ? All deposits are instant at 7bet. The minimum deposit is \u00a310 for all payment methods, except Apple Pay, where\u00a0...",
+      "rank_absolute": 98,
+      "rank_group": 90,
+      "result_type": "items"
+    },
+    {
+      "title": "How To Withdraw Money From Aviator Game: Indian ...",
+      "url": "https://www.roger.com/articles/tips-and-tricks/aviator-withdrawals-for-indian-casinos/",
+      "snippet": "Cryptocurrency. Bitcoin, Ethereum, and USDT are popular crypto options in online casinos and Aviator games. These are recommended for users comfortable with\u00a0...",
+      "rank_absolute": 100,
+      "rank_group": 91,
+      "result_type": "items"
+    },
+    {
+      "title": "Stakes Casino: Full Review & Bonus Of \u20ac500 + 100 Free ...",
+      "url": "https://www.roger.com/operator/stakes/",
+      "snippet": "From the epic STAKES Casino slots to live casino and table games, nearly ... Crypto. What type of online betting/gambling does STAKES offer? STAKES is\u00a0...",
+      "rank_absolute": 101,
+      "rank_group": 92,
+      "result_type": "items"
+    },
+    {
+      "title": "Bovada Casino : Online Sports Betting, Poker ...",
+      "url": "https://www.roger.com/operator/bovada-casino/",
+      "snippet": "... Crypto, Visa Electron, Union Pay. What type of online betting/gambling does Bovada Casino offer? Bovada Casino is currently offering online Slots, Casino ...",
+      "rank_absolute": 102,
+      "rank_group": 93,
+      "result_type": "items"
+    },
+    {
+      "title": "One Of The Best Online Betting Sites In The UK, A Guide",
+      "url": "https://www.roger.com/articles/sport/7bet-best-online-sportsbook-guide/",
+      "snippet": "... casino games. Strict Compliance \u2014Betting operators licensed only for their ... Cryptocurrencies: Bitcoin, Ethereum \u2013 anonymous transactions, with growing adoption\u00a0...",
+      "rank_absolute": 103,
+      "rank_group": 94,
+      "result_type": "items"
+    },
+    {
+      "title": "How Land-based Casino Brands Transition Online In 2025",
+      "url": "https://www.roger.com/articles/news/how-land-based-casino-brands-are-transitioning-online/",
+      "snippet": "Live dealer games provide real-time interactive experiences, bringing authenticity into the virtual space. Blockchain offers enhanced transparency and security,\u00a0...",
+      "rank_absolute": 104,
+      "rank_group": 95,
+      "result_type": "items"
+    },
+    {
+      "title": "What Are The Best Online Poker Platforms In 2025",
+      "url": "https://www.roger.com/articles/poker/features-online-poker-platforms/",
+      "snippet": "Discover the top features of online poker platforms for 2025. Compare traffic, rakeback, crypto payments, and mobile features. We break it down here.",
+      "rank_absolute": 105,
+      "rank_group": 96,
+      "result_type": "items"
+    },
+    {
+      "title": "Lucky Niki: 25 Free Spins On Ninja Master Slot In September",
+      "url": "https://www.roger.com/operator/lucky-niki/",
+      "snippet": "... Crypto, Debit Card, Visa Electron, Maestro, ecoPayz. What type of online betting/gambling does Lucky Niki offer? Lucky Niki is currently offering online\u00a0...",
+      "rank_absolute": 106,
+      "rank_group": 97,
+      "result_type": "items"
+    },
+    {
+      "title": "C$5000 in Casino Bonuses + 300 Free Spins on Slots ...",
+      "url": "https://www.roger.com/offers/5000cad-in-casino-bonuses-plus-300-free-spins-on-slots-deposit-30cad-rollero-ca/",
+      "snippet": "Rollero offers tons of slots, casino, live casino and other games from top-notch providers. ... You can do this via card payments, e-wallets, and crypto\u2014although\u00a0...",
+      "rank_absolute": 107,
+      "rank_group": 98,
+      "result_type": "items"
+    },
+    {
+      "title": "No Wagering Casino or No Deposit Wager Bonus",
+      "url": "https://www.roger.com/articles/tips-and-tricks/no-wagering-or-no-deposit-bonuses/",
+      "snippet": "In recent years, Bitcoin and crypto casinos have added even more casino brands as people look to branch into this subgenre and give players more options. What\u00a0...",
+      "rank_absolute": 108,
+      "rank_group": 99,
+      "result_type": "items"
+    },
+    {
+      "title": "UK VIP Casino Perks Down: Top-Regulated ...",
+      "url": "https://www.roger.com/articles/news/uk-vip-casino-perks-down-top-alternatives/",
+      "snippet": "5 days ago \u2014 Discover top secure, mobile-friendly casinos with seamless payments and UKGC licenses as alternatives after UK VIP perks down by 95%.",
+      "rank_absolute": 109,
+      "rank_group": 100,
+      "result_type": "items"
+    }
+  ]
+}

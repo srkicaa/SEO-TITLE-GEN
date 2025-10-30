@@ -1,0 +1,80 @@
+{
+  "mode": "live",
+  "task_id": "09261444-4117-0121-0000-eb64fad9fcd0",
+  "query": "site:gardencenterguide.com travel",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Portable Summer Gear for Outdoor Fun & Travel",
+      "url": "https://www.gardencenterguide.com/blogs/get-ready-for-outdoor-season-must-have-portable-products-for-your-next-adventure",
+      "snippet": "Jun 14, 2025 \u2014 Discover must-have gear like portable grills, Stanley flasks, coolers, and solar lighting. Perfect for families, campers, and hikers across\u00a0...",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Fair View Nursery",
+      "url": "https://www.gardencenterguide.com/fair-view-nursery-inc-wilson",
+      "snippet": "We hope your travel plans will include a visit with us soon. We grow a broad range of container stock from Azaleas, Woody Ornamentals, Junipers, and Ground\u00a0...",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Garden center Russell's Garden Center in Wayland opening ...",
+      "url": "https://www.gardencenterguide.com/russels-garden-center-wayland",
+      "snippet": "With its doors open for 360+ days a year, people travel great distances to visit Russell's expansive greenhouses and explore the unique shops it offers.",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Garden center Cedar Falls Nursery in Hoquiam opening ...",
+      "url": "https://www.gardencenterguide.com/cedar-falls-nursery-hoquiam",
+      "snippet": "Located at 820 Us Highway 101 in Hoquiam, Washington, Cedar Falls Nursery offers a comprehensive range of gardening products and services.",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Dan West Garden Center",
+      "url": "https://www.gardencenterguide.com/dan-west-garden-center-inc-memphis",
+      "snippet": "This location has become an institution in Memphis. Folks travel from all over the Mid-South to buy the healthiest green goods in this area and to learn.",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "Stein's Garden & Home Oshkosh",
+      "url": "https://www.gardencenterguide.com/stein-garden-gifts-oshkosh-oshkosh",
+      "snippet": "Jan 1, 2017 \u2014 My family and I travel over fifty miles to shop here at their beautifully decorated Oshkosh store for all our gardening and landscape needs.",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "Under The Sun Garden Center Stillwater",
+      "url": "https://www.gardencenterguide.com/under-the-sun-garden-center-stillwater-stillwater",
+      "snippet": "Jun 10, 2019 \u2014 Under the Sun Garden Centers have been a part of the Oklahoma landscape since we opened our first seasonal store under a tent in May 1992.",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Stein's Garden & Home Racine",
+      "url": "https://www.gardencenterguide.com/stein-garden-gifts-racine-racine",
+      "snippet": "Mar 30, 2018 \u2014 Located at 6626 Washington Avenue in Racine, Wisconsin, Stein's Garden & Home Racine offers a comprehensive range of gardening products and services.",
+      "rank_absolute": 9,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "Harmony Nursery & Garden Center",
+      "url": "https://www.gardencenterguide.com/harmony-nursery-garden-center-blaine",
+      "snippet": "Located at 8659 Central Ave Ne in Blaine, Minnesota, Harmony Nursery & Garden Center offers a comprehensive range of gardening products and services.",
+      "rank_absolute": 10,
+      "rank_group": 9,
+      "result_type": "items"
+    }
+  ]
+}

@@ -1,0 +1,800 @@
+{
+  "mode": "live",
+  "task_id": "09261442-4117-0121-0000-25a4d98f99da",
+  "query": "site:southernmarylandchronicle.com travel",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Maryland Tourism Guide Features St. Mary's Historic Sites",
+      "url": "https://southernmarylandchronicle.com/2024/08/29/maryland-tourism-guide-features-st-marys-historic-sites/",
+      "snippet": "Aug 29, 2024 \u2014 The guide, which can be accessed online through the Maryland Office of Tourism website, aims to draw attention to significant locations in\u00a0...",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Travel Archives",
+      "url": "https://southernmarylandchronicle.com/category/travel/",
+      "snippet": "Domestic flights, hotels and car rentals are down in price compared to 2024, offering some relief amid still-high air travel volumes. In Maryland, gas [\u2026].",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Labor Day Travel Maryland: Cheaper Trips, Busy Roads ...",
+      "url": "https://southernmarylandchronicle.com/2025/08/27/labor-day-travel-maryland-cheaper-trips-busy-roads-await/",
+      "snippet": "Aug 27, 2025 \u2014 Overall, Labor Day travel Maryland reflects national trends: more affordable domestic options, busy airports and roads ripe for planning. With\u00a0...",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Record-Breaking July 4th Travel Forecast by AAA",
+      "url": "https://southernmarylandchronicle.com/2025/06/25/record-breaking-july-4th-travel-forecast-by-aaa/",
+      "snippet": "Jun 25, 2025 \u2014 AAA projects a record 72.2 million Americans will travel 50 miles or more from home during the Independence Day holiday period from June 28 to July 6, 2025.",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "The Three Best Road Trips in Maryland and the Two ...",
+      "url": "https://southernmarylandchronicle.com/2021/04/19/the-three-best-road-trips-in-maryland-and-the-two-best-vehicles-to-do-them-in/",
+      "snippet": "Apr 19, 2021 \u2014 Your next three stops are Calvert Cliffs State Park, Rocks State Park, and Elk Neck State Park. End your trip on the beach at Assateague State\u00a0...",
+      "rank_absolute": 6,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "Maryland Thanksgiving Travel Slightly Up, Still Below 2019 Levels",
+      "url": "https://southernmarylandchronicle.com/2024/10/21/maryland-thanksgiving-travel-slightly-up-still-below-2019-levels/",
+      "snippet": "According to AAA, about 1,045,400 Marylanders are expected to travel 50 miles or more from home, a modest 0.3% increase over 2021. However, despite the rise,\u00a0...",
+      "rank_absolute": 7,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "Maryland Thanksgiving Travel Nears Pre-Pandemic Levels",
+      "url": "https://southernmarylandchronicle.com/2024/11/22/maryland-thanksgiving-travel-nears-pre-pandemic-levels/",
+      "snippet": "Nov 22, 2024 \u2014 More than 28,000 Marylanders will travel by bus, train, or cruise this Thanksgiving, a 10% jump from 2023 and 2019 levels. While these modes\u00a0...",
+      "rank_absolute": 8,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Record Number of Americans Expected to Travel for ...",
+      "url": "https://southernmarylandchronicle.com/2023/06/27/record-number-of-americans-expected-to-travel-for-independence-day-weekend/",
+      "snippet": "Car travel is expected to dominate the holiday weekend, with AAA estimating that 43.2 million Americans will opt for road trips, an increase of 2.4% compared to\u00a0...",
+      "rank_absolute": 9,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "Maryland Braces for Memorial Day Travel Surge",
+      "url": "https://southernmarylandchronicle.com/2025/05/21/maryland-braces-for-memorial-day-travel-surge/",
+      "snippet": "May 21, 2025 \u2014 With thousands expected to travel over 50 miles from home, officials urge drivers to buckle up, slow down, stay focused, and drive sober to reduce roadway\u00a0...",
+      "rank_absolute": 10,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "Solomons MD USPS Passport Fair Announced",
+      "url": "https://southernmarylandchronicle.com/2025/08/08/solomons-md-usps-passport-fair-announced/",
+      "snippet": "Aug 8, 2025 \u2014 Solomons residents can prepare for upcoming travel by attending a passport fair hosted by the U.S. Postal Service on Aug. 31, 2025.",
+      "rank_absolute": 11,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "AAA travel bookings on the rise",
+      "url": "https://southernmarylandchronicle.com/2022/02/03/aaa-travel-bookings-on-the-rise/",
+      "snippet": "Feb 3, 2022 \u2014 Travelers who previously enjoyed booking their own flights, cruises, hotels and rental cars are now placing greater value on the travel advisor\u00a0...",
+      "rank_absolute": 12,
+      "rank_group": 11,
+      "result_type": "items"
+    },
+    {
+      "title": "How Tourism Boosts the Economy in Southern Maryland",
+      "url": "https://southernmarylandchronicle.com/2022/07/25/how-tourism-boosts-the-economy-in-southern-maryland/",
+      "snippet": "Jul 25, 2022 \u2014 In addition, Maryland tourists and travelers spent $15.4 billion on travel expenses in 2013, an increase of 3.2 percent from 2012. Also,\u00a0...",
+      "rank_absolute": 13,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "MDOT Plans US 50 Ramp Closures for Summer Travel",
+      "url": "https://southernmarylandchronicle.com/2025/05/13/mdot-plans-us-50-ramp-closures-for-summer-travel/",
+      "snippet": "May 13, 2025 \u2014 During these closures, drivers seeking to access eastbound US 50/US 301 must use alternative entry points at Exit 29 (MD 179 at Busch's Frontage\u00a0...",
+      "rank_absolute": 14,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "Basic Things You Should Know When Traveling Through ...",
+      "url": "https://southernmarylandchronicle.com/2022/05/04/basic-things-you-should-know-when-traveling-through-eastern-europe/",
+      "snippet": "May 4, 2022 \u2014 A general rule of thumb is to check what the cultural norms are before landing at your destination. Look up everything from tipping and public\u00a0...",
+      "rank_absolute": 15,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "Hazardous Travel Expected as Snow Arrives in St. Mary's, ...",
+      "url": "https://southernmarylandchronicle.com/2025/02/19/hazardous-travel-expected-as-snow-arrives-in-st-marys-king-george-counties/",
+      "snippet": "Feb 19, 2025 \u2014 The National Weather Service has issued a Winter Weather Advisory for portions of southern Maryland and northern and central Virginia from 10 PM\u00a0...",
+      "rank_absolute": 16,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "Traffic Archives",
+      "url": "https://southernmarylandchronicle.com/category/auto/traffic/",
+      "snippet": "St. \u00b7 St. \u00b7 Southern Maryland Gets $135K in Highway Safety Grants \u00b7 Southern Maryland Set for Transportation Upgrades \u00b7 Labor Day Travel Maryland: Cheaper Trips,\u00a0...",
+      "rank_absolute": 17,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "Hyatt Highlights 8 Must-Visit Vacation Spots",
+      "url": "https://southernmarylandchronicle.com/2025/04/10/hyatt-highlights-8-must-visit-vacation-spots/",
+      "snippet": "Apr 10, 2025 \u2014 Hyatt Hotels Corp. is spotlighting eight standout destinations for travelers seeking unique experiences, from urban adventures to serene retreats.",
+      "rank_absolute": 18,
+      "rank_group": 17,
+      "result_type": "items"
+    },
+    {
+      "title": "Top Places You Can Go In Maryland this Summer",
+      "url": "https://southernmarylandchronicle.com/2019/06/29/top-places-you-can-go-in-maryland-this-summer/",
+      "snippet": "Jun 29, 2019 \u2014 These range from catching an Orioles baseball game at Camden Yards to taking in the breathtaking views of the Chesapeake Bay, from the Top of\u00a0...",
+      "rank_absolute": 19,
+      "rank_group": 18,
+      "result_type": "items"
+    },
+    {
+      "title": "Prep Your Car for Summer, AAA Advises",
+      "url": "https://southernmarylandchronicle.com/2025/06/26/prep-your-car-for-summer-aaa-advises/",
+      "snippet": "Jun 26, 2025 \u2014 AAA urges summer travelers to check aging cars with a 7-step maintenance list, as 12.8-year-old U.S. vehicles face high breakdown risks.",
+      "rank_absolute": 20,
+      "rank_group": 19,
+      "result_type": "items"
+    },
+    {
+      "title": "Hazardous Travel Expected as Winter Storm Kingston ...",
+      "url": "https://southernmarylandchronicle.com/2025/02/17/hazardous-travel-expected-as-winter-storm-kingston-approaches/",
+      "snippet": "Feb 17, 2025 \u2014 REMINDER: This storm can change several times over the next 48 hours. Readers should keep an eye on credible weather reports,\u00a0...",
+      "rank_absolute": 21,
+      "rank_group": 20,
+      "result_type": "items"
+    },
+    {
+      "title": "AAA Mid-Atlantic, Author at The Southern Maryland Chronicle",
+      "url": "https://southernmarylandchronicle.com/author/aaa-mid-atlantic/page/3/",
+      "snippet": "Show your love for Southern Maryland by powering authoritative, in-depth reporting about your community, and keeping access free for neighbors who need it.",
+      "rank_absolute": 22,
+      "rank_group": 21,
+      "result_type": "items"
+    },
+    {
+      "title": "FOX 5's Zip Trip to Broadcast Live from Leonardtown Square",
+      "url": "https://southernmarylandchronicle.com/2024/07/31/fox-5s-zip-trip-to-broadcast-live-from-leonardtown-square/",
+      "snippet": "Jul 31, 2024 \u2014 SOLOMONS, Md. \u2014 Solomons Island will host Fox 5 DC's Zip Trip on July 4, 2025, with a live broadcast from the Solomons Island Riverwalk and\u00a0...",
+      "rank_absolute": 23,
+      "rank_group": 22,
+      "result_type": "items"
+    },
+    {
+      "title": "Stanley Recalls 2.6 Million Travel Mugs Due to Burn Hazard",
+      "url": "https://southernmarylandchronicle.com/2024/12/18/stanley-recalls-2-6-million-travel-mugs-due-to-burn-hazard/",
+      "snippet": "Dec 18, 2024 \u2014 The recall involves mugs imported by PMI WW Brands LLC, dba Stanley 1913, based in Seattle, Washington, and manufactured in China. Recall Number\u00a0...",
+      "rank_absolute": 24,
+      "rank_group": 23,
+      "result_type": "items"
+    },
+    {
+      "title": "More than 1 million Marylanders expected to travel over ...",
+      "url": "https://southernmarylandchronicle.com/2022/11/21/more-than-1-million-marylanders-expected-to-travel-over-thanksgiving-holiday/",
+      "snippet": "Nov 21, 2022 \u2014 While travel continues to rebound, the Maryland travel forecast is still nearly 10% below pre-pandemic Thanksgiving travel volume in 2019, which\u00a0...",
+      "rank_absolute": 25,
+      "rank_group": 24,
+      "result_type": "items"
+    },
+    {
+      "title": "CSM Travels North for Cecil Matchup",
+      "url": "https://southernmarylandchronicle.com/2025/09/10/csm-travels-north-for-cecil-matchup/",
+      "snippet": "Sep 10, 2025 \u2014 NORTH EAST, Md. \u2014 The College of Southern Maryland men's soccer team travels to Cecil College on September 11, 2025, for a 4 p.m. matchup\u00a0...",
+      "rank_absolute": 26,
+      "rank_group": 25,
+      "result_type": "items"
+    },
+    {
+      "title": "Celebrating a Decade: Fox 5's Zip Trip Returns to SoMD ...",
+      "url": "https://southernmarylandchronicle.com/2024/06/10/celebrating-a-decade-fox-5s-zip-trip-returns-to-somd-this-summer/",
+      "snippet": "Jun 10, 2024 \u2014 SOLOMONS, Md. \u2014 Solomons Island will host Fox 5 DC's Zip Trip on July 4, 2025, with a live broadcast from the Solomons Island Riverwalk and\u00a0...",
+      "rank_absolute": 27,
+      "rank_group": 26,
+      "result_type": "items"
+    },
+    {
+      "title": "Maryland State Police Step Up Holiday Road Safety Patrols",
+      "url": "https://southernmarylandchronicle.com/2024/12/20/maryland-state-police-step-up-holiday-road-safety-patrols/",
+      "snippet": "Dec 20, 2024 \u2014 Plan Ahead: Allow extra travel time to avoid rushing. Designate a Sober Driver: If drinking, arrange for a sober driver and give them your keys.",
+      "rank_absolute": 28,
+      "rank_group": 27,
+      "result_type": "items"
+    },
+    {
+      "title": "MVA,Airports Remind Travelers about Federal Real ID ...",
+      "url": "https://southernmarylandchronicle.com/2018/12/07/mvaairports-remind-travelers-about-federal-real-id-compliance-in-md-during-busy-travel-season/",
+      "snippet": "Dec 7, 2018 \u2014 MDOT MVA and Baltimore/Washington Thurgood Marshall International Airport are reminding travelers to prepare for the federal Real ID Act implementation.",
+      "rank_absolute": 29,
+      "rank_group": 28,
+      "result_type": "items"
+    },
+    {
+      "title": "Annapolis Symphony Orchestra Signs New 3-Year Contract",
+      "url": "https://southernmarylandchronicle.com/2025/07/09/annapolis-symphony-orchestra-signs-new-3-year-contract/",
+      "snippet": "Jul 9, 2025 \u2014 The agreement introduces travel pay, a first for the Annapolis Symphony Orchestra, supporting musicians traveling from across the Mid-Atlantic.",
+      "rank_absolute": 30,
+      "rank_group": 29,
+      "result_type": "items"
+    },
+    {
+      "title": "Heavy Snow and Hazardous Roads Forecast for Southern ...",
+      "url": "https://southernmarylandchronicle.com/2025/02/10/heavy-snow-and-hazardous-roads-forecast-for-southern-maryland/",
+      "snippet": "Feb 10, 2025 \u2014 The storm is expected to create hazardous travel conditions, with significant disruptions to the Tuesday evening and Wednesday morning commutes.",
+      "rank_absolute": 31,
+      "rank_group": 30,
+      "result_type": "items"
+    },
+    {
+      "title": "Voting Reforms Mirror REAL ID Rollout Struggles",
+      "url": "https://southernmarylandchronicle.com/2025/08/01/voting-reforms-mirror-real-id-rollout-struggles/",
+      "snippet": "Aug 1, 2025 \u2014 Nationwide, millions of Americans still lack compliant identification, leading to anticipated travel disruptions once the rule takes effect.",
+      "rank_absolute": 32,
+      "rank_group": 31,
+      "result_type": "items"
+    },
+    {
+      "title": "Traffic Alert: MD 4 Bridge Inspection Begins Monday Night",
+      "url": "https://southernmarylandchronicle.com/2024/12/09/traffic-alert-md-4-bridge-inspection-begins-monday-night/",
+      "snippet": "Dec 9, 2024 \u2014 Motorists planning to travel across the bridge during these hours should anticipate delays and are advised to allocate additional travel time.",
+      "rank_absolute": 33,
+      "rank_group": 32,
+      "result_type": "items"
+    },
+    {
+      "title": "Tracking air travel: See how many people are flying this ...",
+      "url": "https://southernmarylandchronicle.com/2021/11/22/tracking-air-travel-see-how-many-people-are-flying-this-thanksgiving/",
+      "snippet": "Nov 22, 2021 \u2014 \u2014 About 53.4 million people nationwide are expected to travel for Thanksgiving this year, a 13% rise from last year and the highest single-year\u00a0...",
+      "rank_absolute": 34,
+      "rank_group": 33,
+      "result_type": "items"
+    },
+    {
+      "title": "LIFTED: St. Mary's County Implements Snow Emergency ...",
+      "url": "https://southernmarylandchronicle.com/2025/02/19/st-marys-county-implements-snow-emergency-plan-due-to-hazardous-roads/",
+      "snippet": "Feb 19, 2025 \u2014 With winter weather impacting travel across the region, the activation of the Snow Emergency Plan ensures that public safety remains a priority.",
+      "rank_absolute": 35,
+      "rank_group": 34,
+      "result_type": "items"
+    },
+    {
+      "title": "La Plata Child's Make-A-Wish Trip Announced at D.C. ...",
+      "url": "https://southernmarylandchronicle.com/2025/04/14/la-plata-childs-make-a-wish-trip-announced-at-d-c-parade/",
+      "snippet": "Apr 14, 2025 \u2014 Senna, a 7-year-old from Maryland, was celebrated at the National Cherry Blossom Festival Parade as her Make-A-Wish trip to Walt Disney\u00a0...",
+      "rank_absolute": 36,
+      "rank_group": 35,
+      "result_type": "items"
+    },
+    {
+      "title": "SoMD Weather for Tuesday, January 7, 2025",
+      "url": "https://southernmarylandchronicle.com/2025/01/06/somd-weather-for-tuesday-january-7-2025/",
+      "snippet": "Jan 6, 2025 \u2014 Mostly sunny, windy, and cold; travel remains difficult. Exercise caution while shoveling. Wind: NW 20 mph, gusts up to 45 mph; Precipitation\u00a0...",
+      "rank_absolute": 37,
+      "rank_group": 36,
+      "result_type": "items"
+    },
+    {
+      "title": "If Traveling Maryland Toll Roads This Thanksgiving, Put ...",
+      "url": "https://southernmarylandchronicle.com/2020/11/23/if-traveling-maryland-toll-roads-this-thanksgiving-put-safety-first-on-the-menu/",
+      "snippet": "Nov 23, 2020 \u2014 If you must travel, do your part to slow the spread of COVID-19 by remembering to wash your hands, wear a mask in public, and avoid large crowds\u00a0...",
+      "rank_absolute": 38,
+      "rank_group": 37,
+      "result_type": "items"
+    },
+    {
+      "title": "Maryland State Police Boost Patrols for Thanksgiving Travel",
+      "url": "https://southernmarylandchronicle.com/2023/11/21/maryland-state-police-boost-patrols-for-thanksgiving-travel/",
+      "snippet": "Nov 21, 2023 \u2014 The Maryland State Police will enhance their patrols starting Wednesday, as a significant number of Marylanders are expected to travel.",
+      "rank_absolute": 39,
+      "rank_group": 38,
+      "result_type": "items"
+    },
+    {
+      "title": "Passport Processing Delays Disrupting Travel Plans",
+      "url": "https://southernmarylandchronicle.com/2021/07/23/passport-processing-delays-disrupting-travel-plans/",
+      "snippet": "Jul 23, 2021 \u2014 AAA travel advisors say passport processing times are three times as long as the average wait time prior to the pandemic.",
+      "rank_absolute": 40,
+      "rank_group": 39,
+      "result_type": "items"
+    },
+    {
+      "title": "CSM Welcomes Author, Journalist, and Travel Writer Adam ...",
+      "url": "https://southernmarylandchronicle.com/2021/02/11/csm-welcomes-author-journalist-and-travel-writer-adam-karlin-to-connections-literary-series/",
+      "snippet": "Feb 11, 2021 \u2014 The 1 p.m. virtual event is free. CSM welcomes author, journalist and travel writer Adam Karlin to its Connections Literary Series. After\u00a0...",
+      "rank_absolute": 41,
+      "rank_group": 40,
+      "result_type": "items"
+    },
+    {
+      "title": "MDOT MVA Observes Child Passenger Safety Week 2021 ...",
+      "url": "https://southernmarylandchronicle.com/2021/09/21/mdot-mva-observes-child-passenger-safety-week-2021-provides-resources-to-support-safe-travel-practices/",
+      "snippet": "Sep 21, 2021 \u2014 Once your child outgrows the rear-facing size limits, the child is ready to travel in a forward-facing car seat with a harness. After outgrowing\u00a0...",
+      "rank_absolute": 42,
+      "rank_group": 41,
+      "result_type": "items"
+    },
+    {
+      "title": "Historic St. Mary's City Launches New Virtual Learning ...",
+      "url": "https://southernmarylandchronicle.com/2021/05/25/historic-st-marys-city-launches-new-virtual-learning-platform-allowing-distance-learning-field-trips-for-students/",
+      "snippet": "May 25, 2021 \u2014 Mary's City Launches New Virtual Learning Platform Allowing Distance-Learning Field Trips for Students. Online interactive maps and exhibits\u00a0...",
+      "rank_absolute": 43,
+      "rank_group": 42,
+      "result_type": "items"
+    },
+    {
+      "title": "MD Ready to Launch New Website for Tolling",
+      "url": "https://southernmarylandchronicle.com/2021/03/31/md-ready-to-launch-new-website-for-tolling/",
+      "snippet": "Mar 31, 2021 \u2014 Designed to \u201cKeep Maryland Moving\u201d and make it easier than ever to travel the state's toll bridges, tunnels and roads, DriveEzMD will serve E-\u00a0...",
+      "rank_absolute": 44,
+      "rank_group": 43,
+      "result_type": "items"
+    },
+    {
+      "title": "Maryland Health Department issues holiday guidance urging ...",
+      "url": "https://southernmarylandchronicle.com/2020/11/19/maryland-health-department-issues-holiday-guidance-urging-caution-with-travel-and-large-gatherings/",
+      "snippet": "... travel and celebrations as infection numbers continue to spike in Maryland and the surrounding region. Maryland is currently experiencing a significant\u00a0...",
+      "rank_absolute": 45,
+      "rank_group": 44,
+      "result_type": "items"
+    },
+    {
+      "title": "Southern Maryland Closings and Delays for Wednesday ...",
+      "url": "https://southernmarylandchronicle.com/2025/02/11/southern-maryland-closings-and-delays-for-wednesday-february-12-2025/",
+      "snippet": "Feb 11, 2025 \u2014 A strong winter storm is sweeping across the Mid-Atlantic, bringing heavy snowfall, gusty winds, and hazardous travel conditions to the region.",
+      "rank_absolute": 46,
+      "rank_group": 45,
+      "result_type": "items"
+    },
+    {
+      "title": "Del Mar Racetrack: A Dream Destination To Your Next ...",
+      "url": "https://southernmarylandchronicle.com/2021/06/15/del-mar-racetrack-a-dream-destination-to-your-next-travel-bucket-list/",
+      "snippet": "Jun 15, 2021 \u2014 A Kardashian and Jenner First Rendezvous. Del Mar racecourse is not only the home of state-of-the-art accommodations and horse racing venues,\u00a0...",
+      "rank_absolute": 47,
+      "rank_group": 46,
+      "result_type": "items"
+    },
+    {
+      "title": "Snow Emergency Plan Declared for Calvert and St. Mary's ...",
+      "url": "https://southernmarylandchronicle.com/2025/02/11/snow-emergency-plan-declared-for-calvert-and-st-marys-counties/",
+      "snippet": "Feb 11, 2025 \u2014 Vehicles may not travel on these designated highways unless equipped with chains or snow tires on at least one wheel at each end of a driving\u00a0...",
+      "rank_absolute": 48,
+      "rank_group": 47,
+      "result_type": "items"
+    },
+    {
+      "title": "Civil War Trails Blazes a New Path for History Travel in St. ...",
+      "url": "https://southernmarylandchronicle.com/2020/11/05/civil-war-trails-blazes-a-new-path-for-history-travel-in-st-marys-county-2/",
+      "snippet": "Nov 5, 2020 \u2014 LEONARDTOWN, MD \u2013 Civil War Trails, Inc. has teamed up with the St. Mary's County Museum Division, Visit St. Mary's MD, Historic Sotterley,\u00a0...",
+      "rank_absolute": 49,
+      "rank_group": 48,
+      "result_type": "items"
+    },
+    {
+      "title": "Winter Storm Watch Issued for St. Mary's County, Snow ...",
+      "url": "https://southernmarylandchronicle.com/2025/02/17/winter-storm-watch-issued-for-st-marys-county-snow-expected-midweek/",
+      "snippet": "Feb 17, 2025 \u2014 Residents are encouraged to monitor the latest forecasts and prepare accordingly. Those planning to travel on Wednesday should allow extra time,\u00a0...",
+      "rank_absolute": 50,
+      "rank_group": 49,
+      "result_type": "items"
+    },
+    {
+      "title": "I-395 Express Lanes debuted over the weekend",
+      "url": "https://southernmarylandchronicle.com/2019/11/18/i-395-express-lanes-debuted-over-the-weekend/",
+      "snippet": "Nov 18, 2019 \u2014 ... travel times on one of the most congested traffic corridors in the Washington metro area. For the first time ever, solo drivers can traverse\u00a0...",
+      "rank_absolute": 51,
+      "rank_group": 50,
+      "result_type": "items"
+    },
+    {
+      "title": "Tagging Horseshoe Crabs: CSM Students Aid in Species ...",
+      "url": "https://southernmarylandchronicle.com/2024/07/25/tagging-horseshoe-crabs-csm-students-aid-in-species-preservation/",
+      "snippet": "Jul 25, 2024 \u2014 On a recent educational trip, students and faculty from the College of Southern Maryland (CSM) participated in a hands-on scientific\u00a0...",
+      "rank_absolute": 52,
+      "rank_group": 51,
+      "result_type": "items"
+    },
+    {
+      "title": "La Plata Woman Killed Saturday Night After Walking In ...",
+      "url": "https://southernmarylandchronicle.com/2020/08/03/la-plata-woman-killed-saturday-night-after-walking-in-travel-lanes-of-crain-highway/",
+      "snippet": "Aug 3, 2020 \u2014 The victim, who was initially unidentified, was walking in the travel lanes of Crain Highway when she was struck by the Kia.",
+      "rank_absolute": 53,
+      "rank_group": 52,
+      "result_type": "items"
+    },
+    {
+      "title": "Work To Result In 24/7 Single-Lane Closure On ...",
+      "url": "https://southernmarylandchronicle.com/2021/09/09/work-to-result-in-24-7-single-lane-closure-on-southbound-us-301-approaching-nice-middleton-bridge-until-fall-2021/",
+      "snippet": "Sep 9, 2021 \u2014 Based on typical historical travels, the best times to travel the Nice/Middleton Bridge on weekends include: Friday \u2013 before 11 a.m. and\u00a0...",
+      "rank_absolute": 54,
+      "rank_group": 53,
+      "result_type": "items"
+    },
+    {
+      "title": "MDTA Now Accepting Proactive Toll Payments For Trips ...",
+      "url": "https://southernmarylandchronicle.com/2020/09/25/mdta-now-accepting-proactive-toll-payments-for-trips-made-on-or-before-june-30/",
+      "snippet": "Sep 25, 2020 \u2014 Customers can pay online or in person before receiving Notices of Toll Due starting mid-October; E-ZPass\u00ae Maryland discount plans return to\u00a0...",
+      "rank_absolute": 55,
+      "rank_group": 54,
+      "result_type": "items"
+    },
+    {
+      "title": "Southern Maryland Closings and Delays Due to Winter Storm",
+      "url": "https://southernmarylandchronicle.com/2025/02/10/southern-maryland-closings-and-delays-due-to-winter-storm/",
+      "snippet": "Feb 10, 2025 \u2014 A final decision on additional delays or closures for Wednesday will be announced by 5 a.m. Tuesday morning. All CCPS field trips, after-school,\u00a0...",
+      "rank_absolute": 56,
+      "rank_group": 55,
+      "result_type": "items"
+    },
+    {
+      "title": "Late President Jimmy Carter to lie in state at U.S. Capitol ...",
+      "url": "https://southernmarylandchronicle.com/2025/01/02/late-president-jimmy-carter-to-lie-in-state-at-u-s-capitol-next-week/",
+      "snippet": "Jan 2, 2025 \u2014 Following a service in Georgia and a public viewing as he lies in repose from Jan. 4 to Jan. 7, Carter's body will travel to Washington, D.C.,\u00a0...",
+      "rank_absolute": 57,
+      "rank_group": 56,
+      "result_type": "items"
+    },
+    {
+      "title": "Snow Expected Tonight; Advisory in Effect Until Saturday ...",
+      "url": "https://southernmarylandchronicle.com/2025/01/10/snow-expected-tonight-advisory-in-effect-until-saturday-morning/",
+      "snippet": "Jan 10, 2025 \u2014 Plan for slippery roads and allow extra time for travel. Support The Southern Maryland Chronicle, Support SoMD. Show your love for Southern\u00a0...",
+      "rank_absolute": 58,
+      "rank_group": 57,
+      "result_type": "items"
+    },
+    {
+      "title": "AAA Mid-Atlantic Expects To Rescue Nearly ...",
+      "url": "https://southernmarylandchronicle.com/2021/06/28/aaa-mid-atlantic-expects-to-rescue-nearly-8500-motorists-in-maryland-this-independence-day-weekend/?amp",
+      "snippet": "Jun 28, 2021 \u2014 ... travel for the Independence Day Holiday, the Great American Road trip reigns supreme with 43.6 million Americans driving to their destination.",
+      "rank_absolute": 59,
+      "rank_group": 58,
+      "result_type": "items"
+    },
+    {
+      "title": "Maryland's high-speed maglev train project is not happening",
+      "url": "https://southernmarylandchronicle.com/2025/08/05/marylands-high-speed-maglev-train-project-is-not-happening/",
+      "snippet": "Aug 1, 2025 \u2014 \u201cThe SCMAGLEV would have resulted in over $6 billion in private investment, created more than 160,000 jobs, and replaced 16 million car trips,\u201d\u00a0...",
+      "rank_absolute": 60,
+      "rank_group": 59,
+      "result_type": "items"
+    },
+    {
+      "title": "Welcome to the 14th Annual Conflict Resolution Day",
+      "url": "https://southernmarylandchronicle.com/wp-content/uploads/2022/12/bookmarkwinners2022.pdf",
+      "snippet": "Dec 5, 2022 \u2014 Safe travels home. Page 34. Congratulations to all our winners and everyone who entered this year's contest! The Maryland Judiciary's\u00a0...",
+      "rank_absolute": 61,
+      "rank_group": 60,
+      "result_type": "items"
+    },
+    {
+      "title": "Heat, Pandemic, And Increase In Road Trips Taking A Toll ...",
+      "url": "https://southernmarylandchronicle.com/2020/08/10/heat-pandemic-and-increase-in-road-trips-taking-a-toll-on-car-batteries/",
+      "snippet": "Aug 10, 2020 \u2014 Road Trips \u2013 With air travel down almost 75%, Americans are returning this summer to the Great American Road Trip. AAA call volume\u00a0...",
+      "rank_absolute": 62,
+      "rank_group": 61,
+      "result_type": "items"
+    },
+    {
+      "title": "Juvenile Services taps superintendent to oversee ...",
+      "url": "https://southernmarylandchronicle.com/2025/08/08/juvenile-services-taps-school-superintendent-as-new-secretary-begins-making-changes/",
+      "snippet": "Aug 6, 2025 \u2014 New Secretary Betsy Fox Tolentino said she is traveling the state and 'I will talk to everybody' in search of solutions for troubled agency\u00a0...",
+      "rank_absolute": 63,
+      "rank_group": 62,
+      "result_type": "items"
+    },
+    {
+      "title": "Annual Drinking Water Quality Report",
+      "url": "https://southernmarylandchronicle.com/wp-content/uploads/2023/06/2023_town_of_north_beach.pdf",
+      "snippet": "The sources of drinking water (both tap water and bottled water) include rivers, lakes, streams, ponds, reservoirs, springs, and wells. As water travels over\u00a0...",
+      "rank_absolute": 64,
+      "rank_group": 63,
+      "result_type": "items"
+    },
+    {
+      "title": "annual maryland fire fatality report",
+      "url": "https://southernmarylandchronicle.com/wp-content/uploads/2025/07/OSFM-2024-Fire-Fatality-Annual-Report.pdf",
+      "snippet": "Additionally, the cause remains undetermined, and the presence of smoke alarms could not be confirmed. - A travel trailer fire (used as a residential dwelling)\u00a0...",
+      "rank_absolute": 65,
+      "rank_group": 64,
+      "result_type": "items"
+    },
+    {
+      "title": "Van Hollen, former officials call hundreds of layoffs at ...",
+      "url": "https://southernmarylandchronicle.com/2025/03/01/van-hollen-former-officials-call-hundreds-of-layoffs-at-noaa-an-assault-on-public-safety/",
+      "snippet": "Feb 28, 2025 \u2014 \u201cNOAA's weather forecasts are used by aviation experts to prevent airline disasters and keep our skies safe for the millions that travel the\u00a0...",
+      "rank_absolute": 66,
+      "rank_group": 65,
+      "result_type": "items"
+    },
+    {
+      "title": "Maryland Ranks Third for Longest Work Commutes",
+      "url": "https://southernmarylandchronicle.com/2024/11/11/maryland-ranks-third-for-longest-work-commutes/",
+      "snippet": "Nov 11, 2024 \u2014 The findings underscore how Maryland's transportation infrastructure and densely populated areas affect daily travel times, with many residents\u00a0...",
+      "rank_absolute": 67,
+      "rank_group": 66,
+      "result_type": "items"
+    },
+    {
+      "title": "AAA: New Car Costs Drop $719 in 2025",
+      "url": "https://southernmarylandchronicle.com/2025/09/19/aaa-new-car-costs-drop-719-in-2025/",
+      "snippet": "7 days ago \u2014 As Memorial Day weekend approaches, signaling the start of the summer travel season, Marylanders should prepare for slightly elevated gas prices\u00a0...",
+      "rank_absolute": 68,
+      "rank_group": 67,
+      "result_type": "items"
+    },
+    {
+      "title": "'ICE out of Baltimore!': Recent immigration raids prompt ...",
+      "url": "https://southernmarylandchronicle.com/2025/06/12/ice-out-of-baltimore-recent-immigration-raids-prompt-baltimore-protest/",
+      "snippet": "Jun 12, 2025 \u2014 He spoke of talking with family members, visiting their homes and traveling to the George H. Fallon Federal Building in Baltimore. Shortly\u00a0...",
+      "rank_absolute": 69,
+      "rank_group": 68,
+      "result_type": "items"
+    },
+    {
+      "title": "Historic Awards, Budget top CSMC Agenda",
+      "url": "https://southernmarylandchronicle.com/2025/05/07/historic-awards-budget-top-csmc-agenda/",
+      "snippet": "May 7, 2025 \u2014 The session included proclamations for Travel and Tourism Week, Small Business Month, National Nurses Week, and Historical Preservation\u00a0...",
+      "rank_absolute": 70,
+      "rank_group": 69,
+      "result_type": "items"
+    },
+    {
+      "title": "PASSENGER FERRY FEASIBILITY STUDY",
+      "url": "https://southernmarylandchronicle.com/wp-content/uploads/2024/08/ES_ChesapeakeBay_FeasibilityStudy_FINAL_20240814.pdf",
+      "snippet": "Aug 14, 2024 \u2014 Economic Development Administration's American Rescue Plan: Travel, Tourism & Outdoor Recreation Program. Page 3. CHESAPEAKE BAY PASSENGER\u00a0...",
+      "rank_absolute": 71,
+      "rank_group": 70,
+      "result_type": "items"
+    },
+    {
+      "title": "Whitney Pipkin, Author at The Southern Maryland Chronicle",
+      "url": "https://southernmarylandchronicle.com/author/whitney-pipkin/",
+      "snippet": "Author Archives: Whitney Pipkin \u00b7 As data centers multiply in the Chesapeake region, water use increases too \u00b7 Scientists listen in on dolphins that travel in and\u00a0...",
+      "rank_absolute": 72,
+      "rank_group": 71,
+      "result_type": "items"
+    },
+    {
+      "title": "National News Archives - Page 3 of 319",
+      "url": "https://southernmarylandchronicle.com/category/all-news/national-news/page/3/",
+      "snippet": "Posted inTravel \u00b7 Labor Day Travel Maryland: Cheaper Trips, Busy Roads Await. by David M. Higgins II, Publisher/Editor August 27, 2025. Posted inBusiness and\u00a0...",
+      "rank_absolute": 73,
+      "rank_group": 72,
+      "result_type": "items"
+    },
+    {
+      "title": "St. Mary's College Board of Trustees Name Two to The ...",
+      "url": "https://southernmarylandchronicle.com/2019/02/05/st-marys-college-board-of-trustees-name-two-to-the-order-of-the-ark-and-dove/",
+      "snippet": "Feb 5, 2019 \u2014 He and his wife started their travel business nearly 40 years ago, establishing Cole Travel in Lexington Park, Md. In 2000, Cole Travel ...",
+      "rank_absolute": 74,
+      "rank_group": 73,
+      "result_type": "items"
+    },
+    {
+      "title": "Hidden Gems in New York That Families Will Love",
+      "url": "https://southernmarylandchronicle.com/2025/09/05/hidden-gems-in-new-york-that-families-will-love/",
+      "snippet": "Sep 5, 2025 \u2014 When planning the trip of a lifetime with your family, it doesn't get much more special than New York City. It's a destination that\u00a0...",
+      "rank_absolute": 75,
+      "rank_group": 74,
+      "result_type": "items"
+    },
+    {
+      "title": "Maryland Police Ramp Up July 4th DUI Patrols",
+      "url": "https://southernmarylandchronicle.com/2025/07/02/maryland-police-ramp-up-july-4th-dui-patrols/",
+      "snippet": "Jul 2, 2025 \u2014 ... travel routes during the holiday weekend. Support The Southern Maryland Chronicle, Support SoMD. Show your love for Southern Maryland by\u00a0...",
+      "rank_absolute": 76,
+      "rank_group": 75,
+      "result_type": "items"
+    },
+    {
+      "title": "Unforgettable Honeymoon Destinations Around the Globe",
+      "url": "https://southernmarylandchronicle.com/2025/04/17/unforgettable-honeymoon-destinations-around-the-globe/",
+      "snippet": "Apr 17, 2025 \u2014 Couples should consider travel time, budget, and preferred activities when choosing. For example, Italy suits culture enthusiasts, while the\u00a0...",
+      "rank_absolute": 77,
+      "rank_group": 76,
+      "result_type": "items"
+    },
+    {
+      "title": "Lottery Player Scores $50000 in St. Mary's",
+      "url": "https://southernmarylandchronicle.com/2025/07/02/lottery-player-scores-50000-in-st-marys/",
+      "snippet": "Jul 2, 2025 \u2014 ... trip to St. Mary's ... Despite the substantial prize, she plans to save the winnings rather than spend them on travel or other expenses.",
+      "rank_absolute": 78,
+      "rank_group": 77,
+      "result_type": "items"
+    },
+    {
+      "title": "Calvert's DI Teams Set for Kansas City Finals",
+      "url": "https://southernmarylandchronicle.com/2025/05/14/calverts-di-teams-set-for-kansas-city-finals/",
+      "snippet": "May 14, 2025 \u2014 ... travel, and lodging costs. The Clowniens. The Clowniens, an elementary team, tackled the engineering challenge by designing a self-propelled\u00a0...",
+      "rank_absolute": 79,
+      "rank_group": 78,
+      "result_type": "items"
+    },
+    {
+      "title": "How to Plan for Future Car Repairs Before They Happen",
+      "url": "https://southernmarylandchronicle.com/2025/06/24/how-to-plan-for-future-car-repairs-before-they-happen/",
+      "snippet": "Jun 24, 2025 \u2014 In Southern Maryland, where daily commutes and weekend road trips are part of life, staying ahead of car repairs isn't just smart\u2014it's essential\u00a0...",
+      "rank_absolute": 80,
+      "rank_group": 79,
+      "result_type": "items"
+    },
+    {
+      "title": "Commanders Face Packers in Primetime Clash at Lambeau",
+      "url": "https://southernmarylandchronicle.com/2025/09/11/commanders-face-packers-in-primetime-clash-at-lambeau/",
+      "snippet": "Sep 11, 2025 \u2014 The Washington Commanders travel to Green Bay to battle the Packers in a Week 2 Thursday Night Football matchup on September 11, 2025, at 8\u00a0...",
+      "rank_absolute": 81,
+      "rank_group": 80,
+      "result_type": "items"
+    },
+    {
+      "title": "Southwest Ditches Free Bags, Heads to Assigned Seating",
+      "url": "https://southernmarylandchronicle.com/2025/03/15/southwest-ditches-free-bags-heads-to-assigned-seating/",
+      "snippet": "Mar 15, 2025 \u2014 Posted inTravel. Southwest Ditches Free Bags, Heads to Assigned ... WASHINGTON \u2014 Southwest Airlines announced on Tuesday, March 11, 2025, a\u00a0...",
+      "rank_absolute": 82,
+      "rank_group": 81,
+      "result_type": "items"
+    },
+    {
+      "title": "Safety First: How to Navigate Maryland Roads During ...",
+      "url": "https://southernmarylandchronicle.com/2024/09/24/safety-first-how-to-navigate-maryland-roads-during-harvest/",
+      "snippet": "Sep 24, 2024 \u2014 Drivers are encouraged to plan for extra travel time and follow safety tips provided by the MDOT SHA to ensure the safety of all road users.",
+      "rank_absolute": 83,
+      "rank_group": 82,
+      "result_type": "items"
+    },
+    {
+      "title": "Calvert Library Prince Frederick Announces Limited in- ...",
+      "url": "https://southernmarylandchronicle.com/2020/08/21/calvert-library-prince-frederick-announces-limited-in-building-service-beginning-august-31/",
+      "snippet": "Aug 21, 2020 \u2014 News Release, Calvert County Public Library Prince Frederick, MD- Prepare for upcoming travel and apply for your U.S. Passport today at Calvert\u00a0...",
+      "rank_absolute": 84,
+      "rank_group": 83,
+      "result_type": "items"
+    },
+    {
+      "title": "Smithsonian's Spark! Opens at CSM Velocity Center",
+      "url": "https://southernmarylandchronicle.com/2025/06/09/smithsonians-spark-opens-at-csm-velocity-center/",
+      "snippet": "Jun 9, 2025 \u2014 The exhibit, part of Maryland Humanities' Museum on Main Street program, will remain on view through June 29, 2025, before traveling to five\u00a0...",
+      "rank_absolute": 85,
+      "rank_group": 84,
+      "result_type": "items"
+    },
+    {
+      "title": "Hughesville Teen Killed in Tippett Road Crash",
+      "url": "https://southernmarylandchronicle.com/2025/08/08/hughesville-teen-killed-in-tippett-road-crash/",
+      "snippet": "Aug 8, 2025 \u2014 Preliminary findings indicate the vehicle was traveling southbound on Tippett Road when, for reasons still under review, it veered off course\u00a0...",
+      "rank_absolute": 86,
+      "rank_group": 85,
+      "result_type": "items"
+    },
+    {
+      "title": "From Panama hats to baseball caps: USPS celebrates its ...",
+      "url": "https://southernmarylandchronicle.com/2025/08/28/from-panama-hats-to-baseball-caps-usps-celebrates-its-hats-legacy-in-250th-year/",
+      "snippet": "Aug 28, 2025 \u2014 ... travel across varied terrains. In Southern Maryland, early postal operations reflected this practicality, with the region's first post\u00a0...",
+      "rank_absolute": 87,
+      "rank_group": 86,
+      "result_type": "items"
+    },
+    {
+      "title": "Auto Archives",
+      "url": "https://southernmarylandchronicle.com/category/auto/",
+      "snippet": "Posted inTravel \u00b7 Labor Day Travel Maryland: Cheaper Trips, Busy Roads Await. by David M. Higgins II, Publisher/Editor August 27, 2025. Posted inAccidents\u00a0...",
+      "rank_absolute": 88,
+      "rank_group": 87,
+      "result_type": "items"
+    },
+    {
+      "title": "Ravens Meet Commanders in Preseason Closer at ...",
+      "url": "https://southernmarylandchronicle.com/2025/08/23/ravens-meet-commanders-in-preseason-closer-at-northwest-stadium/",
+      "snippet": "Aug 23, 2025 \u2014 \u2014 The Baltimore Ravens travel to Northwest Stadium to face the Washington Commanders in their final preseason game on August 23, 2025, with\u00a0...",
+      "rank_absolute": 89,
+      "rank_group": 88,
+      "result_type": "items"
+    },
+    {
+      "title": "Saint Mary's County Faces MD 5 Construction Delays",
+      "url": "https://southernmarylandchronicle.com/2025/06/24/saint-marys-county-faces-md-5-construction-delays/",
+      "snippet": "Jun 24, 2025 \u2014 The State Highway Administration urges drivers to remain vigilant, slow down, and anticipate additional travel time in work zones. For\u00a0...",
+      "rank_absolute": 90,
+      "rank_group": 89,
+      "result_type": "items"
+    },
+    {
+      "title": "Anne Arundel County Archives - Page 3 of 663",
+      "url": "https://southernmarylandchronicle.com/category/all-news/counties/anne-arundel-county/page/3/",
+      "snippet": "MDOT Plans US 50 Ramp Closures for Summer Travel. by David M. Higgins II ... Blue Angels Fly for Commissioning Week. by David M. Higgins II, Publisher\u00a0...",
+      "rank_absolute": 91,
+      "rank_group": 90,
+      "result_type": "items"
+    },
+    {
+      "title": "Seahawks Announce 2025 Men's, Women's Soccer Slates",
+      "url": "https://southernmarylandchronicle.com/2025/07/09/seahawks-announce-2025-mens-womens-soccer-slates/",
+      "snippet": "Jul 9, 2025 \u2014 On September 2, the Seahawks travel to face Catholic University, a two-time Landmark Conference champion and NCAA Tournament participant.",
+      "rank_absolute": 92,
+      "rank_group": 91,
+      "result_type": "items"
+    },
+    {
+      "title": "Maryland's Shed Antler Hunt Heats Up in Spring",
+      "url": "https://southernmarylandchronicle.com/2025/04/24/marylands-shed-antler-hunt-heats-up-in-spring/",
+      "snippet": "Apr 24, 2025 \u2014 Antlers often mark key deer habitats, such as bedding areas, travel routes, or feeding sites, providing clues about local wildlife patterns.",
+      "rank_absolute": 93,
+      "rank_group": 92,
+      "result_type": "items"
+    },
+    {
+      "title": "St. Mary's Saturation Saturday Targets Impaired Drivers",
+      "url": "https://southernmarylandchronicle.com/2025/08/21/st-marys-saturation-saturday-targets-impaired-drivers/",
+      "snippet": "Aug 21, 2025 \u2014 ... travel surge. The initiative aligns with the National Highway Traffic Safety Administration's Drive Sober or Get Pulled Over campaign, which\u00a0...",
+      "rank_absolute": 94,
+      "rank_group": 93,
+      "result_type": "items"
+    },
+    {
+      "title": "Maryland Sees Gas Price Hike, Below 2024 Peak",
+      "url": "https://southernmarylandchronicle.com/2025/08/06/maryland-sees-gas-price-hike-below-2024-peak/",
+      "snippet": "Aug 6, 2025 \u2014 Mary's, Charles, and Calvert counties, where commuting to work or weekend trips to Chesapeake Bay are common, these shifts impact household\u00a0...",
+      "rank_absolute": 95,
+      "rank_group": 94,
+      "result_type": "items"
+    },
+    {
+      "title": "Maryland Drivers Face Costly Pothole Season After Harsh ...",
+      "url": "https://southernmarylandchronicle.com/2025/02/26/maryland-drivers-face-costly-pothole-season-after-harsh-winter/",
+      "snippet": "Feb 26, 2025 \u2014 Plowing and salting, while necessary for safe winter travel, also contribute to pavement deterioration by breaking apart already weakened\u00a0...",
+      "rank_absolute": 96,
+      "rank_group": 95,
+      "result_type": "items"
+    },
+    {
+      "title": "St. Mary's County Archives - Page 1265 of 1913",
+      "url": "https://southernmarylandchronicle.com/category/st-marys-county/page/1265/?date=2020-3-6&t=day",
+      "snippet": "Nearly 1.35 million people expected to travel in the Washington, D.C. metro area for Thanksgiving. by David M. Higgins II, Publisher/Editor November 25, 2019\u00a0...",
+      "rank_absolute": 97,
+      "rank_group": 96,
+      "result_type": "items"
+    },
+    {
+      "title": "MDOT SHA to partially shift traffic onto new Brandywine ...",
+      "url": "https://southernmarylandchronicle.com/2018/12/14/mdot-sha-to-partially-shift-traffic-onto-new-brandywine-road-bridge/",
+      "snippet": "Dec 14, 2018 \u2014 Motorists traveling southbound on MD 5 will be directed to the bridge, eliminating the at-grade right turn movement. The lane closures will\u00a0...",
+      "rank_absolute": 98,
+      "rank_group": 97,
+      "result_type": "items"
+    },
+    {
+      "title": "Calvert County Urges Sober Driving Ahead of Labor Day",
+      "url": "https://southernmarylandchronicle.com/2025/08/15/calvert-county-urges-sober-driving-ahead-of-labor-day/",
+      "snippet": "Aug 15, 2025 \u2014 These figures underscore the heightened dangers during holiday weekends, when travel surges and celebrations often involve alcohol. In\u00a0...",
+      "rank_absolute": 99,
+      "rank_group": 98,
+      "result_type": "items"
+    },
+    {
+      "title": "State Backs Broad Virus Shots for 2025 Season",
+      "url": "https://southernmarylandchronicle.com/2025/09/22/state-backs-broad-virus-shots-for-2025-season/",
+      "snippet": "4 days ago \u2014 ... travel and celebrations as infection numbers continue to spike in Maryland and the surrounding region. Maryland is currently experiencing a\u00a0...",
+      "rank_absolute": 100,
+      "rank_group": 99,
+      "result_type": "items"
+    }
+  ]
+}

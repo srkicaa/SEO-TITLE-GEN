@@ -1,0 +1,55 @@
+{
+  "created_at": "2025-10-13T10:40:14Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "murciastartup.com",
+    "anchor_keyword": "nuevos casinos online espa\u00f1a",
+    "anchor_country": "",
+    "target_url": "https://www.platincasino.es/nuevo",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Igaming Y Econom\u00eda Digital: Claves Tecnol\u00f3gicas Que Est\u00e1n Transformando El Entretenimiento Online Desde La Regi\u00f3n De Murcia",
+      "rationale": "Encaja con el enfoque de innovaci\u00f3n y tejido empresarial de MurciaStartup. El enlace apunta a una p\u00e1gina de novedades que ilustra la evoluci\u00f3n continua de producto en plataformas reguladas; en el cuerpo se puede contextualizar el cat\u00e1logo reciente y, de forma natural, mencionar nuevos casinos online espa\u00f1a si procede."
+    },
+    {
+      "title": "Dise\u00f1o De Producto En Plataformas De Juego Online: UX, Seguridad Y Contenido En Actualizaci\u00f3n Continua",
+      "rationale": "El foco en UX, protecci\u00f3n del usuario y ciclos r\u00e1pidos de lanzamiento es af\u00edn a art\u00edculos de innovaci\u00f3n del medio. La p\u00e1gina enlazada muestra un flujo vivo de nuevas incorporaciones, \u00fatil para ejemplificar iteraci\u00f3n de cat\u00e1logo y pruebas A/B sin citar marcas en t\u00edtulo."
+    },
+    {
+      "title": "Tendencias 2025 En Regulaci\u00f3n Y Tecnolog\u00eda Del Juego Online En Espa\u00f1a: Pagos, Verificaci\u00f3n Y Juego Responsable",
+      "rationale": "MurciaStartup publica an\u00e1lisis sectoriales; este \u00e1ngulo permite enlazar a un destino que evidencia cumplimiento y novedades de contenido. En el texto se puede usar la ancla de forma natural al hablar del panorama de nuevos operadores en Espa\u00f1a, sin incluir marcas en el t\u00edtulo."
+    },
+    {
+      "title": "De La Idea Al Escalado: C\u00f3mo Las Plataformas De Entretenimiento Digital Gestionan Lanzamientos Semanales Y Retenci\u00f3n",
+      "rationale": "El medio trata sobre crecimiento y escalado. La p\u00e1gina de \u201cnovedades\u201d sirve como caso pr\u00e1ctico de cadencia de lanzamientos y estrategia de retenci\u00f3n basada en contenido reciente, justificando el enlace sin sesgo promocional."
+    },
+    {
+      "title": "Datos Y Contenido En Igaming: M\u00e9tricas Que Importan Para Optimizar Cat\u00e1logos Y Experiencia Del Usuario",
+      "rationale": "T\u00edtulo alineado con la l\u00ednea editorial de innovaci\u00f3n y anal\u00edtica. La URL enlazada ilustra c\u00f3mo un cat\u00e1logo vivo permite medir engagement por novedad; en el copy se puede introducir el t\u00e9rmino nuevos casinos online espa\u00f1a cuando sea natural, manteniendo el t\u00edtulo libre de marcas."
+    }
+  ],
+  "titles_context": [
+    "Yaass Casino, la apuesta de Orenes para su oferta de ...",
+    "STEAM: Voces del cambio, el nuevo podcast de Global ...",
+    "Startups - P\u00e1gina 6 | \u00daltimas noticias MurciaStartup",
+    "Grupo Orenes | \u00daltimas noticias MurciaStartup",
+    "Joaqu\u00edn Ortega: \"AJE Cartagena quiere ser el enlace entre ...",
+    "Innovaci\u00f3n e internacionalizaci\u00f3n, la receta de las ...",
+    "Hefame explica a los farmac\u00e9uticos de FEFE Murcia las ...",
+    "La CROEM analiza en Cartagena la situaci\u00f3n econ\u00f3mica y ...",
+    "Noa Fuentes - MurciaStartup - P\u00e1gina 3",
+    "Fuente \u00c1lamo | \u00daltimas noticias MurciaStartup",
+    "Lecciones de innovaci\u00f3n, por Ferr\u00e1n Adri\u00e0",
+    "Felipe Reyes, Lydia Valent\u00edn, Javier Clemente y \u00c1lex ...",
+    "UPCT - P\u00e1gina 7 | \u00daltimas noticias MurciaStartup"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.platincasino.es/nuevo that feel at home on murciastartup.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): nuevos casinos online espa\u00f1a\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Yaass Casino, la apuesta de Orenes para su oferta de ...\n- STEAM: Voces del cambio, el nuevo podcast de Global ...\n- Startups - P\u00e1gina 6 | \u00daltimas noticias MurciaStartup\n- Grupo Orenes | \u00daltimas noticias MurciaStartup\n- Joaqu\u00edn Ortega: \"AJE Cartagena quiere ser el enlace entre ...\n- Innovaci\u00f3n e internacionalizaci\u00f3n, la receta de las ...\n- Hefame explica a los farmac\u00e9uticos de FEFE Murcia las ...\n- La CROEM analiza en Cartagena la situaci\u00f3n econ\u00f3mica y ...\n- Noa Fuentes - MurciaStartup - P\u00e1gina 3\n- Fuente \u00c1lamo | \u00daltimas noticias MurciaStartup\n- Lecciones de innovaci\u00f3n, por Ferr\u00e1n Adri\u00e0\n- Felipe Reyes, Lydia Valent\u00edn, Javier Clemente y \u00c1lex ...\n- UPCT - P\u00e1gina 7 | \u00daltimas noticias MurciaStartup\n\nGuidance:\n1. Combine your own knowledge of murciastartup.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to murciastartup.com while naturally justifying a link to https://www.platincasino.es/nuevo.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude nuevos casinos online espa\u00f1a and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 768,
+    "completion_tokens": 938
+  },
+  "cost_usd": 0.07164
+}

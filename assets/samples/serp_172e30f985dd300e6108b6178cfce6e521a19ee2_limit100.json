@@ -1,0 +1,80 @@
+{
+  "mode": "live",
+  "task_id": "10131808-4117-0121-0000-08a6460380bd",
+  "query": "site:savingtool.co.uk casino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "How do UK Gambling Laws compare to the US?",
+      "url": "https://savingtool.co.uk/blog/how-do-uk-gambling-laws-compare-to-the-us/",
+      "snippet": "Apr 28, 2025 \u2014 The UK and US have built thriving gambling markets, but cultural attitudes and regulatory systems keep them worlds apart.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Understanding Casino Psychology: How Gamification Influences ...",
+      "url": "https://savingtool.co.uk/blog/understanding-casino-psychology-how-gamification-influences-uk-players-spending-behaviour/",
+      "snippet": "The modern online gambling industry has evolved into a sophisticated psychological ecosystem that extends far beyond traditional casino games.",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "The Environmental Cost of Gambling: How Casinos Are Going ...",
+      "url": "https://savingtool.co.uk/blog/the-environmental-cost-of-gambling-how-casinos-are-going-green/",
+      "snippet": "The gambling industry is beginning to address its massive environmental footprint through solar power, advanced energy management, and waste reduction\u00a0...",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "How Many People Gamble in the UK in 2025?",
+      "url": "https://savingtool.co.uk/blog/how-many-people-gamble-in-the-uk-in-2025/",
+      "snippet": "Jul 17, 2025 \u2014 Nearly half of UK adults (48%) participate in gambling activities, driving a \u00a315.6 billion industry that has undergone a dramatic digital\u00a0...",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Tax-Free Winnings? How Gambling Profits Are Treated in ...",
+      "url": "https://savingtool.co.uk/blog/tax-free-winnings-how-gambling-profits-are-treated-in-the-uk/",
+      "snippet": "Jul 17, 2025 \u2014 Although gambling profits themselves are tax-free, you may be taxed on the income or gains generated from those profits. If you invest your\u00a0...",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "Crypto Gambling Scams: What to Watch for",
+      "url": "https://savingtool.co.uk/blog/crypto-gambling-scams-what-to-watch-for/",
+      "snippet": "The rise of cryptocurrencies have launched a new era in online gambling. Crypto casinos offer anonymity, faster transactions, lower fees, and access to\u00a0...",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "Understanding Gambling as Entertainment: Financial ...",
+      "url": "https://savingtool.co.uk/blog/understanding-gambling-as-entertainment-financial-implications-and-consumer-protection-in-the-uk/",
+      "snippet": "Aug 14, 2025 \u2014 Players can easily access promotional offers such as a casino bonus and engage with gambling platforms within minutes of registration.",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Football vs. Horse Racing: What Does the UK Bet on Most?",
+      "url": "https://savingtool.co.uk/blog/football-vs-horse-racing-what-does-the-uk-bet-on-most/",
+      "snippet": "Apr 15, 2025 \u2014 37% of UK bettors place bets on horse racing, making it second only to football in terms of participation. However, it leads in financial turnover.",
+      "rank_absolute": 8,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "Sam - Saving Tool UK Blog",
+      "url": "https://savingtool.co.uk/blog/author/sam/",
+      "snippet": "Set clear spending limits, track entertainment costs with budgeting apps, and prioritise high-value leisure so you can enjoy streaming, gaming and even online\u00a0...",
+      "rank_absolute": 9,
+      "rank_group": 9,
+      "result_type": "items"
+    }
+  ]
+}

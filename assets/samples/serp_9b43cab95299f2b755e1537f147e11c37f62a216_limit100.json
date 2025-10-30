@@ -1,0 +1,16 @@
+{
+  "mode": "live",
+  "task_id": "09221734-4117-0121-0000-e2838f6fefbf",
+  "query": "site:programgeeks.net kasino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "Safest Payment Methods For Online Casinos - Program Geeks",
+      "url": "https://programgeeks.net/safest-payment-methods-for-online-casinos/",
+      "snippet": "Learn how to choose secure casino banking options, avoid scams, and enjoy fast deposits and withdrawals.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    }
+  ]
+}

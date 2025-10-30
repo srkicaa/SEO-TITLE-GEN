@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-13T14:59:00Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "cryptorunner.com",
+    "anchor_keyword": "United Kingdom",
+    "anchor_country": "United Kingdom",
+    "target_url": "https://sterling-savvy.co.uk/en/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "GBP On\u2011ramps Explained: Bank Transfers, Fees, and Faster Payments for Crypto Buyers",
+      "rationale": "Fits CryptoRunner\u2019s payments/how\u2011to catalog and invites a contextual link to Sterling Savvy for practical banking guidance and fee breakdowns relevant to readers in the United Kingdom."
+    },
+    {
+      "title": "Crypto Tax Basics for 2025: from Capital Gains to Record\u2011keeping",
+      "rationale": "Naturally complements CryptoRunner\u2019s beginner guides; link to Sterling Savvy for accessible overviews of budgeting, allowances, and HMRC\u2011aligned record\u2011keeping for the United Kingdom audience."
+    },
+    {
+      "title": "FCA Rules at a Glance: What Compliance Means When You Trade Crypto",
+      "rationale": "Sits well among regulation primers on CryptoRunner and justifies linking to Sterling Savvy for plain\u2011English explanations of consumer protections and verified resources for readers in the United Kingdom."
+    },
+    {
+      "title": "Budgeting for Volatile Markets: Position Sizing and Cost Averaging for Beginners",
+      "rationale": "Matches CryptoRunner\u2019s risk\u2011management content while pointing to Sterling Savvy for step\u2011by\u2011step budgeting frameworks and cash\u2011flow tips tailored to households in the United Kingdom."
+    },
+    {
+      "title": "Exchange Comparison Checklist: Fees, Liquidity, KYC, and Payment Methods",
+      "rationale": "Aligns with CryptoRunner\u2019s comparison pages; link to Sterling Savvy for guidance on payment fees, bank transfer nuances, and safer money moves specific to the United Kingdom banking rails."
+    }
+  ],
+  "titles_context": [
+    "CryptoRunner \u2013 The leading cryptocurrency comparison service",
+    "Top 100 Cryptocurrencies (Real-Time Prices) Market Cap",
+    "Cryptocurrency Trading - Learn All About Trading Bitcoin",
+    "3 Best Bitcoin Casinos 2025 (Reviews & Ratings)",
+    "Latest News",
+    "5+ Best Bitcoin / Cryptocurrency Exchanges \u2192 2025 ...",
+    "Beginner Guides",
+    "Best Bitcoin & Cryptocurrency Broker",
+    "What is Bitcoin? - Ultimate Beginner's Guide 2025!",
+    "Dogecoin current price is $0.23.",
+    "Crypto Trading Strategies: How Ethereum Fits Into a ...",
+    "Ultimate Bitcoin Guide",
+    "Bitcoin Finance - How to Earn Money with Bitcoin",
+    "Understanding the Irreversibility of Crypto Transactions",
+    "How does a bitcoin wallet work?",
+    "aelf current price is $0.18.",
+    "Users can now transfer their crypto to eToro in order to invest ...",
+    "Bitcoin Freelance Writer - Apply Here!",
+    "Press Releases",
+    "Enhancing user experience with privacy in crypto casinos",
+    "Compare Cryptocurrency Exchanges 2025",
+    "Crypto-AI-Robo current price is $0.00004942.",
+    "Simplifying Cryptocurrency Exchange: Your Guide to Using ...",
+    "3 Best Bitcoin / Cryptocurrency Wallets \u2192 2025 (Tutorial & ...",
+    "CryptoRunner Scholarship | Apply here!"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://sterling-savvy.co.uk/en/ that feel at home on cryptorunner.com.\n\nReference SERP keyword: crypto\nAnchor keyword (use only if natural): United Kingdom\n\nAnchor operates in: United Kingdom\n\nReference titles:\n- CryptoRunner \u2013 The leading cryptocurrency comparison service\n- Top 100 Cryptocurrencies (Real-Time Prices) Market Cap\n- Cryptocurrency Trading - Learn All About Trading Bitcoin\n- 3 Best Bitcoin Casinos 2025 (Reviews & Ratings)\n- Latest News\n- 5+ Best Bitcoin / Cryptocurrency Exchanges \u2192 2025 ...\n- Beginner Guides\n- Best Bitcoin & Cryptocurrency Broker\n- What is Bitcoin? - Ultimate Beginner's Guide 2025!\n- Dogecoin current price is $0.23.\n- Crypto Trading Strategies: How Ethereum Fits Into a ...\n- Ultimate Bitcoin Guide\n- Bitcoin Finance - How to Earn Money with Bitcoin\n- Understanding the Irreversibility of Crypto Transactions\n- How does a bitcoin wallet work?\n- aelf current price is $0.18.\n- Users can now transfer their crypto to eToro in order to invest ...\n- Bitcoin Freelance Writer - Apply Here!\n- Press Releases\n- Enhancing user experience with privacy in crypto casinos\n- Compare Cryptocurrency Exchanges 2025\n- Crypto-AI-Robo current price is $0.00004942.\n- Simplifying Cryptocurrency Exchange: Your Guide to Using ...\n- 3 Best Bitcoin / Cryptocurrency Wallets \u2192 2025 (Tutorial & ...\n- CryptoRunner Scholarship | Apply here!\n\nGuidance:\n1. Combine your own knowledge of cryptorunner.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to cryptorunner.com while naturally justifying a link to https://sterling-savvy.co.uk/en/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude United Kingdom and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging United Kingdom where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 918,
+    "completion_tokens": 1074
+  },
+  "cost_usd": 0.0828
+}

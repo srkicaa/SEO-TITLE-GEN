@@ -1,0 +1,48 @@
+{
+  "created_at": "2025-09-22T14:17:22Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "moneymail.fi",
+    "anchor_keyword": "24nettikasino",
+    "anchor_country": "",
+    "target_url": "https://24nettikasino.fi/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Kasinoharrastuksen Budjetointi: Miten Pid\u00e4t Pelikassan Osana Kuukausitaloutta",
+      "rationale": "Artikkeli k\u00e4sittelee rahank\u00e4yt\u00f6n hallintaa ja pelikassan rajaamista. Luonteva linkki 24nettikasinoon voi ohjata lukijan syvent\u00e4v\u00e4\u00e4n oppaaseen kasinobudjetoinnista ja vastuullisista ty\u00f6kaluista (ankkurina tarvittaessa \u201c24nettikasino\u201d)."
+    },
+    {
+      "title": "RTP Ja Varianssi Selkokielell\u00e4: Mit\u00e4 Pelien Riskitaso Kertoo Taloudellisista Valinnoista",
+      "rationale": "Teksti avaa tuotto-odotusta ja riskin hallintaa talousn\u00e4k\u00f6kulmasta. Linkki 24nettikasinoon tarjoaa lukijalle lis\u00e4tietoa pelien RTP-arvoista ja k\u00e4yt\u00e4nn\u00f6n esimerkeist\u00e4, joihin voi viitata ankkurilla \u201c24nettikasino\u201d."
+    },
+    {
+      "title": "Nopeat Maksut, Nopeat P\u00e4\u00e4t\u00f6kset: Miten Pikamaksut Vaikuttavat Pelaajan Kassavirtaan",
+      "rationale": "K\u00e4sittelee talletusten ja kotiutusten vaikutusta rahank\u00e4ytt\u00f6\u00f6n. Linkitys 24nettikasinoon syvent\u00e4\u00e4 tietoa maksutavoista ja niiden kuluista sek\u00e4 k\u00e4sittelyajoista; ankkuri voidaan muotoilla luonnollisesti \u201c24nettikasino\u201d."
+    },
+    {
+      "title": "Pelaamisen Verotus Suomessa: Mit\u00e4 on Hyv\u00e4 Tiet\u00e4\u00e4 Voitoista Ja Tappiollisista Jaksoista",
+      "rationale": "Artikkeli j\u00e4sent\u00e4\u00e4 kotimaisen verotuksen peruslinjoja informatiivisesti. 24nettikasinoon johtava linkki voi tarjota ajantasaisia esimerkkej\u00e4 ja kokoomasivuja eri pelimuotojen verokohtelusta (ankkurina \u201c24nettikasino\u201d)."
+    },
+    {
+      "title": "Aikarajat, Tappiorajat Ja Tauot: Digitaaliset Ty\u00f6kalut Vastuulliseen Pelaamiseen",
+      "rationale": "Sis\u00e4lt\u00f6 kokoaa talousmy\u00f6nteisi\u00e4 tapoja hallita riski\u00e4 arjessa. Linkki 24nettikasinoon voi ohjata koontiin, jossa selitet\u00e4\u00e4n rajoitusominaisuudet ja niiden k\u00e4ytt\u00f6\u00f6notto vaiheittain; ankkurina luontevasti \u201c24nettikasino\u201d."
+    }
+  ],
+  "titles_context": [
+    "Miten kasino bonukset vaikuttavat taloudellisiin p\u00e4\u00e4t\u00f6ksiin",
+    "moneymail.fi",
+    "Luotettavien nettikasinoiden valinta: Vastuullisen pelaamisen ...",
+    "Pelaaminen osana suunnitelmallista vapaa-aikaa - moneymail.fi",
+    "Pay N Play -lupaus: Onko rekister\u00f6im\u00e4tt\u00f6m\u00e4n pelaamisen ...",
+    "Kasinobonusten vaikutus pelaajien taloudellisiin p\u00e4\u00e4t\u00f6ksiin"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://24nettikasino.fi/ that feel at home on moneymail.fi.\n\nReference SERP keyword: kasino\nAnchor keyword (use only if natural): 24nettikasino\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Miten kasino bonukset vaikuttavat taloudellisiin p\u00e4\u00e4t\u00f6ksiin\n- moneymail.fi\n- Luotettavien nettikasinoiden valinta: Vastuullisen pelaamisen ...\n- Pelaaminen osana suunnitelmallista vapaa-aikaa - moneymail.fi\n- Pay N Play -lupaus: Onko rekister\u00f6im\u00e4tt\u00f6m\u00e4n pelaamisen ...\n- Kasinobonusten vaikutus pelaajien taloudellisiin p\u00e4\u00e4t\u00f6ksiin\n\nGuidance:\n1. Combine your own knowledge of moneymail.fi's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to moneymail.fi while naturally justifying a link to https://24nettikasino.fi/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude 24nettikasino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 615,
+    "completion_tokens": 964
+  },
+  "cost_usd": 0.07014
+}

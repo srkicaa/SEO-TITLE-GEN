@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-13T10:40:00Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "madridnorte24horas.com",
+    "anchor_keyword": "promociones de casino",
+    "anchor_country": "",
+    "target_url": "https://www.platincasino.es/promociones-casino",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "C\u00f3mo Ha Cambiado El Juego Online En El Norte De Madrid: H\u00e1bitos, Regulaci\u00f3n Y Nuevas Tendencias",
+      "rationale": "Encaja con el enfoque local de Madrid Norte 24 horas y permite introducir, en el cuerpo del texto, un enlace contextual a Platincasino.es/promociones-casino al hablar de d\u00f3nde consultar promociones de casino actualizadas y legales en Espa\u00f1a."
+    },
+    {
+      "title": "Gu\u00eda Pr\u00e1ctica Para Disfrutar De Tragaperras Y Juegos De Mesa Con Responsabilidad",
+      "rationale": "Tema evergreen y alineado con contenidos sobre juego responsable del medio; se puede enlazar de forma natural a Platincasino.es/promociones-casino cuando se explique c\u00f3mo comparar ofertas y condiciones, usando la expresi\u00f3n promociones de casino en el copy."
+    },
+    {
+      "title": "P\u00f3ker En La Sierra Madrile\u00f1a: Quedadas, Torneos Locales Y Opciones Digitales",
+      "rationale": "Aporta \u00e1ngulo local (Alcobendas, Sanse, Tres Cantos) y abre un apartado sobre recursos online; ah\u00ed encaja enlazar a Platincasino.es/promociones-casino para orientar a lectores sobre d\u00f3nde revisar promociones de casino verificadas."
+    },
+    {
+      "title": "Igaming En Espa\u00f1a: La Tecnolog\u00eda Que Est\u00e1 Transformando El Ocio De Alcobendas a Tres Cantos",
+      "rationale": "Conecta con art\u00edculos sobre evoluci\u00f3n digital e innovaci\u00f3n; un bloque sobre comparadores y p\u00e1ginas oficiales permite incluir un enlace a Platincasino.es/promociones-casino al mencionar d\u00f3nde consultar promociones de casino con t\u00e9rminos claros."
+    },
+    {
+      "title": "Blackjack Para Principiantes: Reglas B\u00e1sicas, Probabilidades Y Errores Comunes",
+      "rationale": "Contenido did\u00e1ctico frecuente en el medio; en una secci\u00f3n de recursos adicionales se puede enlazar a Platincasino.es/promociones-casino al indicar d\u00f3nde informarse de promociones de casino y condiciones antes de jugar."
+    }
+  ],
+  "titles_context": [
+    "La historia del crecimiento de los casinos en la Comunidad ...",
+    "Las Mejores Casinos para Jugar a Tragaperras Gratis",
+    "Los 3 juegos de casino preferidos por los madrile\u00f1os",
+    "Juego del globo en Argentina gu\u00eda simple para jugar",
+    "Descubre el Casino Jes\u00fas y prep\u00e1rate para ganar",
+    "juegos - P\u00e1gina 2 | \u00daltimas noticias Madrid Norte 24 horas",
+    "Rese\u00f1a completa de la casa de apuestas 1win",
+    "La importancia del juego responsable",
+    "Los mejores consejos para jugar Blackjack",
+    "Las tragamonedas de mayor RTP en Casino Locowin ...",
+    "Estas son las salas de P\u00f3ker m\u00e1s populares de Madrid",
+    "Evoluci\u00f3n digital en el iGaming: Casinos online con ...",
+    "Torneos 1win en Honduras: competencia real con premios ...",
+    "Conferencia en Tres Cantos el 19 de febrero sobre el \u201cCasino de ...",
+    "Ventajas del multijuego en 1win: c\u00f3mo fusionar casino y ...",
+    "Descubre c\u00f3mo encontrar casinos online fiables en Espa\u00f1a",
+    "Juegos | \u00daltimas noticias Madrid Norte 24 horas",
+    "Las delicias gastron\u00f3micas que puedes encontrar en Madrid",
+    "Las Vegas a trav\u00e9s del cine: pel\u00edculas emblem\u00e1ticas de la ...",
+    "Claves para entender el \u00e9xito de las m\u00e1quinas tragaperras ...",
+    "Telef\u00f3nica invierte en Perplexity, el buscador de IA",
+    "C\u00f3mo usar la visualizaci\u00f3n antes de mesas finales",
+    "Agencia - Madrid Norte 24 horas - P\u00e1gina 8",
+    "Ofertas personalizadas y marketing en el comercio ...",
+    "Las novedades que transformar\u00e1n el entretenimiento ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.platincasino.es/promociones-casino that feel at home on madridnorte24horas.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): promociones de casino\n\nAnchor operates in: Unspecified\n\nReference titles:\n- La historia del crecimiento de los casinos en la Comunidad ...\n- Las Mejores Casinos para Jugar a Tragaperras Gratis\n- Los 3 juegos de casino preferidos por los madrile\u00f1os\n- Juego del globo en Argentina gu\u00eda simple para jugar\n- Descubre el Casino Jes\u00fas y prep\u00e1rate para ganar\n- juegos - P\u00e1gina 2 | \u00daltimas noticias Madrid Norte 24 horas\n- Rese\u00f1a completa de la casa de apuestas 1win\n- La importancia del juego responsable\n- Los mejores consejos para jugar Blackjack\n- Las tragamonedas de mayor RTP en Casino Locowin ...\n- Estas son las salas de P\u00f3ker m\u00e1s populares de Madrid\n- Evoluci\u00f3n digital en el iGaming: Casinos online con ...\n- Torneos 1win en Honduras: competencia real con premios ...\n- Conferencia en Tres Cantos el 19 de febrero sobre el \u201cCasino de ...\n- Ventajas del multijuego en 1win: c\u00f3mo fusionar casino y ...\n- Descubre c\u00f3mo encontrar casinos online fiables en Espa\u00f1a\n- Juegos | \u00daltimas noticias Madrid Norte 24 horas\n- Las delicias gastron\u00f3micas que puedes encontrar en Madrid\n- Las Vegas a trav\u00e9s del cine: pel\u00edculas emblem\u00e1ticas de la ...\n- Claves para entender el \u00e9xito de las m\u00e1quinas tragaperras ...\n- Telef\u00f3nica invierte en Perplexity, el buscador de IA\n- C\u00f3mo usar la visualizaci\u00f3n antes de mesas finales\n- Agencia - Madrid Norte 24 horas - P\u00e1gina 8\n- Ofertas personalizadas y marketing en el comercio ...\n- Las novedades que transformar\u00e1n el entretenimiento ...\n\nGuidance:\n1. Combine your own knowledge of madridnorte24horas.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to madridnorte24horas.com while naturally justifying a link to https://www.platincasino.es/promociones-casino.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude promociones de casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1064,
+    "completion_tokens": 1082
+  },
+  "cost_usd": 0.0862
+}

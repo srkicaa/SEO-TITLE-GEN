@@ -1,0 +1,61 @@
+{
+  "created_at": "2025-10-21T10:51:33Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "everybodysoccer.com",
+    "anchor_keyword": "sportsbook deposit bonus",
+    "anchor_country": "",
+    "target_url": "https://www.lineups.com/sportsbook-promos/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "From Penalty Spots to Slot Reels: What Football Teaches Us About Variance",
+      "rationale": "Connects soccer moments (pens, deflections) with risk/variance in gaming to engage Everybody Soccer readers. A natural link points to a neutral resource outlining legal sportsbook options and terms so readers can compare where to place regulated wagers responsibly."
+    },
+    {
+      "title": "Why Great Goalkeepers Think Like Advantage Players",
+      "rationale": "Focuses on decision-making, bankroll-like discipline, and probability\u2014themes common to keepers and casino-minded readers. Links smoothly to a page summarizing regulated sportsbooks and key conditions to help fans evaluate where and how to place bets within legal markets."
+    },
+    {
+      "title": "Reading the Odds Like a Scouting Report: Making Sense of Lines on Matchday",
+      "rationale": "Translates odds into familiar scouting language for a soccer-first audience. A link fits as a reference hub for legal sportsbook comparisons and education on line movement and terms before matchday."
+    },
+    {
+      "title": "Chasing Losses vs. Chasing Goals: the Psychology Fans Should Avoid",
+      "rationale": "Explores impulse control using soccer scenarios (late surges, time-wasting) to discuss responsible wagering habits. A link provides readers with a vetted overview of legal sportsbooks, responsible betting resources, and key signup terms without pushing any brand."
+    },
+    {
+      "title": "In-Play Tactics and in-Play Bets: Pressing, Patience, and Probability",
+      "rationale": "Maps tactical choices (high press vs. low block) to live betting concepts for a sophisticated Everybody Soccer readership. Linking to a legally focused sportsbook roundup helps readers understand available platforms, rules, and considerations before wagering."
+    }
+  ],
+  "titles_context": [
+    "1win Casino \u2013 Top Online Games, Live Dealers & Trusted ...",
+    "Is it better to play new slots or tried-and-tested classics",
+    "Muay thai & mobile casino: how 1win leads the new betting ...",
+    "Step Up Your Money Casino Game With Real ...",
+    "From the Field to the Casino: Why Football Fans Love Plinko Ball ...",
+    "Why Some Online Slots Get Banned in Certain Countries",
+    "Pokies Online: What the First-Ever Casino Looked Like ...",
+    "The Economic Benefits of International Online Casino ...",
+    "Top 10 Goalkeepers and Their Favorite Casino Games",
+    "1win Sports Betting Guide 2025 \u2013 Tips, Odds & Bonuses",
+    "Premier League's Legendary Goalkeepers - Everybody Soccer",
+    "How Mastering Mental Strategies Leads to Success in High ...",
+    "Mastering the Odds: Using Goalkeeper Performance Analysis ...",
+    "Steroids and Women's Boxing - Everybody Soccer",
+    "Bitcoin basics: What you need to know and why it matters",
+    "Between the Posts: The Mental Game of Modern Goalkeepers",
+    "The Most Popular Chelsea Players On Instagram",
+    "How European Teams Navigate the World Cup Qualifying Draw",
+    "Everybody Soccer, Even the Goalkeepers Like to"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.lineups.com/sportsbook-promos/ that feel at home on everybodysoccer.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): sportsbook deposit bonus\n\nAnchor operates in: Unspecified\n\nReference titles:\n- 1win Casino \u2013 Top Online Games, Live Dealers & Trusted ...\n- Is it better to play new slots or tried-and-tested classics\n- Muay thai & mobile casino: how 1win leads the new betting ...\n- Step Up Your Money Casino Game With Real ...\n- From the Field to the Casino: Why Football Fans Love Plinko Ball ...\n- Why Some Online Slots Get Banned in Certain Countries\n- Pokies Online: What the First-Ever Casino Looked Like ...\n- The Economic Benefits of International Online Casino ...\n- Top 10 Goalkeepers and Their Favorite Casino Games\n- 1win Sports Betting Guide 2025 \u2013 Tips, Odds & Bonuses\n- Premier League's Legendary Goalkeepers - Everybody Soccer\n- How Mastering Mental Strategies Leads to Success in High ...\n- Mastering the Odds: Using Goalkeeper Performance Analysis ...\n- Steroids and Women's Boxing - Everybody Soccer\n- Bitcoin basics: What you need to know and why it matters\n- Between the Posts: The Mental Game of Modern Goalkeepers\n- The Most Popular Chelsea Players On Instagram\n- How European Teams Navigate the World Cup Qualifying Draw\n- Everybody Soccer, Even the Goalkeepers Like to\n\nGuidance:\n1. Combine your own knowledge of everybodysoccer.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to everybodysoccer.com while naturally justifying a link to https://www.lineups.com/sportsbook-promos/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude sportsbook deposit bonus and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 893,
+    "completion_tokens": 1049
+  },
+  "cost_usd": 0.0808
+}

@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:38:59Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "mypokercoaching.com",
+    "anchor_keyword": "nitrowin.net",
+    "anchor_country": "",
+    "target_url": "https://nitrowin.net/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Casino Bankroll Management for Online Play in the USA",
+      "rationale": "Fits mypokercoaching.com\u2019s strategy ethos while allowing a contextual link to nitrowin.net when illustrating practical limits, stakes selection, and session tracking on a real-money platform."
+    },
+    {
+      "title": "House Edge and RTP: What Casino Players in the UK Should Know",
+      "rationale": "Educational angle aligns with MPC\u2019s odds-focused content; nitrowin.net can be referenced to show actual RTP listings and game info that demonstrate the concepts in practice."
+    },
+    {
+      "title": "Choosing Safe Payment Methods for Online Casino Gaming in Canada",
+      "rationale": "Banking guidance is a common MPC topic; linking to nitrowin.net\u2019s cashier pages can exemplify deposit/withdrawal options, fees, and processing times without promotional framing."
+    },
+    {
+      "title": "Table Games vs. Slots: Finding the Better Odds in Australia",
+      "rationale": "Comparative odds content matches MPC style; nitrowin.net can be cited to showcase representative game libraries and paytable structures that illustrate risk/variance trade-offs."
+    },
+    {
+      "title": "Beginner\u2019s Guide to Live Dealer Casino Etiquette in India",
+      "rationale": "Etiquette and best practices fit MPC\u2019s instructional tone; a link to nitrowin.net can ground tips with examples of live dealer lobbies, table limits, and pace-of-play norms."
+    }
+  ],
+  "titles_context": [
+    "Zula Casino Review & Top Alternatives for US Players ...",
+    "Online Social Casino Strategy - How to Play Smarter and ...",
+    "Casino House Edge In Different Games - What is it?",
+    "Master The Rules and Learn How To Play Various Casino ...",
+    "Top 10 Casinos and Sports Betting Sites to Play With",
+    "Regular vs. Jackpot Slots \u2013 Do You Know How to Pick the ...",
+    "Casino War vs Blackjack: Which Has Better Odds?",
+    "How Do Casinos Make Money From Different Games?",
+    "Which Is the Best Casino Bonus for Me... And Why?",
+    "Casino Etiquette: The Do's & Don'ts When Playing at a ...",
+    "Online Casino Games in the USA",
+    "Different Types of Slot Machines - How to Pick the Best ...",
+    "Mariano Goes for It: Crazy Turn Action on Hustler Casino ...",
+    "House Edge Explained \u2013 How Casinos Make Their Money",
+    "Choosing an Online Casino License in 2025",
+    "Exploring the Rise of Online Slots",
+    "Rivers Casino Poker Room Review",
+    "Mobile Casino Pros & Cons - An Online Casino in Your ...",
+    "Top Casino Table Games That You Must Try at Least Once",
+    "Why Payment Methods Matter in Online Casinos",
+    "US Poker Scene \u2013 How To Find The Best Casino For You",
+    "How to Play Casino Craps (Beginner's Guide)",
+    "Best Las Vegas Casinos \u2013 Play Poker And Enjoy Your ...",
+    "Why Online Mobile Poker Will Be Bigger Than Casino ...",
+    "How Technology Is Changing The Online Casino ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://nitrowin.net/ that feel at home on mypokercoaching.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): nitrowin.net\n\nAnchor operates in: Unspecified. \n\nI need to have the country in the title.\n\nReference titles:\n- Zula Casino Review & Top Alternatives for US Players ...\n- Online Social Casino Strategy - How to Play Smarter and ...\n- Casino House Edge In Different Games - What is it?\n- Master The Rules and Learn How To Play Various Casino ...\n- Top 10 Casinos and Sports Betting Sites to Play With\n- Regular vs. Jackpot Slots \u2013 Do You Know How to Pick the ...\n- Casino War vs Blackjack: Which Has Better Odds?\n- How Do Casinos Make Money From Different Games?\n- Which Is the Best Casino Bonus for Me... And Why?\n- Casino Etiquette: The Do's & Don'ts When Playing at a ...\n- Online Casino Games in the USA\n- Different Types of Slot Machines - How to Pick the Best ...\n- Mariano Goes for It: Crazy Turn Action on Hustler Casino ...\n- House Edge Explained \u2013 How Casinos Make Their Money\n- Choosing an Online Casino License in 2025\n- Exploring the Rise of Online Slots\n- Rivers Casino Poker Room Review\n- Mobile Casino Pros & Cons - An Online Casino in Your ...\n- Top Casino Table Games That You Must Try at Least Once\n- Why Payment Methods Matter in Online Casinos\n- US Poker Scene \u2013 How To Find The Best Casino For You\n- How to Play Casino Craps (Beginner's Guide)\n- Best Las Vegas Casinos \u2013 Play Poker And Enjoy Your ...\n- Why Online Mobile Poker Will Be Bigger Than Casino ...\n- How Technology Is Changing The Online Casino ...\n\nGuidance:\n1. Combine your own knowledge of mypokercoaching.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to mypokercoaching.com while naturally justifying a link to https://nitrowin.net/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude nitrowin.net and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 976,
+    "completion_tokens": 730
+  },
+  "cost_usd": 0.06332
+}

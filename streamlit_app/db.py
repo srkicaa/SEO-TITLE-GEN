@@ -8,7 +8,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, Optional
 
-from .utils import SerpFetchResult
+from .utils import SerpFetchResult, sanitize_domain
 
 DB_DIR = Path(__file__).resolve().parent.parent / "assets" / "data"
 DB_PATH = DB_DIR / "app.sqlite"
@@ -83,6 +83,8 @@ def store_serp_snapshot(
     payload = json.dumps(result.raw)
     extracted = json.dumps(result.titles)
     now = datetime.utcnow().isoformat()
+    raw_domain = order_data.get("domain", "")
+    normalized_domain = sanitize_domain(raw_domain) or raw_domain.strip()
 
     with _connect() as conn:
         conn.execute(
@@ -105,7 +107,7 @@ def store_serp_snapshot(
             """,
             (
                 query_hash,
-                order_data.get("domain", ""),
+                normalized_domain,
                 serp_keyword,
                 order_data.get("anchor_keyword", ""),
                 order_data.get("target_url", ""),
@@ -138,6 +140,99 @@ def get_serp_snapshot(query_hash: str) -> Optional[Dict[str, Any]]:
         source="db",
         meta={"limit": row["result_limit"], "stored_at": row["created_at"]},
     )
+    return {
+        "result": result,
+        "order": {
+            "domain": row["domain"],
+            "serp_keyword": row["serp_keyword"],
+            "anchor_keyword": row["anchor_keyword"],
+            "target_url": row["target_url"],
+        },
+        "limit": row["result_limit"],
+    }
+
+
+def get_latest_serp_snapshot_for_domain(
+    domain: str, *, limit: Optional[int] = None
+) -> Optional[Dict[str, Any]]:
+    """Return the most recent snapshot stored for a domain, optionally filtered by limit."""
+
+    normalized = sanitize_domain(domain).lower()
+    if not normalized:
+        return None
+
+    variants = [
+        normalized,
+        f"http://{normalized}",
+        f"https://{normalized}",
+        f"www.{normalized}",
+        f"http://www.{normalized}",
+        f"https://www.{normalized}",
+    ]
+
+    placeholders = ",".join("?" for _ in variants)
+
+    def _fetch_rows(conn: sqlite3.Connection, *, include_limit: bool) -> list[sqlite3.Row]:
+        domain_query = f"""
+            SELECT *
+            FROM serp_snapshots
+            WHERE LOWER(domain) IN ({placeholders})
+        """
+        domain_params: list[Any] = list(variants)
+        if include_limit and limit is not None:
+            domain_query += " AND result_limit = ?"
+            domain_params.append(limit)
+        domain_query += " ORDER BY datetime(created_at) DESC LIMIT 5"
+        rows = conn.execute(domain_query, domain_params).fetchall()
+        if rows:
+            return rows
+
+        wildcard_query = """
+            SELECT *
+            FROM serp_snapshots
+            WHERE LOWER(domain) LIKE ?
+        """
+        wildcard_params: list[Any] = [f"%{normalized}"]
+        if include_limit and limit is not None:
+            wildcard_query += " AND result_limit = ?"
+            wildcard_params.append(limit)
+        wildcard_query += " ORDER BY datetime(created_at) DESC LIMIT 5"
+        return conn.execute(wildcard_query, wildcard_params).fetchall()
+
+    def _select_best(rows: list[sqlite3.Row]) -> Optional[sqlite3.Row]:
+        best_row: Optional[sqlite3.Row] = None
+        for row in rows:
+            extracted_raw = row["extracted_json"]
+            try:
+                extracted = json.loads(extracted_raw)
+            except json.JSONDecodeError:
+                extracted = None
+            if extracted:
+                return row
+            if best_row is None:
+                best_row = row
+        return best_row
+
+    with _connect() as conn:
+        rows = _fetch_rows(conn, include_limit=True)
+        row = _select_best(rows)
+        if row is None:
+            rows = _fetch_rows(conn, include_limit=False)
+            row = _select_best(rows)
+
+    if row is None:
+        return None
+
+    raw_payload = json.loads(row["raw_json"])
+    extracted = json.loads(row["extracted_json"])
+    result = SerpFetchResult(
+        query=raw_payload.get("query", ""),
+        titles=extracted,
+        raw=raw_payload,
+        source="db",
+        meta={"limit": row["result_limit"], "stored_at": row["created_at"]},
+    )
+
     return {
         "result": result,
         "order": {
@@ -262,10 +357,74 @@ def query_generation_history(
     return [dict(row) for row in rows]
 
 
+def get_all_serp_snapshots_for_domain(domain: str) -> list[Dict[str, Any]]:
+    """Return all snapshots for a domain, ordered by most recent first."""
+    normalized = sanitize_domain(domain).lower()
+    if not normalized:
+        return []
+
+    variants = [
+        normalized,
+        f"http://{normalized}",
+        f"https://{normalized}",
+        f"www.{normalized}",
+        f"http://www.{normalized}",
+        f"https://www.{normalized}",
+    ]
+
+    placeholders = ",".join("?" for _ in variants)
+    query = f"""
+        SELECT
+            id,
+            query_hash,
+            domain,
+            serp_keyword,
+            anchor_keyword,
+            target_url,
+            result_limit,
+            raw_json,
+            extracted_json,
+            created_at,
+            LENGTH(extracted_json) as json_length
+        FROM serp_snapshots
+        WHERE LOWER(domain) IN ({placeholders})
+        ORDER BY datetime(created_at) DESC
+    """
+
+    with _connect() as conn:
+        rows = conn.execute(query, variants).fetchall()
+
+    results = []
+    for row in rows:
+        try:
+            extracted = json.loads(row["extracted_json"])
+            title_count = len(extracted) if isinstance(extracted, list) else 0
+        except (json.JSONDecodeError, TypeError):
+            title_count = 0
+
+        results.append({
+            "id": row["id"],
+            "query_hash": row["query_hash"],
+            "domain": row["domain"],
+            "serp_keyword": row["serp_keyword"],
+            "anchor_keyword": row["anchor_keyword"],
+            "target_url": row["target_url"],
+            "result_limit": row["result_limit"],
+            "created_at": row["created_at"],
+            "title_count": title_count,
+            "raw_json": row["raw_json"],
+            "extracted_json": row["extracted_json"],
+        })
+
+    return results
+
+
 __all__ = [
     "DB_PATH",
     "init_db",
     "get_serp_snapshot",
+    "get_latest_serp_snapshot_for_domain",
+    "get_all_serp_snapshots_for_domain",
     "store_serp_snapshot",
     "store_generation",
     "list_generation_domains",

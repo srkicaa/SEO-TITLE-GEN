@@ -1,0 +1,51 @@
+{
+  "created_at": "2025-09-23T11:04:38Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "uutisettimes.com",
+    "anchor_keyword": "zimpler suomi",
+    "anchor_country": "",
+    "target_url": "https://zimplerkasinot.net/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Suomalaisten Nettikasinoiden Uudet Maksutrendit: Nopeus, Tunnistautuminen Ja Valvonta",
+      "rationale": "Artikkeli voi k\u00e4sitell\u00e4 suomalaisille tuttuja maksutapoja ja niiden vaikutusta pelaajakokemukseen; linkitys tarjoaa vertailun ja k\u00e4yt\u00e4nn\u00f6n oppaan palvelusta kuten Zimpler Suomen kontekstissa."
+    },
+    {
+      "title": "Rahapelaamisen S\u00e4\u00e4ntely Kiristyy \u2013 Mit\u00e4 Muutos Tarkoittaa Pelaajille Ja Alalle?",
+      "rationale": "Uutis-/taustajuttu Suomen rahapeliuudistuksesta hy\u00f6tyy l\u00e4hteest\u00e4, joka j\u00e4sent\u00e4\u00e4, miten uudet k\u00e4yt\u00e4nn\u00f6t ja maksupalvelut (esim. Zimpler Suomessa) vaikuttavat talletuksiin ja kotiutuksiin."
+    },
+    {
+      "title": "Pikamaksut Ja Vastuullinen Pelaaminen: Voiko Sujuvuus Ja Turvallisuus Kulkea K\u00e4si K\u00e4dess\u00e4?",
+      "rationale": "Teema-analyysi voi linkitt\u00e4\u00e4 taustamateriaaliin, joka selitt\u00e4\u00e4 nopeiden maksujen toimintalogiikan ja rajoitukset sek\u00e4 esittelee Zimpler-tyyppisten ratkaisujen roolin Suomessa."
+    },
+    {
+      "title": "Miss\u00e4 Suomalaiset Pelaavat Nyt Verkossa? Dataa, Syit\u00e4 Ja Seurauksia",
+      "rationale": "Data-artikkeli voi tukeutua sivuun, joka kokoaa ajantasaisia k\u00e4yt\u00e4nt\u00f6j\u00e4 ja maksukanavia suomalaisille, mukaan lukien Zimpler-painotteiset vaihtoehdot ja niiden saatavuus."
+    },
+    {
+      "title": "Teknologia Ty\u00f6paikoilla, Viihteess\u00e4 Ja Rahapeleiss\u00e4: Teko\u00e4lyn Seuraava Askel Suomessa",
+      "rationale": "Laajempi teknologiak\u00e4rki sopii uutismaiseksi taustaksi ja voi viitata l\u00e4hteeseen, joka esittelee, miten uudet maksuteknologiat (kuten Zimpler Suomen markkinassa) nivoutuvat pelaamiseen ja valvontaan."
+    }
+  ],
+  "titles_context": [
+    "Suomen lisenssin kasinot \u2013 uhka vai mahdollisuus?",
+    "Uusimmat pelipaikat netiss\u00e4",
+    "Milloin Suomen rahapeliuudistus tapahtuu?",
+    "Luokittelematon",
+    "Viihdytt\u00e4v\u00e4 peli-ilottelu ja vastuullinen pelaaminen rullien ...",
+    "4",
+    "Miss\u00e4 maissa pelataan eniten ja miksi?",
+    "Blog",
+    "Miten teko\u00e4ly muuttaa ty\u00f6paikkoja Suomessa"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://zimplerkasinot.net/ that feel at home on uutisettimes.com.\n\nReference SERP keyword: kasinot\nAnchor keyword (use only if natural): zimpler suomi\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Suomen lisenssin kasinot \u2013 uhka vai mahdollisuus?\n- Uusimmat pelipaikat netiss\u00e4\n- Milloin Suomen rahapeliuudistus tapahtuu?\n- Luokittelematon\n- Viihdytt\u00e4v\u00e4 peli-ilottelu ja vastuullinen pelaaminen rullien ...\n- 4\n- Miss\u00e4 maissa pelataan eniten ja miksi?\n- Blog\n- Miten teko\u00e4ly muuttaa ty\u00f6paikkoja Suomessa\n\nGuidance:\n1. Combine your own knowledge of uutisettimes.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to uutisettimes.com while naturally justifying a link to https://zimplerkasinot.net/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude zimpler suomi and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 604,
+    "completion_tokens": 1142
+  },
+  "cost_usd": 0.0806
+}

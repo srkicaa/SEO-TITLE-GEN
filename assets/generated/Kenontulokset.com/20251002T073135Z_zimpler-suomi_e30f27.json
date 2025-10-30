@@ -1,0 +1,50 @@
+{
+  "created_at": "2025-10-02T07:31:35Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "Kenontulokset.com",
+    "anchor_keyword": "zimpler suomi",
+    "anchor_country": "",
+    "target_url": "https://zimplerkasinot.net/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Nopeat Talletukset Kenoa Varten: Miten Numeropelit Toimivat Nykyp\u00e4iv\u00e4n Nettikasinoilla",
+      "rationale": "Artikkeli k\u00e4sittelee kenoa ja maksuliikennett\u00e4 samaan aikaan; linkki voi ohjata lukijan syventym\u00e4\u00e4n Suomessa toimiviin pikamaksuihin ja zimpler suomi -maksutavan k\u00e4yt\u00e4nn\u00f6n etuihin kenopeleiss\u00e4."
+    },
+    {
+      "title": "Keno Mobiilissa: Sujuvat Maksutavat Ja Vastuullinen Pelaaminen Suomalaisille",
+      "rationale": "Painotus on suomalaisessa mobiilipelaamisessa ja maksutapojen sujuvuudessa; linkist\u00e4 l\u00f6ytyy lis\u00e4tieto Zimpler-ratkaisusta ja sen toimivuudesta Suomessa kenoa pelaaville."
+    },
+    {
+      "title": "Nettikasinon Keno Vai Kioskin Kuponki? Eroja, Etuja Ja Arjen K\u00e4yt\u00e4nn\u00f6t",
+      "rationale": "Vertailuartikkeli hy\u00f6tyy l\u00e4hteest\u00e4, joka avaa modernit verkkomaksut Suomessa; linkki voi tarjota lukijalle katsauksen Zimpler-vaihtoehtoon ja muihin kotimaisiin pikamaksuihin."
+    },
+    {
+      "title": "P\u00e4iv\u00e4n Kenostrategiat: Panostus, Kierrostempo Ja Rahansiirtojen Hallinta",
+      "rationale": "Strategiasis\u00e4lt\u00f6 t\u00e4ydentyy maksuliikenteen hallinnan ohjeilla; linkki voi ohjata k\u00e4yt\u00e4nn\u00f6n oppaaseen zimpler suomi -maksutavasta, talletusnopeuksista ja kotiutusten sujuvuudesta."
+    },
+    {
+      "title": "Uudet Pelialustat Ja Numeropelit: N\u00e4in Keno Sulautuu Moderniin Rahapelaamiseen",
+      "rationale": "Teknologia- ja maksutapakulma oikeuttaa linkin sivulle, joka esittelee Suomessa toimivat nopeat talletukset ja Zimpler-maksun hy\u00f6dyt kenon pelaajalle."
+    }
+  ],
+  "titles_context": [
+    "Santeri Silmunen, Author at Kenon tulokset - Page 12 of 17",
+    "Pelaamisen uudet muodot: Nettikasinot ja tutut numeropelit ...",
+    "Santeri Silmunen, Author at Kenon tulokset - Page 11 of 17",
+    "N\u00e4in pelaat kenoa nettikasinolla - Kenon tulokset",
+    "Pienet numerot, suuret voitot: Kenon j\u00e4nnitys jokaisessa ...",
+    "Bonuspy\u00f6r\u00e4 kasinot \u2013 pelimaailman uusin koukuttava ilmi\u00f6",
+    "Kenon kolikkopelien ja pokerin suosio kasvaa online-kasinoilla",
+    "T\u00e4m\u00e4n takia keno kiinnostaa suomalaisia aikaisempaa v\u00e4hemm\u00e4n ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://zimplerkasinot.net/ that feel at home on Kenontulokset.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): zimpler suomi\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Santeri Silmunen, Author at Kenon tulokset - Page 12 of 17\n- Pelaamisen uudet muodot: Nettikasinot ja tutut numeropelit ...\n- Santeri Silmunen, Author at Kenon tulokset - Page 11 of 17\n- N\u00e4in pelaat kenoa nettikasinolla - Kenon tulokset\n- Pienet numerot, suuret voitot: Kenon j\u00e4nnitys jokaisessa ...\n- Bonuspy\u00f6r\u00e4 kasinot \u2013 pelimaailman uusin koukuttava ilmi\u00f6\n- Kenon kolikkopelien ja pokerin suosio kasvaa online-kasinoilla\n- T\u00e4m\u00e4n takia keno kiinnostaa suomalaisia aikaisempaa v\u00e4hemm\u00e4n ...\n\nGuidance:\n1. Combine your own knowledge of Kenontulokset.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to Kenontulokset.com while naturally justifying a link to https://zimplerkasinot.net/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude zimpler suomi and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 731,
+    "completion_tokens": 1010
+  },
+  "cost_usd": 0.07522
+}

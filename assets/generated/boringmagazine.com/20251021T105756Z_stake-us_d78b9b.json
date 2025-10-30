@@ -1,0 +1,65 @@
+{
+  "created_at": "2025-10-21T10:57:56Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "boringmagazine.com",
+    "anchor_keyword": "stake us",
+    "anchor_country": "",
+    "target_url": "https://www.gamingtoday.com/sweepstakes/sites-like/stake-us/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Social-Style Casino Play Is Booming: How the Sweepstakes Model Rewrites Online Entertainment",
+      "rationale": "Explains the sweepstakes/social model and can link to a curated list of sites like Stake.us for readers wanting examples and options."
+    },
+    {
+      "title": "Token Economies and Dual-Currency Design: Why Virtual Coins Power Today\u2019s Casino-Like Experiences",
+      "rationale": "Breaks down coins/GC/SC mechanics and points to GamingToday\u2019s guide to sites like Stake.us as real-world implementations."
+    },
+    {
+      "title": "Casino Vibes Without Cash-Outs: Exploring Low-Stakes Ways to Play Online",
+      "rationale": "Compares real-money gambling to sweepstakes-style alternatives and directs readers to the \u2018sites like Stake.us\u2019 resource for brand examples."
+    },
+    {
+      "title": "Beyond Deposits: How Sweepstakes Platforms Balance Fun, Fairness, and Access",
+      "rationale": "Covers accessibility and compliance angles and naturally links to a trusted roundup of platforms similar to Stake.us for deeper exploration."
+    },
+    {
+      "title": "Global Look at Casino-Adjacent Pastimes You Can Try Today\u2014No App Store Drama Required",
+      "rationale": "Discusses browser-first, widely accessible play and routes readers to GamingToday\u2019s \u2018sites like Stake.us\u2019 page for specific destinations."
+    }
+  ],
+  "titles_context": [
+    "Why Online Gaming Platforms Are Outpacing Their Land- ...",
+    "Online Games 2025 \u2013 Top No Deposit & Welcome Offers",
+    "Top 5 Gameland Games You Should Try In 2025.",
+    "Most Popular Online Games in Canada 2025",
+    "How To Know An Official Online Casino In The Philippines",
+    "GameZone's Winning Hand: Trust, Culture, & Pure Filipino ...",
+    "Top Australian Games That Won't Make You Wait For Your ...",
+    "Algorithms That Play Us: The Underlying Logics of Online Spaces.",
+    "Exploring The World Of Indie Games Hidden Gems You ...",
+    "A Comprehensive Review Of The Online Entertainment ...",
+    "Exploring Non GamStop Games In The UK: A Comprehensive Guide",
+    "The Boring Magazine - Latest News For Tech & Entertainment ...",
+    "Are There Profitable Wagering Strategies For Baccarat?",
+    "Exploring The Best Multiplayer Games For Endless Fun",
+    "Games Archives - Boringmagazine.com",
+    "Review Archives - Boringmagazine.com",
+    "AI In Personalized Marketing | Boost Engagement & Sales",
+    "Review Archives - Page 7 Of 10 - Boringmagazine.com",
+    "We Tried The Most Boring Digital Pastimes\u2014and Accidentally ...",
+    "Blog Archives - Boringmagazine.com",
+    "Comparison Of Sabatoto With Other Popular Togel Sites In ...",
+    "Top Smoke Eater Technologies For Restaurants, Cigar ...",
+    "Blogs Archives - Page 2 Of 10 - Boringmagazine.com"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.gamingtoday.com/sweepstakes/sites-like/stake-us/ that feel at home on boringmagazine.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): stake us\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Why Online Gaming Platforms Are Outpacing Their Land- ...\n- Online Games 2025 \u2013 Top No Deposit & Welcome Offers\n- Top 5 Gameland Games You Should Try In 2025.\n- Most Popular Online Games in Canada 2025\n- How To Know An Official Online Casino In The Philippines\n- GameZone's Winning Hand: Trust, Culture, & Pure Filipino ...\n- Top Australian Games That Won't Make You Wait For Your ...\n- Algorithms That Play Us: The Underlying Logics of Online Spaces.\n- Exploring The World Of Indie Games Hidden Gems You ...\n- A Comprehensive Review Of The Online Entertainment ...\n- Exploring Non GamStop Games In The UK: A Comprehensive Guide\n- The Boring Magazine - Latest News For Tech & Entertainment ...\n- Are There Profitable Wagering Strategies For Baccarat?\n- Exploring The Best Multiplayer Games For Endless Fun\n- Games Archives - Boringmagazine.com\n- Review Archives - Boringmagazine.com\n- AI In Personalized Marketing | Boost Engagement & Sales\n- Review Archives - Page 7 Of 10 - Boringmagazine.com\n- We Tried The Most Boring Digital Pastimes\u2014and Accidentally ...\n- Blog Archives - Boringmagazine.com\n- Comparison Of Sabatoto With Other Popular Togel Sites In ...\n- Top Smoke Eater Technologies For Restaurants, Cigar ...\n- Blogs Archives - Page 2 Of 10 - Boringmagazine.com\n\nGuidance:\n1. Combine your own knowledge of boringmagazine.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to boringmagazine.com while naturally justifying a link to https://www.gamingtoday.com/sweepstakes/sites-like/stake-us/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude stake us and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 997,
+    "completion_tokens": 705
+  },
+  "cost_usd": 0.06224
+}

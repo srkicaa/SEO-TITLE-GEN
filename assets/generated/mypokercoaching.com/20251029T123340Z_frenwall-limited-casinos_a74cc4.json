@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:33:40Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "mypokercoaching.com",
+    "anchor_keyword": "Frenwall Limited Casinos",
+    "anchor_country": "Sweden",
+    "target_url": "https://frenwall-limited-casinos.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Casino House Edge in Sweden: What It Means for Poker-Focused Players",
+      "rationale": "Fits strategy/education tone of mypokercoaching.com. Link naturally to the target using the anchor \u201cFrenwall Limited Casinos\u201d when referencing a resource that lists Swedish-licensed operators and their typical RTP/house-edge ranges."
+    },
+    {
+      "title": "Swedish Online Casino Rules Explained: Licenses, Limits, and Safer Play in 2025",
+      "rationale": "Regulatory explainer aligns with site\u2019s informational pieces. Use the anchor \u201cFrenwall Limited Casinos\u201d to point readers to an overview of Sweden-licensed sites and compliance essentials (self-exclusion, deposit limits, verification)."
+    },
+    {
+      "title": "Payment Methods in Swedish Online Casinos: Instant Banking, Withdrawals, and KYC Tips",
+      "rationale": "Banking guidance is common on mypokercoaching.com. Anchor \u201cFrenwall Limited Casinos\u201d can link to a page detailing Swedish-facing operators\u2019 payment options, payout times, and verification steps."
+    },
+    {
+      "title": "Slot Volatility vs. Table Game Odds in Sweden: Building a Smarter Bankroll Plan",
+      "rationale": "Odds/volatility comparison matches the site\u2019s strategy content. Reference \u201cFrenwall Limited Casinos\u201d as the anchor to direct readers to a catalog of Swedish-licensed platforms and their typical game libraries/RTP disclosures."
+    },
+    {
+      "title": "Casino Etiquette in Sweden: Do\u2019s and Don\u2019ts at Tables and Online",
+      "rationale": "Etiquette/how-to content fits the editorial style. Use the anchor \u201cFrenwall Limited Casinos\u201d to link to a Sweden-focused resource readers can consult when choosing compliant venues to practice proper etiquette."
+    }
+  ],
+  "titles_context": [
+    "Zula Casino Review & Top Alternatives for US Players ...",
+    "Online Social Casino Strategy - How to Play Smarter and ...",
+    "Casino House Edge In Different Games - What is it?",
+    "Top 10 Casinos and Sports Betting Sites to Play With",
+    "Master The Rules and Learn How To Play Various Casino ...",
+    "Regular vs. Jackpot Slots \u2013 Do You Know How to Pick the ...",
+    "Casino War vs Blackjack: Which Has Better Odds?",
+    "How Do Casinos Make Money From Different Games?",
+    "Which Is the Best Casino Bonus for Me... And Why?",
+    "Casino Etiquette: The Do's & Don'ts When Playing at a ...",
+    "Different Types of Slot Machines - How to Pick the Best ...",
+    "Mariano Goes for It: Crazy Turn Action on Hustler Casino ...",
+    "Online Casino Games in the USA",
+    "House Edge Explained \u2013 How Casinos Make Their Money",
+    "Rivers Casino Poker Room Review",
+    "Exploring the Rise of Online Slots",
+    "How Technology Is Changing The Online Casino ...",
+    "Best Las Vegas Casinos \u2013 Play Poker And Enjoy Your ...",
+    "Choosing an Online Casino License in 2025",
+    "Why Online Roulette is the Preferred Online Casino Game",
+    "Top Casino Table Games That You Must Try at Least Once",
+    "US Poker Scene \u2013 How To Find The Best Casino For You",
+    "How to Play Casino Craps (Beginner's Guide)",
+    "Why Online Mobile Poker Will Be Bigger Than Casino ...",
+    "Why Payment Methods Matter in Online Casinos"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://frenwall-limited-casinos.com/ that feel at home on mypokercoaching.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Frenwall Limited Casinos\n\nAnchor operates in: Sweden. \n\nI need to have the country in the title.\n\nReference titles:\n- Zula Casino Review & Top Alternatives for US Players ...\n- Online Social Casino Strategy - How to Play Smarter and ...\n- Casino House Edge In Different Games - What is it?\n- Top 10 Casinos and Sports Betting Sites to Play With\n- Master The Rules and Learn How To Play Various Casino ...\n- Regular vs. Jackpot Slots \u2013 Do You Know How to Pick the ...\n- Casino War vs Blackjack: Which Has Better Odds?\n- How Do Casinos Make Money From Different Games?\n- Which Is the Best Casino Bonus for Me... And Why?\n- Casino Etiquette: The Do's & Don'ts When Playing at a ...\n- Different Types of Slot Machines - How to Pick the Best ...\n- Mariano Goes for It: Crazy Turn Action on Hustler Casino ...\n- Online Casino Games in the USA\n- House Edge Explained \u2013 How Casinos Make Their Money\n- Rivers Casino Poker Room Review\n- Exploring the Rise of Online Slots\n- How Technology Is Changing The Online Casino ...\n- Best Las Vegas Casinos \u2013 Play Poker And Enjoy Your ...\n- Choosing an Online Casino License in 2025\n- Why Online Roulette is the Preferred Online Casino Game\n- Top Casino Table Games That You Must Try at Least Once\n- US Poker Scene \u2013 How To Find The Best Casino For You\n- How to Play Casino Craps (Beginner's Guide)\n- Why Online Mobile Poker Will Be Bigger Than Casino ...\n- Why Payment Methods Matter in Online Casinos\n\nGuidance:\n1. Combine your own knowledge of mypokercoaching.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to mypokercoaching.com while naturally justifying a link to https://frenwall-limited-casinos.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Frenwall Limited Casinos and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Sweden where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 979,
+    "completion_tokens": 862
+  },
+  "cost_usd": 0.0713
+}

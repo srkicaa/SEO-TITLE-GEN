@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:32:39Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "rakeback.com",
+    "anchor_keyword": "elvel-limited-casinos.com",
+    "anchor_country": "Sweden",
+    "target_url": "https://elvel-limited-casinos.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Online Casinos in Sweden: Licensing, Bankid Access, and Player Rewards",
+      "rationale": "Positions a Sweden-focused overview that compares licensing standards, BankID onboarding, and loyalty mechanics; elvel-limited-casinos.com can serve as a contextual link for Sweden-specific operator criteria and compliance resources."
+    },
+    {
+      "title": "Sweden Poker and Casino Strategy: Using Rakeback to Maximize Expected Value",
+      "rationale": "Fits rakeback.com\u2019s strategy angle by explaining EV, table selection, and rakeback integration for Sweden-based play; elvel-limited-casinos.com can be linked as a Sweden-oriented reference for where rakeback-style rewards and conditions may apply."
+    },
+    {
+      "title": "Live Dealer in Sweden: Game Selection, RTP Considerations, and Table Limits",
+      "rationale": "Matches live dealer interest with Sweden-specific guardrails (RTP disclosure, session controls); elvel-limited-casinos.com can provide a useful outbound resource on Sweden-ready platforms supporting BankID and localized tables."
+    },
+    {
+      "title": "Sweden\u2019s Most-Played Casino Games in 2025: RTP Benchmarks and Volatility Insights",
+      "rationale": "Data-leaning piece aligned with rakeback.com\u2019s analytical tone; elvel-limited-casinos.com can be linked for category overviews and Sweden-focused game availability details."
+    },
+    {
+      "title": "Fast Withdrawals in Sweden: Trustly, Swish, and Instant Bankid Cashouts for Casino Players",
+      "rationale": "Practical payments guide centered on Sweden\u2019s preferred rails and verification; elvel-limited-casinos.com can anchor references to operators supporting rapid payouts and BankID flows in Sweden."
+    }
+  ],
+  "titles_context": [
+    "Instant Casino Review - Games, Bonuses, and Other ...",
+    "The Best Online Casinos in Michigan",
+    "2025 Online Poker Rakeback Deals",
+    "Poker Odds vs Other Casino Games: A Deep Dive into ...",
+    "Best Bitcoin Casinos to Play at in 2025 - Crypto Betting Sites",
+    "The Thrill of Live Dealer Casinos: Your Ultimate Guide",
+    "Top 5 Online Casino Bonuses In 2022",
+    "Winning Poker Network Casino",
+    "5 Legendary Game Developers That Shaped Online ...",
+    "Lucky Block Casino Review - New Crypto Gambling Site",
+    "Here's How To Play Casino Games Anonymously",
+    "TG.Casino Review - Telegram Gambling Site",
+    "Exploring the Differences Between Social Casinos and ...",
+    "Popular Games with the Best Payouts and Player Rewards",
+    "Mega Dice Casino Review - New Crypto Gambling Site ...",
+    "Best New Poker Casinos to Choose in 2024",
+    "The Most Popular Casino Games Online: Data Reveals",
+    "Sweepstakes casinos: a guide to bonuses and gaming ...",
+    "Bovada Casino",
+    "10+ Best Crypto Crash Gambling Sites of 2025",
+    "Online Casinos in the US - Early vs. Recent-Legalizing States",
+    "High Roller Casino Review - Games, Bonuses, and Other ...",
+    "Top Casino Platform Software Providers for 2025",
+    "Using rakeback to improve casino game strategies",
+    "How to Build a Winning Strategy for Online Casino Card ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://elvel-limited-casinos.com/ that feel at home on rakeback.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): elvel-limited-casinos.com\n\nAnchor operates in: Sweden. \n\nI need to have the country in the title.\n\nReference titles:\n- Instant Casino Review - Games, Bonuses, and Other ...\n- The Best Online Casinos in Michigan\n- 2025 Online Poker Rakeback Deals\n- Poker Odds vs Other Casino Games: A Deep Dive into ...\n- Best Bitcoin Casinos to Play at in 2025 - Crypto Betting Sites\n- The Thrill of Live Dealer Casinos: Your Ultimate Guide\n- Top 5 Online Casino Bonuses In 2022\n- Winning Poker Network Casino\n- 5 Legendary Game Developers That Shaped Online ...\n- Lucky Block Casino Review - New Crypto Gambling Site\n- Here's How To Play Casino Games Anonymously\n- TG.Casino Review - Telegram Gambling Site\n- Exploring the Differences Between Social Casinos and ...\n- Popular Games with the Best Payouts and Player Rewards\n- Mega Dice Casino Review - New Crypto Gambling Site ...\n- Best New Poker Casinos to Choose in 2024\n- The Most Popular Casino Games Online: Data Reveals\n- Sweepstakes casinos: a guide to bonuses and gaming ...\n- Bovada Casino\n- 10+ Best Crypto Crash Gambling Sites of 2025\n- Online Casinos in the US - Early vs. Recent-Legalizing States\n- High Roller Casino Review - Games, Bonuses, and Other ...\n- Top Casino Platform Software Providers for 2025\n- Using rakeback to improve casino game strategies\n- How to Build a Winning Strategy for Online Casino Card ...\n\nGuidance:\n1. Combine your own knowledge of rakeback.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to rakeback.com while naturally justifying a link to https://elvel-limited-casinos.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude elvel-limited-casinos.com and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Sweden where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 961,
+    "completion_tokens": 1109
+  },
+  "cost_usd": 0.08576
+}

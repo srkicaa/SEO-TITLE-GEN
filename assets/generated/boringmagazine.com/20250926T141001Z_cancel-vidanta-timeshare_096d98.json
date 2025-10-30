@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-26T14:10:01Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "boringmagazine.com",
+    "anchor_keyword": "cancel Vidanta timeshare",
+    "anchor_country": "",
+    "target_url": "https://howtocancelmytimeshare.com/learn/how-to-cancel-vidanta-timeshare/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Planning Family Vacations Without Getting Locked Into Timeshares",
+      "rationale": "Pairs with travel and family content; links naturally to a step-by-step on how to cancel a Vidanta timeshare for readers who already signed and want out."
+    },
+    {
+      "title": "Before You Say Yes to a Vacation Club: Questions Every Traveler Should Ask",
+      "rationale": "Advises cautious decision-making; the link can provide a concrete example by outlining how to cancel a Vidanta timeshare if commitments were made."
+    },
+    {
+      "title": "How to Keep Your Travel Budget Flexible When Sales Pitches Come Your Way",
+      "rationale": "Budget-focused travel readers may face resort presentations; the resource showing how to cancel a Vidanta timeshare offers a practical safety net."
+    },
+    {
+      "title": "What to Know About Trial Stays, Points, and Maintenance Fees on Holiday",
+      "rationale": "Explains common vacation club terms; the linked guide on canceling a Vidanta timeshare gives real-world exit steps and timelines."
+    },
+    {
+      "title": "A Smart Traveler\u2019s Guide to Avoiding Post-Trip Financial Hangovers",
+      "rationale": "Fits risk-avoidance travel themes; includes a helpful reference to instructions on how to cancel a Vidanta timeshare for those needing relief after signing."
+    }
+  ],
+  "titles_context": [
+    "Top 10 Safe Travel Tips Every Traveler Should Know",
+    "Travel Archives - Boringmagazine.com",
+    "How To Travel More Safely This Summer",
+    "Travel Archives - Page 4 Of 6 - Boringmagazine.com",
+    "4 Experiential Activities Redefining Family Vacations In 2025",
+    "Why Australia Offers One Of The Most Well-rounded Travel ...",
+    "How To Maximize Your Star Alliance Round The World ...",
+    "Do Travel Agents In Australia Offer Better Travel Insurance ...",
+    "Fun Things To Do In El Paso On Your Trip With Family",
+    "Things To Know Before You Hit The Road To The Smoky ...",
+    "A Definitive Guide To The World's Premier Game Cruises ...",
+    "Unique Vacation Rentals In The United States",
+    "Top Tech Tools To Simplify Your Cross Country Moving ...",
+    "Trusted By Travelers: Radical Storage Offers The Best ...",
+    "EasyTerra USA Car Rental Comparison: How To Find The ...",
+    "5 Common Things That Are 17 Inches Long/Big",
+    "Historic UK Palaces You Can Visit Today (And Why ...",
+    "Best Saltwater Fishing Rods For Travelers",
+    "5 Common Things That Are 8.5 Inches Long",
+    "12 Common Things That Are 9 Inches Long",
+    "Comparing HarbourFront And Johor Bahru Ferry Terminals ...",
+    "13 Common Things That Are 8 Inches Long",
+    "9 Common Things That Are 3 Inches Long",
+    "Blog Archives - Boringmagazine.com",
+    "Why Trendsmagazines Matters For Modern Readers"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://howtocancelmytimeshare.com/learn/how-to-cancel-vidanta-timeshare/ that feel at home on boringmagazine.com.\n\nReference SERP keyword: travel\nAnchor keyword (use only if natural): cancel Vidanta timeshare\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Top 10 Safe Travel Tips Every Traveler Should Know\n- Travel Archives - Boringmagazine.com\n- How To Travel More Safely This Summer\n- Travel Archives - Page 4 Of 6 - Boringmagazine.com\n- 4 Experiential Activities Redefining Family Vacations In 2025\n- Why Australia Offers One Of The Most Well-rounded Travel ...\n- How To Maximize Your Star Alliance Round The World ...\n- Do Travel Agents In Australia Offer Better Travel Insurance ...\n- Fun Things To Do In El Paso On Your Trip With Family\n- Things To Know Before You Hit The Road To The Smoky ...\n- A Definitive Guide To The World's Premier Game Cruises ...\n- Unique Vacation Rentals In The United States\n- Top Tech Tools To Simplify Your Cross Country Moving ...\n- Trusted By Travelers: Radical Storage Offers The Best ...\n- EasyTerra USA Car Rental Comparison: How To Find The ...\n- 5 Common Things That Are 17 Inches Long/Big\n- Historic UK Palaces You Can Visit Today (And Why ...\n- Best Saltwater Fishing Rods For Travelers\n- 5 Common Things That Are 8.5 Inches Long\n- 12 Common Things That Are 9 Inches Long\n- Comparing HarbourFront And Johor Bahru Ferry Terminals ...\n- 13 Common Things That Are 8 Inches Long\n- 9 Common Things That Are 3 Inches Long\n- Blog Archives - Boringmagazine.com\n- Why Trendsmagazines Matters For Modern Readers\n\nGuidance:\n1. Combine your own knowledge of boringmagazine.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to boringmagazine.com while naturally justifying a link to https://howtocancelmytimeshare.com/learn/how-to-cancel-vidanta-timeshare/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude cancel Vidanta timeshare and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1041,
+    "completion_tokens": 644
+  },
+  "cost_usd": 0.05946
+}

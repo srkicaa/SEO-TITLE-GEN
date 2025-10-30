@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-09-26T14:31:02Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "talkmarkets.com",
+    "anchor_keyword": "how to cancel my timeshare",
+    "anchor_country": "",
+    "target_url": "https://howtocancelmytimeshare.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Vacation Ownership Liabilities: What Rising Cancellations Mean for Travel Stocks",
+      "rationale": "Aligns with market-focused travel coverage and opens a natural context to discuss contract exits and consumer risk, enabling a link to timeshare cancellation resources."
+    },
+    {
+      "title": "Travel Demand Stays Firm, but Timeshare Debt Emerges as a Household Headwind",
+      "rationale": "Balances upbeat sector fundamentals with consumer liability analysis, creating relevance for guidance on canceling long-term vacation commitments."
+    },
+    {
+      "title": "From Peak Leisure to Pivot: How Contracted Vacation Obligations Impact Consumer Balance Sheets",
+      "rationale": "Takes a macro-finance lens on travel, framing timeshare obligations as a balance-sheet issue and justifying a link to cancellation options."
+    },
+    {
+      "title": "Etfs With Travel Exposure: Are Recurring-Lodging Models a Hidden Risk in the Portfolio?",
+      "rationale": "Fits investment-oriented travel content while examining recurring-fee lodging structures, providing a logical segue to contract exit considerations."
+    },
+    {
+      "title": "Before Summer Trips Surge: Pricing in Annual Fees and Exit Costs Across Vacation Plans",
+      "rationale": "Seasonal, investor-friendly budgeting angle within the travel theme that invites discussion of cancelling long-term vacation contracts when costs escalate."
+    }
+  ],
+  "titles_context": [
+    "MicroSectors Travel 3X Leveraged FLYU:NYSE Arca",
+    "Travel Industry Fundamentals Remain Strong, Bucking Negative ...",
+    "EXPE: Expedia Group Inc - Stock Price, Quote and News",
+    "TCOM: Trip.com Group Ltd - Stock Price, Quote and News",
+    "FGETF: Flight Centre Travel Group Ltd - Stock Price, Quote ...",
+    "AWAY: Amplify Travel Tech ETF - Stock Price, Quote and ...",
+    "NextTrip Inc NTRP:NASDAQ - Stock Price, Quote and News",
+    "Airlines Are Booming While Wall Street Naps",
+    "WH: Wyndham Hotels & Resorts Inc - Stock Price, Quote ...",
+    "Travel Slump Hits Airlines: Should You Buy The Dip With ...",
+    "Allegiant Travel Company - Common Stock (NQ:ALGT)",
+    "ISPO: Inspirato Inc - Stock Price, Quote and News",
+    "JetBlue's Stock Declines As Airliner to Reduce Flights Amid ...",
+    "ONVC: Online Vacation Center Holdings Corp",
+    "PARL: Parlo Bhd - Stock Price, Quote and News",
+    "HTZ: Hertz Global Holdings Inc - Stock Price, Quote ...",
+    "Trip.com Opens Over 1100 Overseas Positions In 75 Cities ...",
+    "4 Airline Stocks To Invest Now As Air Travel Demand Surges",
+    "SMSOF: Samsonite Group SA - Stock Price, Quote and News",
+    "Bear Of The Day: Delta Air Lines",
+    "MicroSectors Travel 3X Leveraged ETNs",
+    "Memorial Day Weekend Travel To Break Records: 5 ETF Picks",
+    "Booking, Airbnb, And Expedia Stocks Forecasts Ahead Of ...",
+    "Something Unusual Is Happening With American Express ...",
+    "Copa Holdings: A Higher-Yielding Airline In A Group Not ..."
+  ],
+  "prompt_text": "You are drafting 5 potential article titles for talkmarkets.com.\nThey should make sense for linking to https://howtocancelmytimeshare.com/.\nAnchor keyword to use only if it fits in surrounding copy, never inside the title itself: how to cancel my timeshare.\nBlend what you already know about talkmarkets.com's content with the SERP list to stay on-brand.\nAnchor operates in: Unspecified.\nUse any locale cues from the prompt or your knowledge of talkmarkets.com; when Unspecified is relevant, acknowledge it without adding brand names.\nNever mention talkmarkets.com, how to cancel my timeshare, or any casino/operator brand name inside a title, and avoid review-style phrasing.\nSearch context keyword: travel.\nReference titles:\n- MicroSectors Travel 3X Leveraged FLYU:NYSE Arca\n- Travel Industry Fundamentals Remain Strong, Bucking Negative ...\n- EXPE: Expedia Group Inc - Stock Price, Quote and News\n- TCOM: Trip.com Group Ltd - Stock Price, Quote and News\n- FGETF: Flight Centre Travel Group Ltd - Stock Price, Quote ...\n- AWAY: Amplify Travel Tech ETF - Stock Price, Quote and ...\n- NextTrip Inc NTRP:NASDAQ - Stock Price, Quote and News\n- Airlines Are Booming While Wall Street Naps\n- WH: Wyndham Hotels & Resorts Inc - Stock Price, Quote ...\n- Travel Slump Hits Airlines: Should You Buy The Dip With ...\n- Allegiant Travel Company - Common Stock (NQ:ALGT)\n- ISPO: Inspirato Inc - Stock Price, Quote and News\n- JetBlue's Stock Declines As Airliner to Reduce Flights Amid ...\n- ONVC: Online Vacation Center Holdings Corp\n- PARL: Parlo Bhd - Stock Price, Quote and News\n- HTZ: Hertz Global Holdings Inc - Stock Price, Quote ...\n- Trip.com Opens Over 1100 Overseas Positions In 75 Cities ...\n- 4 Airline Stocks To Invest Now As Air Travel Demand Surges\n- SMSOF: Samsonite Group SA - Stock Price, Quote and News\n- Bear Of The Day: Delta Air Lines\n- MicroSectors Travel 3X Leveraged ETNs\n- Memorial Day Weekend Travel To Break Records: 5 ETF Picks\n- Booking, Airbnb, And Expedia Stocks Forecasts Ahead Of ...\n- Something Unusual Is Happening With American Express ...\n- Copa Holdings: A Higher-Yielding Airline In A Group Not ...\n\n",
+  "usage": {
+    "prompt_tokens": 972,
+    "completion_tokens": 704
+  },
+  "cost_usd": 0.06168
+}

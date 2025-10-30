@@ -1,0 +1,768 @@
+{
+  "mode": "live",
+  "task_id": "10171144-4117-0121-0000-24e4a6f75011",
+  "query": "site:noobfeed.com casino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "What Video Games Have Casino Mini-Games? The ...",
+      "url": "https://www.noobfeed.com/articles/what-video-games-have-casino-mini-games",
+      "snippet": "Jul 29, 2025 \u2014 Top Video Games with Casino Mini Games \u00b7 Grand Theft Auto V \u00b7 Red Dead Redemption 2 \u00b7 The Sims 3 \u00b7 Yakuza 0 \u00b7 Sonic the Hedgehog \u00b7 Far Cry 3.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Casino Games",
+      "url": "https://noobfeed.com/games/filter?theme=casino",
+      "snippet": "NoobFeed is your most up-to-date source for video game news, reviews, rumors, and the game guides.",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Bitcoin Casinos - What Special Games Can You Find?",
+      "url": "https://www.noobfeed.com/articles/bitcoin-casinos-what-special-games-can-you-find",
+      "snippet": "Sep 1, 2025 \u2014 The best Bitcoin casinos have gone a step further to introduce special games that have added clever twists to the typical casino games. So,\u00a0...",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "The Rise of Skill-Based Gaming in Online Casinos",
+      "url": "https://www.noobfeed.com/articles/the-rise-of-skill-based-gaming-in-online-casinos",
+      "snippet": "Nov 11, 2024 \u2014 Skill-based gaming is revolutionizing the online casino industry by introducing new forms of interactive entertainment that appeal to a broader audience.",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "How to Win at the Casino in Dragon Quest VIII & XI",
+      "url": "https://www.noobfeed.com/articles/how-to-win-at-the-casino-in-dragon-quest-viii-and-xi",
+      "snippet": "Aug 13, 2025 \u2014 The fastest ways to get more out of casinos in Dragon Quest. Make 100000 tokens in less than an hour! All tactics from Reddit and GameFAQ.",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "Gambino Slots USA Review: Exploring Features and User ...",
+      "url": "https://www.noobfeed.com/articles/gambino-slots-usa-review-exploring-features-and-user-experience",
+      "snippet": "Sep 22, 2024 \u2014 Gambino Slots offers a social casino experience with a variety of slot games. It's designed for fun and entertainment rather than focusing on real money\u00a0...",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "Video Game-Inspired Casino Titles: A Fresh Way to Play",
+      "url": "https://www.noobfeed.com/articles/video-game-inspired-casino-titles-a-fresh-way-to-play",
+      "snippet": "Aug 29, 2025 \u2014 Casino developers try to capture that intensity with slots and arcade-style gambling games that use moving elements and quick decision points.",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Why MGA-Licensed Casinos Appeal to Serious Gamers",
+      "url": "https://www.noobfeed.com/articles/level-up-your-real-money-play-why-mga-licensed-casinos-appeal-to-serious-gamers",
+      "snippet": "May 21, 2025 \u2014 MGA Casinos offer a standard of security. A certain standard of player protections is the primary advantage that can be gained by using a casino\u00a0...",
+      "rank_absolute": 8,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "How Video Game Elements Are Influencing WinSpirit Casino ...",
+      "url": "https://www.noobfeed.com/articles/how-video-game-elements-are-influencing-winspirit-casino-games",
+      "snippet": "Modern casinos utilize improved graphics to lure in new players. WinSpirit does the same. The company has created modern casino titles that feature innovative\u00a0...",
+      "rank_absolute": 9,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "Best Examples of Casino Mini Games in The Biggest Video ...",
+      "url": "https://www.noobfeed.com/articles/best-examples-of-casino-mini-games-in-the-biggest-video-games",
+      "snippet": "Mar 18, 2025 \u2014 We did some research and found the best video games, which also have side games that can satisfy your urge to play a real-money game!",
+      "rank_absolute": 10,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "Virtual Economies and Real Stakes: The Intersection of ...",
+      "url": "https://www.noobfeed.com/articles/virtual-economies-and-real-stakes-the-intersection-of-gaming-and-gambling",
+      "snippet": "May 1, 2025 \u2014 Whether you're flipping skins or opening that \u201cone last crate,\u201d there's a whole layer of gaming that mirrors what's happening in online casinos.",
+      "rank_absolute": 13,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "Best Video Games with Gambling Elements",
+      "url": "https://www.noobfeed.com/articles/best-video-games-with-gambling-elements",
+      "snippet": "Jul 16, 2025 \u2014 A lot of video games have elements of risk, reward, and the thrill of the unknown, borrowed from the world of gambling.",
+      "rank_absolute": 14,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "Beginner Tips for Success in Online Live Casino Games",
+      "url": "https://www.noobfeed.com/articles/beginner-tips-for-success-in-online-live-casino-games",
+      "snippet": "Nov 27, 2024 \u2014 The best mental state for playing in a live casino is calm and reasonable. Following these rules will improve your live gambling experience.",
+      "rank_absolute": 15,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "No Deposit Bonus For Registration In The Casino",
+      "url": "https://www.noobfeed.com/articles/no-deposit-bonus-for-registration-in-the-casino-start-playing-without-a-deposit",
+      "snippet": "Jun 11, 2025 \u2014 A no deposit bonus for registration is a great opportunity to try your luck and test the casino without the risk of losing your money.",
+      "rank_absolute": 16,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "Anonymous Online Gambling: Methods and Considerations",
+      "url": "https://www.noobfeed.com/articles/anonymous-online-gambling-methods-and-considerations",
+      "snippet": "Mar 19, 2025 \u2014 Casino writer Carlos De Lanuza highlights the best crypto casinos with no verification needed for their ease of sign-up processes, enhanced\u00a0...",
+      "rank_absolute": 17,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "What Does the Future of Online Gaming Look Like?",
+      "url": "https://www.noobfeed.com/articles/what-does-the-future-of-online-gaming-look-like",
+      "snippet": "VR technology allows players to immerse themselves in digital worlds, whether it's a virtual casino, a first-person shooter, or an interactive puzzle game. Many\u00a0...",
+      "rank_absolute": 18,
+      "rank_group": 17,
+      "result_type": "items"
+    },
+    {
+      "title": "Your Guide to Playing the Sugar Rush Slot Game",
+      "url": "https://www.noobfeed.com/articles/your-guide-to-playing-the-sugar-rush-slot-game",
+      "snippet": "Sep 3, 2025 \u2014 You click spin, and a grid of candy symbols fills your screen. This is Pragmatic Play's Sugar Rush slot. It uses a 7x7 cluster pay system\u00a0...",
+      "rank_absolute": 19,
+      "rank_group": 18,
+      "result_type": "items"
+    },
+    {
+      "title": "The Most Popular Video Game Themed Apps Available ...",
+      "url": "https://www.noobfeed.com/articles/the-most-popular-video-game-themed-apps-available-online",
+      "snippet": "May 27, 2024 \u2014 These themed games offer a unique blend of nostalgia, excitement, and the chance to win big, making them a hit among gamers and casino enthusiasts alike.",
+      "rank_absolute": 20,
+      "rank_group": 19,
+      "result_type": "items"
+    },
+    {
+      "title": "The Convergence of Esports and iGaming: Three Key ...",
+      "url": "https://www.noobfeed.com/articles/the-convergence-of-esports-and-igaming-three-key-commonalities-reshaping-digital-entertainment",
+      "snippet": "May 27, 2025 \u2014 The digital entertainment landscape is evolving at a remarkable pace, with esports and iGaming emerging as two dominant forces that are increasingly converging.",
+      "rank_absolute": 21,
+      "rank_group": 20,
+      "result_type": "items"
+    },
+    {
+      "title": "A Revolutionary Concept of Mini Games",
+      "url": "https://www.noobfeed.com/articles/a-revolutionary-concept-of-mini-games",
+      "snippet": "Feb 19, 2025 \u2014 You may also find games like online slots that you may get rewarded in in-game currency if you are lucky. If you, however, want a more authentic\u00a0...",
+      "rank_absolute": 23,
+      "rank_group": 21,
+      "result_type": "items"
+    },
+    {
+      "title": "Reviving Classic Gaming Vibes with Modern Titles and ...",
+      "url": "https://www.noobfeed.com/articles/reviving-classic-gaming-vibes-with-modern-titles-and-online-platforms",
+      "snippet": "Aug 28, 2025 \u2014 In the realm of online casinos, the adoption of retro aesthetics has become a key strategy in captivating players seeking vintage experiences.",
+      "rank_absolute": 24,
+      "rank_group": 22,
+      "result_type": "items"
+    },
+    {
+      "title": "Baccarat to Magic the Gathering \u2013 How Have Card Games ...",
+      "url": "https://www.noobfeed.com/articles/baccarat-to-magic-the-gathering-how-have-card-games-coped-with-digitization",
+      "snippet": "Jul 22, 2025 \u2014 Here is a closer look at how the world's most popular card games, from baccarat to Magic: the Gathering, have coped with digitisation.",
+      "rank_absolute": 25,
+      "rank_group": 23,
+      "result_type": "items"
+    },
+    {
+      "title": "A Guide to Finding the Ultimate Gaming Experience",
+      "url": "https://www.noobfeed.com/articles/a-guide-to-finding-the-ultimate-gaming-experience",
+      "snippet": "Nov 28, 2024 \u2014 There is a perfect game for every enthusiast of poker, blackjack, the roulette wheel, or high-quality slots with thematic and functional bonuses\u00a0...",
+      "rank_absolute": 26,
+      "rank_group": 24,
+      "result_type": "items"
+    },
+    {
+      "title": "The New Gaming Revolution Driven by Skill and Strategy",
+      "url": "https://www.noobfeed.com/articles/the-new-gaming-revolution-driven-by-skill-and-strategy",
+      "snippet": "Jan 29, 2025 \u2014 Technological advancements have given us online casinos where you can play without restrictions. Accessing skill-based games like poker no\u00a0...",
+      "rank_absolute": 27,
+      "rank_group": 25,
+      "result_type": "items"
+    },
+    {
+      "title": "How Classic Gaming Mechanics Inspired Today's Most ...",
+      "url": "https://www.noobfeed.com/articles/how-classic-gaming-mechanics-inspired-todays-most-popular-monetization-strategies",
+      "snippet": "May 31, 2025 \u2014 From randomized rewards to loyalty-driven systems, early game mechanics have inspired some of the gaming industry's most successful monetization strategies.",
+      "rank_absolute": 28,
+      "rank_group": 26,
+      "result_type": "items"
+    },
+    {
+      "title": "Are Subscription Models the Future of Video Gaming?",
+      "url": "https://www.noobfeed.com/articles/are-subscription-models-the-future-of-video-gaming",
+      "snippet": "Sep 1, 2025 \u2014 Marketed as an all-you-can-play service, its appeal lies in its rotating library of indie and AAA titles and cloud gaming, which you can access\u00a0...",
+      "rank_absolute": 29,
+      "rank_group": 27,
+      "result_type": "items"
+    },
+    {
+      "title": "Why Crash Games Are Trending Among Online Gamers",
+      "url": "https://noobfeed.com/articles/why-crash-games-are-trending-among-online-gamers",
+      "snippet": "The rapid adoption of crash games stems from their unique ability to combine the thrill of traditional gambling with modern gaming elements. Industry data shows\u00a0...",
+      "rank_absolute": 30,
+      "rank_group": 28,
+      "result_type": "items"
+    },
+    {
+      "title": "Balatro: It's Poker, But Not as You Know It",
+      "url": "https://www.noobfeed.com/articles/balatro-its-poker-but-not-as-you-know-it",
+      "snippet": "Nov 13, 2024 \u2014 Balatro is an exciting game designed to hook people who love to play games involving strategy and decision-making.",
+      "rank_absolute": 31,
+      "rank_group": 29,
+      "result_type": "items"
+    },
+    {
+      "title": "Top Gaming Gear in 2025: The Must-Haves for Competitive ...",
+      "url": "https://www.noobfeed.com/articles/top-gaming-gear-in-2025-the-must-haves-for-competitive-and-immersive-play",
+      "snippet": "May 29, 2025 \u2014 Even in online casino play, which is less physically intense, gear still matters. Faster PCs load games quickly. Stable connections prevent\u00a0...",
+      "rank_absolute": 32,
+      "rank_group": 30,
+      "result_type": "items"
+    },
+    {
+      "title": "A Look into Online Communities Behind the Largest ...",
+      "url": "https://www.noobfeed.com/articles/a-look-into-online-communities-behind-the-largest-igaming-brands",
+      "snippet": "Mar 18, 2024 \u2014 Platforms like Jackpot Casino Login offer users access to these dynamic communities, making every session more interactive and engaging. Social\u00a0...",
+      "rank_absolute": 34,
+      "rank_group": 31,
+      "result_type": "items"
+    },
+    {
+      "title": "Top-5 Addictive Browser Games for Quick Breaks",
+      "url": "https://www.noobfeed.com/articles/top-5-addictive-browser-games-for-quick-breaks",
+      "snippet": "Oct 17, 2023 \u2014 DuelingNexus, at its core, is about putting your bespoke deck against an opponent's. The game taps into the deep-seated allure of collectable\u00a0...",
+      "rank_absolute": 35,
+      "rank_group": 32,
+      "result_type": "items"
+    },
+    {
+      "title": "Gaming Industry Trends That Are Changing the Way We ...",
+      "url": "https://www.noobfeed.com/articles/gaming-industry-trends-that-are-changing-the-way-we-play-games",
+      "snippet": "Jul 9, 2025 \u2014 A lot has happened in the gaming world over the last few years. Players are hungry for fresh experiences \u2014 whether it's the next big AAA\u00a0...",
+      "rank_absolute": 36,
+      "rank_group": 33,
+      "result_type": "items"
+    },
+    {
+      "title": "Why is Live Gaming So Popular?",
+      "url": "https://www.noobfeed.com/articles/why-is-live-gaming-so-popular",
+      "snippet": "Nov 12, 2024 \u2014 One of the biggest cultural and technological phenomena that has taken the world by storm recently is live gaming, which has captivated\u00a0...",
+      "rank_absolute": 37,
+      "rank_group": 34,
+      "result_type": "items"
+    },
+    {
+      "title": "How The Best Roulette Apps Are Competing In An Ever- ...",
+      "url": "https://www.noobfeed.com/articles/how-the-best-roulette-apps-are-competing-in-an-ever-changing-gaming-landscape",
+      "snippet": "Jun 26, 2019 \u2014 Whether it be betting on sport or trying to get a win on the roulette wheel, the past few years have seen many changes in how we play.",
+      "rank_absolute": 38,
+      "rank_group": 35,
+      "result_type": "items"
+    },
+    {
+      "title": "Rockstar Releases The Diamond Casino Heist For GTA V ...",
+      "url": "https://www.noobfeed.com/news/rockstar-releases-the-diamond-casino-heist-for-gta-v-online",
+      "snippet": "Dec 13, 2019 \u2014 Rockstar has a new update available for GTA Online. Adding the Diamond Casino Heist to the multiplayer mode.",
+      "rank_absolute": 39,
+      "rank_group": 36,
+      "result_type": "items"
+    },
+    {
+      "title": "Borderlands 3 First DLC Brings Back Handsome Jack",
+      "url": "https://www.noobfeed.com/news/borderlands-3-first-dlc-brings-back-handsome-jack",
+      "snippet": "This DLC will follow players into Handsome Jack's casino. Moxxi wants the place gone after stating Jack stole the designs from her.",
+      "rank_absolute": 40,
+      "rank_group": 37,
+      "result_type": "items"
+    },
+    {
+      "title": "NBA 2K20 MyTeam Trailer is a Disaster, Highlighting ...",
+      "url": "https://www.noobfeed.com/news/nba-2k20-myteam-trailer-is-a-disaster-highlighting-casino-like-games",
+      "snippet": "Aug 29, 2019 \u2014 The MyTeam trailer featuring Casino games that offer random chances of earning in-game currency and other prizes.",
+      "rank_absolute": 41,
+      "rank_group": 38,
+      "result_type": "items"
+    },
+    {
+      "title": "Video Games Released in February 2024",
+      "url": "https://noobfeed.com/news/video-games-released-in-february-2024",
+      "snippet": "Below is the compiled list of all the games released in February 2024, with specific release dates and platforms.",
+      "rank_absolute": 42,
+      "rank_group": 39,
+      "result_type": "items"
+    },
+    {
+      "title": "New Projects That Gamers Should Be Excited For in 2025",
+      "url": "https://www.noobfeed.com/articles/new-projects-that-gamers-should-be-excited-for-in-2025",
+      "snippet": "Aug 28, 2025 \u2014 Online casino innovations - Top recommendations. Gamers who enjoy real money gaming will also notice major improvements in online casino\u00a0...",
+      "rank_absolute": 43,
+      "rank_group": 40,
+      "result_type": "items"
+    },
+    {
+      "title": "Are We In A Golden Age of Norse-Themed Games?",
+      "url": "https://www.noobfeed.com/articles/are-we-in-a-golden-age-of-norse-themed-games",
+      "snippet": "Feb 10, 2023 \u2014 ... game to Norse gods and culture. The theme has spread towards casino games too where users can play online on titles such as Vikings and\u00a0...",
+      "rank_absolute": 47,
+      "rank_group": 43,
+      "result_type": "items"
+    },
+    {
+      "title": "What To Look For In A Free-To-Play Game",
+      "url": "https://www.noobfeed.com/articles/what-to-look-for-in-a-free-to-play-game",
+      "snippet": "Mar 25, 2025 \u2014 These platforms offer some protection against malware, scams, and other digital threats. Free sweep slots games became popular with people who\u00a0...",
+      "rank_absolute": 48,
+      "rank_group": 44,
+      "result_type": "items"
+    },
+    {
+      "title": "Proposed Hawaii Loot Box Ban Makes Sense",
+      "url": "https://www.noobfeed.com/articles/proposed-hawaii-loot-box-ban-makes-sense",
+      "snippet": "Jun 7, 2018 \u2014 Parents and youth may not consider buying loot boxes to be on the same level as purchasing a scratch ticket or placing a wager at a casino, but\u00a0...",
+      "rank_absolute": 49,
+      "rank_group": 45,
+      "result_type": "items"
+    },
+    {
+      "title": "New Jobs Verified Coming to GTA V",
+      "url": "https://www.noobfeed.com/news/new-jobs-verified-coming-to-gta-v",
+      "snippet": "The 3 bonus races will be Casino Royale, Cheetah Grand Prix and B.I.T.C.H.. For more details on all these new jobs click the link here. In celebration of\u00a0...",
+      "rank_absolute": 50,
+      "rank_group": 46,
+      "result_type": "items"
+    },
+    {
+      "title": "Top Multiplayer Games Every Gamer Should Try in 2025",
+      "url": "https://www.noobfeed.com/articles/top-multiplayer-games-every-gamer-should-try-in-2025",
+      "snippet": "Apr 29, 2025 \u2014 Just as casino players appreciate the convenience of logging in ... To get the most out of your gaming experience, play games with engaging\u00a0...",
+      "rank_absolute": 51,
+      "rank_group": 47,
+      "result_type": "items"
+    },
+    {
+      "title": "Great Games You Have Probably Never Played",
+      "url": "https://www.noobfeed.com/articles/great-games-you-have-probably-never-played",
+      "snippet": "Feb 22, 2023 \u2014 Are you tired of playing the same old video and casino games over and over again? Looking for something new and exciting to sink your teeth\u00a0...",
+      "rank_absolute": 52,
+      "rank_group": 48,
+      "result_type": "items"
+    },
+    {
+      "title": "Cyberpunk 2077 Update 2.3 Sparks Debate Over Missed ...",
+      "url": "https://www.noobfeed.com/news/cyberpunk-2077-update-2-3-debate-over-missed-teasers",
+      "snippet": "Jul 29, 2025 \u2014 We only got some new cars and a short quest, right?\" Cyberpunk 2077 Casino, Cyberpunk 2.3 Patch, Update, Community Backslash, Bad Reviews,. This\u00a0...",
+      "rank_absolute": 53,
+      "rank_group": 49,
+      "result_type": "items"
+    },
+    {
+      "title": "Top 5 Most Exciting Releases For Gaming In 2025",
+      "url": "https://www.noobfeed.com/articles/top-5-most-exciting-releases-for-gaming-in-2025",
+      "snippet": "Jan 27, 2025 \u2014 ... games that bring the traditional game of slots to life. Big Bass has released a whole range of slot games, mainly centered around the\u00a0...",
+      "rank_absolute": 54,
+      "rank_group": 50,
+      "result_type": "items"
+    },
+    {
+      "title": "A Look Back at Some of The Worst Games of 2024",
+      "url": "https://www.noobfeed.com/articles/a-look-back-at-some-of-the-worst-games-of-2024",
+      "snippet": "Mar 6, 2025 \u2014 With the new year firmly underway, gaming audiences are excited about the year ahead. For instance, much of the conversation online at the\u00a0...",
+      "rank_absolute": 56,
+      "rank_group": 51,
+      "result_type": "items"
+    },
+    {
+      "title": "Why Collector's Editions Are Vital",
+      "url": "https://www.noobfeed.com/articles/why-collectors-editions-are-vital",
+      "snippet": "Oct 3, 2011 \u2014 While the connection of poker and casinos and all fits; it barely fitted as an incentive to me. I'm not talking about pre-order specials either;\u00a0...",
+      "rank_absolute": 57,
+      "rank_group": 52,
+      "result_type": "items"
+    },
+    {
+      "title": "Sonic Forces New Gameplay Trailer Focuses on Classic ...",
+      "url": "https://www.noobfeed.com/news/sonic-forces-new-gameplay-trailer-focuses-on-classic-sonic-stage",
+      "snippet": "Sep 28, 2017 \u2014 SEGA released a new trailer showcasing Classic Sonic with a new stage called Casino Forest.Casino Forest looks like a mix between Sonic the\u00a0...",
+      "rank_absolute": 58,
+      "rank_group": 53,
+      "result_type": "items"
+    },
+    {
+      "title": "The Simpsons Arcade Game",
+      "url": "https://www.noobfeed.com/reviews/the-simpsons-arcade-game",
+      "snippet": "Feb 12, 2012 \u2014 The story bears no consequence. No one remembers the episode where a lone Lisa walks into Moe's Tavern that annexed a casino, only to be greeted\u00a0...",
+      "rank_absolute": 59,
+      "rank_group": 54,
+      "result_type": "items"
+    },
+    {
+      "title": "Capcom Confirms Ozwell Spencer and Wesker for ...",
+      "url": "https://www.noobfeed.com/news/capcom-confirms-ozwell-spencer-and-wesker-for-resident-evil-resistance",
+      "snippet": "Feb 12, 2020 \u2014 Casino: An entertainment facility for thrill seekers\u2026 and insidious Masterminds. Its still-operating slot machines and chips strewn across\u00a0...",
+      "rank_absolute": 60,
+      "rank_group": 55,
+      "result_type": "items"
+    },
+    {
+      "title": "Assassin's Creed Liberation HD Coming January 14",
+      "url": "https://www.noobfeed.com/news/assassins-creed-liberation-hd-coming-january-14",
+      "snippet": "Oct 23, 2013 \u2014 Casino Games That Feel Like Video Games. Other. Oct 02, 2025. Casino Games That Feel Like Video Games. Puzzle Quest: Immortal Guide | Rogue\u00a0...",
+      "rank_absolute": 61,
+      "rank_group": 56,
+      "result_type": "items"
+    },
+    {
+      "title": "Red Dead Redemption 2 and Grand Theft Auto V Reaches ...",
+      "url": "https://www.noobfeed.com/news/red-dead-redemption-2-and-grand-theft-auto-v-reaches-150-units-sold-worldwide",
+      "snippet": "Jan 28, 2020 \u2014 ... Casino & Resortupdate in July 2019 and the Diamond Casino Heist in December 2019. In addition to these blockbuster achievements, Grand Theft\u00a0...",
+      "rank_absolute": 62,
+      "rank_group": 57,
+      "result_type": "items"
+    },
+    {
+      "title": "Dead Rising 2 Review",
+      "url": "https://www.noobfeed.com/articles/dead-rising-2-review",
+      "snippet": "Oct 18, 2010 \u2014 Dead Rising 2 is set in a fictional Las Vegas style casino grown ups playground type city. you play as Chuck Greene former Motocross Star\u00a0...",
+      "rank_absolute": 63,
+      "rank_group": 58,
+      "result_type": "items"
+    },
+    {
+      "title": "Need For Speed World",
+      "url": "https://www.noobfeed.com/reviews/need-for-speed-world",
+      "snippet": "Nov 21, 2010 \u2014 Need For Speed World - Casino's and fast cars. The effect of grandeur can only be pulled off if all the visuals are up to par and NFSW\u00a0...",
+      "rank_absolute": 64,
+      "rank_group": 59,
+      "result_type": "items"
+    },
+    {
+      "title": "Far Cry 5 Trailer Rewrites the Bill of Rights",
+      "url": "https://www.noobfeed.com/news/far-cry-5-trailer-rewrites-the-bill-of-rights",
+      "snippet": "Mar 4, 2018 \u2014 Casino Games That Feel Like Video Games. Other. Oct 02, 2025. Casino Games That Feel Like Video Games \u00b7 Puzzle Quest: Immortal Guide | Rogue\u00a0...",
+      "rank_absolute": 65,
+      "rank_group": 60,
+      "result_type": "items"
+    },
+    {
+      "title": "Some new movies.",
+      "url": "https://www.noobfeed.com/articles/some-new-movies",
+      "snippet": "Sep 1, 2010 \u2014 Bought 4 new movies this week. Casino Royale, Sin City, Batman Begins and V for Vendetta. Dunno when I will have the time to see them though.",
+      "rank_absolute": 68,
+      "rank_group": 62,
+      "result_type": "items"
+    },
+    {
+      "title": "Gex Trilogy Finally Fixed for Nintendo Switch 2 After eShop ...",
+      "url": "https://www.noobfeed.com/articles/gex-trilogy-finally-fixed-for-nintendo-switch-2-after-eshop-removal",
+      "snippet": "Jul 2, 2025 \u2014 ... games with immersive, thematically applied environments in online casino platforms. Both provide a curated mix of interactivity, nostalgia\u00a0...",
+      "rank_absolute": 69,
+      "rank_group": 63,
+      "result_type": "items"
+    },
+    {
+      "title": "The Top Four Online Game Shows",
+      "url": "https://www.noobfeed.com/articles/the-top-four-online-game-shows",
+      "snippet": "Nov 25, 2024 \u2014 The game begins with the roulette slot, choosing between three and 15 bonus numbers per round. The numbers allow players to secure multipliers\u00a0...",
+      "rank_absolute": 70,
+      "rank_group": 64,
+      "result_type": "items"
+    },
+    {
+      "title": "Sonic X Shadow Generations Review",
+      "url": "https://www.noobfeed.com/reviews/sonic-x-shadow-generations-review",
+      "snippet": "Oct 25, 2024 \u2014 It's a throwback remix of some of the best Sonic levels of all time, from Green Hill Zone and Hydro City to Casino and so on. Sonic X Shadow\u00a0...",
+      "rank_absolute": 71,
+      "rank_group": 65,
+      "result_type": "items"
+    },
+    {
+      "title": "From Mobile To Desktop: How Casual Gaming Has Grown ...",
+      "url": "https://www.noobfeed.com/articles/from-mobile-to-desktop-how-casual-gaming-has-grown-up",
+      "snippet": "May 28, 2025 \u2014 Many now feature layered soundtracks, dynamic effects, and sharper animations. Slot-style games, in particular, have adapted this. Titles like\u00a0...",
+      "rank_absolute": 72,
+      "rank_group": 66,
+      "result_type": "items"
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "url": "https://www.noobfeed.com/games/grand-theft-auto-v",
+      "snippet": "GTA Online will probably be fantastic when everything comes together in the future, but for now, it's only reasonable. Review by Grayshadow on Oct 27, 2013.",
+      "rank_absolute": 73,
+      "rank_group": 67,
+      "result_type": "items"
+    },
+    {
+      "title": "Warner Bros. Bets Big as Hogwarts Legacy 2 Goes Live ...",
+      "url": "https://www.noobfeed.com/news/warner-bros-bets-big-hogwarts-legacy-2-live-service",
+      "snippet": "Jul 30, 2025 \u2014 It lets people play as the wizard instead of the whale. Think about that same world as Hogwarts Online Casino Edition, where Hagrid gives\u00a0...",
+      "rank_absolute": 74,
+      "rank_group": 68,
+      "result_type": "items"
+    },
+    {
+      "title": "Gaming Fans Are Crossing Over Into Sports Betting",
+      "url": "https://www.noobfeed.com/articles/gaming-fans-are-crossing-over-into-sports-betting-betting-platform-navigation-for-newcomers",
+      "snippet": "May 28, 2025 \u2014 Or perhaps gambling and betting on online platforms? Yes, it also checks all the boxes. So which is it? FIFA FC 24, Sports Game. That is the\u00a0...",
+      "rank_absolute": 75,
+      "rank_group": 69,
+      "result_type": "items"
+    },
+    {
+      "title": "Darksiders 4 Announcement Speculation and Why Fans ...",
+      "url": "https://www.noobfeed.com/articles/darksiders-4-speculation",
+      "snippet": "Aug 9, 2025 \u2014 Much like fans seeking unique entertainment options such as casinos not on Gamstop, the Darksiders community craves fresh experiences while\u00a0...",
+      "rank_absolute": 76,
+      "rank_group": 70,
+      "result_type": "items"
+    },
+    {
+      "title": "My Friendly Neighborhood Guide | Secrets Locations & ...",
+      "url": "https://www.noobfeed.com/articles/my-friendly-neighborhood-secrets-locations-puzzle-solutions",
+      "snippet": "Jul 16, 2025 \u2014 This guide covers hidden levels, puzzle solutions, and secret areas in My Friendly Neighborhood. You will find solutions to various puzzles\u00a0...",
+      "rank_absolute": 78,
+      "rank_group": 71,
+      "result_type": "items"
+    },
+    {
+      "title": "Wild Bastards Review",
+      "url": "https://www.noobfeed.com/reviews/wild-bastards-review",
+      "snippet": "Sep 30, 2024 \u2014 ... game, too, but with additional stuff implemented into the game. ... So far, I haven't come across one that is completely broken\u2026 Except Casino ...",
+      "rank_absolute": 79,
+      "rank_group": 72,
+      "result_type": "items"
+    },
+    {
+      "title": "Why Playing Video Games Is a Valid Hobby for All Ages",
+      "url": "https://www.noobfeed.com/articles/is-playing-video-games-a-hobby",
+      "snippet": "Mar 17, 2025 \u2014 Is playing video games a good hobby or a waste of time? Here's what researchers in science say about healthy gaming and the benefits.",
+      "rank_absolute": 80,
+      "rank_group": 73,
+      "result_type": "items"
+    },
+    {
+      "title": "Top Indie Games You Should Play in 2025",
+      "url": "https://www.noobfeed.com/articles/top-indie-games-you-should-play-in-2025",
+      "snippet": "May 9, 2025 \u2014 ... casino gaming activities, like thematic slots. Moreover, the gaming process can become even more captivating with the chance to receive\u00a0...",
+      "rank_absolute": 81,
+      "rank_group": 74,
+      "result_type": "items"
+    },
+    {
+      "title": "Gaming vs. Streaming in 2025",
+      "url": "https://www.noobfeed.com/articles/gaming-vs-streaming-in-2025",
+      "snippet": "Jun 26, 2025 \u2014 They're gone. Even spaces like online sweepstakes casino quietly slip into the mix \u2014 45\u2011second rounds and a shared chat make them stream\u2011\u00a0...",
+      "rank_absolute": 82,
+      "rank_group": 75,
+      "result_type": "items"
+    },
+    {
+      "title": "Summer Game Fest 2025 Just Blew the Roof Off",
+      "url": "https://www.noobfeed.com/news/summer-game-fest-2025-everything-announced",
+      "snippet": "Jun 7, 2025 \u2014 Summer Game Fest 2025 has set the internet ablaze with an unforgettable, genre-spanning showcase that has redefined what a modern game\u00a0...",
+      "rank_absolute": 83,
+      "rank_group": 76,
+      "result_type": "items"
+    },
+    {
+      "title": "Evil Genius 2: World Domination Review",
+      "url": "https://www.noobfeed.com/reviews/evil-genius-2-world-domination-playstation-4-review",
+      "snippet": "Dec 1, 2021 \u2014 ... casino, which you will also have to manage. On paper, this game is the result of a mixture between a Tycoon Game and a Tower Defense game\u00a0...",
+      "rank_absolute": 84,
+      "rank_group": 77,
+      "result_type": "items"
+    },
+    {
+      "title": "Beyond Bars: Gaming Venues Transforming the Social ...",
+      "url": "https://www.noobfeed.com/articles/beyond-bars-gaming-venues-transforming-the-social-night-out-scene",
+      "snippet": "Aug 12, 2025 \u2014 The traditional night out has changed far beyond the standard bar scene. Gaming venues are changing how people socialize.",
+      "rank_absolute": 85,
+      "rank_group": 78,
+      "result_type": "items"
+    },
+    {
+      "title": "Like a Dragon: Pirate Yakuza in Hawaii Review",
+      "url": "https://www.noobfeed.com/reviews/like-a-dragon-pirate-yakuza-in-hawaii-review",
+      "snippet": "Feb 20, 2025 \u2014 ... casino, are both ludicrous and challenging. With the addition of combat augmentations, battles become more exciting, while the job system\u00a0...",
+      "rank_absolute": 86,
+      "rank_group": 79,
+      "result_type": "items"
+    },
+    {
+      "title": "What Makes Living in Australia So Special?",
+      "url": "https://www.noobfeed.com/articles/what-makes-living-in-australia-so-special",
+      "snippet": "Mar 26, 2025 \u2014 Australia's landscapes go from rugged Outback to lush rainforests, giving you front-row access to nature at its most dramatic. Weekends can mean\u00a0...",
+      "rank_absolute": 87,
+      "rank_group": 80,
+      "result_type": "items"
+    },
+    {
+      "title": "Audiomob Hand Middle East Gaming Sector a Major Boost",
+      "url": "https://www.noobfeed.com/articles/audiomob-hand-middle-east-gaming-sector-a-major-boost",
+      "snippet": "Jan 10, 2025 \u2014 If Audiomob introduces their non-intrusive audio ads to the iGaming audience, it could help the online platforms featured on YYY Casino engage\u00a0...",
+      "rank_absolute": 90,
+      "rank_group": 82,
+      "result_type": "items"
+    },
+    {
+      "title": "The Best Card Games to Get Into Playing",
+      "url": "https://www.noobfeed.com/articles/the-best-card-games-to-get-into-playing",
+      "snippet": "Dec 8, 2023 \u2014 Poker. Poker is a widely enjoyed card game known for its strategy and its social aspects. It goes beyond just playing cards; skilled players\u00a0...",
+      "rank_absolute": 91,
+      "rank_group": 83,
+      "result_type": "items"
+    },
+    {
+      "title": "MindsEye Supposed To Be The Next GTA, Now It's a ...",
+      "url": "https://www.noobfeed.com/news/mindseye-next-gta-a-warning-sign-for-industry",
+      "snippet": "Jun 11, 2025 \u2014 MindsEye, the highly anticipated debut from Build a Rocket Boy, helmed by former Grand Theft Auto producer Leslie Benzies\u2014has landed with a\u00a0...",
+      "rank_absolute": 92,
+      "rank_group": 84,
+      "result_type": "items"
+    },
+    {
+      "title": "Cyberpunk 2077 Gets Major FPS Boost on PS5 Pro with ...",
+      "url": "https://www.noobfeed.com/news/cyberpunk-2077-fps-boost-ps5-pro-patch-2-3",
+      "snippet": "Jul 24, 2025 \u2014 Cyberpunk 2077 from CD Projekt Red just got a big boost, at least if you play it on a PlayStation 5 Pro. With the release of patch 2.3,\u00a0...",
+      "rank_absolute": 93,
+      "rank_group": 85,
+      "result_type": "items"
+    },
+    {
+      "title": "The Evolution of Player Choice: How Narrative-Driven ...",
+      "url": "https://www.noobfeed.com/articles/player-choice-narrative-driven-games-winning-hardcore-gamers",
+      "snippet": "Aug 20, 2025 \u2014 For the longest time, hardcore gamers were thought to crave nothing but punishing mechanics, nail-biting challenges, and competition that\u00a0...",
+      "rank_absolute": 94,
+      "rank_group": 86,
+      "result_type": "items"
+    },
+    {
+      "title": "Life is Strange 2 Episode 4: Faith All Collectable Locations",
+      "url": "https://www.noobfeed.com/articles/life-is-strange-2-episode-4-faith-all-collectable-locations",
+      "snippet": "Aug 22, 2019 \u2014 Casino Coin. When inside the hotel after leaving the bathroom go to the nightstand in the middle of the beds. Open it and on the bottom left\u00a0...",
+      "rank_absolute": 95,
+      "rank_group": 87,
+      "result_type": "items"
+    },
+    {
+      "title": "Exploring The Best Classic Rock Songs From GTA San ...",
+      "url": "https://www.noobfeed.com/articles/exploring-the-best-classic-rock-songs-from-gta-san-andreas",
+      "snippet": "Jan 14, 2025 \u2014 ... casinos is a memory I still remember clearly and vividly. The casino gaming in GTA was one of the many elements that made it such a\u00a0...",
+      "rank_absolute": 96,
+      "rank_group": 88,
+      "result_type": "items"
+    },
+    {
+      "title": "Performance vs Visuals: What Matters Most in 2025 Game ...",
+      "url": "https://www.noobfeed.com/articles/performance-vs-visuals-what-matters-most-in-2025-game-ports",
+      "snippet": "Jun 24, 2025 \u2014 Even platforms like OMG Casino, tracking digital trends across ... Some games look incredible but lag; others play smoothly but feel dated.",
+      "rank_absolute": 97,
+      "rank_group": 89,
+      "result_type": "items"
+    },
+    {
+      "title": "Switch 2 Promises a Third-Party Renaissance, from ...",
+      "url": "https://www.noobfeed.com/news/switch-2-3rd-party-renaissance-cyberpunk-street-fighter",
+      "snippet": "Aug 17, 2025 \u2014 Not only are Nintendo's popular franchises coming back for the Nintendo Switch 2. Sources say that the console is positioning itself as a\u00a0...",
+      "rank_absolute": 98,
+      "rank_group": 90,
+      "result_type": "items"
+    },
+    {
+      "title": "What Happened to Split-Screen Multiplayer Games?",
+      "url": "https://www.noobfeed.com/articles/what-happened-to-split-screen-multiplayer-games",
+      "snippet": "Aug 3, 2020 \u2014 Split-screen gaming was a casualty of this simply because it became too logistically complicated for developers to create multiple in-sync\u00a0...",
+      "rank_absolute": 100,
+      "rank_group": 91,
+      "result_type": "items"
+    },
+    {
+      "title": "Will Blizzard Introduce Loot Boxes or Other Pay2win ...",
+      "url": "https://www.noobfeed.com/news/will-blizzard-introduce-loot-boxes-or-other-pay2win-elements-in-diablo-immortal",
+      "snippet": "Feb 17, 2022 \u2014 The massively multiplayer online action game is slated for release in 2022, having initially been scheduled for 2021. The story slots into place\u00a0...",
+      "rank_absolute": 101,
+      "rank_group": 92,
+      "result_type": "items"
+    },
+    {
+      "title": "Evil Genius 2: World Domination PC Review",
+      "url": "https://www.noobfeed.com/reviews/evil-genius-2-world-domination-pc-review",
+      "snippet": "Apr 2, 2021 \u2014 The second largest part of the game revolves around maintaining your cover. The glossy facade of an exclusive casino fronts the hidden sprawl of\u00a0...",
+      "rank_absolute": 102,
+      "rank_group": 93,
+      "result_type": "items"
+    },
+    {
+      "title": "From Novice to Pro: A Beginner's Guide to Online Gaming",
+      "url": "https://www.noobfeed.com/articles/from-novice-to-pro-a-beginners-guide-to-online-gaming",
+      "snippet": "May 19, 2023 \u2014 ... play these games ... For example, you might not enjoy card games, but you might enjoy games like roulette when it comes to casino games.",
+      "rank_absolute": 103,
+      "rank_group": 94,
+      "result_type": "items"
+    },
+    {
+      "title": "Atari 50: The Anniversary Celebration Review",
+      "url": "https://www.noobfeed.com/reviews/atari-50-the-anniversary-celebration-nintendo-switch-review",
+      "snippet": "Nov 17, 2022 \u2014 In founder Nolan Bushnell's own words, Atari hasn't always been in the best hands. You could argue that with metaverse casinos or shady\u00a0...",
+      "rank_absolute": 104,
+      "rank_group": 95,
+      "result_type": "items"
+    },
+    {
+      "title": "Oldest Video Games That are Still Playable in 2022",
+      "url": "https://www.noobfeed.com/articles/oldest-video-games-that-are-still-playable-in-2022",
+      "snippet": "Apr 29, 2022 \u2014 ... game, and helped solidify gaming as an original narrative medium. ... casino bonuses, such as cashback bonuses, risk-free bets, and no\u00a0...",
+      "rank_absolute": 105,
+      "rank_group": 96,
+      "result_type": "items"
+    },
+    {
+      "title": "Pete Davidson Is Not the First Celebrity To Advertise Call of ...",
+      "url": "https://www.noobfeed.com/articles/pete-davidson-is-not-the-first-celebrity-to-advertise-call-of-duty",
+      "snippet": "Jun 7, 2022 \u2014 ... casinos of Las Vegas to the sounds of Frank Sinatra, casually bumping into actress Megan Fox along the way. The second trailer was released\u00a0...",
+      "rank_absolute": 106,
+      "rank_group": 97,
+      "result_type": "items"
+    },
+    {
+      "title": "E3 2010: Nintendo Press Conference Summary",
+      "url": "https://www.noobfeed.com/articles/e3-2010-nintendo-press-conference-summary",
+      "snippet": "Jun 15, 2010 \u2014 ... game, and stars Daniel Craig (Casino Royale) instead of the Goldeneye original, Pierce Brosnan. Metroid: Other M As for most of the games\u00a0...",
+      "rank_absolute": 107,
+      "rank_group": 98,
+      "result_type": "items"
+    },
+    {
+      "title": "Will There Be New GTA Online Features for GTA 6?",
+      "url": "https://www.noobfeed.com/articles/will-there-be-new-gta-online-features-for-gta-6",
+      "snippet": "Aug 18, 2025 \u2014 ... Casinos such as ToonieBet casino that feel unique to every player. GTA 6 Online, Gameplay. Equally important is smarter police AI. The days\u00a0...",
+      "rank_absolute": 108,
+      "rank_group": 99,
+      "result_type": "items"
+    },
+    {
+      "title": "Crimson Days Starts Next Week in Destiny 2",
+      "url": "https://www.noobfeed.com/news/crimson-days-starts-next-week-in-destiny-2",
+      "snippet": "Feb 7, 2018 \u2014 Casino Games That Feel Like Video Games. Other. Oct 02, 2025. Casino Games That Feel Like Video Games \u00b7 Puzzle Quest: Immortal Guide | Rogue\u00a0...",
+      "rank_absolute": 109,
+      "rank_group": 100,
+      "result_type": "items"
+    }
+  ]
+}

@@ -1,0 +1,752 @@
+{
+  "mode": "live",
+  "task_id": "10131326-4117-0121-0000-1564eb3028a6",
+  "query": "site:laverdadnoticias.com casino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "La apuesta de billones: La guerra por los 3 casinos de Nueva ...",
+      "url": "https://laverdadnoticias.com/economia/la-apuesta-de-billones-la-guerra-por-los-3-casinos-de-nueva-york-20250721",
+      "snippet": "Jul 21, 2025 \u2014 Ocho proyectos compiten por 3 licencias de casino en NYC, prometiendo miles de millones. Conoce a los jugadores, sus planes y la feroz\u00a0...",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Misterios del casino: an\u00e9cdotas y secretos que pocos conocen",
+      "url": "https://laverdadnoticias.com/estilo-de-vida/misterios-del-casino-anecdotas-y-secretos-que-pocos-conocen-20250227",
+      "snippet": "Feb 27, 2025 \u2014 Desde estrategias inesperadas hasta personajes legendarios, hoy exploramos algunos de los secretos mejor guardados del mundo del casino.",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Casinos con Mejor Selecci\u00f3n de Juegos en Vivo en 2025",
+      "url": "https://laverdadnoticias.com/economia/casinos-con-mejor-seleccion-de-juegos-en-vivo-en-2025-20250225",
+      "snippet": "Feb 25, 2025 \u2014 Los Mejores Casinos para Juegos en Vivo en 2025 \u00b7 Top 1: LeoVegas \u00b7 Top 2: PlayUZU \u00b7 Top 3: Casumo y Casino Barcelona \u00b7 Revelaci\u00f3n del A\u00f1o:\u00a0...",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "14 a\u00f1os del ataque al Casino Royale: justicia pendiente en ...",
+      "url": "https://laverdadnoticias.com/mexico/14-anos-del-ataque-al-casino-royale-justicia-pendiente-en-monterrey-20250825",
+      "snippet": "Familiares recuerdan a las 52 v\u00edctimas del Casino Royale en Monterrey y denuncian impunidad tras 14 a\u00f1os sin responsables claros ni indemnizaci\u00f3n.",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Betiton Chile: Tu Casino Online Seguro con Juegos en Vivo",
+      "url": "https://laverdadnoticias.com/internacional/betiton-chile-tu-casino-online-seguro-con-juegos-en-vivo-20250218",
+      "snippet": "Feb 18, 2025 \u2014 Descubre Betiton Chile, un casino online confiable con juegos en vivo, tragamonedas y m\u00e9todos de pago seguros.",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "Tiroteo en casino de Reno deja varios heridos; un sospechoso fue ...",
+      "url": "https://laverdadnoticias.com/usa/tiroteo-en-casino-de-reno-deja-varios-heridos-un-sospechoso-fue-detenido-20250728",
+      "snippet": "El ataque ocurri\u00f3 la ma\u00f1ana del lunes en el \u00e1rea de valet de un casino; el presunto agresor est\u00e1 hospitalizado y se desconoce la condici\u00f3n de las v\u00edctimas.",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "Alerta en Miami: Incendio forestal cierra v\u00edas clave en Miami ...",
+      "url": "https://laverdadnoticias.com/usa/alerta-en-miami-incendio-forestal-cierra-vias-clave-en-miami-dade-20250615",
+      "snippet": "Jun 15, 2025 \u2014 Un incendio de 350 acres arde sin control cerca del Miccosukee Casino, forzando el cierre de Krome Avenue y la Calle 8.",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Casinos online en M\u00e9xico : Caracter\u00edsticas y ventajas",
+      "url": "https://laverdadnoticias.com/economia/casinos-online-en-mexico-caracteristicas-y-ventajas-20241211",
+      "snippet": "Dec 11, 2024 \u2014 Los casinos suelen ofrecer versiones en vivo de sus juegos, esta modalidad permite a los jugadores interactuar con crupieres reales y otros\u00a0...",
+      "rank_absolute": 8,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "Comienza a gestarse una aut\u00e9ntica pol\u00edtica de Estado sobre ...",
+      "url": "https://laverdadnoticias.com/mexico/comienza-a-gestarse-una-autentica-politica-de-estado-sobre-el-juego-20250714",
+      "snippet": "Jul 14, 2025 \u2014 Basta ver la popularidad de los casinos que te dan bono de bienvenida para captar nuevos registros. Las promociones son la carta de presentaci\u00f3n\u00a0...",
+      "rank_absolute": 9,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "Clausura del casino Winpot en Pachuca: \u00bfTransparencia o ...",
+      "url": "https://laverdadnoticias.com/mexico/clausura-del-casino-winpot-en-pachuca-transparencia-o-intereses-ocultos-20250111",
+      "snippet": "Jan 11, 2025 \u2014 La pol\u00e9mica en Hidalgo: clausura de Winpot y v\u00ednculos entre funcionarios y empresarios cercanos al gobierno.",
+      "rank_absolute": 10,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "\u00a1ARRANCA MICHIGAN! Briscoe en Pole; \u00bfPodr\u00e1 Dominar ...",
+      "url": "https://laverdadnoticias.com/sport-judge/nascar-michigan-firekeepers-400-chase-briscoe-en-pole-previa-y-horarios-20250608",
+      "snippet": "Jun 8, 2025 \u2014 Chase Briscoe larga desde la pole en la FireKeepers Casino 400 de NASCAR en Michigan. Previa, an\u00e1lisis y contendientes.",
+      "rank_absolute": 11,
+      "rank_group": 11,
+      "result_type": "items"
+    },
+    {
+      "title": "Rese\u00f1a de 1Win Casino Chile: aspectos destacados, bonificaciones ...",
+      "url": "https://laverdadnoticias.com/internacional/resena-de-1win-casino-chile-aspectos-destacados-bonificaciones-y-experiencia-general-del-jugador-20240930",
+      "snippet": "Lee la m\u00e1s completa Rese\u00f1a de 1Win Casino Chile 2024 + Reama t bono de bienvenida 500% ahora + Juega en modo Demo haciendo clic aqu\u00ed.",
+      "rank_absolute": 12,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "casinos online - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/etiqueta/casinos-online",
+      "snippet": "Oct 25, 2024 \u2014 Tag: casinos online \u00b7 Casinos con Mejor Selecci\u00f3n de Juegos en Vivo en 2025 \u00b7 Por qu\u00e9 Pin Up M\u00e9xico es el mejor casino online 2024 para los\u00a0...",
+      "rank_absolute": 13,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "Conociendo qu\u00e9 hace que una plataforma de juegos de azar ...",
+      "url": "https://laverdadnoticias.com/espectaculos/entretenimiento/conociendo-que-hace-que-una-plataforma-de-juegos-de-azar-sea-segura-o-no-20240917",
+      "snippet": "Sep 17, 2024 \u2014 La Malta Gaming Authority (MGA) es uno de los m\u00e1s grandes a nivel mundial cuando de regulaci\u00f3n de casinos y apuestas se trata. Un casino ...",
+      "rank_absolute": 14,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "Casinos en l\u00ednea: \u00bfc\u00f3mo elegir sin fracasar en el intento?",
+      "url": "https://laverdadnoticias.com/mexico/casinos-en-linea-como-elegir-sin-fracasar-en-el-intento-20240819",
+      "snippet": "Aug 19, 2024 \u2014 En M\u00e9xico, el auge de los casinos en l\u00ednea no muestra signos de desaceleraci\u00f3n. Esto ha dado lugar a la proliferaci\u00f3n de casinos online en\u00a0...",
+      "rank_absolute": 15,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "C\u00f3mo los videojuegos se est\u00e1n apoderando de la televisi\u00f3n",
+      "url": "https://laverdadnoticias.com/tecnologia/como-los-videojuegos-se-estan-apoderando-de-la-television-20250313",
+      "snippet": "Mar 13, 2025 \u2014 Un ejemplo cl\u00e1sico es Las Vegas, una serie que explora el funcionamiento interno de un casino de lujo, donde tanto empleados como clientes\u00a0...",
+      "rank_absolute": 16,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "Isla Mujeres honra a sus ra\u00edces en su 175 aniversario",
+      "url": "https://laverdadnoticias.com/mexico/isla-mujeres-honra-a-sus-raices-en-su-175-aniversario-20250815",
+      "snippet": "Aug 15, 2025 \u2014 El evento, realizado en el Casino Naval, reuni\u00f3 a varias generaciones en un ambiente de alegr\u00eda, recuerdos y an\u00e9cdotas, reconociendo a las\u00a0...",
+      "rank_absolute": 17,
+      "rank_group": 17,
+      "result_type": "items"
+    },
+    {
+      "title": "C\u00f3mo Comprar tu Primera Acci\u00f3n en M\u00e9xico: Gu\u00eda Paso a ...",
+      "url": "https://laverdadnoticias.com/economia/como-comprar-tu-primera-accion-en-mexico-guia-paso-a-paso-2024-20250619",
+      "snippet": "Jun 19, 2025 \u2014 Recuerda nuestro mantra: \u00abTu futuro financiero se construye hoy\u00bb. Invertir en la bolsa no es un casino para hacerse rico de la noche a la ma\u00f1ana\u00a0...",
+      "rank_absolute": 18,
+      "rank_group": 18,
+      "result_type": "items"
+    },
+    {
+      "title": "Casinos en M\u00e9xico: \u00bfEl fin de la corrupci\u00f3n y un nuevo inicio?",
+      "url": "https://laverdadnoticias.com/mexico/casinos-en-mexico-el-fin-de-la-corrupcion-y-un-nuevo-inicio-20250113",
+      "snippet": "Jan 13, 2025 \u2014 Rosa Icela Rodr\u00edguez promete un sector de casinos transparente y sin extorsiones; la reforma a la Ley de Juegos y Sorteos es clave en esta\u00a0...",
+      "rank_absolute": 19,
+      "rank_group": 19,
+      "result_type": "items"
+    },
+    {
+      "title": "\u00bfC\u00f3mo funcionan los bonos de casino sin deposito?",
+      "url": "https://laverdadnoticias.com/economia/como-funcionan-los-bonos-de-casino-sin-deposito-20241205",
+      "snippet": "Dec 5, 2024 \u2014 Los bonos sin dep\u00f3sito, tambi\u00e9n conocidos como bonos sin registro, son un tipo de promoci\u00f3n desarrollada por los operadores de juegos de azar\u00a0...",
+      "rank_absolute": 20,
+      "rank_group": 20,
+      "result_type": "items"
+    },
+    {
+      "title": "Por qu\u00e9 Pin Up M\u00e9xico es el mejor casino online 2024 para ...",
+      "url": "https://laverdadnoticias.com/mexico/por-que-pin-up-mexico-es-el-mejor-casino-online-2024-para-los-jugadores-mexicanos-20241025",
+      "snippet": "Oct 25, 2024 \u2014 Entre sus atractivos se cuenta una complet\u00edsima oferta de slots, apuestas deportivas y juegos de casino para todos los gustos. Sin olvidar\u00a0...",
+      "rank_absolute": 21,
+      "rank_group": 21,
+      "result_type": "items"
+    },
+    {
+      "title": "FOMO: El miedo a perderse todo y su impacto en la salud ...",
+      "url": "https://laverdadnoticias.com/salud/fomo-el-miedo-a-perderse-todo-y-su-impacto-en-la-salud-mental-20250805",
+      "snippet": "Aug 5, 2025 \u2014 Lo que parece una conexi\u00f3n, es una trampa mental \u00b7 Redes sociales: el nuevo casino emocional \u00b7 \u00bfAdicci\u00f3n digital o nueva normalidad? \u00b7 C\u00f3mo salir\u00a0...",
+      "rank_absolute": 22,
+      "rank_group": 22,
+      "result_type": "items"
+    },
+    {
+      "title": "7.072 - P\u00e1gina no encontrada - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/__export/1588777813750/sites/laverdad/img/2020/0/page/7072",
+      "snippet": "1Win Casino es una plataforma que ha ido gan\u00e1ndose el coraz\u00f3n de muchos pa\u00edses. En este sentido, Argentina no qued\u00f3 indemne. Este sitio, que ofrece\u00a0...",
+      "rank_absolute": 23,
+      "rank_group": 23,
+      "result_type": "items"
+    },
+    {
+      "title": "El Multifamiliar Presidente Alem\u00e1n: un \u00edcono de la vivienda ...",
+      "url": "https://laverdadnoticias.com/mexico/el-multifamiliar-presidente-aleman-un-icono-de-la-vivienda-colectiva-que-transformo-la-cdmx-20250803",
+      "snippet": "Aug 3, 2025 \u2014 , sal\u00f3n de actos, cancha deportiva, casino e incluso una semi alberca ol\u00edmpica. Estos servicios buscaban fomentar una vida comunitaria digna\u00a0...",
+      "rank_absolute": 24,
+      "rank_group": 24,
+      "result_type": "items"
+    },
+    {
+      "title": "7.300 - P\u00e1gina no encontrada - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/__export/1547994730557/sites/laverdad/img/2019/0/page/7300",
+      "snippet": "Lee la m\u00e1s completa Rese\u00f1a de 1Win Casino Chile 2024 + Reama t bono de bienvenida 500% ahora + Juega en modo Demo haciendo...",
+      "rank_absolute": 25,
+      "rank_group": 25,
+      "result_type": "items"
+    },
+    {
+      "title": "C\u00f3mo funcionan las aplicaciones de apuestas deportivas",
+      "url": "https://laverdadnoticias.com/sport-judge/como-funcionan-las-aplicaciones-de-apuestas-deportivas-guia-para-principiantes-20250822",
+      "snippet": "Aug 22, 2025 \u2014 Pasos para apostar en deportes en vivo con 1Win Casino. La toma de decisiones\u00a0...",
+      "rank_absolute": 26,
+      "rank_group": 26,
+      "result_type": "items"
+    },
+    {
+      "title": "P\u00e1gina 336 - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/__export/1547994730557/sites/laverdad/img/2019/0/page/336",
+      "snippet": "sta rese\u00f1a analizar\u00e1 en profundidad la historia de los casinos virtuales, aquellos avances tecnol\u00f3gicos que han hecho posible su auge y el impacto que ha tenido\u00a0...",
+      "rank_absolute": 27,
+      "rank_group": 27,
+      "result_type": "items"
+    },
+    {
+      "title": "Felipe Calder\u00f3n - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/etiqueta/felipe-calderon",
+      "snippet": "14 a\u00f1os del ataque al Casino Royale: justicia pendiente en Monterrey \u00b7 M\u00e9xico \u00b7 14 a\u00f1os del ataque al Casino Royale: justicia pendiente en Monterrey \u00b7 Giovanna\u00a0...",
+      "rank_absolute": 28,
+      "rank_group": 28,
+      "result_type": "items"
+    },
+    {
+      "title": "Juegos online, una forma de entretenimiento que beneficia a ...",
+      "url": "https://laverdadnoticias.com/estilo-de-vida/juegos-online-una-forma-de-entretenimiento-que-beneficia-a-la-salud-20250102",
+      "snippet": "Jan 2, 2025 \u2014 Si bien es cierto que la mayor\u00eda de los internautas que acuden a los casinos ... Conoce la forma de ganar dinero con casinos en l\u00ednea. Los casinos ...",
+      "rank_absolute": 29,
+      "rank_group": 29,
+      "result_type": "items"
+    },
+    {
+      "title": "'Batman Inicia': a 20 a\u00f1os, \u00bfobra maestra o inicio de un ...",
+      "url": "https://laverdadnoticias.com/mas-chisme/batman-inicia-a-20-anos-obra-maestra-o-inicio-de-un-problema-20250630",
+      "snippet": "Jun 30, 2025 \u2014 ... Casino Royale\u00bb (2006) y \u00abMan of Steel\u00bb (2013). La seriedad como sin\u00f3nimo de calidad: La pel\u00edcula populariz\u00f3 la idea de que para que una\u00a0...",
+      "rank_absolute": 30,
+      "rank_group": 30,
+      "result_type": "items"
+    },
+    {
+      "title": "Tech | La Verdad Noticias | P\u00e1gina 140",
+      "url": "https://laverdadnoticias.com/seccion/tecnologia/page/140",
+      "snippet": "Casinos virtuales en M\u00e9xico: La evoluci\u00f3n del juego en l\u00ednea. sta rese\u00f1a analizar\u00e1 en profundidad la historia de los casinos virtuales, aquellos avances\u00a0...",
+      "rank_absolute": 31,
+      "rank_group": 31,
+      "result_type": "items"
+    },
+    {
+      "title": "En Monterrey: joven acusa a hospital por cobrar Pepto-Bismol ...",
+      "url": "https://laverdadnoticias.com/mexico/en-monterrey-joven-acusa-a-hospital-por-cobrar-pepto-bismol-en-6-mil-pesos-20250830",
+      "snippet": "Aug 30, 2025 \u2014 14 a\u00f1os del ataque al Casino Royale: justicia pendiente en Monterrey. Familiares recuerdan a las 52 v\u00edctimas del Casino Royale en Monterrey y\u00a0...",
+      "rank_absolute": 32,
+      "rank_group": 32,
+      "result_type": "items"
+    },
+    {
+      "title": "Descubre 1Win Casino Argentina: Opini\u00f3n Completa",
+      "url": "https://laverdadnoticias.com/internacional/descubre-1win-casino-argentina-opinion-completa-20240930",
+      "snippet": "Sep 30, 2024 \u2014 Este sitio, que ofrece una gran cantidad de apuestas deportivas/juegos, es uno de los mejores casinos online de hoy. Deja que nuestros expertos\u00a0...",
+      "rank_absolute": 33,
+      "rank_group": 33,
+      "result_type": "items"
+    },
+    {
+      "title": "Ataque armado en plaza comercial deja un muerto y un ...",
+      "url": "https://laverdadnoticias.com/mexico/ataque-armado-en-plaza-comercial-deja-un-muerto-y-un-herido-en-puerto-aventuras-20250822",
+      "snippet": "Aug 22, 2025 \u2014 Tres sujetos armados sorprendieron a un hombre en el estacionamiento tras salir de un casino; la FGE investiga su relaci\u00f3n con narcomenudeo\u00a0...",
+      "rank_absolute": 34,
+      "rank_group": 34,
+      "result_type": "items"
+    },
+    {
+      "title": "Se disipa la baja presi\u00f3n vigilada en el Atl\u00e1ntico",
+      "url": "https://laverdadnoticias.com/mexico/se-disipa-la-baja-presion-vigilada-en-el-atlantico-solo-vigilan-a-fernand-20250825",
+      "snippet": "Aug 25, 2025 \u2014 La zona de baja presi\u00f3n Invest 99L, asociada con una onda tropical ubicada al este de las Antillas Menores, finalmente se disip\u00f3 luego de\u00a0...",
+      "rank_absolute": 35,
+      "rank_group": 35,
+      "result_type": "items"
+    },
+    {
+      "title": "Estrategias y consejos para ganar dinero en l\u00ednea en 2025 ...",
+      "url": "https://laverdadnoticias.com/economia/estrategias-y-consejos-para-ganar-dinero-en-linea-en-2025-incluyendo-venta-de-productos-servicios-freelance-y-marketing-de-afiliados-20250508",
+      "snippet": "May 8, 2025 \u2014 El 8 de mayo se list\u00f3 un evento en Eventbrite titulado \u00abGenera dinero en Pre-Construcci\u00f3n\u00bb. Un art\u00edculo analiza los casinos en l\u00ednea para ganar\u00a0...",
+      "rank_absolute": 36,
+      "rank_group": 36,
+      "result_type": "items"
+    },
+    {
+      "title": "P\u00e1gina 3037 - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/__export/1547994730557/sites/laverdad/img/2019/0/page/3037",
+      "snippet": "sta rese\u00f1a analizar\u00e1 en profundidad la historia de los casinos virtuales, aquellos avances tecnol\u00f3gicos que han hecho posible su auge y el impacto que ha tenido\u00a0...",
+      "rank_absolute": 37,
+      "rank_group": 37,
+      "result_type": "items"
+    },
+    {
+      "title": "Rosa Icela y casinos: regulaci\u00f3n in\u00e9dita; Sheinbaum busca ...",
+      "url": "https://laverdadnoticias.com/politica/rosa-icela-y-casinos-regulacion-inedita-sheinbaum-busca-liderar-la-oea-20241220",
+      "snippet": "Dec 20, 2024 \u2014 Rosa Icela y casinos: regulaci\u00f3n in\u00e9dita; Sheinbaum busca liderar la OEA ... Reuni\u00f3n hist\u00f3rica con la industria de casinos; Sheinbaum promueve\u00a0...",
+      "rank_absolute": 38,
+      "rank_group": 38,
+      "result_type": "items"
+    },
+    {
+      "title": "Tech | La Verdad Noticias | P\u00e1gina 71",
+      "url": "https://laverdadnoticias.com/seccion/tecnologia/page/71",
+      "snippet": "Casinos virtuales en M\u00e9xico: La evoluci\u00f3n del juego en l\u00ednea. sta rese\u00f1a analizar\u00e1 en profundidad la historia de los casinos virtuales, aquellos avances\u00a0...",
+      "rank_absolute": 39,
+      "rank_group": 39,
+      "result_type": "items"
+    },
+    {
+      "title": "Juegos m\u00f3viles dominan la industria: c\u00f3mo el celular super\u00f3 ...",
+      "url": "https://laverdadnoticias.com/hack-y-gadgets/juegos-moviles-dominan-la-industria-como-el-celular-supero-a-la-consola-20250429",
+      "snippet": "Apr 29, 2025 \u2014 Puzzles y l\u00f3gica; Simuladores de vida; Shooters multijugador; Carreras y deportes; Juegos de casino y apuestas. T\u00edtulos que marcaron el camino.",
+      "rank_absolute": 40,
+      "rank_group": 40,
+      "result_type": "items"
+    },
+    {
+      "title": "Costa Cruceros: todo lo que necesitas saber para tu pr\u00f3ximo ...",
+      "url": "https://laverdadnoticias.com/turismo/costa-cruceros-todo-lo-que-necesitas-saber-para-tu-proximo-viaje-con-la-compania-20250123",
+      "snippet": "Jan 23, 2025 \u2014 Viajar en crucero es una de las experiencias m\u00e1s emocionantes y relajantes que puedes disfrutar durante unas vacaciones.",
+      "rank_absolute": 41,
+      "rank_group": 41,
+      "result_type": "items"
+    },
+    {
+      "title": "7.169 - P\u00e1gina no encontrada - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/__export/1588777813750/sites/laverdad/img/2020/0/page/7169",
+      "snippet": "Per\u00fa es uno de los pa\u00edses de Am\u00e9rica Latina con mayor actividad en la industria de casinos en l\u00ednea y apuestas deportivas, junto con...",
+      "rank_absolute": 42,
+      "rank_group": 42,
+      "result_type": "items"
+    },
+    {
+      "title": "El futuro de la rob\u00f3tica: \u00bfQu\u00e9 tan cerca estamos de crear el ...",
+      "url": "https://laverdadnoticias.com/tecnologia/el-futuro-de-la-robotica-que-tan-cerca-estamos-de-crear-el-robot-multifuncional-perfecto-20250324",
+      "snippet": "Mar 24, 2025 \u2014 Junto con el equipo de https://jugabet.cl/es/casino/lobby resolveremos esto. Boston Dynamics es l\u00edder mundial en rob\u00f3tica y desarrolla\u00a0...",
+      "rank_absolute": 43,
+      "rank_group": 43,
+      "result_type": "items"
+    },
+    {
+      "title": "Caracter\u00edsticas del juego Swamp Land en 1Win",
+      "url": "https://laverdadnoticias.com/espectaculos/entretenimiento/caracteristicas-del-juego-swamp-land-en-1win-20250127",
+      "snippet": "Jan 27, 2025 \u2014 Este t\u00edtulo ha alcanzado una gran popularidad entre los clientes de juego de casino. El juego se encuentra disponible en la 1Win casino ...",
+      "rank_absolute": 44,
+      "rank_group": 44,
+      "result_type": "items"
+    },
+    {
+      "title": "P\u00e1gina 267 - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/__export/1547994730557/sites/laverdad/img/2019/0/page/267",
+      "snippet": "El esperado fighting game de League of Legends llega en acceso anticipado ... DEBES LEER. Casinos virtuales en M\u00e9xico: La evoluci\u00f3n del juego en l\u00ednea.",
+      "rank_absolute": 45,
+      "rank_group": 45,
+      "result_type": "items"
+    },
+    {
+      "title": "Trucos claves para configurar al maximo el m\u00f3vil a la hora de ...",
+      "url": "https://laverdadnoticias.com/tecnologia/trucos-claves-para-configurar-al-maximo-el-movil-a-la-hora-de-jugar-en-casinos-online-inmersivos-20240827",
+      "snippet": "Aug 27, 2024 \u2014 A medida que los juegos m\u00f3viles siguen dominando la industria de los casinos en l\u00ednea, es fundamental asegurarse de que el dispositivo m\u00f3vil\u00a0...",
+      "rank_absolute": 46,
+      "rank_group": 46,
+      "result_type": "items"
+    },
+    {
+      "title": "Fichaje Mbapp\u00e9: \u00bfGenialidad de Florentino o bomba de ...",
+      "url": "https://laverdadnoticias.com/sport-judge/fichaje-mbappe-genialidad-de-florentino-o-bomba-de-tiempo-20250617",
+      "snippet": "Jun 17, 2025 \u2014 El ex-futbolista William Gallas, en un an\u00e1lisis para Genting Casino, ya advirti\u00f3 sobre la posible fricci\u00f3n: \u00abNo s\u00e9 qu\u00e9 va a pasar cuando\u00a0...",
+      "rank_absolute": 47,
+      "rank_group": 47,
+      "result_type": "items"
+    },
+    {
+      "title": "Lifestyle | La Verdad Noticias | P\u00e1gina 172",
+      "url": "https://laverdadnoticias.com/category/estilo-de-vida/page/172",
+      "snippet": "Cuando uno entra en un casino, el ambiente es electrizante: luces brillantes, sonidos hipn\u00f3ticos y una mezcla de emoci\u00f3n y misterio flotando en el.",
+      "rank_absolute": 48,
+      "rank_group": 48,
+      "result_type": "items"
+    },
+    {
+      "title": "Descubre toda la oferta de juegos de 1xSlots Argentina en ...",
+      "url": "https://laverdadnoticias.com/economia/descubre-toda-la-oferta-de-juegos-de-1xslots-argentina-en-nuestra-resena-20241029",
+      "snippet": "Oct 29, 2024 \u2014 ... casino que se est\u00e1 haciendo un nombre en Argentina. Son muchos los usuarios que quieren empezar a jugar en este lugar gracias a toda su\u00a0...",
+      "rank_absolute": 49,
+      "rank_group": 49,
+      "result_type": "items"
+    },
+    {
+      "title": "7.071 - P\u00e1gina no encontrada - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/__export/1547994730557/sites/laverdad/img/2019/0/page/7071",
+      "snippet": "Per\u00fa es uno de los pa\u00edses de Am\u00e9rica Latina con mayor actividad en la industria de casinos en l\u00ednea y apuestas deportivas, junto con...",
+      "rank_absolute": 50,
+      "rank_group": 50,
+      "result_type": "items"
+    },
+    {
+      "title": "P\u00e1gina 1822 - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/__export/1547994730557/sites/laverdad/img/2019/0/page/1822",
+      "snippet": "Publican reestructura interna de la SEP con nuevas unidades administrativas \u00b7 Profepa clausura 26 aserraderos ilegales en operativo nacional \u00b7 Casinos virtuales\u00a0...",
+      "rank_absolute": 51,
+      "rank_group": 51,
+      "result_type": "items"
+    },
+    {
+      "title": "Belinda recibe un regalo \u00fanico de Tim Burton en su expo en ...",
+      "url": "https://laverdadnoticias.com/mas-chisme/belinda-recibe-un-regalo-unico-de-tim-burton-en-su-expo-en-cdmx-20250628",
+      "snippet": "Jun 28, 2025 \u2014 La raz\u00f3n: la esperada inauguraci\u00f3n de El Laberinto de Tim Burton, una exposici\u00f3n inmersiva que transform\u00f3 el Casino del Bosque en un universo\u00a0...",
+      "rank_absolute": 52,
+      "rank_group": 52,
+      "result_type": "items"
+    },
+    {
+      "title": "'Batman Inicia': a 20 a\u00f1os, \u00bfobra maestra o inicio de un ...",
+      "url": "https://laverdadnoticias.com/mas-chisme/batman-begins-a-los-20-anos-sigue-siendo-la-mejor-pelicula-de-superheroes-o-un-legado-problematico-la-verdad-noticias-20250628",
+      "snippet": "Jun 28, 2025 \u2014 ... Casino Royale\u00bb (2006) y \u00abMan of Steel\u00bb (2013). * La seriedad como sin\u00f3nimo de calidad: La pel\u00edcula populariz\u00f3 la idea de que para que una\u00a0...",
+      "rank_absolute": 53,
+      "rank_group": 53,
+      "result_type": "items"
+    },
+    {
+      "title": "\u00a1IMPACTANTE! Semaglutida (Ozempic/Wegovy) Protege tu ...",
+      "url": "https://laverdadnoticias.com/salud/impactante-semaglutida-ozempic-wegovy-protege-tu-corazon-incluso-antes-de-bajar-de-peso-confirma-estudio-clave-20250515",
+      "snippet": "May 15, 2025 \u2014 Detienen a Keyran Jones por tiroteo en casino de Eagle Pass. La polic\u00eda captur\u00f3 a\u00a0...",
+      "rank_absolute": 54,
+      "rank_group": 54,
+      "result_type": "items"
+    },
+    {
+      "title": "Tech | La Verdad Noticias | P\u00e1gina 130",
+      "url": "https://laverdadnoticias.com/seccion/tecnologia/page/130",
+      "snippet": "Casinos virtuales en M\u00e9xico: La evoluci\u00f3n del juego en l\u00ednea. sta rese\u00f1a analizar\u00e1 en profundidad la historia de los casinos virtuales, aquellos avances\u00a0...",
+      "rank_absolute": 55,
+      "rank_group": 55,
+      "result_type": "items"
+    },
+    {
+      "title": "Un paso a paso: \u00bfQu\u00e9 hacer en caso de tener un problema ...",
+      "url": "https://laverdadnoticias.com/tecnologia/un-paso-a-paso-que-hacer-en-caso-de-tener-un-problema-con-un-operador-de-juegos-de-azar-online-20240826",
+      "snippet": "Aug 26, 2024 \u2014 El objetivo de la industria del juego, y m\u00e1s todav\u00eda la de los casinos en l\u00ednea, tiene como objetivo primordial entretener.",
+      "rank_absolute": 56,
+      "rank_group": 56,
+      "result_type": "items"
+    },
+    {
+      "title": "6.892 - P\u00e1gina no encontrada - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/__export/1547994730557/sites/laverdad/img/2019/0/page/6892",
+      "snippet": "En M\u00e9xico, el auge de los casinos en l\u00ednea no muestra signos de desaceleraci\u00f3n. Esto ha dado lugar a la proliferaci\u00f3n de casinos online... El pr\u00f3ximo Grand\u00a0...",
+      "rank_absolute": 57,
+      "rank_group": 57,
+      "result_type": "items"
+    },
+    {
+      "title": "Julio Menchaca: Entre la revocaci\u00f3n de mandato y los ...",
+      "url": "https://laverdadnoticias.com/politica/julio-menchaca-entre-la-revocacion-de-mandato-y-los-senalamientos-de-corrupcion-20250113",
+      "snippet": "Jan 13, 2025 \u2014 La clausura del casino Winpot: Aunque en un principio la medida parec\u00eda un acto leg\u00edtimo contra posibles irregularidades, el hecho de que esta\u00a0...",
+      "rank_absolute": 58,
+      "rank_group": 58,
+      "result_type": "items"
+    },
+    {
+      "title": "P\u00e1gina 2429 - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/__export/1547994730557/sites/laverdad/img/2019/0/page/2429",
+      "snippet": "Publican reestructura interna de la SEP con nuevas unidades administrativas \u00b7 Profepa clausura 26 aserraderos ilegales en operativo nacional \u00b7 Casinos virtuales\u00a0...",
+      "rank_absolute": 59,
+      "rank_group": 59,
+      "result_type": "items"
+    },
+    {
+      "title": "C\u00f3mo colabora el iGaming con los \u00e1mbitos del ...",
+      "url": "https://laverdadnoticias.com/tecnologia/como-colabora-el-igaming-con-los-ambitos-del-entretenimiento-y-los-deportes-20250710",
+      "snippet": "Jul 10, 2025 \u2014 Desde los primeros casinos online hasta las actuales plataformas de ... Por ejemplo, muchos juegos de casino online hoy en d\u00eda est\u00e1n\u00a0...",
+      "rank_absolute": 60,
+      "rank_group": 60,
+      "result_type": "items"
+    },
+    {
+      "title": "Georgina Balam | La Verdad Noticias | P\u00e1gina 142",
+      "url": "https://laverdadnoticias.com/author/geobalam12/page/142",
+      "snippet": "Jul 22, 2025 \u2014 \u201cEl Negro\u201d fue rescatado tras d\u00edas esperando afuera de un casino clandestino donde muri\u00f3 su due\u00f1o en un ataque armado en Culiac\u00e1n, Sinaloa.",
+      "rank_absolute": 62,
+      "rank_group": 62,
+      "result_type": "items"
+    },
+    {
+      "title": "Tim Burton en M\u00e9xico: Su laberinto y su amor por el pa\u00eds",
+      "url": "https://laverdadnoticias.com/cultura/tim-burton-en-mexico-su-laberinto-y-su-amor-por-el-pais-20250630",
+      "snippet": "Jun 30, 2025 \u2014 La exposici\u00f3n, que abre sus puertas oficialmente el 26 de junio en el Casino del Bosque, en la Primera Secci\u00f3n del Bosque de Chapultepec, no es\u00a0...",
+      "rank_absolute": 63,
+      "rank_group": 63,
+      "result_type": "items"
+    },
+    {
+      "title": "P\u00e1gina no encontrada - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/__export/1547994730557/sites/laverdad/img/2019/0/page/406",
+      "snippet": "De Xbox al casino virtual: la fusi\u00f3n del entretenimiento digital \u00b7 Keylor Navas llega a Pumas: el arquero hist\u00f3rico busca otro t\u00edtulo \u00b7 Lupita TikTok reaparece\u00a0...",
+      "rank_absolute": 64,
+      "rank_group": 64,
+      "result_type": "items"
+    },
+    {
+      "title": "Internacional | La Verdad Noticias | P\u00e1gina 539",
+      "url": "https://laverdadnoticias.com/category/internacional/page/539",
+      "snippet": "1Win Casino es una plataforma que ha ido gan\u00e1ndose el coraz\u00f3n de muchos pa\u00edses. En este sentido, Argentina no qued\u00f3 indemne. Este sitio, que ofrece\u00a0...",
+      "rank_absolute": 65,
+      "rank_group": 65,
+      "result_type": "items"
+    },
+    {
+      "title": "Blackjack: historia y or\u00edgenes de un juego milenario",
+      "url": "https://laverdadnoticias.com/economia/blackjack-historia-y-origenes-de-un-juego-milenario-20241102",
+      "snippet": "Nov 2, 2024 \u2014 El Blackjack es uno de los juegos de casinos m\u00e1s famosos del mundo y quiz\u00e1s tambi\u00e9n de la historia.",
+      "rank_absolute": 67,
+      "rank_group": 67,
+      "result_type": "items"
+    },
+    {
+      "title": "Costa Maya | La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/etiqueta/costa-maya",
+      "snippet": "Dec 31, 2024 \u2014 Tag: Costa Maya \u00b7 MSC incorpora experiencias digitales m\u00e1s all\u00e1 del casino cl\u00e1sico \u00b7 Quintana Roo alcanza 85% de ocupaci\u00f3n hotelera al cierre del\u00a0...",
+      "rank_absolute": 68,
+      "rank_group": 68,
+      "result_type": "items"
+    },
+    {
+      "title": "Venta de Impermeabilizante de Alta Calidad",
+      "url": "https://laverdadnoticias.com/mexico/venta-de-impermeabilizante-de-alta-calidad-20250227",
+      "snippet": "Feb 27, 2025 \u2014 Misterios del casino: an\u00e9cdotas y secretos que pocos conocen. Art\u00edculo siguiente. Ondas Antiguas en Marte: Un Lago Revela un Pasado H\u00famedo.",
+      "rank_absolute": 69,
+      "rank_group": 69,
+      "result_type": "items"
+    },
+    {
+      "title": "Econom\u00eda - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/seccion/economia/page/22",
+      "snippet": "Ocho proyectos compiten por 3 licencias de casino en NYC, prometiendo miles de millones. Conoce a los jugadores, sus planes y la feroz oposici\u00f3n local. T\u00a0...",
+      "rank_absolute": 71,
+      "rank_group": 71,
+      "result_type": "items"
+    },
+    {
+      "title": "La nueva inteligencia artificial de Meta que podr\u00eda cambiar la ...",
+      "url": "https://laverdadnoticias.com/tecnologia/la-nueva-inteligencia-artificial-de-meta-que-podria-cambiar-la-ciencia-tal-como-la-conocemos-20250530",
+      "snippet": "May 30, 2025 \u2014 ... casino online, donde es posible encontrar algoritmos que adaptan la experiencia a cada jugador, mejoran el realismo y hacen que todo sea\u00a0...",
+      "rank_absolute": 72,
+      "rank_group": 72,
+      "result_type": "items"
+    },
+    {
+      "title": "Jugar en casinos online favorece el desarrollo cognitivo",
+      "url": "https://laverdadnoticias.com/estilo-de-vida/jugar-en-casinos-online-favorece-el-desarrollo-cognitivo-20230410",
+      "snippet": "Apr 10, 2023 \u2014 Los avances tecnol\u00f3gicos impactan los diferentes sectores vinculados al mundo del entretenimiento, si bien el de los videojuegos es el que\u00a0...",
+      "rank_absolute": 73,
+      "rank_group": 73,
+      "result_type": "items"
+    },
+    {
+      "title": "M\u00e9xico | La Verdad Noticias | P\u00e1gina 286",
+      "url": "https://laverdadnoticias.com/seccion/mexico/page/286",
+      "snippet": "\u201cEl Negro\u201d fue rescatado tras d\u00edas esperando afuera de un casino clandestino donde muri\u00f3 su due\u00f1o en un ataque armado en Culiac\u00e1n, Sinaloa. Lluvias\u00a0...",
+      "rank_absolute": 74,
+      "rank_group": 74,
+      "result_type": "items"
+    },
+    {
+      "title": "6.933 - P\u00e1gina no encontrada - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/__export/1547994730557/sites/laverdad/img/2019/0/page/6933",
+      "snippet": "A medida que los juegos m\u00f3viles siguen dominando la industria de los casinos en l\u00ednea, es fundamental asegurarse de que el dispositivo m\u00f3vil est\u00e9.",
+      "rank_absolute": 75,
+      "rank_group": 75,
+      "result_type": "items"
+    },
+    {
+      "title": "6.886 - P\u00e1gina no encontrada - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/__export/1588777813750/sites/laverdad/img/2020/0/page/6886",
+      "snippet": "Lee la m\u00e1s completa Rese\u00f1a de 1Win Casino Chile 2024 + Reama t bono de bienvenida 500% ahora + Juega en modo Demo haciendo...",
+      "rank_absolute": 76,
+      "rank_group": 76,
+      "result_type": "items"
+    },
+    {
+      "title": "Tiroteo en sede de la NFL en Nueva York deja cinco muertos",
+      "url": "https://laverdadnoticias.com/usa/tiroteo-en-sede-de-la-nfl-en-nueva-york-deja-cinco-muertos-identifican-a-tirador-20250729",
+      "snippet": "Jul 29, 2025 \u2014 ... Vegas, se suicid\u00f3 luego de ejecutar el ataque. ... En los \u00faltimos a\u00f1os, trabaj\u00f3 como guardia de seguridad en un casino y enfrentaba problemas de\u00a0...",
+      "rank_absolute": 77,
+      "rank_group": 77,
+      "result_type": "items"
+    },
+    {
+      "title": "7.033 - P\u00e1gina no encontrada - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/__export/1547994730557/sites/laverdad/img/2019/0/page/7033",
+      "snippet": "En M\u00e9xico, el auge de los casinos en l\u00ednea no muestra signos de desaceleraci\u00f3n. Esto ha dado lugar a la proliferaci\u00f3n de casinos online... El pr\u00f3ximo Grand\u00a0...",
+      "rank_absolute": 78,
+      "rank_group": 78,
+      "result_type": "items"
+    },
+    {
+      "title": "Explorando 1Win Argentina: Bonos y Experiencia de Usuario",
+      "url": "https://laverdadnoticias.com/internacional/explorando-1win-argentina-bonos-y-experiencia-de-usuario-20240929",
+      "snippet": "Sep 29, 2024 \u2014 El mundo de los casinos online es uno muy \u00fanico. Por ejemplo, 1Win emergi\u00f3 como una opci\u00f3n \u00fanica del mercado argentino en solo meses.",
+      "rank_absolute": 79,
+      "rank_group": 79,
+      "result_type": "items"
+    },
+    {
+      "title": "La Ley Fintech y Su Impacto en la Innovaci\u00f3n Financiera en ...",
+      "url": "https://laverdadnoticias.com/tecnologia/la-ley-fintech-y-su-impacto-en-la-innovacion-financiera-en-mexico-20250520",
+      "snippet": "May 20, 2025 \u2014 ... casinos en l\u00ednea con retiros r\u00e1pidos. Esta ley ha generado un ecosistema de confianza que protege al usuario, regula a los actores del\u00a0...",
+      "rank_absolute": 80,
+      "rank_group": 80,
+      "result_type": "items"
+    },
+    {
+      "title": "Copriseh Hidalgo clausura | La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/etiqueta/copriseh-hidalgo-clausura",
+      "snippet": "Jan 11, 2025 \u2014 Tag: Copriseh Hidalgo clausura. Clausura del casino Winpot en Pachuca: \u00bfTransparencia o intereses ocultos?",
+      "rank_absolute": 84,
+      "rank_group": 84,
+      "result_type": "items"
+    },
+    {
+      "title": "Tech - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/category/tecnologia/page/181",
+      "snippet": "El objetivo de la industria del juego, y m\u00e1s todav\u00eda la de los casinos en l\u00ednea, tiene como objetivo primordial entretener. Por m\u00e1s que la...",
+      "rank_absolute": 85,
+      "rank_group": 85,
+      "result_type": "items"
+    },
+    {
+      "title": "Moneda de plata celebra 100 a\u00f1os del Banco de M\u00e9xico y su ...",
+      "url": "https://laverdadnoticias.com/economia/moneda-de-plata-celebra-100-anos-del-banco-de-mexico-y-su-historia-20250825",
+      "snippet": "Aug 25, 2025 \u2014 14 a\u00f1os del ataque al Casino Royale: justicia pendiente en Monterrey \u00b7 Giovanna Cancino. Giovanna Cancino es una experimentada\u00a0...",
+      "rank_absolute": 87,
+      "rank_group": 87,
+      "result_type": "items"
+    },
+    {
+      "title": "Hachiko de Culiac\u00e1n: perro espera a su due\u00f1o asesinado \u201cno ...",
+      "url": "https://laverdadnoticias.com/mexico/hachiko-de-culiacan-perro-espera-a-su-dueno-asesinado-no-se-mueve-de-ahi-20250722",
+      "snippet": "Jul 22, 2025 \u2014 El Negro\u201d fue rescatado tras d\u00edas esperando afuera de un casino clandestino donde muri\u00f3 su due\u00f1o en un ataque armado en Culiac\u00e1n, Sinaloa.",
+      "rank_absolute": 88,
+      "rank_group": 88,
+      "result_type": "items"
+    },
+    {
+      "title": "Consejos y tendencias de apuestas para el Super Bowl LIX",
+      "url": "https://laverdadnoticias.com/sport-judge/consejos-y-tendencias-de-apuestas-para-el-super-bowl-lix-20250131",
+      "snippet": "Jan 31, 2025 \u2014 ... casino y opciones de apuestas, posicion\u00e1ndose como un destino l\u00edder para entusiastas del casino y apostadores deportivos. Tendencias\u00a0...",
+      "rank_absolute": 89,
+      "rank_group": 89,
+      "result_type": "items"
+    },
+    {
+      "title": "Hamilton sufre accidente: as\u00ed qued\u00f3 el Ferrari previo al GP ...",
+      "url": "https://laverdadnoticias.com/sport-judge/hamilton-sufre-accidente-asi-quedo-el-ferrari-previo-al-gp-monaco-20250524",
+      "snippet": "May 24, 2025 \u2014 Lewis Hamilton vivi\u00f3 un momento tenso este s\u00e1bado en el Gran Premio de M\u00f3naco, tras sufrir un accidente en la curva de Casino Square, apenas a\u00a0...",
+      "rank_absolute": 90,
+      "rank_group": 90,
+      "result_type": "items"
+    },
+    {
+      "title": "Quintana Roo | La Verdad Noticias | P\u00e1gina 12",
+      "url": "https://laverdadnoticias.com/seccion/quintana-roo/page/12",
+      "snippet": "DEBES LEER. Detienen a Keyran Jones por tiroteo en casino de Eagle Pass \u00b7 Giovanna Cancino - 29 de septiembre de 2025. Claudia Sheinbaum: un a\u00f1o de gobierno\u00a0...",
+      "rank_absolute": 91,
+      "rank_group": 91,
+      "result_type": "items"
+    },
+    {
+      "title": "6.932 - P\u00e1gina no encontrada - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/__export/1588777813750/sites/laverdad/img/2020/0/page/6932",
+      "snippet": "Lee la m\u00e1s completa Rese\u00f1a de 1Win Casino Chile 2024 + Reama t bono de bienvenida 500% ahora + Juega en modo Demo haciendo...",
+      "rank_absolute": 92,
+      "rank_group": 92,
+      "result_type": "items"
+    },
+    {
+      "title": "Violencia en Monterrey - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/etiqueta/violencia-en-monterrey",
+      "snippet": "Tag: Violencia en Monterrey. 14 a\u00f1os del ataque al Casino Royale: justicia pendiente en Monterrey \u00b7 M\u00e9xico \u00b7 14 a\u00f1os del ataque al Casino Royale: justicia\u00a0...",
+      "rank_absolute": 93,
+      "rank_group": 93,
+      "result_type": "items"
+    },
+    {
+      "title": "20 a\u00f1os de Batman Begins: El film que lo cambi\u00f3 todo",
+      "url": "https://laverdadnoticias.com/mas-chisme/20-anos-de-batman-begins-el-film-que-lo-cambio-todo-20250625",
+      "snippet": "Jun 25, 2025 \u2014 Ejemplos claros de esta influencia se pueden ver en el reinicio de James Bond con 'Casino Royale' (2006) y, m\u00e1s directamente, en el enfoque\u00a0...",
+      "rank_absolute": 94,
+      "rank_group": 94,
+      "result_type": "items"
+    },
+    {
+      "title": "Horror en el lujo: Asesinan a un joven en el coraz\u00f3n de Londres",
+      "url": "https://laverdadnoticias.com/europa/horror-en-el-lujo-asesinan-a-un-joven-en-el-corazon-de-londres-20250710",
+      "snippet": "Jul 10, 2025 \u2014 El incidente ocurri\u00f3 poco antes de las 21:30 horas en Seville Street, una calle adyacente al lujoso Park Tower Hotel and Casino y a escasos\u00a0...",
+      "rank_absolute": 95,
+      "rank_group": 95,
+      "result_type": "items"
+    },
+    {
+      "title": "Gana dinero online en 2025: formas reales y comprobadas ...",
+      "url": "https://laverdadnoticias.com/economia/gana-dinero-online-en-2025-formas-reales-y-comprobadas-alerta-con-falsas-promesas-20250501",
+      "snippet": "May 1, 2025 \u2014 Conoce la forma de ganar dinero con casinos en l\u00ednea. Los casinos online son una experiencia animosa para muchos jugadores de Internet, ya\u00a0...",
+      "rank_absolute": 96,
+      "rank_group": 96,
+      "result_type": "items"
+    },
+    {
+      "title": "Boleto de la suerte: \u00bflos jugadores creen en los presagios?",
+      "url": "https://laverdadnoticias.com/estilo-de-vida/boleto-de-la-suerte-los-jugadores-creen-en-los-presagios-20241121",
+      "snippet": "Nov 21, 2024 \u2014 Los resultados de los juegos de casino dependen del azar. Ya ... Misterios del casino: an\u00e9cdotas y secretos que pocos conocen. Cuando\u00a0...",
+      "rank_absolute": 97,
+      "rank_group": 97,
+      "result_type": "items"
+    },
+    {
+      "title": "Te traemos noticias sin censura, solo hechos verificados ...",
+      "url": "https://laverdadnoticias.com/page/1649?ref=logo",
+      "snippet": "Detienen a Keyran Jones por tiroteo en casino de Eagle Pass \u00b7 Giovanna Cancino -. La polic\u00eda captur\u00f3 a Keyran Jones, acusado de asesinato tras tiroteo en el\u00a0...",
+      "rank_absolute": 98,
+      "rank_group": 98,
+      "result_type": "items"
+    },
+    {
+      "title": "Seguridad y Justicia | La Verdad Noticias | P\u00e1gina 132",
+      "url": "https://laverdadnoticias.com/seccion/seguridad-y-justicia/page/132",
+      "snippet": "Detienen a Keyran Jones por tiroteo en casino de Eagle Pass. La polic\u00eda captur\u00f3 a Keyran Jones, acusado de asesinato tras tiroteo en el casino Kickapoo\u00a0...",
+      "rank_absolute": 99,
+      "rank_group": 99,
+      "result_type": "items"
+    },
+    {
+      "title": "La Verdad Noticias | P\u00e1gina 1706 - La Verdad Noticias",
+      "url": "https://laverdadnoticias.com/page/1706?fbclid=IwAR0QaWBWLQmQR39Fgh00dMXtF9V8leD5UtA_Y0xhz1r6S-kQxjpHj2gNBtw",
+      "snippet": "Detienen a Keyran Jones por tiroteo en casino de Eagle Pass \u00b7 Giovanna Cancino -. La polic\u00eda captur\u00f3 a Keyran Jones, acusado de asesinato tras tiroteo en el\u00a0...",
+      "rank_absolute": 100,
+      "rank_group": 100,
+      "result_type": "items"
+    }
+  ]
+}

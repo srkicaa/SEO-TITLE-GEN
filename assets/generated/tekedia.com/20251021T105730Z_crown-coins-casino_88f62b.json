@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:57:30Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "tekedia.com",
+    "anchor_keyword": "crown coins casino",
+    "anchor_country": "",
+    "target_url": "https://www.gamingtoday.com/sweepstakes/sites-like/crown-coins-casino/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Sweepstakes Casinos Explained: How the No\u2011purchase\u2011necessary Model Navigates Global Regulations",
+      "rationale": "Introduces the sweepstakes framework and compliance angle Tekedia readers expect; links naturally to a resource comparing sites like Crown Coins Casino for readers seeking practical examples."
+    },
+    {
+      "title": "From Coins to Cashouts: Understanding Dual\u2011currency Economies in Social Casino Platforms",
+      "rationale": "Breaks down virtual vs. redeemable currency mechanics; the link provides real-world platforms similar to Crown Coins Casino that illustrate these economies in action."
+    },
+    {
+      "title": "Evaluating Safer Play Options: a Practical Checklist for Free\u2011to\u2011play Casino Alternatives",
+      "rationale": "Consumer\u2011friendly due\u2011diligence guide aligned with Tekedia\u2019s responsible tech ethos; the link offers a vetted list of options comparable to Crown Coins Casino for readers to explore."
+    },
+    {
+      "title": "Online Casino Formats Compared: Real\u2011money, Social, and Sweepstakes for the Curious Player",
+      "rationale": "Neutral comparison piece suited to Tekedia\u2019s explainer style; the link supplies examples of sweepstakes platforms akin to Crown Coins Casino to help readers dive deeper."
+    },
+    {
+      "title": "Design, Data, and Retention: Gamification Lessons from Casino\u2011style Apps Without Predatory Traps",
+      "rationale": "Product/UX angle for Tekedia\u2019s innovation audience; the link illustrates non\u2011real\u2011money sweepstakes examples, including sites like Crown Coins Casino, for case\u2011study context."
+    }
+  ],
+  "titles_context": [
+    "Tribuna.com Recommends: Safe Casino Sites for 2025",
+    "Safe Gaming Guide: Spotting Legitimate Online Casinos in ...",
+    "Top Free-to-Play Sweepstakes Casinos in the US",
+    "Live Casinos vs. Traditional Online Casinos: Which Offers ...",
+    "The Skills you can develop while casino slot gaming",
+    "Gamdom Casino Review \u2013 Gamdom Gambling & Betting",
+    "The Reasons Why Real Money Slots Are So Popular",
+    "Live Casino Games with The Best Odds",
+    "Win big at your favorite casino games",
+    "CasinoLuck Is Back \u2013 And It's Better Than Ever! Here's ...",
+    "Online Poker vs. Traditional Casino Poker: Pros and Cons for ...",
+    "Casino Tourism vs Online Play: What Keeps People Logging ...",
+    "Beginner's Guide to Playing Casino Games Online - Tekedia",
+    "The Top Reasons to Play Demo Casino Games First - Tekedia",
+    "Fastest Online Casinos Available in the USA - Tekedia",
+    "How Gamification is Changing the World of Online Casino ...",
+    "New Sweepstakes Casino USA: Top Sites, Bonuses & How ...",
+    "Is Becoming an Online Casino VIP Actually Worth Your Money?",
+    "Crypto Casinos and the Pros and Cons - Tekedia",
+    "Unveiling the Enduring Appeal of Classic Casino Table Games",
+    "Best Ethereum Gambling Sites in 2023 - Tekedia",
+    "Playing In Online Casinos: A Beginners Guide - Tekedia",
+    "The Drake Curse Strikes Pragmatic Play: Time To Look For ...",
+    "What You Need to Know Before Playing at Online Casinos in ...",
+    "From Horsepower to High Stakes: What Motorsports & Online ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.gamingtoday.com/sweepstakes/sites-like/crown-coins-casino/ that feel at home on tekedia.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): crown coins casino\n\nAnchor operates in: Unspecified\n\nReference titles:\n- Tribuna.com Recommends: Safe Casino Sites for 2025\n- Safe Gaming Guide: Spotting Legitimate Online Casinos in ...\n- Top Free-to-Play Sweepstakes Casinos in the US\n- Live Casinos vs. Traditional Online Casinos: Which Offers ...\n- The Skills you can develop while casino slot gaming\n- Gamdom Casino Review \u2013 Gamdom Gambling & Betting\n- The Reasons Why Real Money Slots Are So Popular\n- Live Casino Games with The Best Odds\n- Win big at your favorite casino games\n- CasinoLuck Is Back \u2013 And It's Better Than Ever! Here's ...\n- Online Poker vs. Traditional Casino Poker: Pros and Cons for ...\n- Casino Tourism vs Online Play: What Keeps People Logging ...\n- Beginner's Guide to Playing Casino Games Online - Tekedia\n- The Top Reasons to Play Demo Casino Games First - Tekedia\n- Fastest Online Casinos Available in the USA - Tekedia\n- How Gamification is Changing the World of Online Casino ...\n- New Sweepstakes Casino USA: Top Sites, Bonuses & How ...\n- Is Becoming an Online Casino VIP Actually Worth Your Money?\n- Crypto Casinos and the Pros and Cons - Tekedia\n- Unveiling the Enduring Appeal of Classic Casino Table Games\n- Best Ethereum Gambling Sites in 2023 - Tekedia\n- Playing In Online Casinos: A Beginners Guide - Tekedia\n- The Drake Curse Strikes Pragmatic Play: Time To Look For ...\n- What You Need to Know Before Playing at Online Casinos in ...\n- From Horsepower to High Stakes: What Motorsports & Online ...\n\nGuidance:\n1. Combine your own knowledge of tekedia.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to tekedia.com while naturally justifying a link to https://www.gamingtoday.com/sweepstakes/sites-like/crown-coins-casino/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude crown coins casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1049,
+    "completion_tokens": 1006
+  },
+  "cost_usd": 0.08134
+}

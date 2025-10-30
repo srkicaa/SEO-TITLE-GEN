@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-29T12:36:45Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "vegas-aces.com",
+    "anchor_keyword": "Slotzy",
+    "anchor_country": "",
+    "target_url": "https://slotzy-casino.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How to Spot a High-Paying Casino in the United States: Key Metrics and Red Flags",
+      "rationale": "Educational, data-driven style matches vegas-aces.com. The article can reference payout rates and link the anchor text \u201cSlotzy\u201d to a comprehensive resource page at https://slotzy-casino.com/ for readers seeking site examples and deeper guidance."
+    },
+    {
+      "title": "Fast Payout Online Casinos in the United States 2025 \u2014 Instant Withdrawals Explained",
+      "rationale": "Focus on banking speed aligns with existing fast-payout and payments content. Use the anchor \u201cSlotzy\u201d naturally within a section comparing withdrawal methods, pointing to https://slotzy-casino.com/ for step-by-step cash-out tips."
+    },
+    {
+      "title": "Casino Terminology for United States Players: Jargon, Odds, and Table Talk",
+      "rationale": "Glossary-style content mirrors Vegas Aces\u2019 training resources. Insert the anchor \u201cSlotzy\u201d in a \u2018Further Reading\u2019 callout, linking to https://slotzy-casino.com/ for beginner-friendly explanations and examples."
+    },
+    {
+      "title": "Payment Methods at U.S. Online Casinos: Credit Cards, ACH, and Bank Transfers",
+      "rationale": "Payments-focused guidance fits the site\u2019s banking coverage. Place the anchor \u201cSlotzy\u201d when discussing practical deposit/withdrawal flows, linking to https://slotzy-casino.com/ for illustrations and banking FAQs."
+    },
+    {
+      "title": "Short vs Long Casino Games in the United States: Which Format Fits Your Bankroll?",
+      "rationale": "Strategy-first comparison echoes Vegas Aces\u2019 educational tone. Use the anchor \u201cSlotzy\u201d within a section on session planning, linking to https://slotzy-casino.com/ for game pace breakdowns and RTP variance insights."
+    }
+  ],
+  "titles_context": [
+    "Best Instant Bank Transfer Casino Sites in 2025",
+    "Wild Casino Review: The Unfiltered Truth Before You Play",
+    "Best Payout Casinos Online in 2025: Play Highest Paying ...",
+    "Casino Terminology, Gambling Terms, and Betting Terms",
+    "Louisiana Toke Reports & Casino Reviews - Vegas Aces",
+    "Which Online Casino Features are the Most Sought After by ...",
+    "Vegas Aces \u2014 Free Online Casino Dealer Trade School ...",
+    "How to Spot a High-Paying Casino: Key Metrics and Red Flags",
+    "10 Best Real Money Las Vegas Online Casinos in 2025",
+    "Casino Sites That Accept Credit Cards - Vegas Aces",
+    "The Hidden Mathematics That Powers Modern Casino Favorites",
+    "Washington Toke Board - Vegas Aces",
+    "Fast Payout Casinos Online 2025 \u2013 Instant Withdrawals",
+    "Top Reputable Sites for Online Casino Reviews",
+    "AMA: How to Invent a Casino Game (Setting up LLCs)",
+    "Understanding How Prizes Work in Sweepstakes Casinos",
+    "Casino & Card Game Articles - Vegas Aces",
+    "Best Sweepstakes Casinos 2025 - Vegas Aces",
+    "Short vs Long Casino Games: Which Type Suits Your ...",
+    "Casino Articles on the Topic: Las Vegas",
+    "Free Casino Dealer & Game Courses | Learn to Play & Deal",
+    "How to Find the Best Casino Offers - Vegas Aces",
+    "Casino Dealer Flashcards - Values, Jargon, and Math",
+    "Casino Articles on the Topic: Slots - Vegas Aces",
+    "Debunking 4 Casino Myths That Mislead Most Players - Vegas Aces"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://slotzy-casino.com/ that feel at home on vegas-aces.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Slotzy\n\nAnchor operates in: Unspecified. \n\nI need to have the country in the title.\n\nReference titles:\n- Best Instant Bank Transfer Casino Sites in 2025\n- Wild Casino Review: The Unfiltered Truth Before You Play\n- Best Payout Casinos Online in 2025: Play Highest Paying ...\n- Casino Terminology, Gambling Terms, and Betting Terms\n- Louisiana Toke Reports & Casino Reviews - Vegas Aces\n- Which Online Casino Features are the Most Sought After by ...\n- Vegas Aces \u2014 Free Online Casino Dealer Trade School ...\n- How to Spot a High-Paying Casino: Key Metrics and Red Flags\n- 10 Best Real Money Las Vegas Online Casinos in 2025\n- Casino Sites That Accept Credit Cards - Vegas Aces\n- The Hidden Mathematics That Powers Modern Casino Favorites\n- Washington Toke Board - Vegas Aces\n- Fast Payout Casinos Online 2025 \u2013 Instant Withdrawals\n- Top Reputable Sites for Online Casino Reviews\n- AMA: How to Invent a Casino Game (Setting up LLCs)\n- Understanding How Prizes Work in Sweepstakes Casinos\n- Casino & Card Game Articles - Vegas Aces\n- Best Sweepstakes Casinos 2025 - Vegas Aces\n- Short vs Long Casino Games: Which Type Suits Your ...\n- Casino Articles on the Topic: Las Vegas\n- Free Casino Dealer & Game Courses | Learn to Play & Deal\n- How to Find the Best Casino Offers - Vegas Aces\n- Casino Dealer Flashcards - Values, Jargon, and Math\n- Casino Articles on the Topic: Slots - Vegas Aces\n- Debunking 4 Casino Myths That Mislead Most Players - Vegas Aces\n\nGuidance:\n1. Combine your own knowledge of vegas-aces.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to vegas-aces.com while naturally justifying a link to https://slotzy-casino.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Slotzy and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1023,
+    "completion_tokens": 1003
+  },
+  "cost_usd": 0.08064
+}

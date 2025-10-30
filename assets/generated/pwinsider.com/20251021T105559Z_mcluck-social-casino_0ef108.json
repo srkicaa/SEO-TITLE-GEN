@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-21T10:55:59Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "pwinsider.com",
+    "anchor_keyword": "McLuck social casino",
+    "anchor_country": "",
+    "target_url": "https://www.bonus.com/sweepstakes-casinos/mcluck/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Ring-Ready Casino Games: Picks That Hit Like a Finisher",
+      "rationale": "A list-style piece tailored to wrestling fans, with a natural spot to link to a guide on how sweepstakes-style platforms function; the McLuck social casino explainer clarifies play mechanics, coins, and redemptions for curious readers."
+    },
+    {
+      "title": "Social Casino 101: How Sweepstakes-Style Play Works in the US",
+      "rationale": "Educational angle fits PWInsider\u2019s audience looking for quick primers; linking to the McLuck social casino page gives state-by-state eligibility notes, coin systems, and practical setup steps without promotional framing."
+    },
+    {
+      "title": "Travel Days and Tap-Play: Casino Gaming on the Go for Fans",
+      "rationale": "Mobile-friendly, lifestyle framing common on PWInsider; the link can anchor guidance on legally accessible sweepstakes social options, with the McLuck social casino resource outlining device support and how gameplay translates to prizes."
+    },
+    {
+      "title": "From Entrance Theme to Endgame: Bankroll-Smart Casino Habits",
+      "rationale": "A responsible-play piece with wrestling flair; the McLuck social casino overview helps illustrate low-stakes, sweepstakes-based play and explains limits, coin types, and redemption basics for safer experimentation."
+    },
+    {
+      "title": "Arena vs. App: Comparing in-Person and Online Casino Experiences",
+      "rationale": "Contrast article that suits entertainment readers; the McLuck social casino page offers a clear example of online sweepstakes mechanics, making it easy to compare atmosphere, accessibility, and risk profiles without naming operators in the title."
+    }
+  ],
+  "titles_context": [
+    "The Top 10 US Casinos That Offer More Than Just Gambling",
+    "The Do's and Don'ts of Online Casino Gambling",
+    "Top Online Casino Games Recommended for Beginners",
+    "Social Casino Games on Mobile: What's New in 2025",
+    "Discover Booming Games at Zoome Casino: High-Energy ...",
+    "Casino in Your Pocket: Play Anywhere, Anytime",
+    "Playing at Online Casinos in California",
+    "Online Casino or Offline Casino Experiences: Which One ...",
+    "Trusted US Casinos for Real Money and High Payouts",
+    "THE BEST ONLINE CASINO: WHAT A RELIABLE ...",
+    "VipStake: The Top 10 Online Casinos for High-Limit Games ...",
+    "Popular Game Providers and Mad Casino | PWInsider.com",
+    "How Live Casino Games Enrich the Online Gaming Experience",
+    "Casino Online CZ Review 2025 \u2013 Czech Casino Bonuses ...",
+    "1Bet Casino: Discover top games and bonuses | PWInsider.com",
+    "5 Wrestling-Themed Casino Games That Are Smashing ...",
+    "Hotslots Casino Myths and Misconceptions | PWInsider.com",
+    "HOW TO FIND THE BEST ONLINE CASINO IN THE US",
+    "CASINO GAMES FREE: PLAY WITHOUT SPENDING AT BAO ...",
+    "Slots.lv Casino: A Comprehensive Review | PWInsider.com",
+    "What's Your Favorite Live Casino Feature? | PWInsider.com",
+    "Casino Joker CZ Review \u2013 Bonuses, Games & Payments in ...",
+    "DreamPlay Casino Review \u2013 Is This the Ultimate Online ...",
+    "All the Different Levels of Online Gambling Explained",
+    "Building Scalable Solutions Through Casino API Integration ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://www.bonus.com/sweepstakes-casinos/mcluck/ that feel at home on pwinsider.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): McLuck social casino\n\nAnchor operates in: Unspecified\n\nReference titles:\n- The Top 10 US Casinos That Offer More Than Just Gambling\n- The Do's and Don'ts of Online Casino Gambling\n- Top Online Casino Games Recommended for Beginners\n- Social Casino Games on Mobile: What's New in 2025\n- Discover Booming Games at Zoome Casino: High-Energy ...\n- Casino in Your Pocket: Play Anywhere, Anytime\n- Playing at Online Casinos in California\n- Online Casino or Offline Casino Experiences: Which One ...\n- Trusted US Casinos for Real Money and High Payouts\n- THE BEST ONLINE CASINO: WHAT A RELIABLE ...\n- VipStake: The Top 10 Online Casinos for High-Limit Games ...\n- Popular Game Providers and Mad Casino | PWInsider.com\n- How Live Casino Games Enrich the Online Gaming Experience\n- Casino Online CZ Review 2025 \u2013 Czech Casino Bonuses ...\n- 1Bet Casino: Discover top games and bonuses | PWInsider.com\n- 5 Wrestling-Themed Casino Games That Are Smashing ...\n- Hotslots Casino Myths and Misconceptions | PWInsider.com\n- HOW TO FIND THE BEST ONLINE CASINO IN THE US\n- CASINO GAMES FREE: PLAY WITHOUT SPENDING AT BAO ...\n- Slots.lv Casino: A Comprehensive Review | PWInsider.com\n- What's Your Favorite Live Casino Feature? | PWInsider.com\n- Casino Joker CZ Review \u2013 Bonuses, Games & Payments in ...\n- DreamPlay Casino Review \u2013 Is This the Ultimate Online ...\n- All the Different Levels of Online Gambling Explained\n- Building Scalable Solutions Through Casino API Integration ...\n\nGuidance:\n1. Combine your own knowledge of pwinsider.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to pwinsider.com while naturally justifying a link to https://www.bonus.com/sweepstakes-casinos/mcluck/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude McLuck social casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1056,
+    "completion_tokens": 966
+  },
+  "cost_usd": 0.07908
+}

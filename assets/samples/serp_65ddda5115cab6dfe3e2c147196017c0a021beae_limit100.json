@@ -1,0 +1,480 @@
+{
+  "mode": "live",
+  "task_id": "10131459-4117-0121-0000-95703f625076",
+  "query": "site:turbogeek.org casino",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "The Most Popular Casino Games Online: Slots, Poker, and ...",
+      "url": "https://turbogeek.org/the-most-popular-casino-games-online-slots-poker-and-more/",
+      "snippet": "Online casino games offer something for everyone. From the spinning reels of slots to the strategic gameplay of poker, there's no shortage of excitement.",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Transform Your Luck with These 6 Online Casino Tips",
+      "url": "https://turbogeek.org/transform-your-luck-with-these-6-online-casino-tips/",
+      "snippet": "Transform Your Luck with These 6 Online Casino Tips \u00b7 Understand the Rules and Strategies \u00b7 Take Advantage of Bonuses and Promotions \u00b7 Set Limits & Stick To\u00a0...",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "Ultimate Casino Games of 2025",
+      "url": "https://turbogeek.org/ultimate-casino-games-of-2025/",
+      "snippet": "Slot games are still the most popular in online casinos. There are a lot of themes and features in slots\u2014they're endless. Book of Ra is still popular and works\u00a0...",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "7bit Casino Algorithms: Why TikTok Feels Like Gambling",
+      "url": "https://turbogeek.org/tiktok-and-casino-algorithms-two-sides-of-the-same-addiction/",
+      "snippet": "In modern casino apps, everything from video slots and blackjack tables to live roulette wheels is built for fast, repeatable betting loops that keep the user\u00a0...",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Online Casinos vs. Land-Based Casinos: Which is Better?",
+      "url": "https://turbogeek.org/online-casinos-vs-land-based-casinos-which-is-better/",
+      "snippet": "Online casinos always have a large selection of slots, gambling games, and even live dealers. You can find thousands of different slot machines in them.",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "Future Trends and Innovations in Social Casino",
+      "url": "https://turbogeek.org/future-trends-and-innovations-in-social-casino/",
+      "snippet": "Let's explore the future trends and innovations that will impact the growth of social and sweepstakes casinos.",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "The Ultimate Guide to the Best Live Casino Providers",
+      "url": "https://turbogeek.org/the-finest-live-dealer-casino-providers-rating-and-analysis/",
+      "snippet": "Explore the top-rated live casino providers in the iGaming scene with expert insights on the best games, high-quality streams, and immersive experiences.",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Highest Casino Game Developers in 2025: Who's Building ...",
+      "url": "https://turbogeek.org/highest-casino-game-developers-in-2025-whos-building-the-future-of-online-slots/",
+      "snippet": "Jul 18, 2025 \u2014 In 2025, the competition among casino software providers has never been fiercer \u2014 or more creative. Some studios are pushing boundaries with\u00a0...",
+      "rank_absolute": 8,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "Stake Cassino: What makes it different from its peers?",
+      "url": "https://turbogeek.org/stake-cassino-what-makes-it-different-from-its-peers/",
+      "snippet": "With Stake Casino you get access to more than 3,000 games, tiered loyalty programs, reload offers and deals, as well as seamless mobile browser compatibility so\u00a0...",
+      "rank_absolute": 9,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "Bringing the Real Casino Experience to You",
+      "url": "https://turbogeek.org/live-casino-online-bringing-the-real-casino-experience-to-you/",
+      "snippet": "Through high-definition live streaming, players can participate in games hosted by real dealers in real time, complete with intricate details and authentic\u00a0...",
+      "rank_absolute": 10,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "The Ultimate Guide to Online Casino Game Shows",
+      "url": "https://turbogeek.org/ultimate-guide-to-game-shows-in-online-casinos-your-finest-picks/",
+      "snippet": "What Are Online Casino Game Shows? \u00b7 Popular Options in Virtual Casinos. Dream Catcher; Deal or No Deal; Monopoly Live; Crazy Time \u00b7 Benefits of Playing Game\u00a0...",
+      "rank_absolute": 12,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "The Canadian Paypal Casino: Everything You Should Know ...",
+      "url": "https://turbogeek.org/the-canadian-paypal-casino-everything-you-should-know-about-these-online-platforms/",
+      "snippet": "One of these industries is that of casino gambling, but there are many who still wonder whether doing so is approved by the law. In Canada, not all\u00a0...",
+      "rank_absolute": 13,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "Casinonic: Your Ultimate Guide to Australia's Online Casino",
+      "url": "https://turbogeek.org/casinonic-a-comprehensive-guide-to-this-popular-online-casino/",
+      "snippet": "Explore why Casinonic is a favorite among Aussie players! From generous bonuses and secure gameplay to a massive variety of pokies, table games,\u00a0...",
+      "rank_absolute": 14,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "Tech Innovations in Online Gambling: From AI Dealers to ...",
+      "url": "https://turbogeek.org/tech-innovations-in-online-gambling-from-ai-dealers-to-vr-casinos/",
+      "snippet": "Revealed here on this page are several key technologies that are helping to shape the future of the online gambling industry.",
+      "rank_absolute": 15,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "Winning Strategies for Online Casino Success",
+      "url": "https://turbogeek.org/crack-the-code-winning-strategies-for-online-casino-success/",
+      "snippet": "... casino operation, and are able to control their emotions. If you think that slot machines and table games are just random, think about this: the most\u00a0...",
+      "rank_absolute": 16,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "Where Sports Betting and Casino Games Meet",
+      "url": "https://turbogeek.org/where-sports-betting-and-casino-games-meet-the-seamless-entertainment-hub-for-canadian-players/",
+      "snippet": "Meanwhile, the casino side dazzles with thousands of titles from globally recognized providers, spanning slots, live dealer games, and timeless table classics.",
+      "rank_absolute": 17,
+      "rank_group": 17,
+      "result_type": "items"
+    },
+    {
+      "title": "Why Bons Casino And Stake Casino Are Hot In The ...",
+      "url": "https://turbogeek.org/why-bons-casino-and-stake-casino-are-hot-in-the-japanese-online-gaming-market/",
+      "snippet": "Japan's online gaming market has witnessed a surge in popularity in recent years, with more players turning to digital platforms for entertainment.",
+      "rank_absolute": 18,
+      "rank_group": 18,
+      "result_type": "items"
+    },
+    {
+      "title": "Baocasino Games in Slovenia",
+      "url": "https://turbogeek.org/baocasino-games-in-slovenia/",
+      "snippet": "The platform features a wide array of gaming options, including slots, table games ... Slot Games at Bao Casino; App Features and Mobile Game Selection; Special\u00a0...",
+      "rank_absolute": 19,
+      "rank_group": 19,
+      "result_type": "items"
+    },
+    {
+      "title": "3win2u Online Casino: A Tech-Driven Platform for Modern ...",
+      "url": "https://turbogeek.org/3win2u-online-casino-a-tech-driven-platform-for-modern-gamers/",
+      "snippet": "Whether you're spinning the reels of your favorite slot game or testing your strategies in card games, 3win2u ensures you're always in control through its\u00a0...",
+      "rank_absolute": 20,
+      "rank_group": 20,
+      "result_type": "items"
+    },
+    {
+      "title": "Experience with Reliable for your Mobile Casino Apps",
+      "url": "https://turbogeek.org/experience-with-reliable-for-your-mobile-casino-apps/",
+      "snippet": "2. Casino-Name: Known for its user-friendly interface and seamless navigation, this app offers a wide range of payment options and quick payouts, making it\u00a0...",
+      "rank_absolute": 21,
+      "rank_group": 21,
+      "result_type": "items"
+    },
+    {
+      "title": "Fastest Casino Card Shufflers and Engineering Marvels",
+      "url": "https://turbogeek.org/fastest-casino-card-shufflers-and-engineering-marvels/",
+      "snippet": "When they're humming, downtime shrinks, dealers breathe easier, and the whole table feels, smoother. You could call the high-end ones casino-grade, though that\u00a0...",
+      "rank_absolute": 22,
+      "rank_group": 22,
+      "result_type": "items"
+    },
+    {
+      "title": "Is PlayCroco a Trustworthy Online Casino for Australia in ...",
+      "url": "https://turbogeek.org/is-playcroco-a-trustworthy-online-casino-for-australia-in-2025/",
+      "snippet": "In the midst of the excitement of the online casino arena, it is necessary to identify a platform that is fair and fun for Australian players. One such platform\u00a0...",
+      "rank_absolute": 23,
+      "rank_group": 23,
+      "result_type": "items"
+    },
+    {
+      "title": "FROM SOCIAL MEDIA TO SLOTS: HOW INFLUENCERS ...",
+      "url": "https://turbogeek.org/from-social-media-to-slots-how-influencers-drive-traffic-to-bitcoin-casinos/",
+      "snippet": "They Rely on Their Parasocial Relationships. How Do Influencers Get People to the Casinos? The concept of the Bitcoin casino pretty much sells\u00a0...",
+      "rank_absolute": 24,
+      "rank_group": 24,
+      "result_type": "items"
+    },
+    {
+      "title": "Betting Archives",
+      "url": "https://turbogeek.org/category/betting/",
+      "snippet": "Choosing the right platform for wagering in 2025 offers distinct advantages. Opt for services that provide a wide array of events and innovative slot machines.",
+      "rank_absolute": 25,
+      "rank_group": 25,
+      "result_type": "items"
+    },
+    {
+      "title": "In Focus: New Zealand's SkyCity Online Casino",
+      "url": "https://turbogeek.org/in-focus-new-zealands-skycity-online-casino/",
+      "snippet": "SkyCity online casino is one of the few strong players in the New Zealand online gambling market, having dominated the brick-and-mortar landscape before\u00a0...",
+      "rank_absolute": 26,
+      "rank_group": 26,
+      "result_type": "items"
+    },
+    {
+      "title": "Serbia's Best Online Entertainment Platforms",
+      "url": "https://turbogeek.org/the-ideal-online-entertainment-options-in-serbia-a-guide-to-games-platforms/",
+      "snippet": "Vavada Casino is one that is particularly noteworthy with its lineup of Vavada slot games along with other casino favorites. This platform is fast to implement,\u00a0...",
+      "rank_absolute": 27,
+      "rank_group": 27,
+      "result_type": "items"
+    },
+    {
+      "title": "Latest Updates Archives - Page 7 of 7",
+      "url": "https://turbogeek.org/category/latest-updates/page/7/",
+      "snippet": "This space is only viable for constantly evolving online casino operators with solid marketing strategies that truly resonate with gamblers. For instance\u00a0...",
+      "rank_absolute": 28,
+      "rank_group": 28,
+      "result_type": "items"
+    },
+    {
+      "title": "Don't Miss These 5 Amazing Betsoft Slots at King Billy",
+      "url": "https://turbogeek.org/don-t-miss-these-5-amazing-betsoft-slots-at-king-billy/",
+      "snippet": "As you explore this majestic online gambling kingdom, you'll find an impressive array of Betsoft's most captivating slot games. Known for their stunning 3D\u00a0...",
+      "rank_absolute": 29,
+      "rank_group": 29,
+      "result_type": "items"
+    },
+    {
+      "title": "New Online Casinos Australia",
+      "url": "https://turbogeek.org/new-online-casinos-australia/",
+      "snippet": "Can You Play Online Casinos in Australia? Understanding the Interactive Gambling Act (IGA); Legal Avenues for Online Gambling; The Risks of Offshore Casinos ...",
+      "rank_absolute": 30,
+      "rank_group": 30,
+      "result_type": "items"
+    },
+    {
+      "title": "Land Based Casinos in New Zealand",
+      "url": "https://turbogeek.org/land-based-casinos-in-new-zealand/",
+      "snippet": "Licensed Casinos Across New Zealand. Here's what makes the casino scene in NZ special \u2013 just six carefully selected venues, each with its own personality and\u00a0...",
+      "rank_absolute": 31,
+      "rank_group": 31,
+      "result_type": "items"
+    },
+    {
+      "title": "How to Choose the Right Roulette Table for You",
+      "url": "https://turbogeek.org/how-to-choose-the-right-roulette-table-for-you/",
+      "snippet": "... casinos, and you can play free American roulette demos at almost any reputable casino site. It uses a roulette wheel with 38 pockets in total, out of which\u00a0...",
+      "rank_absolute": 32,
+      "rank_group": 32,
+      "result_type": "items"
+    },
+    {
+      "title": "Texas Sports Betting Apps: The Best And Legal Picks in 2025",
+      "url": "https://turbogeek.org/betting-apps-in-texas/",
+      "snippet": "We'll give you an overview of the top-rated casino and sports betting applications in Texas, including their bonuses, key features, and payout options. Table of\u00a0...",
+      "rank_absolute": 33,
+      "rank_group": 33,
+      "result_type": "items"
+    },
+    {
+      "title": "General News Archives",
+      "url": "https://turbogeek.org/category/general-news/",
+      "snippet": "The world of gambling is undergoing a seismic shift as blockchain technology paves the way for innovative platforms like dice crypto casinos. These digital\u00a0...",
+      "rank_absolute": 34,
+      "rank_group": 34,
+      "result_type": "items"
+    },
+    {
+      "title": "Why Slots Dominate the Canadian Experience on 1win",
+      "url": "https://turbogeek.org/spinning-into-excitement-why-slots-dominate-the-canadian-experience-on-1win/",
+      "snippet": "Chasing Wins in the North: Why Megaways slots reign supreme among Canadian players on 1win. Not all slot games are created equal, especially when it comes to\u00a0...",
+      "rank_absolute": 35,
+      "rank_group": 35,
+      "result_type": "items"
+    },
+    {
+      "title": "General Archives",
+      "url": "https://turbogeek.org/category/general/",
+      "snippet": "If you enjoy online casino gaming, you might just be suffering from success. The online casino industry is one of the most saturated online marketplaces in\u00a0...",
+      "rank_absolute": 36,
+      "rank_group": 36,
+      "result_type": "items"
+    },
+    {
+      "title": "1xBet India App Analysis\u2013 Features and Benefits Explained",
+      "url": "https://turbogeek.org/discover-the-convenience-of-the-1xbet-mobile-application/",
+      "snippet": "Designed for ease of use, it allows users to quickly access their favorite betting options, sports, and casino games from anywhere, ensuring a seamless\u00a0...",
+      "rank_absolute": 37,
+      "rank_group": 37,
+      "result_type": "items"
+    },
+    {
+      "title": "A Detailed Look at the Platform for Bangladeshi Users",
+      "url": "https://turbogeek.org/a-comprehensive-overview-of-paripulse-for-bangladeshi-punters/",
+      "snippet": "Discover what Paripulse offers for gambling enthusiasts in Bangladesh. This review covers its features, betting options, user experience, legality,\u00a0...",
+      "rank_absolute": 38,
+      "rank_group": 38,
+      "result_type": "items"
+    },
+    {
+      "title": "Uncategorized Archives",
+      "url": "https://turbogeek.org/category/uncategorized/",
+      "snippet": "Roulette is considered one of the most legendary casino games of all time. ... Myths and Facts about Online Casino Gaming You Should Know \u00b7 Uncategorized. For\u00a0...",
+      "rank_absolute": 39,
+      "rank_group": 39,
+      "result_type": "items"
+    },
+    {
+      "title": "Home - @ turbogeek.org",
+      "url": "https://turbogeek.org/",
+      "snippet": "Some slot machines come and go without leaving a mark. Book of Ra was different. Released by Novomatic in the early 2000s, it connected with players instantly.",
+      "rank_absolute": 40,
+      "rank_group": 40,
+      "result_type": "items"
+    },
+    {
+      "title": "Geeky Todd, Author at @ turbogeek.org",
+      "url": "https://turbogeek.org/author/todd/",
+      "snippet": "There seems to be a radical shift in the gaming industry, with gamers moving from traditional betting shops to gambling apps. ... In recent years, the online\u00a0...",
+      "rank_absolute": 41,
+      "rank_group": 41,
+      "result_type": "items"
+    },
+    {
+      "title": "Technologies Archives",
+      "url": "https://turbogeek.org/category/technologies/",
+      "snippet": "... gaming and gambling, it is never easy to set oneself apart and attract ... casino websites, which are now safer and more entertaining than ever. With\u00a0...",
+      "rank_absolute": 42,
+      "rank_group": 42,
+      "result_type": "items"
+    },
+    {
+      "title": "General Archives - Page 2 of 5",
+      "url": "https://turbogeek.org/category/general/page/2/",
+      "snippet": "Have you ever wondered why people talk so much about progressive jackpots in online casinos? What makes them so special and exciting? If you're curious about\u00a0...",
+      "rank_absolute": 43,
+      "rank_group": 43,
+      "result_type": "items"
+    },
+    {
+      "title": "Geeky Todd, Author at @ turbogeek.org - Page 3 of 29",
+      "url": "https://turbogeek.org/author/todd/page/3/",
+      "snippet": "The Role of Graphics and Design in Enhancing Roulette Games Online \u00b7 Game ... Looking for the best platform to enjoy top-tier slot games? Maha168 brings\u00a0...",
+      "rank_absolute": 44,
+      "rank_group": 44,
+      "result_type": "items"
+    },
+    {
+      "title": "Bylorith Qyloril, Author at @ turbogeek.org",
+      "url": "https://turbogeek.org/author/pm_author_b633k/",
+      "snippet": "But in recent years, sports themed slot games have become increasingly popular, even taking over the likes of BoyleSports live casino games. These. 4\u00a0...",
+      "rank_absolute": 45,
+      "rank_group": 45,
+      "result_type": "items"
+    },
+    {
+      "title": "Game Geek Archives",
+      "url": "https://turbogeek.org/category/game-geek/",
+      "snippet": "Game Geek \u00b7 Blackjack: Basic Strategy Snapshot for Beginners \u00b7 Crash & Instant Games at Forbes: Fast Pace, Smart Limits \u00b7 Weekend Tournament Play at Maxbet:\u00a0...",
+      "rank_absolute": 46,
+      "rank_group": 46,
+      "result_type": "items"
+    },
+    {
+      "title": "General News Archives - Page 5 of 7",
+      "url": "https://turbogeek.org/category/general-news/page/5/",
+      "snippet": "Fire Kirin Casino App: Play or Avoid? General News. According to PlayToday.co, around 1.6 billion people around the world now gamble. With a figure like that\u00a0...",
+      "rank_absolute": 47,
+      "rank_group": 47,
+      "result_type": "items"
+    },
+    {
+      "title": "Vyxarindis Qylorion, Author at @ turbogeek.org",
+      "url": "https://turbogeek.org/author/pm_author_vg33k/",
+      "snippet": "At 22Bet, you'll find classic blackjack, European Roulette, and a deep slot ... Visit Casino Forbes and get. Crash & Instant Games at Forbes: Fast Pace\u00a0...",
+      "rank_absolute": 48,
+      "rank_group": 48,
+      "result_type": "items"
+    },
+    {
+      "title": "Insights and Trends From Turbogeek.org Blog for Tech and ...",
+      "url": "https://turbogeek.org/insights-and-trends-from-turbogeek-org-blog-for-tech-and-gaming-enthusiasts/",
+      "snippet": "... betting experience. The simple and secure registration process gives users access to a wide range of claim free credit online casino games and sports events\u00a0...",
+      "rank_absolute": 49,
+      "rank_group": 49,
+      "result_type": "items"
+    },
+    {
+      "title": "Top Picks for Virtual Reality Gaming",
+      "url": "https://turbogeek.org/virtual-reality-gaming-high-picks/",
+      "snippet": "Not long ago, people could only play games using consoles. Then, the internet introduced online games, like those available on the nv casino online. Today\u00a0...",
+      "rank_absolute": 50,
+      "rank_group": 50,
+      "result_type": "items"
+    },
+    {
+      "title": "App Geek Archives",
+      "url": "https://turbogeek.org/category/app-geek/",
+      "snippet": "In 2025, most users interact with a mix of both. Whether you're managing finances, editing video, or playing games like online poker, the choice between native\u00a0...",
+      "rank_absolute": 51,
+      "rank_group": 51,
+      "result_type": "items"
+    },
+    {
+      "title": "How to Make a 1xBet Withdrawal of Funds?",
+      "url": "https://turbogeek.org/how-to-make-a-1xbet-withdrawal-of-funds/",
+      "snippet": "Betting on sports in a reliable company can bring good income. ... The platform has a casino, which presents hundreds of games from leading software developers.",
+      "rank_absolute": 52,
+      "rank_group": 52,
+      "result_type": "items"
+    },
+    {
+      "title": "Latest Trends Archives - Page 5 of 7",
+      "url": "https://turbogeek.org/category/latest-trends/page/5/",
+      "snippet": "... casino game to make the experience more entertaining. Gambling has been a fact of human life for millennia, but the best gamers understand the concept of\u00a0...",
+      "rank_absolute": 53,
+      "rank_group": 53,
+      "result_type": "items"
+    },
+    {
+      "title": "Video Games: Influence, Power, and Real-World Impact",
+      "url": "https://turbogeek.org/video-games-influence-power-and-real-world-impact/",
+      "snippet": "Big companies like National Casino focus mainly on profits, not creativity. Knowing who controls games and why is important for players. Table of Contents.",
+      "rank_absolute": 54,
+      "rank_group": 54,
+      "result_type": "items"
+    },
+    {
+      "title": "4 Open-World Games: Our Highlights",
+      "url": "https://turbogeek.org/4-open-world-games-our-highlights/",
+      "snippet": "For example, you can visit The Diamond Casino & Resort anytime, where you can discover games like blackjack, slots, roulette, and poker. The experience\u00a0...",
+      "rank_absolute": 55,
+      "rank_group": 55,
+      "result_type": "items"
+    },
+    {
+      "title": "The Untapped Potential of Games for Health",
+      "url": "https://turbogeek.org/the-untapped-potential-of-games-for-health/",
+      "snippet": "This isn't about physical exertion. Biofeedback can also be used for stress management. It is a calming underwater world. Your character's serenity reflects\u00a0...",
+      "rank_absolute": 56,
+      "rank_group": 56,
+      "result_type": "items"
+    },
+    {
+      "title": "It Is Not Difficult To Use The 1xBet App Download TR",
+      "url": "https://turbogeek.org/it-is-not-difficult-to-use-the-1xbet-app-download-tr/",
+      "snippet": "You can take a break from sports betting using the budget you earned from it at online casinos. There, you can choose from a large assortment of slot machines\u00a0...",
+      "rank_absolute": 57,
+      "rank_group": 57,
+      "result_type": "items"
+    },
+    {
+      "title": "GitHub Copilot vs. Claude vs. ChatGPT for Developers",
+      "url": "https://turbogeek.org/ai-code-generation-tools-in-2025-github-copilot-vs-claude-vs-chatgpt-for-developers/",
+      "snippet": "Modern online gaming platforms, including casino applications, require robust backend systems, real-time data processing, and secure payment integrations.",
+      "rank_absolute": 58,
+      "rank_group": 58,
+      "result_type": "items"
+    },
+    {
+      "title": "Your Ultimate Resource for Gadgets and Trends",
+      "url": "https://turbogeek.org/tech-insights-at-turbogeek-org-your-ultimate-resource-for-gadgets-and-trends/",
+      "snippet": "This platform offers a treasure trove of insights, analysis, online casinos and expert opinions that cater to both tech novices and seasoned professionals.",
+      "rank_absolute": 59,
+      "rank_group": 59,
+      "result_type": "items"
+    },
+    {
+      "title": "Your Ultimate Hub for Technology Trends and Community ...",
+      "url": "https://turbogeek.org/explore-turbogeek-org-your-ultimate-hub-for-technology-trends-and-community-engagement/",
+      "snippet": "With its user-friendly interface and engaging articles on online casinos gaming, it's no wonder this site has become a go-to destination for those looking to\u00a0...",
+      "rank_absolute": 60,
+      "rank_group": 60,
+      "result_type": "items"
+    }
+  ]
+}

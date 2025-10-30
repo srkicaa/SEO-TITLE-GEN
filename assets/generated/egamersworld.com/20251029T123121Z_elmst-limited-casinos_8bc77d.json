@@ -1,0 +1,92 @@
+{
+  "created_at": "2025-10-29T12:31:21Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "egamersworld.com",
+    "anchor_keyword": "Elmst Limited Casinos",
+    "anchor_country": "Sweden",
+    "target_url": "https://elmst-casinos.com/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "How to Choose a Trustworthy Online Casino in Sweden: a Player Checklist",
+      "rationale": "Fits EGamersWorld\u2019s practical guides; covers licensing (Spelinspektionen), BankID, Spelpaus, RTP, and payment methods. A contextual link using the anchor \u201cElmst Limited Casinos\u201d can point readers to a neutral resource with operator information relevant to Sweden."
+    },
+    {
+      "title": "Mobile Casino Gaming in 2025: Settings, Safety, and Smooth Play on the Go",
+      "rationale": "Matches the site\u2019s tech-forward audience with device optimization, latency, and data-safety tips. Naturally justifies a link via the anchor \u201cElmst Limited Casinos\u201d when referencing where readers can learn more about compliant mobile offerings."
+    },
+    {
+      "title": "Slot Mechanics Explained: RTP, Volatility, and Paylines for New Players",
+      "rationale": "Educational angle aligns with EGamersWorld how-to pieces. Use the anchor \u201cElmst Limited Casinos\u201d in supporting copy when directing readers to an external overview of legally compliant options and game libraries."
+    },
+    {
+      "title": "From Roulette to Blackjack: a Beginner\u2019s Path to Table Games Without Guesswork",
+      "rationale": "Skill-building tone suits the site\u2019s audience; covers rules, house edge, bankroll basics. Include the anchor \u201cElmst Limited Casinos\u201d to guide readers to a vetted informational hub about licensed operators before they play."
+    },
+    {
+      "title": "Esports Fans\u2019 Guide to Casino-Style Games: RNG vs. Skill and What It Means for You",
+      "rationale": "Bridges esports readership with casino topics, focusing on fairness, RNG audits, and skill perception. Add the anchor \u201cElmst Limited Casinos\u201d when pointing to third-party resources on verified, regulated options, including those relevant to Sweden."
+    }
+  ],
+  "titles_context": [
+    "The Most Popular Casino Games in the USA - , Gaming Blog",
+    "How to play casino games on your phone - , Gaming Blog",
+    "Best Slots to Play in Vegas 2025 - , Gaming Blog",
+    "What Is a Sweepstakes Casino? The Ultimate Beginner's ...",
+    "How to Play Slots and Win: Tips and Strategies for 2025",
+    "Fanatics Casino: Reviews, Ranting, Odds. eSports Betting Sites",
+    "The 16 most profitable online casino games in 2024",
+    "No deposit casino: the most comprehensive online gaming ...",
+    "Top Online Casino Games You Should Try: Slots, Roulette ...",
+    "Mastering Casino Table Games: A Comprehensive Guide ...",
+    "How to Choose a Good Online Casino - , Gaming Blog",
+    "Types of casino bonuses and how to use them",
+    "The best tips for casino beginners - , Gaming Blog",
+    "Top Best Casino Streamers to Watch in 2025",
+    "How to Find the Most Popular Online Casinos in Your Area",
+    "Exploring New Sweepstakes Casinos in the USA",
+    "How Casino Roulette Works: A Complete Guide",
+    "What are casino bonus codes and how do they work?",
+    "Common Online Casino Scams and How to Avoid Them ...",
+    "Top 5 types of online casino games with no deposit bonus",
+    "Complete Guide to Online Casino Offers - EGamersWorld",
+    "Online casinos: how to choose the best site for safe gambling",
+    "How do you play popular casino games such as blackjack ...",
+    "6 Benefits of New Casinos That You Won't Find at Older Ones",
+    "Wild Casino vs Super Slots, Same Owner, Different Sites",
+    "Top Casino Games Based On Video Games - , Gaming Blog",
+    "The Psychology Behind Social Casino Games: Why We Love ...",
+    "The Best Casino Games on Steam in 2024 - , Gaming Blog",
+    "Exploring the best online casino formats for maximum fun",
+    "How to Select An Online Casino For Slots: A Full Guide",
+    "Timeless Classics: The Most Popular Online Casino Table ...",
+    "Which casino genres are best for new players?",
+    "WHERE ARE SOCIAL CASINOS LEGAL IN THE US?",
+    "Discover the best online casino sites for October 2025. ...",
+    "6 Advantages of Playing Mobile Casino Games",
+    "Best Online Casinos 2024 - What Makes a Casino the Best?",
+    "The best tips for safe gaming according to casino banking ...",
+    "From roulette to poker: Mastering the most popular casino ...",
+    "What makes the best Sweepstakes casinos - , Gaming Blog",
+    "The popularity of table games at 5Gringos casino",
+    "The most popular games in American online casinos: Slots, ...",
+    "the best casino games for 2024 - EGamersWorld",
+    "Choosing Online Casinos: What to Look For and ...",
+    "Bonuses: How Online Casinos Are Rewarding New Users",
+    "CS GO casino - virtual skin games for money",
+    "Online casino games: a passion for e-sports players",
+    "5 good reasons to discover new online casinos",
+    "What is the most famous casino in Las Vegas?",
+    "How to Find the Best Online Casino - , Gaming Blog",
+    "What Are the Odds? Learn How Casino Games Really Work ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://elmst-casinos.com/ that feel at home on egamersworld.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): Elmst Limited Casinos\n\nAnchor operates in: Sweden. \n\nReference titles:\n- The Most Popular Casino Games in the USA - , Gaming Blog\n- How to play casino games on your phone - , Gaming Blog\n- Best Slots to Play in Vegas 2025 - , Gaming Blog\n- What Is a Sweepstakes Casino? The Ultimate Beginner's ...\n- How to Play Slots and Win: Tips and Strategies for 2025\n- Fanatics Casino: Reviews, Ranting, Odds. eSports Betting Sites\n- The 16 most profitable online casino games in 2024\n- No deposit casino: the most comprehensive online gaming ...\n- Top Online Casino Games You Should Try: Slots, Roulette ...\n- Mastering Casino Table Games: A Comprehensive Guide ...\n- How to Choose a Good Online Casino - , Gaming Blog\n- Types of casino bonuses and how to use them\n- The best tips for casino beginners - , Gaming Blog\n- Top Best Casino Streamers to Watch in 2025\n- How to Find the Most Popular Online Casinos in Your Area\n- Exploring New Sweepstakes Casinos in the USA\n- How Casino Roulette Works: A Complete Guide\n- What are casino bonus codes and how do they work?\n- Common Online Casino Scams and How to Avoid Them ...\n- Top 5 types of online casino games with no deposit bonus\n- Complete Guide to Online Casino Offers - EGamersWorld\n- Online casinos: how to choose the best site for safe gambling\n- How do you play popular casino games such as blackjack ...\n- 6 Benefits of New Casinos That You Won't Find at Older Ones\n- Wild Casino vs Super Slots, Same Owner, Different Sites\n- Top Casino Games Based On Video Games - , Gaming Blog\n- The Psychology Behind Social Casino Games: Why We Love ...\n- The Best Casino Games on Steam in 2024 - , Gaming Blog\n- Exploring the best online casino formats for maximum fun\n- How to Select An Online Casino For Slots: A Full Guide\n- Timeless Classics: The Most Popular Online Casino Table ...\n- Which casino genres are best for new players?\n- WHERE ARE SOCIAL CASINOS LEGAL IN THE US?\n- Discover the best online casino sites for October 2025. ...\n- 6 Advantages of Playing Mobile Casino Games\n- Best Online Casinos 2024 - What Makes a Casino the Best?\n- The best tips for safe gaming according to casino banking ...\n- From roulette to poker: Mastering the most popular casino ...\n- What makes the best Sweepstakes casinos - , Gaming Blog\n- The popularity of table games at 5Gringos casino\n- The most popular games in American online casinos: Slots, ...\n- the best casino games for 2024 - EGamersWorld\n- Choosing Online Casinos: What to Look For and ...\n- Bonuses: How Online Casinos Are Rewarding New Users\n- CS GO casino - virtual skin games for money\n- Online casino games: a passion for e-sports players\n- 5 good reasons to discover new online casinos\n- What is the most famous casino in Las Vegas?\n- How to Find the Best Online Casino - , Gaming Blog\n- What Are the Odds? Learn How Casino Games Really Work ...\n\nGuidance:\n1. Combine your own knowledge of egamersworld.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to egamersworld.com while naturally justifying a link to https://elmst-casinos.com/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude Elmst Limited Casinos and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Sweden where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\nBut in this case please use the anchors terms, try to use them naturally.\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1655,
+    "completion_tokens": 875
+  },
+  "cost_usd": 0.0856
+}

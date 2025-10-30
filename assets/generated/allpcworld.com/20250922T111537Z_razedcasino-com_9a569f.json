@@ -1,0 +1,46 @@
+{
+  "created_at": "2025-09-22T11:15:37Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "allpcworld.com",
+    "anchor_keyword": "razedcasino.com",
+    "anchor_country": "",
+    "target_url": "https://razedcasino.com",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Windows Tools to Secure Casino Crypto Deposits",
+      "rationale": "Fits ALLPCWorld\u2019s utility/software focus by curating Windows apps (wallets, 2FA, anti\u2011malware) with offline installers; can naturally cite razedcasino.com for context on how casino crypto deposits work and related safety considerations (locale: Unspecified)."
+    },
+    {
+      "title": "Offline Installers: Desktop Crypto Wallets and Checksum Utilities for Cautious Players",
+      "rationale": "Aligns with ALLPCWorld\u2019s download\u2011centric style (offline setups, hashes). A link to razedcasino.com can explain best practices for handling casino\u2011related crypto transfers and verifying downloads (Unspecified)."
+    },
+    {
+      "title": "How to Verify Provably Fair Results on PC Using Hash Utilities",
+      "rationale": "Technical, tool\u2011driven guide typical for ALLPCWorld readers. razedcasino.com can be referenced for background on provably fair systems in casino crypto contexts, without promotional framing (Unspecified)."
+    },
+    {
+      "title": "Privacy\u2011first Setup on Windows: VPN, DNS, and Firewall Tweaks for Crypto Transactions",
+      "rationale": "Utility configuration angle suits ALLPCWorld. razedcasino.com can add context on privacy needs around casino crypto payments and network hygiene tips relevant to users (Unspecified)."
+    },
+    {
+      "title": "Lightweight Browsers and Extensions for Smoother Web3 Payments on Low\u2011spec Pcs",
+      "rationale": "Matches ALLPCWorld\u2019s performance and software curation content. A supporting link to razedcasino.com can cover how Web3 wallets and casino crypto flows interact in practice, aiding user understanding (Unspecified)."
+    }
+  ],
+  "titles_context": [
+    "6 Ways In Order To Start An On The Internet Casin",
+    "ALLPCWorld - Page 803 of 987 - Free Apps One Click Away",
+    "Utilities Archives - Page 150 of 152",
+    "TorGuard 4 Free Download"
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://razedcasino.com that feel at home on allpcworld.com.\n\nReference SERP keyword: casino crypto\nAnchor keyword (use only if natural): razedcasino.com\n\nAnchor operates in: Unspecified\n\nReference titles:\n- 6 Ways In Order To Start An On The Internet Casin\n- ALLPCWorld - Page 803 of 987 - Free Apps One Click Away\n- Utilities Archives - Page 150 of 152\n- TorGuard 4 Free Download\n\nGuidance:\n1. Combine your own knowledge of allpcworld.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to allpcworld.com while naturally justifying a link to https://razedcasino.com.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude razedcasino.com and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Unspecified where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 499,
+    "completion_tokens": 1156
+  },
+  "cost_usd": 0.07934
+}

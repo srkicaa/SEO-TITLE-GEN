@@ -1,0 +1,808 @@
+{
+  "mode": "live",
+  "task_id": "09261445-4117-0121-0000-65cd02e23797",
+  "query": "site:holrmagazine.com travel",
+  "depth": 100,
+  "extracted": [
+    {
+      "title": "5 Destinations Open For Travel Right Now -",
+      "url": "https://holrmagazine.com/5-destinations-open-for-travel-right-now/",
+      "snippet": "Due to the COVID-19 pandemic, not every destination is open for travellers. We have rounded up five destinations that are open for you to visit!",
+      "rank_absolute": 1,
+      "rank_group": 1,
+      "result_type": "items"
+    },
+    {
+      "title": "Top Online Travel Magazines and Travel News",
+      "url": "https://holrmagazine.com/category/travel/",
+      "snippet": "Travel. A travel hub for the millennial traveller. Featuring tips, expert guides and secrets from the world's most cultured, and well-travelled individuals.",
+      "rank_absolute": 2,
+      "rank_group": 2,
+      "result_type": "items"
+    },
+    {
+      "title": "What to Pack and Where To Stay in France: Ultimate Travel ...",
+      "url": "https://holrmagazine.com/what-to-pack-and-where-to-stay-in-france/",
+      "snippet": "Nov 1, 2024 \u2014 I'm sharing top recommendations and everything you need to know about where to stay and what to pack for your own unforgettable French adventure.",
+      "rank_absolute": 3,
+      "rank_group": 3,
+      "result_type": "items"
+    },
+    {
+      "title": "Travel Trending Archives -",
+      "url": "https://holrmagazine.com/category/travel-trending/",
+      "snippet": "Editor Travel Guide: Where To Go In Italy In July 2024 \u00b7 Discovering Magic: Exploring the Wonders of Kissimmee Beyond the Theme Parks \u00b7 Just Peachy: 5 Five Stays\u00a0...",
+      "rank_absolute": 4,
+      "rank_group": 4,
+      "result_type": "items"
+    },
+    {
+      "title": "Best Staycation Destinations in the US & Canada -",
+      "url": "https://holrmagazine.com/best-staycation-destinations-in-the-us-canada/",
+      "snippet": "Apr 10, 2022 \u2014 Curate a fun, memorable experience in your home country, and redefine your idea of adventure with these stunning staycation destinations!",
+      "rank_absolute": 5,
+      "rank_group": 5,
+      "result_type": "items"
+    },
+    {
+      "title": "Tips for Student Travel in the USA -",
+      "url": "https://holrmagazine.com/tips-for-student-travel-in-the-usa/",
+      "snippet": "Apr 22, 2023 \u2014 It includes taking advantage of public transportation, seeking out hostels for lodging, delving into local cuisine, prioritizing safety,\u00a0...",
+      "rank_absolute": 6,
+      "rank_group": 6,
+      "result_type": "items"
+    },
+    {
+      "title": "Trusted Travel Archives -",
+      "url": "https://holrmagazine.com/category/travel/trusted-travel/",
+      "snippet": "Trusted Travel : Take the guess work out of your next trip by getting recommendations from your favourite celebrities, traveller bloggers and Influencers.",
+      "rank_absolute": 7,
+      "rank_group": 7,
+      "result_type": "items"
+    },
+    {
+      "title": "Cheap Places to Travel To Post-COVID -",
+      "url": "https://holrmagazine.com/cheap-places-to-travel-to-post-covid/",
+      "snippet": "Nov 28, 2020 \u2014 While we may still be in the pandemic's full swing, we can look forward to traveling to cheap beautiful destinations in the coming years!",
+      "rank_absolute": 8,
+      "rank_group": 8,
+      "result_type": "items"
+    },
+    {
+      "title": "Best Solo Travel Destinations for Women -",
+      "url": "https://holrmagazine.com/best-solo-travel-destinations/",
+      "snippet": "Mar 8, 2023 \u2014 Guests can stay a few days or longer, with extended trips to focus on improving their health, wellness and fitness regimens or set new goals.",
+      "rank_absolute": 9,
+      "rank_group": 9,
+      "result_type": "items"
+    },
+    {
+      "title": "HOLR Travel Guide: Tropical Trips -",
+      "url": "https://holrmagazine.com/holr-travel-guide-tropical-trips/",
+      "snippet": "Oct 11, 2021 \u2014 We have rounded up the best tropical spots in Australia, Fiji, Samoa, Nauru, Tonga Kiribati, Hawaii, and French Polynesia.",
+      "rank_absolute": 10,
+      "rank_group": 10,
+      "result_type": "items"
+    },
+    {
+      "title": "FLORENCE TRAVEL GUIDE: FROM FOOD AND ...",
+      "url": "https://holrmagazine.com/florence-travel-guide-from-food-and-perfumes-to-art-history-and-symbols/",
+      "snippet": "Sep 4, 2025 \u2014 'Italy customised tours' offer tailor made experiences whose goal is to deepen visitors' understanding of the different Italian region's\u00a0...",
+      "rank_absolute": 11,
+      "rank_group": 11,
+      "result_type": "items"
+    },
+    {
+      "title": "Tips to book a cheap all-inclusive vacation -",
+      "url": "https://holrmagazine.com/tips-to-book-a-cheap-all-inclusive-vacation/",
+      "snippet": "Jul 2, 2022 \u2014 These tips are based on how and what details a person should pay attention to while booking an all-inclusive vacation package.",
+      "rank_absolute": 12,
+      "rank_group": 12,
+      "result_type": "items"
+    },
+    {
+      "title": "Your Guide To The Ultimate Italian Getaway: Luxury Travel ...",
+      "url": "https://holrmagazine.com/your-guide-to-the-ultimate-italian-getaway-luxury-travel-edition/",
+      "snippet": "Sep 1, 2023 \u2014 From exploring ancient Rome to visiting sprawling Tuscan vineyards to lounging beachside along the beautiful Amalfi Coast, Italy is one of\u00a0...",
+      "rank_absolute": 13,
+      "rank_group": 13,
+      "result_type": "items"
+    },
+    {
+      "title": "Conscious Travel Archives -",
+      "url": "https://holrmagazine.com/category/travel/conscious-travel/",
+      "snippet": "Discovering Magic: Exploring the Wonders of Kissimmee Beyond the Theme Parks \u00b7 Saving Money on Your Montreal Vacation: Expert Tips \u00b7 Have a Safe Trip: Your Guide\u00a0...",
+      "rank_absolute": 14,
+      "rank_group": 14,
+      "result_type": "items"
+    },
+    {
+      "title": "Booktok Travel Guide: 10 Destinations For Romantasy ...",
+      "url": "https://holrmagazine.com/booktok-travel-guide-10-destinations-for-romantasy-books-readers/",
+      "snippet": "Apr 8, 2024 \u2014 This curated travel guide is for lovers of the Romance Fantasy genre, who find solace in the arms of mystical realms.",
+      "rank_absolute": 15,
+      "rank_group": 15,
+      "result_type": "items"
+    },
+    {
+      "title": "The Perfect Corporate Gifts for Travel Enthusiasts",
+      "url": "https://holrmagazine.com/the-perfect-corporate-gifts-for-travel-enthusiasts/",
+      "snippet": "Jan 13, 2025 \u2014 The Perfect Corporate Gifts for Travel Enthusiasts \u00b7 Water Bottle \u00b7 Travel Adaptors \u00b7 Backpack \u00b7 Neck Pillow.",
+      "rank_absolute": 16,
+      "rank_group": 16,
+      "result_type": "items"
+    },
+    {
+      "title": "Travel Diaries: Exploring El Nido, Palawan -",
+      "url": "https://holrmagazine.com/travel-el-nido-palawan/",
+      "snippet": "If you're looking for a new travel spot to visit, look no further. El Nido, Phillippines is an underrated travel destination perfect for exploring.",
+      "rank_absolute": 17,
+      "rank_group": 17,
+      "result_type": "items"
+    },
+    {
+      "title": "Dubai Travel Guide 2025: Where to Eat, Stay & Explore in ...",
+      "url": "https://holrmagazine.com/dubai-travel-guide-2025-where-to-eat-stay-explore-in-5-days/",
+      "snippet": "Mar 17, 2025 \u2014 Ksenia Edwards serves as the Editor-in-Chief of HOLR Magazine, leveraging over a decade of experience in journalism and editing. Her portfolio\u00a0...",
+      "rank_absolute": 18,
+      "rank_group": 18,
+      "result_type": "items"
+    },
+    {
+      "title": "14 Books About Travel That Make You Think You Are On ...",
+      "url": "https://holrmagazine.com/14-books-about-travel-that-make-you-think-you-are-on-vocation/",
+      "snippet": "Sep 10, 2021 \u2014 Here is a list of the best 14 books about travel that will make you feel like you are on vacation: 1. The Alchemist by Paulo Coelho: in this\u00a0...",
+      "rank_absolute": 19,
+      "rank_group": 19,
+      "result_type": "items"
+    },
+    {
+      "title": "The Best Places to Travel Solo -",
+      "url": "https://holrmagazine.com/best-places-to-travel-solo/",
+      "snippet": "Mar 22, 2022 \u2014 From the cultural centres of the world to adrenaline-filled nightlife scenes, here are the best places to travel solo.",
+      "rank_absolute": 20,
+      "rank_group": 20,
+      "result_type": "items"
+    },
+    {
+      "title": "How To Travel Sustainably With Booking.com -",
+      "url": "https://holrmagazine.com/how-to-travel-sustainably-with-booking-com/",
+      "snippet": "Apr 24, 2023 \u2014 This is a super easy and effective tool travelers can use to ensure they are booking a sustainable stay- no matter the destination!",
+      "rank_absolute": 21,
+      "rank_group": 21,
+      "result_type": "items"
+    },
+    {
+      "title": "Incredible experiences where travellers can have ...",
+      "url": "https://holrmagazine.com/incredible-experiences-where-travellers-can-have-meaningful-impact-on-the-local-community/",
+      "snippet": "When the time is right to travel again, travellers will be searching for destinations where they can both learn new skills and get fully immersed in local\u00a0...",
+      "rank_absolute": 22,
+      "rank_group": 22,
+      "result_type": "items"
+    },
+    {
+      "title": "7 Stunning Road Trip Destinations Across the U.S. -",
+      "url": "https://holrmagazine.com/7-stunning-road-trip-destinations-across-the-u-s/",
+      "snippet": "Sep 23, 2022 \u2014 7 Stunning Road Trip Destinations Across the U.S. \u00b7 #1 \u2013 Acadia National Park, Maine \u00b7 #2 \u2013 Charleston, South Carolina \u00b7 #3 \u2013 Mammoth Cave National\u00a0...",
+      "rank_absolute": 23,
+      "rank_group": 23,
+      "result_type": "items"
+    },
+    {
+      "title": "Luxury Travel Archives -",
+      "url": "https://holrmagazine.com/category/travel/luxury-travel/",
+      "snippet": "Luxury Travel. Boston Uncovered: Exploring the City's Historic Charm and Modern Marvels with Seaport as Your Luxe Base.",
+      "rank_absolute": 24,
+      "rank_group": 24,
+      "result_type": "items"
+    },
+    {
+      "title": "Editor Travel Guide: Where To Go In Italy In July 2024 -",
+      "url": "https://holrmagazine.com/editor-travel-guide-where-to-go-in-italy-in-july-2024/",
+      "snippet": "Apr 27, 2024 \u2014 Italy offers many vibrant locations to choose from. Whether Florence, Sicily, Puglia, Lake Como, Cinque Terre, Amalfi or Positano, each place unfurls like a\u00a0...",
+      "rank_absolute": 25,
+      "rank_group": 25,
+      "result_type": "items"
+    },
+    {
+      "title": "Travel To Reduce Stress At These Unique Destinations -",
+      "url": "https://holrmagazine.com/travel-to-reduce-stress/",
+      "snippet": "Mar 14, 2023 \u2014 Guests can stay a few days or longer, with extended trips to focus on improving their health, wellness and fitness regimens or set new goals.",
+      "rank_absolute": 26,
+      "rank_group": 26,
+      "result_type": "items"
+    },
+    {
+      "title": "Best Travel Insurance for Summer Vacations -",
+      "url": "https://holrmagazine.com/best-travel-insurance-for-summer-vacations/",
+      "snippet": "Mar 25, 2023 \u2014 AXA Travel Insurance provides coverage for medical emergencies, trip cancellations or interruptions, and lost or stolen baggage with their offer\u00a0...",
+      "rank_absolute": 27,
+      "rank_group": 27,
+      "result_type": "items"
+    },
+    {
+      "title": "Editor Travel Diaries: Trulli Soave is a Dreamy Escape in ...",
+      "url": "https://holrmagazine.com/editor-travel-diaries-trulli-soave-is-a-dreamy-escape-in-alberobello/",
+      "snippet": "Alberobello is pure magic, and Trulli Soave is the place to stay. Here is an in-depth look at my experience and why I recommend it.",
+      "rank_absolute": 28,
+      "rank_group": 28,
+      "result_type": "items"
+    },
+    {
+      "title": "7 Places for Adventure Travel Holidays -",
+      "url": "https://holrmagazine.com/7-places-for-adventure-travel-holidays/",
+      "snippet": "Mar 12, 2021 \u2014 Here is our comprehensive guide to the 8 best places for an adventure travel holiday. 1. The Galapagos Islands, Ecuador. The Galapagos Islands,\u00a0...",
+      "rank_absolute": 29,
+      "rank_group": 29,
+      "result_type": "items"
+    },
+    {
+      "title": "What Components of Travel Work Perfectly on a Budget -",
+      "url": "https://holrmagazine.com/what-components-of-travel-work-perfectly-on-a-budget/",
+      "snippet": "Jan 18, 2024 \u2014 In this article we'll explore where in travel these elements matter the most, and a couple places where going the extra mile is worth the effort\u00a0...",
+      "rank_absolute": 30,
+      "rank_group": 30,
+      "result_type": "items"
+    },
+    {
+      "title": "Underrated Springtime Travel Destinations -",
+      "url": "https://holrmagazine.com/underrated-springtime-travel-destinations/",
+      "snippet": "Feb 20, 2022 \u2014 While places like Tokyo, Paris, and New Zealand are popular spring travel destinations, there are plenty of hidden gems around the world.",
+      "rank_absolute": 31,
+      "rank_group": 31,
+      "result_type": "items"
+    },
+    {
+      "title": "Top 10 Travel Must-Haves For a Stress-Free Vacation -",
+      "url": "https://holrmagazine.com/top-10-travel-must-haves-for-a-stress-free-vacation/",
+      "snippet": "Mar 22, 2023 \u2014 Passport and travel documents: Be sure to keep all of your travel documents (i.e. passport) in a safe, secure place- such as a passport holder.",
+      "rank_absolute": 32,
+      "rank_group": 32,
+      "result_type": "items"
+    },
+    {
+      "title": "Selling Sunset: L.A. Travel Guide -",
+      "url": "https://holrmagazine.com/selling-sunset-l-a-travel-guide/",
+      "snippet": "Aug 2, 2022 \u2014 Location: 8500 Beverly Blvd. Farmhouse restaurant. Farmhouse restaurant. Image Credit: TripAdvisor. The Selling Sunset cast love to dine at\u00a0...",
+      "rank_absolute": 33,
+      "rank_group": 33,
+      "result_type": "items"
+    },
+    {
+      "title": "Trip Advisor's 2020 List of Best Destinations in the World -",
+      "url": "https://holrmagazine.com/trip-advisors-2020-list-of-best-destinations-in-the-world/",
+      "snippet": "Oct 28, 2020 \u2014 Dazzling beaches, impressive cityscapes, and historic sites, Trip Advisor's list for the best travel destinations of 2020 is full of well known\u00a0...",
+      "rank_absolute": 34,
+      "rank_group": 34,
+      "result_type": "items"
+    },
+    {
+      "title": "The Best Travel Bags For All Your Destinations -",
+      "url": "https://holrmagazine.com/the-best-travel-bags-for-all-your-destinations/",
+      "snippet": "Dec 13, 2021 \u2014 We have rounded up the best travel bags for any destination you are going to and are perfect for your holiday wish list! Image Credit: Calpak.",
+      "rank_absolute": 35,
+      "rank_group": 35,
+      "result_type": "items"
+    },
+    {
+      "title": "The Best Travel Gifts for Dad -",
+      "url": "https://holrmagazine.com/the-best-travel-gifts-for-dad/",
+      "snippet": "Jun 11, 2022 \u2014 Check out our list below for the best travel gifts to give to Dad for all of his traveling adventures! The Large Everywhere Bag, Away. $375 CAD.",
+      "rank_absolute": 36,
+      "rank_group": 36,
+      "result_type": "items"
+    },
+    {
+      "title": "Bridgerton-Inspired Travel -",
+      "url": "https://holrmagazine.com/bridgerton-inspired-travel/",
+      "snippet": "Mar 2, 2021 \u2014 Do prepare yourself for incomparable experiences with new acquaintances as you'll make your debut in the world of Regency-era London, while\u00a0...",
+      "rank_absolute": 37,
+      "rank_group": 37,
+      "result_type": "items"
+    },
+    {
+      "title": "The Complete Travel Guide: Game of Thrones and House ...",
+      "url": "https://holrmagazine.com/the-complete-travel-guide-game-of-thrones-and-house-of-the-dragon/",
+      "snippet": "Sep 20, 2022 \u2014 The locations of \u201cGame of Thrones\u201d and \u201cHouse of the Dragon\u201d remain magnificent no matter the season. Add these sights to your travel list\u00a0...",
+      "rank_absolute": 38,
+      "rank_group": 38,
+      "result_type": "items"
+    },
+    {
+      "title": "Las Vegas Travel Guide: The Ultimate Daytime ...",
+      "url": "https://holrmagazine.com/las-vegas-travel-guide-top-daytime-experiences-and-attractions/",
+      "snippet": "Aug 29, 2022 \u2014 So, whether you're planning a trip with family, friends, or your significant other, Las Vegas is a top destination for anyone and everyone. This\u00a0...",
+      "rank_absolute": 39,
+      "rank_group": 39,
+      "result_type": "items"
+    },
+    {
+      "title": "Draft List for New Travel Ban: Trump's Proposed Restrictions on ...",
+      "url": "https://holrmagazine.com/draft-list-for-new-travel-ban-trumps-proposed-restrictions-on-43-countries/",
+      "snippet": "The Trump administration is reportedly preparing a sweeping new travel ban that could impact citizens from 43 countries, significantly expanding previous\u00a0...",
+      "rank_absolute": 40,
+      "rank_group": 40,
+      "result_type": "items"
+    },
+    {
+      "title": "Going on a Vacation Trip? Here's How to Prepare -",
+      "url": "https://holrmagazine.com/going-on-a-vacation-trip-heres-how-to-prepare/",
+      "snippet": "Jul 24, 2021 \u2014 And in between planning your route, booking accommodation, clarifying your itinerary, you may realize you have a lot more to plan than you\u00a0...",
+      "rank_absolute": 41,
+      "rank_group": 41,
+      "result_type": "items"
+    },
+    {
+      "title": "11 (or more) Summer Travel Carry-on Essentials -",
+      "url": "https://holrmagazine.com/11-or-more-summer-travel-carry-on-essentials/",
+      "snippet": "Jul 12, 2023 \u2014 Summer adventure is comin' in hot and so are our travel plans. We're sure this won't be your first season flying carry-on only,\u00a0...",
+      "rank_absolute": 42,
+      "rank_group": 42,
+      "result_type": "items"
+    },
+    {
+      "title": "Essential Things You Need to Bring When Traveling -",
+      "url": "https://holrmagazine.com/essential-things-you-need-to-bring-when-traveling/",
+      "snippet": "Jul 27, 2021 \u2014 Keep A Wallet Essentials. When you travel, this is a necessary thing to have with you. This is what you should have in your wallet:.",
+      "rank_absolute": 43,
+      "rank_group": 43,
+      "result_type": "items"
+    },
+    {
+      "title": "A Guide To Sustainable Travel In The United Arab Emirates -",
+      "url": "https://holrmagazine.com/a-guide-to-sustainable-travel-in-the-united-arab-emirates/",
+      "snippet": "Sustainable traveling will make your trip more meaningful as you are present in the UAE. You can participate in volunteering to conserve the local environment.",
+      "rank_absolute": 44,
+      "rank_group": 44,
+      "result_type": "items"
+    },
+    {
+      "title": "7 Budget-Friendly Vacation Spots That Will Blow You Away -",
+      "url": "https://holrmagazine.com/7-budget-friendly-vacation-spots-that-will-blow-you-away/",
+      "snippet": "Oct 28, 2020 \u2014 Austin is a great budget-friendly vacation option if you're planning on travelling with your family members. 5. Glacier National Park. Going on\u00a0...",
+      "rank_absolute": 45,
+      "rank_group": 45,
+      "result_type": "items"
+    },
+    {
+      "title": "Capturing the beauty and diversity of our planet with ...",
+      "url": "https://holrmagazine.com/capturing-the-beauty-and-diversity-of-our-planet-with-freelance-travel-photographer-jannik-obenhoff/",
+      "snippet": "Munich based freelance photographer Jannik Obenhoff specializes in outdoor, landscape and adventure photography. Following his passion for travel,\u00a0...",
+      "rank_absolute": 46,
+      "rank_group": 46,
+      "result_type": "items"
+    },
+    {
+      "title": "Space Travel and Moon Tours to Become Common by 2075 -",
+      "url": "https://holrmagazine.com/space-travel-and-moon-tours-to-become-common-by-2075/",
+      "snippet": "Psychic and astrologer Inbaal Honigman thinks \u201ctours to the moon\u201d and space travel will be happening regularly in 2075. January 22, 2025: Trips to the moon\u00a0...",
+      "rank_absolute": 47,
+      "rank_group": 47,
+      "result_type": "items"
+    },
+    {
+      "title": "7 Films to travel around the World without leaving Home -",
+      "url": "https://holrmagazine.com/7-films-to-travel-around-the-world-without-leaving-home/",
+      "snippet": "Jul 28, 2021 \u2014 Travelling is still a bit hard nowadays due to the world's situation. If you were not able to travel to your most expected destination this\u00a0...",
+      "rank_absolute": 48,
+      "rank_group": 48,
+      "result_type": "items"
+    },
+    {
+      "title": "How Do You Book a Cheap Round-the-World Plane Ticket? -",
+      "url": "https://holrmagazine.com/how-do-you-book-a-cheap-round-the-world-plane-ticket/",
+      "snippet": "Aug 23, 2023 \u2014 Round-the-world (RTW) tickets are simply one of the most practical methods of travelling across different countries. You can travel to the\u00a0...",
+      "rank_absolute": 49,
+      "rank_group": 49,
+      "result_type": "items"
+    },
+    {
+      "title": "Lockdown Readings: Four travel books to explore the ...",
+      "url": "https://holrmagazine.com/lockdown-readings-four-travel-books-to-explore-the-world-from-your-sofa/",
+      "snippet": "Feb 17, 2021 \u2014 With the COVID-19 pandemic temporarily bringing travel plans to a halt, there is no better way to quench your thirst for adventure than\u00a0...",
+      "rank_absolute": 50,
+      "rank_group": 50,
+      "result_type": "items"
+    },
+    {
+      "title": "Booking.com's 2021 Sustainable Travel Report Affirms ...",
+      "url": "https://holrmagazine.com/booking-coms-2021-sustainable-travel-report-affirms-potential-watershed-moment-for-industry-and-consumers/",
+      "snippet": "Jun 16, 2021 \u2014 New research from Booking.com suggests that the pandemic has been the tipping point for travellers to finally commit to their own sustainable journey.",
+      "rank_absolute": 51,
+      "rank_group": 51,
+      "result_type": "items"
+    },
+    {
+      "title": "Van Life is the Latest Travel Trend and Here's Why -",
+      "url": "https://holrmagazine.com/van-life-is-the-latest-travel-trend-and-heres-why/",
+      "snippet": "Feb 15, 2022 \u2014 A camper van is a van that is equipped as an independent traveling home. These vans usually have basic facilities for cooking, washing, and\u00a0...",
+      "rank_absolute": 52,
+      "rank_group": 52,
+      "result_type": "items"
+    },
+    {
+      "title": "Where to travel in 2020: Contiki's Top 10 Destinations -",
+      "url": "https://holrmagazine.com/where-to-travel-in-2020-contikis-top-10-destinations/",
+      "snippet": "Dec 11, 2019 \u2014 Article provided by Contiki. Greece. White sandy beaches, pristine islands, sunshine and all the gyros you could want; Greece is many",
+      "rank_absolute": 53,
+      "rank_group": 53,
+      "result_type": "items"
+    },
+    {
+      "title": "Your Travel Beauty Essentials: NUDESTIX's Must-Have ...",
+      "url": "https://holrmagazine.com/your-travel-beauty-essentials-nudestixs-must-have-picks-for-effortless-adventures/",
+      "snippet": "May 13, 2023 \u2014 Who doesn't love a vacation glow? Get ready to radiate with the Nudies Glow Highlighter Stick. This light and bendable dual-ended highlighter\u00a0...",
+      "rank_absolute": 54,
+      "rank_group": 54,
+      "result_type": "items"
+    },
+    {
+      "title": "Are You An Overpacker? Check Out Away's Latest ...",
+      "url": "https://holrmagazine.com/are-you-an-overpacker-check-out-aways-latest-polycarbonate-flex-collection/",
+      "snippet": "Sep 30, 2021 \u2014 Global lifestyle and travel brand, Away, is hitting the market with a new launch that is perfect for over-packers- the Polycarbonate Flex\u00a0...",
+      "rank_absolute": 55,
+      "rank_group": 55,
+      "result_type": "items"
+    },
+    {
+      "title": "Vacation Fashion Edit Ultimate Wardrobe Staples -",
+      "url": "https://holrmagazine.com/vacation-fashion-edit-ultimate-wardrobe-staples/",
+      "snippet": "May 7, 2025 \u2014 When it comes to curating the ultimate vacation edit, versatility is key\u2014and no piece delivers effortless style quite like a wardrobe\u00a0...",
+      "rank_absolute": 56,
+      "rank_group": 56,
+      "result_type": "items"
+    },
+    {
+      "title": "The Ins and Outs of being a Travel Blogger with Larissa Dsa -",
+      "url": "https://holrmagazine.com/a-qa-with-larissa-dsa/",
+      "snippet": "Apr 3, 2020 \u2014 Travelling was a part of my family ritual. Every year, my dad planned 2 trips to parts of India. So I've loved to travel since I was little, but\u00a0...",
+      "rank_absolute": 57,
+      "rank_group": 57,
+      "result_type": "items"
+    },
+    {
+      "title": "Cool substitutes for our favourite travel destinations -",
+      "url": "https://holrmagazine.com/cool-substitutes-for-our-favourite-travel-destinations/",
+      "snippet": "Feb 11, 2021 \u2014 For many people, travelling to their favourite destination is about getting to know the local culture and language. To get this feeling at home\u00a0...",
+      "rank_absolute": 58,
+      "rank_group": 58,
+      "result_type": "items"
+    },
+    {
+      "title": "Trusted Travel: Guide to Bali by Murad and Nataly Osmann -",
+      "url": "https://holrmagazine.com/bali-murad-osmann/",
+      "snippet": "The couple behind the hand-holding 'Follow Me' photos give their tips for travelling to Bali, Indonesia.",
+      "rank_absolute": 59,
+      "rank_group": 59,
+      "result_type": "items"
+    },
+    {
+      "title": "6 Magnificent Maximalist Hotels To Stay At -",
+      "url": "https://holrmagazine.com/7-magnificent-hotels/",
+      "snippet": "With a recent revival of the opulent aesthetic in major fashion and design houses and dominating headlines, travel accommodations around the world are\u00a0...",
+      "rank_absolute": 60,
+      "rank_group": 60,
+      "result_type": "items"
+    },
+    {
+      "title": "Karla Gillis, Author at",
+      "url": "https://holrmagazine.com/author/karla/",
+      "snippet": "... Travel \u00b7 Trusted Travel \u00b7 Conscious Travel \u00b7 Luxury Travel \u00b7 Real Estate \u00b7 Herbalistics \u00b7 Print \u00b7 Newsroom. \u00a9 2024 HOLR Media Group. All Rights Reserved. I\u00a0...",
+      "rank_absolute": 61,
+      "rank_group": 61,
+      "result_type": "items"
+    },
+    {
+      "title": "Global lifestyle brand Away launches first-ever sale",
+      "url": "https://holrmagazine.com/travel-in-style-global-lifestyle-brand-away-launches-first-ever-sale/",
+      "snippet": "Sep 9, 2020 \u2014 We are already on the edge of our seats, planning the concerts to attend, the itinerary for the next vacation, and shopping for gear we will\u00a0...",
+      "rank_absolute": 62,
+      "rank_group": 62,
+      "result_type": "items"
+    },
+    {
+      "title": "Tasha Tobias, Author at",
+      "url": "https://holrmagazine.com/author/tasha/",
+      "snippet": "... Travel \u00b7 Trusted Travel \u00b7 Conscious Travel \u00b7 Luxury Travel \u00b7 Real Estate \u00b7 Herbalistics \u00b7 Print \u00b7 Newsroom. Tasha Tobias. My Honest Review of the Bon Charge Red\u00a0...",
+      "rank_absolute": 63,
+      "rank_group": 63,
+      "result_type": "items"
+    },
+    {
+      "title": "Best Guide To New York City 2023: Girls Trip Edition -",
+      "url": "https://holrmagazine.com/best-guide-to-new-york-city/",
+      "snippet": "Jun 3, 2023 \u2014 When planning your next girls' getaway, no destination quite rivals the allure of New York City. From iconic landmarks to chic boutiques,\u00a0...",
+      "rank_absolute": 64,
+      "rank_group": 64,
+      "result_type": "items"
+    },
+    {
+      "title": "Kezia Chapman, Author at",
+      "url": "https://holrmagazine.com/author/keziachapman/",
+      "snippet": "Her writing, focused on fashion, lifestyle, and travel, consistently captivates and informs readers, showcasing her passion for uncovering the latest trends and\u00a0...",
+      "rank_absolute": 65,
+      "rank_group": 65,
+      "result_type": "items"
+    },
+    {
+      "title": "Queen Eyes Residency at Las Vegas Sphere -",
+      "url": "https://holrmagazine.com/queen-eyes-residency-at-las-vegas-sphere/",
+      "snippet": "2 days ago \u2014 He emphasized the appeal of a residency format, which would allow for creative innovation without the constant travel. This approach aligns with\u00a0...",
+      "rank_absolute": 66,
+      "rank_group": 66,
+      "result_type": "items"
+    },
+    {
+      "title": "HOLR MAGAZINE EDITORIAL, Author at",
+      "url": "https://holrmagazine.com/author/holrmagazine/",
+      "snippet": "... Travel \u00b7 Trusted Travel \u00b7 Conscious Travel \u00b7 Luxury Travel \u00b7 Real Estate \u00b7 Herbalistics \u00b7 Print \u00b7 Newsroom. \u00a9 2024 HOLR Media Group. All Rights Reserved. I\u00a0...",
+      "rank_absolute": 67,
+      "rank_group": 67,
+      "result_type": "items"
+    },
+    {
+      "title": "Travel Ontario: Winter Edition -",
+      "url": "https://holrmagazine.com/travel-ontario-winter-edition/",
+      "snippet": "Jan 3, 2022 \u2014 We have found some fun spots in Ontario that allow you to still have a bit of an escape from reality with some rest and relaxation.",
+      "rank_absolute": 68,
+      "rank_group": 68,
+      "result_type": "items"
+    },
+    {
+      "title": "Ksenia Edwards, Author at",
+      "url": "https://holrmagazine.com/author/kseniaedwards/",
+      "snippet": "With a keen eye for detail, she specializes in showcasing the latest trends in travel, fashion, skincare, wellness, and philanthropy. Fashion.",
+      "rank_absolute": 69,
+      "rank_group": 69,
+      "result_type": "items"
+    },
+    {
+      "title": "Q&A: Getting to Know Travel Influencer Jessica Pineda -",
+      "url": "https://holrmagazine.com/getting-to-know-jessica-pineda/",
+      "snippet": "Apr 1, 2020 \u2014 What experience first sparked your passion for travelling? Well, I think my passion for travel really ignited during a cross country road trip I\u00a0...",
+      "rank_absolute": 70,
+      "rank_group": 70,
+      "result_type": "items"
+    },
+    {
+      "title": "Sara Nasso, Author at",
+      "url": "https://holrmagazine.com/author/saranasso/",
+      "snippet": "Sara Nasso ; Boston Uncovered: Exploring the City's Historic Charm and Modern Marvels with Seaport as Your Luxe Base \u00b7 Luxury TravelTravel ; Booktok Travel Guide:\u00a0...",
+      "rank_absolute": 71,
+      "rank_group": 71,
+      "result_type": "items"
+    },
+    {
+      "title": "Singapore: The Safest Travel Destination On Earth? -",
+      "url": "https://holrmagazine.com/singapore-the-safest-travel-destination-on-earth/",
+      "snippet": "Oct 21, 2020 \u2014 Safety will always be a top priority when choosing your next travel destination. This is especially true if you're travelling alone and have\u00a0...",
+      "rank_absolute": 72,
+      "rank_group": 72,
+      "result_type": "items"
+    },
+    {
+      "title": "Aneliya Vasilieva, Author at",
+      "url": "https://holrmagazine.com/author/aneliya/",
+      "snippet": "... Travel \u00b7 Trusted Travel \u00b7 Conscious Travel \u00b7 Luxury Travel \u00b7 Real Estate \u00b7 Herbalistics \u00b7 Print \u00b7 Newsroom. \u00a9 2024 HOLR Media Group. All Rights Reserved. I\u00a0...",
+      "rank_absolute": 73,
+      "rank_group": 73,
+      "result_type": "items"
+    },
+    {
+      "title": "Dana Nemirovsky, Author at",
+      "url": "https://holrmagazine.com/author/dana/",
+      "snippet": "... Travel \u00b7 Trusted Travel \u00b7 Conscious Travel \u00b7 Luxury Travel \u00b7 Real Estate \u00b7 Herbalistics \u00b7 Print \u00b7 Newsroom. Dana Nemirovsky. Zendaya\u00a0...",
+      "rank_absolute": 74,
+      "rank_group": 74,
+      "result_type": "items"
+    },
+    {
+      "title": "Videos Archives -",
+      "url": "https://holrmagazine.com/category/videos/",
+      "snippet": "... Travel \u00b7 Trusted Travel \u00b7 Conscious Travel \u00b7 Luxury Travel \u00b7 Real Estate \u00b7 Herbalistics \u00b7 Print \u00b7 Newsroom. \u00a9 2024 HOLR Media Group. All Rights Reserved. I\u00a0...",
+      "rank_absolute": 75,
+      "rank_group": 75,
+      "result_type": "items"
+    },
+    {
+      "title": "Editorial Archives -",
+      "url": "https://holrmagazine.com/category/all-editorials-that-you-will-find-inside-a-hard-copy-of-holr-magazine/",
+      "snippet": "... Travel \u00b7 Trusted Travel \u00b7 Conscious Travel \u00b7 Luxury Travel \u00b7 Real Estate \u00b7 Herbalistics \u00b7 Print \u00b7 Newsroom. \u00a9 2024 HOLR Media Group. All Rights Reserved. I\u00a0...",
+      "rank_absolute": 76,
+      "rank_group": 76,
+      "result_type": "items"
+    },
+    {
+      "title": "Ariella Aster, Author at",
+      "url": "https://holrmagazine.com/author/ariella-aster/",
+      "snippet": "... Travel \u00b7 Trusted Travel \u00b7 Conscious Travel \u00b7 Luxury Travel \u00b7 Real Estate \u00b7 Herbalistics \u00b7 Print \u00b7 Newsroom. \u00a9 2024 HOLR Media Group. All Rights Reserved. I\u00a0...",
+      "rank_absolute": 77,
+      "rank_group": 77,
+      "result_type": "items"
+    },
+    {
+      "title": "Don't Let COVID Push Your Wanderlust Down, Traveling Is ...",
+      "url": "https://holrmagazine.com/dont-let-covid-push-your-wanderlust-down-traveling-is-still-possible/?utm_source=rss&utm_medium=rss&utm_campaign=dont-let-covid-push-your-wanderlust-down-traveling-is-still-possible",
+      "snippet": "As long as you are adhering to the travel guidelines, there is no reason that you can't jet off somewhere and explore once again. We understand feeling as\u00a0...",
+      "rank_absolute": 78,
+      "rank_group": 78,
+      "result_type": "items"
+    },
+    {
+      "title": "What Is Starbucks Secret Menu 2025 -",
+      "url": "https://holrmagazine.com/what-is-starbucks-secret-menu-2025/",
+      "snippet": "Jul 22, 2025 \u2014 ... Travel \u00b7 Trusted Travel \u00b7 Conscious Travel \u00b7 Luxury Travel \u00b7 Real Estate \u00b7 Herbalistics \u00b7 Print \u00b7 Newsroom. \u00a9 2024 HOLR Media Group. All Rights\u00a0...",
+      "rank_absolute": 79,
+      "rank_group": 79,
+      "result_type": "items"
+    },
+    {
+      "title": "Visit Borneo: Guide by Photographer Emmett Sparling -",
+      "url": "https://holrmagazine.com/borneo-emmett-sparling/",
+      "snippet": "Mar 19, 2022 \u2014 A guide to visiting Borneo by Travel Photographer Emmett Sparling. Find out where to eat, where to go and what to do in Derawan Islands, Borneo.",
+      "rank_absolute": 80,
+      "rank_group": 80,
+      "result_type": "items"
+    },
+    {
+      "title": "9 Hacks For Seamless & Affordable Cross-Country Move -",
+      "url": "https://holrmagazine.com/9-hacks-for-seamless-affordable-cross-country-move/",
+      "snippet": "Jan 4, 2023 \u2014 Transport Your Car if Air Travel is Cheaper. If you're moving an especially long distance, you might want to consider alternatives to driving\u00a0...",
+      "rank_absolute": 81,
+      "rank_group": 81,
+      "result_type": "items"
+    },
+    {
+      "title": "Movie Review: Old -",
+      "url": "https://holrmagazine.com/movie-review-old/",
+      "snippet": "Aug 25, 2021 \u2014 American director M. Night Shyamalan recently released his film Old, a thriller centred around the Cappa family on a family vacation at a\u00a0...",
+      "rank_absolute": 82,
+      "rank_group": 82,
+      "result_type": "items"
+    },
+    {
+      "title": "Is Poppi Amaya Papaya Flavour Real? -",
+      "url": "https://holrmagazine.com/is-poppi-amaya-papaya-flavour-real/",
+      "snippet": "Jul 3, 2025 \u2014 Based in Toronto, Canada, Samantha covers top-trending content, with a focus on culture, fashion, travel, and beauty news. Samantha also heads\u00a0...",
+      "rank_absolute": 83,
+      "rank_group": 83,
+      "result_type": "items"
+    },
+    {
+      "title": "Rose Raha, Author at",
+      "url": "https://holrmagazine.com/author/rose-raha/",
+      "snippet": "Street Style: Jack Harlow \u00b7 Marilyn Monroe Biopic \u201cBlonde\u201d Coming Soon to Netflix \u00b7 Country Artist Luke Bell Dead at 32 \u00b7 Selling the OC: Orange County Travel ...",
+      "rank_absolute": 84,
+      "rank_group": 84,
+      "result_type": "items"
+    },
+    {
+      "title": "Canada's Updated Travel Regulations -",
+      "url": "https://holrmagazine.com/canadas-updated-travel-regulations/",
+      "snippet": "Jul 6, 2021 \u2014 The Government of Canada announced that effective July 5th fully vaccinated Canadian travellers will not have to quarantine.",
+      "rank_absolute": 85,
+      "rank_group": 85,
+      "result_type": "items"
+    },
+    {
+      "title": "GOTRAX G4: The Eco-Conscious & Affordable Travel ...",
+      "url": "https://holrmagazine.com/gotrax-g4-the-eco-conscious-affordable-travel-option/",
+      "snippet": "GOTRAX G4: The Eco-Conscious & Affordable Travel Option \u00b7 Let's face it, traveling can often be stressful. \u00b7 Since 2017, GOTRAX, a leading producer of electric\u00a0...",
+      "rank_absolute": 86,
+      "rank_group": 86,
+      "result_type": "items"
+    },
+    {
+      "title": "Work With Us -",
+      "url": "https://holrmagazine.com/work-with-us/",
+      "snippet": "... Travel \u00b7 Trusted Travel \u00b7 Conscious Travel \u00b7 Luxury Travel \u00b7 Real Estate \u00b7 Herbalistics \u00b7 Print \u00b7 Newsroom. \u00a9 2024 HOLR Media Group. All Rights Reserved. I\u00a0...",
+      "rank_absolute": 87,
+      "rank_group": 87,
+      "result_type": "items"
+    },
+    {
+      "title": "Events Archives -",
+      "url": "https://holrmagazine.com/category/events/",
+      "snippet": "... Travel \u00b7 Trusted Travel \u00b7 Conscious Travel \u00b7 Luxury Travel \u00b7 Real Estate \u00b7 Herbalistics \u00b7 Print \u00b7 Newsroom. \u00a9 2024 HOLR Media Group. All Rights Reserved. I\u00a0...",
+      "rank_absolute": 88,
+      "rank_group": 88,
+      "result_type": "items"
+    },
+    {
+      "title": "You: A NYC/LA Travel Guide -",
+      "url": "https://holrmagazine.com/you-a-nyc-la-travel-guide/",
+      "snippet": "Oct 4, 2022 \u2014 Visit the \u201cYou\u201d filming locations where ordinary surroundings met unordinary people in the series from Joe Goldberg to Love Quinn.",
+      "rank_absolute": 89,
+      "rank_group": 89,
+      "result_type": "items"
+    },
+    {
+      "title": "Vikings: Valhalla - An Ireland Travel Guide -",
+      "url": "https://holrmagazine.com/vikings-valhalla-ireland-travel-guide/",
+      "snippet": "Nov 22, 2022 \u2014 The Wicklow Mountains, a popular tourist attraction with stunning lakeside vistas and mountain peaks as high as 3,035 feet, are where some of\u00a0...",
+      "rank_absolute": 90,
+      "rank_group": 90,
+      "result_type": "items"
+    },
+    {
+      "title": "Kylie Jenner New Sprinter Soda Vodka Flavors -",
+      "url": "https://holrmagazine.com/kylie-jenner-new-sprinter-soda-vodka-flavors/",
+      "snippet": "Apr 15, 2025 \u2014 ... Travel \u00b7 Trusted Travel \u00b7 Conscious Travel \u00b7 Luxury Travel \u00b7 Real Estate \u00b7 Herbalistics \u00b7 Print \u00b7 Newsroom. \u00a9 2024 HOLR Media Group. All Rights\u00a0...",
+      "rank_absolute": 91,
+      "rank_group": 91,
+      "result_type": "items"
+    },
+    {
+      "title": "Comfort Meets Classic Style In Chocolate Brown Tieks",
+      "url": "https://holrmagazine.com/comfort-meets-classic-style-in-chocolate-brown-tieks/",
+      "snippet": "Sep 18, 2025 \u2014 You can easily slip them into your purse or travel bag, and they are the perfect solution for women on the go. The cushioned insoles and durable\u00a0...",
+      "rank_absolute": 92,
+      "rank_group": 92,
+      "result_type": "items"
+    },
+    {
+      "title": "FENDI RELEASES PET TRAVEL ACCESSORIES -",
+      "url": "https://holrmagazine.com/fendi-releases-pet-travel-accessories/",
+      "snippet": "May 24, 2021 \u2014 Even when not traveling, you can still buy these products to dress your pets. Product lines range from $290 for a dog collar up to $2,690.00 for\u00a0...",
+      "rank_absolute": 93,
+      "rank_group": 93,
+      "result_type": "items"
+    },
+    {
+      "title": "Road Trip Friendly Hair Care, Skincare and Makeup -",
+      "url": "https://holrmagazine.com/road-trip-friendly-hair-care-skincare-and-makeup/",
+      "snippet": "Jul 25, 2021 \u2014 Your go-to, travel-friendly must-haves for any road trip! It's summertime, which means it's time to plan some fun summer road trips! If you're\u00a0...",
+      "rank_absolute": 94,
+      "rank_group": 94,
+      "result_type": "items"
+    },
+    {
+      "title": "Jet-Setting Gems: Exploring Exotic Paradises for Every ...",
+      "url": "https://holrmagazine.com/jet-setting-gems-exploring-exotic-paradises-for-every-budget/",
+      "snippet": "Jan 18, 2024 \u2014 Southeast Asia stands out as an ideal travel destination for frugal travelers due to its breathtaking landscapes, vibrant cultures, and pocket-\u00a0...",
+      "rank_absolute": 95,
+      "rank_group": 95,
+      "result_type": "items"
+    },
+    {
+      "title": "Outer Banks: Travel Guide -",
+      "url": "https://holrmagazine.com/outer-banks-travel-guide/",
+      "snippet": "Sep 13, 2022 \u2014 \u201cOuter Banks\u201d is one of the most popular Netflix shows. You cannot miss the storybook scenery and settings, it is the epitome of a North Carolina dream!",
+      "rank_absolute": 96,
+      "rank_group": 96,
+      "result_type": "items"
+    },
+    {
+      "title": "Selling the OC: Orange County Travel Guide -",
+      "url": "https://holrmagazine.com/selling-the-oc-orange-county-travel-guide/",
+      "snippet": "Aug 30, 2022 \u2014 Tourists traveling to Orange County must add Las Brisas to their list of go-to restaurants for classic Southern California cuisine! Malibu Farm.",
+      "rank_absolute": 97,
+      "rank_group": 97,
+      "result_type": "items"
+    },
+    {
+      "title": "Charly Jordan: The Model, Dj and Entrepreneur Talks ...",
+      "url": "https://holrmagazine.com/charly-jordan-the-model-dj-and-entrepreneur-talks-travel-instagram-and-her-career/",
+      "snippet": "May 10, 2019 \u2014 Two of my favourite travel destinations are Hawaii and Spain. I love Hawaii for the kind-hearted people and the magical beauty that engulfs the\u00a0...",
+      "rank_absolute": 98,
+      "rank_group": 98,
+      "result_type": "items"
+    },
+    {
+      "title": "Chef Josie Clemens Game Changing Vegan Cuisine on ...",
+      "url": "https://holrmagazine.com/vegan-chef/",
+      "snippet": "Jul 2, 2021 \u2014 ... Travel \u00b7 Trusted Travel \u00b7 Conscious Travel \u00b7 Luxury Travel \u00b7 Real Estate \u00b7 Herbalistics \u00b7 Print \u00b7 Newsroom. \u00a9 2024 HOLR Media Group. All Rights\u00a0...",
+      "rank_absolute": 99,
+      "rank_group": 99,
+      "result_type": "items"
+    },
+    {
+      "title": "Dynasty: The Ultimate Travel Guide -",
+      "url": "https://holrmagazine.com/dynasty-the-ultimate-travel-guide/",
+      "snippet": "Oct 18, 2022 \u2014 The dramatic feud for control and power take place in these very filming locations. Visit them and reminisce about how the show unfolded.",
+      "rank_absolute": 100,
+      "rank_group": 100,
+      "result_type": "items"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "created_at": "2025-10-27T09:30:34Z",
+  "model": "gpt-5",
+  "order": {
+    "domain": "vegas-aces.com",
+    "anchor_keyword": "euteller casino",
+    "anchor_country": "Finland",
+    "target_url": "https://eutellerkasinot.io/euteller-kasinot/",
+    "serp_keyword": "",
+    "extra_context": ""
+  },
+  "titles": [
+    {
+      "title": "Instant Bank Transfers for Online Play: a Finland-Focused Guide",
+      "rationale": "Educates Vegas Aces readers on using bank-based payments when playing from Finland. Links naturally to the target for step-by-step details on Finland\u2019s Euteller flow, supported banks, limits, and typical processing times."
+    },
+    {
+      "title": "From Deposit to Cash Out: Faster Payout Paths in 2025 (Including Finland\u2019s Direct Bank Options)",
+      "rationale": "Explains end-to-end payment speed considerations and how instant bank rails improve withdrawals. The link adds depth with Finland-specific instructions, fees, and timelines for Euteller-enabled transactions."
+    },
+    {
+      "title": "Strong Customer Authentication and You: Navigating Secure Payments Under PSD2",
+      "rationale": "Security-forward piece that fits Vegas Aces\u2019 educational tone, showing how SCA impacts deposits and withdrawals in Europe. The link provides a concrete Finland example via Euteller, illustrating SCA steps and user experience."
+    },
+    {
+      "title": "Cards vs Bank Transfer vs Wallet: Picking a Funding Method in the Nordics",
+      "rationale": "Compares payment methods with a Nordic lens, relevant to players in Finland. The destination supports the comparison by detailing the bank-transfer route, bank compatibility, and costs through Euteller."
+    },
+    {
+      "title": "Know Your Limits: Fees, KYC, and Transfer Caps When Banking from Finland",
+      "rationale": "Practical compliance-focused angle that aligns with Vegas Aces\u2019 how-to catalog. The linked page offers granular Finland data\u2014verification flow, per-transaction caps, and settlement expectations for Euteller-powered payments."
+    }
+  ],
+  "titles_context": [
+    "Best Instant Bank Transfer Casino Sites in 2025",
+    "Best Payout Casinos Online in 2025: Play Highest Paying ...",
+    "Louisiana Toke Reports & Casino Reviews - Vegas Aces",
+    "Casino Terminology, Gambling Terms, and Betting Terms",
+    "Vegas Aces \u2014 Free Online Casino Dealer Trade School ...",
+    "10 Best Real Money Las Vegas Online Casinos in 2025",
+    "How to Spot a High-Paying Casino: Key Metrics and Red Flags",
+    "Casino Sites That Accept Credit Cards - Vegas Aces",
+    "5 Myths You've Heard About Online Casino Games",
+    "Casino Articles on the Topic: Slots - Vegas Aces",
+    "Understanding Casino Cage Operations - Vegas Aces",
+    "Fast Payout Casinos Online 2025 \u2013 Instant Withdrawals",
+    "Washington Toke Board - Vegas Aces",
+    "The Hidden Mathematics That Powers Modern Casino Favorites",
+    "AMA: How to Invent a Casino Game (Setting up LLCs)",
+    "Understanding How Prizes Work in Sweepstakes Casinos",
+    "Casino & Card Game Articles - Vegas Aces",
+    "Short vs Long Casino Games: Which Type Suits Your ...",
+    "Top Reputable Sites for Online Casino Reviews",
+    "Beat the House: Essential Casino Tactics for Beginners",
+    "Casino Surveys - Vegas Aces",
+    "Best Sweepstakes Casinos 2025 - Vegas Aces",
+    "Casino Articles on the Topic: Las Vegas",
+    "Free Casino Dealer & Game Courses | Learn to Play & Deal",
+    "What Have Online Casinos Been Doing to Prevent Players ..."
+  ],
+  "prompt_text": "Content Title Creation Brief\nObjective: craft 5 link-ready titles for https://eutellerkasinot.io/euteller-kasinot/ that feel at home on vegas-aces.com.\n\nReference SERP keyword: casino\nAnchor keyword (use only if natural): euteller casino\n\nAnchor operates in: Finland\n\nReference titles:\n- Best Instant Bank Transfer Casino Sites in 2025\n- Best Payout Casinos Online in 2025: Play Highest Paying ...\n- Louisiana Toke Reports & Casino Reviews - Vegas Aces\n- Casino Terminology, Gambling Terms, and Betting Terms\n- Vegas Aces \u2014 Free Online Casino Dealer Trade School ...\n- 10 Best Real Money Las Vegas Online Casinos in 2025\n- How to Spot a High-Paying Casino: Key Metrics and Red Flags\n- Casino Sites That Accept Credit Cards - Vegas Aces\n- 5 Myths You've Heard About Online Casino Games\n- Casino Articles on the Topic: Slots - Vegas Aces\n- Understanding Casino Cage Operations - Vegas Aces\n- Fast Payout Casinos Online 2025 \u2013 Instant Withdrawals\n- Washington Toke Board - Vegas Aces\n- The Hidden Mathematics That Powers Modern Casino Favorites\n- AMA: How to Invent a Casino Game (Setting up LLCs)\n- Understanding How Prizes Work in Sweepstakes Casinos\n- Casino & Card Game Articles - Vegas Aces\n- Short vs Long Casino Games: Which Type Suits Your ...\n- Top Reputable Sites for Online Casino Reviews\n- Beat the House: Essential Casino Tactics for Beginners\n- Casino Surveys - Vegas Aces\n- Best Sweepstakes Casinos 2025 - Vegas Aces\n- Casino Articles on the Topic: Las Vegas\n- Free Casino Dealer & Game Courses | Learn to Play & Deal\n- What Have Online Casinos Been Doing to Prevent Players ...\n\nGuidance:\n1. Combine your own knowledge of vegas-aces.com's catalog with the SERP references to surface authentic angles.\n2. Make every title feel native to vegas-aces.com while naturally justifying a link to https://eutellerkasinot.io/euteller-kasinot/.\n3. Use the anchor text only when it reads naturally inside supporting copy, never inside the title.\n4. Titles must exclude euteller casino and any casino/operator brand names entirely; reserve brand mentions for rationales.\n5. If extra notes or your knowledge indicate a placement locale, tailor the titles accordingly; otherwise keep them globally applicable while acknowledging Finland where useful.\n6. Incorporate any extra campaign notes: .\n7. Keep every title free of review or promo phrasing (e.g., avoid 'review', 'bonus', 'promo code').\n\nExamples:\n- Bad: \"Casiny online casino review\" (violates brand + review rule).\n- Good: \"Bankroll-friendly casino formats poker players can trust\" (brand-free, contextual).\n\nReturn JSON exactly as {\"titles\": [{\"title\": \"...\", \"rationale\": \"...\"}]} with 5 items.",
+  "usage": {
+    "prompt_tokens": 1016,
+    "completion_tokens": 906
+  },
+  "cost_usd": 0.07468
+}

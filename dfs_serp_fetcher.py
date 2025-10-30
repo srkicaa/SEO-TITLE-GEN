@@ -32,7 +32,7 @@ import requests
 
 DFS_BASE = "https://api.dataforseo.com/v3"
 TASK_POST_URL = f"{DFS_BASE}/serp/google/organic/task_post"
-TASK_GET_URL = f"{DFS_BASE}/serp/task_get"
+TASK_GET_URL = f"{DFS_BASE}/serp/google/organic/task_get/regular"
 TASK_LIVE_URL = f"{DFS_BASE}/serp/google/organic/live/regular"
 
 DEFAULT_LANGUAGE = "English"
@@ -40,8 +40,8 @@ DEFAULT_LOCATION = "United States"
 DEFAULT_DEVICE = "desktop"
 DEFAULT_OS = "windows"
 DEFAULT_DEPTH = 100
-DEFAULT_POLL_INTERVAL = 2.0  # seconds
-DEFAULT_MAX_ATTEMPTS = 90
+DEFAULT_POLL_INTERVAL = 5.0  # seconds; standard queue often needs several minutes
+DEFAULT_MAX_ATTEMPTS = 240  # 20 minutes total wait time by default
 
 
 class SerpFetcherError(RuntimeError):
@@ -63,6 +63,30 @@ def create_auth_header(login: str, password: str) -> Dict[str, str]:
         "Authorization": f"Basic {token}",
         "Content-Type": "application/json",
     }
+
+
+def _ensure_task_status(
+    response_json: Dict[str, Any],
+    *,
+    allowed_parent: Iterable[int],
+    allowed_task: Iterable[int],
+    context: str,
+) -> None:
+    parent_status = response_json.get("status_code")
+    if parent_status not in allowed_parent:
+        status_message = response_json.get("status_message", "unknown")
+        raise SerpFetcherError(
+            f"{context} failed: status_code={parent_status} message={status_message}"
+        )
+    tasks = response_json.get("tasks")
+    if not isinstance(tasks, list) or not tasks:
+        raise SerpFetcherError(f"{context} failed: tasks array missing")
+    task_status = tasks[0].get("status_code")
+    if task_status not in allowed_task:
+        task_message = tasks[0].get("status_message", "unknown")
+        raise SerpFetcherError(
+            f"{context} failed: task_status_code={task_status} message={task_message}"
+        )
 
 
 def post_serp_live(
@@ -97,7 +121,14 @@ def post_serp_live(
         timeout=timeout / 1000.0,
     )
     response.raise_for_status()
-    return response.json()
+    payload_json = response.json()
+    _ensure_task_status(
+        payload_json,
+        allowed_parent={20000},
+        allowed_task={20000},
+        context="Live SERP request",
+    )
+    return payload_json
 
 
 def post_serp_task(
@@ -136,7 +167,14 @@ def post_serp_task(
         timeout=timeout / 1000.0,
     )
     response.raise_for_status()
-    return response.json()
+    payload_json = response.json()
+    _ensure_task_status(
+        payload_json,
+        allowed_parent={20000},
+        allowed_task={20100},
+        context="Task POST",
+    )
+    return payload_json
 
 
 def poll_task_get(
@@ -150,7 +188,7 @@ def poll_task_get(
     for attempt in range(1, max_attempts + 1):
         try:
             response = requests.get(
-                f"{TASK_GET_URL}?id={task_id}",
+                f"{TASK_GET_URL}/{task_id}",
                 headers=headers,
                 timeout=timeout / 1000.0,
             )
