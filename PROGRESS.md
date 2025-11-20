@@ -37,6 +37,7 @@ To continue work: restart Streamlit via `streamlit run streamlit_app/app.py` and
 
 ## 2025-10-30
 - Audited both SERP fetchers and corrected all Google Organic endpoints to `/serp/google/organic/task_post` and `/serp/google/organic/task_get/regular/{id}` for Standard queue workflows; Live requests stay on `/live/regular`.
-- Increased default Standard-queue polling window (5 s interval × 240 attempts ≈ 20 min) and added explicit response validation so POST calls fail fast unless the task reports `status_code` 20100.
+- Increased default Standard-queue polling window (5 s interval × 720 attempts ≈ 60 min) and added explicit response validation so POST calls fail fast unless the task reports `status_code` 20100.
 - Captured a debug run for `primedope.com` using `python3 dfs_serp_fetcher.py --domain primedope.com --serp-keyword casino --debug`, which revealed DataForSEO returned `task_status_code=40203` (“daily money limit exceeded”), explaining the prior 40401 polls.
 - Next actions: raise/reset the daily cost ceiling in the DataForSEO dashboard, re-run the debug command to harvest POST/GET payloads after the limit resets, and share those JSON snippets with DataForSEO support if tasks still fail.
+- Drafted support inquiry outlining current Standard vs LIVE usage (`site:` operator + depth=100) and asking DataForSEO for any pricing optimizations that retain domain-scoped SERP results.

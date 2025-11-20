@@ -126,7 +126,7 @@ async function postSerpTask({
 }
 
 // 2) Poll Task GET for result readiness (Standard queue can take several minutes)
-async function pollTaskGet(taskId, { intervalMs = 5000, maxAttempts = 240 } = {}) {
+async function pollTaskGet(taskId, { intervalMs = 5000, maxAttempts = 720 } = {}) {
   for (let attempt = 1; attempt <= maxAttempts; attempt++) {
     try {
       const resp = await axios.get(`${TASK_GET_URL}/${taskId}`, { headers: HEADERS, timeout: 60000 });
@@ -259,7 +259,7 @@ function parseTaskIdFromPostResponse(postResp) {
     console.log('Task ID:', taskId);
 
     console.log('Polling Task GET for results (may take seconds to minutes)...');
-    const got = await pollTaskGet(taskId, { intervalMs: 5000, maxAttempts: 240 });
+    const got = await pollTaskGet(taskId, { intervalMs: 5000, maxAttempts: 720 });
     console.log('Task GET response (raw):', JSON.stringify(got, null, 2));
     if (got.cost !== undefined) console.log('Task cost:', got.cost);
     if (got.time) console.log('API reported time:', got.time);

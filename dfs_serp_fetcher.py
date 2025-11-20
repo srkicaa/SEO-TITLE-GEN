@@ -41,7 +41,7 @@ DEFAULT_DEVICE = "desktop"
 DEFAULT_OS = "windows"
 DEFAULT_DEPTH = 100
 DEFAULT_POLL_INTERVAL = 5.0  # seconds; standard queue often needs several minutes
-DEFAULT_MAX_ATTEMPTS = 240  # 20 minutes total wait time by default
+DEFAULT_MAX_ATTEMPTS = 720  # 60 minutes total wait time by default
 
 
 class SerpFetcherError(RuntimeError):
@@ -203,8 +203,13 @@ def poll_task_get(
                     return payload
                 if attempt == max_attempts:
                     message = task.get("status_message", "unknown status")
+                    elapsed_seconds = attempt * interval if interval > 0 else 0.0
+                    if elapsed_seconds > 0:
+                        wait_details = f"after waiting {elapsed_seconds:.0f}s (~{elapsed_seconds / 60.0:.1f}m)"
+                    else:
+                        wait_details = f"after {max_attempts} attempts"
                     raise SerpFetcherError(
-                        f"Task not ready after {max_attempts} attempts. "
+                        f"Task not ready {wait_details}. "
                         f"status_code={status_code} message={message}"
                     )
         except requests.RequestException as exc:

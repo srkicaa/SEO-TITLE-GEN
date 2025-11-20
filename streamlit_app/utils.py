@@ -11,12 +11,16 @@ import json
 import logging
 import os
 import re
+import sys
 import uuid
 from dataclasses import dataclass, field
 from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple
 from urllib.parse import urlparse
+
+# Add parent directory to path so we can import dfs_serp_fetcher
+sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from dfs_serp_fetcher import SerpFetcherError, run_fetcher  # type: ignore
 
@@ -379,8 +383,8 @@ class FetchSettings:
     device: str = "desktop"
     os: str = "windows"
     depth: int = 100
-    poll_interval: float = 2.0
-    max_attempts: int = 90
+    poll_interval: float = 5.0
+    max_attempts: int = 720  # 5s * 720 ~= 60 minutes total wait
     live: bool = False
     use_site_operator: bool = True
     default_serp_keyword: str = ""

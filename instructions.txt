@@ -12,7 +12,7 @@ App description & intention
 App name (suggested): SERP Title Analyzer
 Intention: Given a target domain and seed keyword(s), fetch Google Organic SERP (Standard queue), extract competitor page titles/snippets/URLs, deduplicate and return the top N competitor titles (N default 50). The app enables downstream tasks such as generating SEO-optimized title suggestions (via OpenAI) or doing title-quality analysis.
 Mode: Standard queue (POST task_post, then poll task_get). This is cost-efficient for batch workflows.
-Default polling now waits up to ~20 minutes (5s interval, 240 attempts) to accommodate standard queue latency; adjust via --max-attempts/--poll-interval when needed.
+Default polling now waits up to ~60 minutes (5s interval, 720 attempts) to accommodate standard queue latency; adjust via --max-attempts/--poll-interval when needed.
 Billing constraints: Google Organic is billed per 100-result blocks. You can extract/consume only the top 10/50 results in your app, but billing still applies per 100 even if you only need fewer; to fetch >100 results use depth but billing increments by 100-result blocks. See pricing page above.
 Where to get credentials: Dashboard > API Access — https://app.dataforseo.com/api-access
 Suggested prompt template for generating SEO titles (use with OpenAI or similar)
